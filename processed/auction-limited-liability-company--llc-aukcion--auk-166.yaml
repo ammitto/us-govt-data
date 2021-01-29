@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- AUCTION LIMITED LIABILITY COMPANY
+- " LLC AUKCION"
+- " AUKTSION, OOO"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU AUKTSION"
+- " AUKCION LIMITED LIABILITY COMPANY"
+source: us-govt-data
+ref_number: '18741'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: 'd.14 shosse Entuziastov   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '111024'
+documents:
+- type: Registration ID
+  number: '1027700256297'
+  country: Russia
+- type: Website
+  number: www.aukcion-sbrf.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- OJSC RUSSIAN REGIONAL DEVELOPMENT BANK
+- " RUSSIAN REGIONAL DEVELOPMENT BANK"
+- " VBRR"
+source: us-govt-data
+ref_number: '18298'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: '65/1 Suschevsky Val   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '129594'
+- street: '65 Sushchevskiy val   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '129594'
+documents:
+- type: Registration ID
+  number: '3287'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: www.vbrr.ru
+  country: 

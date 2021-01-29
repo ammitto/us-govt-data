@@ -1,0 +1,26 @@
+---
+entity_type: organization
+names:
+- RT-METALLURGIYA OAO
+- " OPEN JOINT-STOCK COMPANY RT-METALLURGIYA"
+- " RT-METALLURGY OPEN JOINT STOCK COMPANY"
+source: us-govt-data
+ref_number: '18790'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'Per. Skatertniy, D. 18   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121069'
+documents:
+- type: Tax ID No.
+  number: '7703697388'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

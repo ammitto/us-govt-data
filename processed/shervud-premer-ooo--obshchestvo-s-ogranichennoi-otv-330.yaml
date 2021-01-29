@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- SHERVUD PREMER, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'SHERVUD PREMER'"
+- " SHERVUD PREMIER OOO"
+source: us-govt-data
+ref_number: '20676'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: '8 per. Olsufevski   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119021'
+documents:
+- type: Registration ID
+  number: '1027700226707'
+  country: 
+- type: Government Gazette Number
+  number: '18470373'
+  country: 
+- type: Tax ID No.
+  number: '7716160907'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

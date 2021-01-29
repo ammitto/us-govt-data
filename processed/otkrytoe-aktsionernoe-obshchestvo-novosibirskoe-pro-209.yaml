@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKOE PROIZVODSTVENNOE OBEDINENIE LUCH
+- " NPO LUCH, OAO"
+- " JOINT STOCK COMPANY NOVOSIBIRSK PRODUCTION AMALGAMATION LUCH"
+- " FEDERALNOE GOSUDARSTVENNOE UNITARNOE PREDPRIYATIE NOVOSIBIRSKOE PROIZVODSTVENNOE
+  OB EDINENIE LUCH"
+source: us-govt-data
+ref_number: '18810'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: '32 ul. Stantsionnaya   '
+  city: Novosibirsk
+  state: Novosibirskaya obl.
+  country: Russia
+  zip: '630108'
+documents:
+- type: Registration ID
+  number: '1115476080610'
+  country: 
+- type: Tax ID No.
+  number: '5404441240'
+  country: 
+- type: Government Gazette Number
+  number: '07517605'
+  country: 
+- type: Email Address
+  number: it@luch-nsk.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

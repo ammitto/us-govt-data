@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- GAZPROM MEDIA HOLDING
+- " JSC GAZPROM-MEDIA HOLDING"
+- " JOINT-STOCK COMPANY GAZPROM-MEDIA HOLDING"
+source: us-govt-data
+ref_number: '20296'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Rochdelskaya street building 20   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '123022'
+- street: 'Krasnopresnenskaia nab. 12 CMT2 Porch 7, Floor 10 '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '123610'
+- street: 'Profsoyuznaya Street Building 125A  '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117647'
+documents:
+- type: Registration ID
+  number: '5087746018960'
+  country: 
+- type: Tax ID No.
+  number: '7728668727'
+  country: 
+- type: Website
+  number: www.gazprom-media.com
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

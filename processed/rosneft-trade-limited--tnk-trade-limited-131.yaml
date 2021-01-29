@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- ROSNEFT TRADE LIMITED
+- " TNK TRADE LIMITED"
+source: us-govt-data
+ref_number: '18300'
+ref_type: Sdn UID
+country: Cyprus
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: 'Elenion Building 5 Themistokli Dervi 2nd floor  '
+  city: Lefkosia, Nicosia
+  state: 
+  country: Cyprus
+  zip: '1066'
+documents:
+- type: Registration ID
+  number: C122790
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: hrm@rosneft-sh.com.cy
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

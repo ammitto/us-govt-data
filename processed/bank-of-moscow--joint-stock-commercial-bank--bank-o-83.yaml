@@ -1,0 +1,48 @@
+---
+entity_type: organization
+names:
+- BANK OF MOSCOW
+- " JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW, OPEN JOINT STOCK COMPANY"
+- " AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY, OTKRYTOE AKTSIONERNOE OBSCHCHESTVO"
+source: us-govt-data
+ref_number: '17017'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
+address:
+- street: '8/15 Korp. 3 ul. Rozhdestvenka   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107996'
+- street: 'Bld 3 8/15 Rozhdestvenka St.  '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107996'
+documents:
+- type: Registration ID
+  number: '1027700159497'
+  country: 
+- type: Government Gazette Number
+  number: '29292940'
+  country: 
+- type: SWIFT/BIC
+  number: MOSWRUMM
+  country: 
+- type: Website
+  number: www.bm.ru
+  country: 
+- type: Email Address
+  number: holmogorov_ss@mmbank.ru
+  country: 
+- type: Email Address
+  number: info@mmbank.ru
+  country: 
+- type: BIK (RU)
+  number: '044525219'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

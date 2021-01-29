@@ -1,0 +1,18 @@
+---
+entity_type: organization
+names:
+- Khaled Abed YAHIA
+- Khaled Said YEHIA
+source: us-govt-data
+ref_number: '9688'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1959'
+remark: HAMAS - Jenin
+address:
+- street: "   "
+  city: Jenin
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

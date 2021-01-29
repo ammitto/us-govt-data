@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- GAZKARDSERVIS OOO
+- " LIMITED LIABILITY COMPANY GAZKARDSERVIS"
+source: us-govt-data
+ref_number: '20295'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Obrucheva Street Building 27 Corpus 2 '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117630'
+documents:
+- type: Registration ID
+  number: '1027739027634'
+  country: 
+- type: Tax ID No.
+  number: '7724199506'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

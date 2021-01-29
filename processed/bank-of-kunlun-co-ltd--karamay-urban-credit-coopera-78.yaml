@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- BANK OF KUNLUN CO LTD
+- " KARAMAY URBAN CREDIT COOPERATIVES"
+- " KARAMAY CITY COMMERCIAL BANK CO LTD."
+source: us-govt-data
+ref_number: '15268'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: United States financial institutions are prohibited from opening or maintaining
+  a correspondent account or a payable-through account for the foreign financial institution
+  listed here, pursuant to 31 C.F.R. section 561.201(c)
+address:
+- street: '172 Xibin Rd Ranghulu District (Daqing, Heilongjiang Branch) '
+  city: Daqing
+  state: 
+  country: China
+  zip: '163453'
+- street: '9 Dongzhimen North Street Dongcheng District (Head Office) '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100007'
+- street: 'No. 7 Century Ave  (Registered Office) '
+  city: Xinjiang
+  state: Karamay
+  country: China
+  zip: '834000'
+- street: 'No. 68 Zhongya South Rd Economic and Technological Development Zone (Urumqi,
+    Xinjiang Branch) '
+  city: Urumqi
+  state: 
+  country: China
+  zip: '830026'
+documents:
+- type: SWIFT/BIC
+  number: CKLBCNBJ
+  country: 

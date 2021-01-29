@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM MEZHREGIONGAZ, OOO
+- " GAZPROM MEZHREGIONGAZ"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM MEZHREGIONGAZ'"
+source: us-govt-data
+ref_number: '19546'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. DOM 24 korp. LITER A nab.Admirala Lazareva   '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '197110'
+documents:
+- type: Registration ID
+  number: '1025000653930'
+  country: 
+- type: Government Gazette Number
+  number: '45138919'
+  country: 
+- type: Tax ID No.
+  number: '5003021311'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: k.seleznev@mrg.gazprom.ru
+  country: 
+- type: Website
+  number: mrg.gazprom.ru
+  country: 

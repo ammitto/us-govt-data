@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- OMZ OAO
+- " OBYEDINYONNYE MASHINOSTROITELNYE ZAVODY (GRUPPA URALMASH-IZHORA)"
+source: us-govt-data
+ref_number: '20307'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Bld. 20 Ovchinnikovskaya Emb.  '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115035'
+- street: '24 Timura Frunze Street   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119021'
+documents:
+- type: Registration ID
+  number: '1026605610800'
+  country: 
+- type: Tax ID No.
+  number: '6663059899'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.omz.ru
+  country: 

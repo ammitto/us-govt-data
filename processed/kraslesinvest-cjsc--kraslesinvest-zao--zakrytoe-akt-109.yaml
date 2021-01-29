@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- KRASLESINVEST CJSC
+- " KRASLESINVEST, ZAO"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO KRASLESINVEST"
+- " THE CLOSED JOINT-STOCK COMPANY KRASLESINVEST"
+- " CJSC KRASLESINVEST"
+source: us-govt-data
+ref_number: '18278'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: 'd. 35 A ul. Partizana Zheleznyaka   '
+  city: Krasnoyarsk
+  state: Krasnoyarski krai
+  country: Russia
+  zip: '660022'
+documents:
+- type: Public Registration Number
+  number: '1082468004574'
+  country: 
+- type: Website
+  number: kraslesinvest.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

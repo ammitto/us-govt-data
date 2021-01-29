@@ -1,0 +1,17 @@
+---
+entity_type: organization
+names:
+- Ibrahim Mohammed DAHBOUR
+source: us-govt-data
+ref_number: '9649'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1968'
+remark: 
+address:
+- street: "   "
+  city: Jenin
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

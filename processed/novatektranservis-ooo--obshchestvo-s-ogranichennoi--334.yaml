@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- NOVATEK-TRANSERVIS, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-TRANSERVIS'"
+- " OOO NOVATEK-TRANSERVICE"
+source: us-govt-data
+ref_number: '20680'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: 'D. Limbei   '
+  city: Purovski Raion
+  state: Yamalo-Nenetski Okr.
+  country: Russia
+  zip: '629880'
+documents:
+- type: Registration ID
+  number: '1036301402576'
+  country: 
+- type: Government Gazette Number
+  number: '14563310'
+  country: 
+- type: Tax ID No.
+  number: '6330024410'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: novatek-ts@ts.novatek.ru
+  country: 

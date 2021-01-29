@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- TRANSNEFT-DIASKAN, AO
+- " AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - DIASKAN'"
+- " JSC 'TRANSNEFT-DIASCAN'"
+- " JSC CTD 'DIASKAN'"
+- " OPEN JOINT-STOCK COMPANY 'CENTRE OF TECHNICAL DIAGNOSTICS'"
+source: us-govt-data
+ref_number: '22399'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '7 ul. Kuibysheva   '
+  city: Lukhovitsy
+  state: Raion Moskovskaya Obl.
+  country: Russia
+  zip: '140501'
+documents:
+- type: Government Gazette Number
+  number: '18024722'
+  country: Russia
+- type: Tax ID No.
+  number: '5072703668'
+  country: Russia
+- type: Registration ID
+  number: '1025007389527'
+  country: Russia
+- type: Website
+  number: www.diascan.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: korotkovaa@ctd.transneft.ru
+  country: 

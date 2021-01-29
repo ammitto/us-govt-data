@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- VTB BANK (AZERBAIJAN), OJSC
+- " BANK VTB (AZERBAIJAN) OJSC"
+- " JSC VTB BANK (AZERBAIJAN)"
+- " OJSC AF BANK"
+source: us-govt-data
+ref_number: '18724'
+ref_type: Sdn UID
+country: Azerbaijan
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK OAO)'
+address:
+- street: '38 Khatai ave. Nasimi district   '
+  city: Baku
+  state: 
+  country: Azerbaijan
+  zip: AZ 1008
+- street: '60, Samed Vurgun str   '
+  city: Baku
+  state: 
+  country: Azerbaijan
+  zip: '1022'
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: VTBAAZ22
+  country: 
+- type: Website
+  number: http://en.vtb.az/
+  country: 

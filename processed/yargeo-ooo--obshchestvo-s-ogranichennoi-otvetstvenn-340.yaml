@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- YARGEO, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'YARGEO'"
+- " OOO YARGEO"
+source: us-govt-data
+ref_number: '20687'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: '12/2 ul. Zvereva   '
+  city: Nadym
+  state: Yamalo-Nenetski Okr.
+  country: Russia
+  zip: '629730'
+documents:
+- type: Registration ID
+  number: '1038900502728'
+  country: 
+- type: Government Gazette Number
+  number: '71215589'
+  country: 
+- type: Tax ID No.
+  number: '8901014564'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: loskutova@yargeo.novatek.ru
+  country: 

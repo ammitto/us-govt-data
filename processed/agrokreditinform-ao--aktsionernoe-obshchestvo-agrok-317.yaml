@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- AGROKREDIT-INFORM, AO
+- " AKTSIONERNOE OBSHCHESTVO 'AGROKREDIT-INFORM'"
+- " CLOSED JOINT-STOCK COMPANY 'AGROCREDIT-INFORM'"
+source: us-govt-data
+ref_number: '20660'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: RUSSIAN AGRICULTURAL BANK)'
+address:
+- street: '3 per. Gagarinski   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119034'
+- street: '3 Gagarinsky Pereulok   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1087746334400'
+  country: 
+- type: Government Gazette Number
+  number: '85651516'
+  country: 
+- type: Tax ID No.
+  number: '7704681172'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

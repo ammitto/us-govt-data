@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM GAZOBEZOPASNOST, OOO
+- " GAZPROM GAZOBEZOPASNOST"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM GAZOBEZOPASNOST'"
+source: us-govt-data
+ref_number: '19637'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 8 korp. 1 ul.Stroitelei   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119311'
+documents:
+- type: Government Gazette Number
+  number: '23484472'
+  country: 
+- type: Tax ID No.
+  number: '5003028148'
+  country: 
+- type: Registration ID
+  number: '1025000658187'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: g.rybanova@gazbez.gazprom.ru
+  country: 
+- type: Website
+  number: gazbez.ru
+  country: 

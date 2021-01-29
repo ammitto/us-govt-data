@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- NIIGAZEKONOMIKA, OOO
+- " NIIGAZECONOMIKA"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NAUCHNOISSLEDOVATELSKI INSTITUT
+  EKONOMIKI I ORGANIZATSII UPRAVLENIYA V GAZOVOIPROMYSHLENNOSTI'"
+source: us-govt-data
+ref_number: '19470'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 20 korp. 8 ul. Staraya Basmannaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107066'
+documents:
+- type: Registration ID
+  number: '1027739345842'
+  country: 
+- type: Government Gazette Number
+  number: '47588503'
+  country: 
+- type: Tax ID No.
+  number: '7701022125'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: niigazeconomika.gazprom.ru
+  country: 
+- type: Email Address
+  number: econmg@gazprom.ru
+  country: 

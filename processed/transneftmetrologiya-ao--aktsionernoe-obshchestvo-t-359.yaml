@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- TRANSNEFT-METROLOGIYA, AO
+- " AKTSIONERNOE OBSHCHESTVO 'TRANSNEFTMETROLOGIYA'"
+- " CJSC 'CENTRE MO'"
+- " CLOSED JOINT-STOCK COMPANY 'CENTRE OF METROLOGICAL PROVISION'"
+source: us-govt-data
+ref_number: '22401'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: 'd. 16 korp. 1 ul. Dobrolyubova   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127254'
+documents:
+- type: Government Gazette Number
+  number: '42771562'
+  country: Russia
+- type: Tax ID No.
+  number: '7723107453'
+  country: Russia
+- type: Registration ID
+  number: '1037739028491'
+  country: Russia
+- type: Email Address
+  number: chernyshovi@cmo.transneft.ru
+  country: 
+- type: Website
+  number: centermo.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

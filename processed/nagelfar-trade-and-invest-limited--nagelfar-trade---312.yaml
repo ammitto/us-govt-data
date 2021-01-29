@@ -1,0 +1,27 @@
+---
+entity_type: organization
+names:
+- NAGELFAR TRADE AND INVEST LIMITED
+- " NAGELFAR TRADE & INVEST LIMITED"
+source: us-govt-data
+ref_number: '20318'
+ref_type: Sdn UID
+country: Virgin Islands, British
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Trident Chambers Road Town PO Box 146 '
+  city: Tortola
+  state: 
+  country: Virgin Islands, British
+  zip: 
+- street: 'Agias Zonis, 50 Arianthi Court 2nd floor '
+  city: Limassol
+  state: 
+  country: Cyprus
+  zip: '3090'
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- CETELEM BANK LIMITED LIABILITY COMPANY
+- " CETELEM BANK LLC"
+- " SETELEM BANK OOO"
+- " SETELEM BANK OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU"
+- " KOMMERCHESKI BANK UKRSIBBANK OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU"
+source: us-govt-data
+ref_number: '18710'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: '26 ul. Pravdy   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '125040'
+documents:
+- type: Registration ID
+  number: '1027739664260'
+  country: Russia
+- type: Website
+  number: www.cetelem.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: CETBRUMM
+  country: 

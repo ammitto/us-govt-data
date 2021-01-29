@@ -1,0 +1,49 @@
+---
+entity_type: organization
+names:
+- VERTOLETY ROSSII AO
+- " RUSSIAN HELICOPTERS JOINT STOCK COMPANY"
+- " OPEN JOINT STOCK COMPANY RUSSIAN HELICOPTERS"
+- " VERTOLETY ROSSII"
+source: us-govt-data
+ref_number: '18820'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: '12 Krasnopresnenskaya naberezhnaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '123610'
+- street: 'Entrance 9, 12, Krasnopresnenskaya emb.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '123610'
+- street: 'podezd 9, etazh 21 12 Krasnopresnenskaya nab.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '123610'
+documents:
+- type: Government Gazette Number
+  number: '98927243'
+  country: 
+- type: Tax ID No.
+  number: '7731559044'
+  country: 
+- type: Registration ID
+  number: '1077746003334'
+  country: 
+- type: Website
+  number: www.russianhelicopters.aero
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Email Address
+  number: info@rus-helicopters.com
+  country: 

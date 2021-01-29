@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- DALTRANSGAZ, OAO
+- " DALTRANSGAZ"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'DALTRANSGAZ'"
+source: us-govt-data
+ref_number: '19688'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 1 ul.Solnechnaya  S. Ilinka   '
+  city: 
+  state: Khabarovski Raion Khabarovski krai
+  country: Russia
+  zip: '680509'
+documents:
+- type: Government Gazette Number
+  number: '54545960'
+  country: 
+- type: Registration ID
+  number: '1032700295650'
+  country: 
+- type: Tax ID No.
+  number: '6500000930'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: www.daltransgaz.ru
+  country: 
+- type: Email Address
+  number: A.Podojjnicyna@khb.gtt.gazprom.ru
+  country: 

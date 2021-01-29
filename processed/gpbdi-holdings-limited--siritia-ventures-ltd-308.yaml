@@ -1,0 +1,25 @@
+---
+entity_type: organization
+names:
+- GPB-DI HOLDINGS LIMITED
+- " SIRITIA VENTURES LTD"
+source: us-govt-data
+ref_number: '20314'
+ref_type: Sdn UID
+country: Cyprus
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: '1 Lampousas   '
+  city: Nicosia
+  state: 
+  country: Cyprus
+  zip: '1095'
+documents:
+- type: Registration ID
+  number: HE 145737
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

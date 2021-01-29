@@ -1,0 +1,18 @@
+---
+entity_type: organization
+names:
+- Marwan Mohammed ABU RAS
+- Merwan Muhammed ABOU RAAS
+source: us-govt-data
+ref_number: '9662'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1958'
+remark: 
+address:
+- street: "   "
+  city: Gaza City
+  state: Gaza
+  country: Palestinian
+  zip: 
+documents: []

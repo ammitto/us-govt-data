@@ -1,0 +1,27 @@
+---
+entity_type: organization
+names:
+- AUTOMATED BANKING TECHNOLOGIES CJSC
+- " CJSC 'AUTOMATED BANKING TECHNOLOGIES'"
+- " ZAO 'AVTOMATIZIROVANNIY BANKOVSKIY TECHNOLOGII'"
+- " JOINT STOCK COMPANY 'AVTOMATIZIROVANNYYEE BANKOVSKIYE TEKHNOLOGII'"
+source: us-govt-data
+ref_number: '20009'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: 'Street Pushechnaya, D. 5, G.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107031'
+documents:
+- type: Tax ID No.
+  number: '7702026595'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

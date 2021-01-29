@@ -1,0 +1,18 @@
+---
+entity_type: organization
+names:
+- Muna Salim Saleh MANSOUR
+- Muna Salem MANSOUR
+source: us-govt-data
+ref_number: '9655'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1961'
+remark: 
+address:
+- street: "   "
+  city: Nablus
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

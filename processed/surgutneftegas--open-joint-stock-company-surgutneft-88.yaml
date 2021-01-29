@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- SURGUTNEFTEGAS
+- " OPEN JOINT STOCK COMPANY SURGUTNEFTEGAS"
+- " SURGUTNEFTEGAZ OAO"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO SURGUTNEFTEGAZ"
+- " SURGUTNEFTEGAS OJSC"
+- " SURGUTNEFTEGAS OAO"
+source: us-govt-data
+ref_number: '17145'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
+address:
+- street: 'ul. Grigoriya Kukuyevitskogo, 1 bld. 1 Khanty-Mansiysky Autonomous Okrug
+    - Yugra '
+  city: the city of Surgut
+  state: Tyumenskaya Oblast
+  country: Russia
+  zip: '628415'
+- street: 'korp. 1 1 Grigoriya Kukuevitskogo ul.   '
+  city: Surgut
+  state: Tyumenskaya oblast
+  country: Russia
+  zip: '628404'
+- street: 'Street Kukuevitskogo 1   '
+  city: Surgut
+  state: Tyumen Region
+  country: Russia
+  zip: '628415'
+documents:
+- type: Email Address
+  number: secretary@surgutneftegas.ru
+  country: 
+- type: Website
+  number: www.surgutneftegas.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

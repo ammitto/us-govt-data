@@ -1,0 +1,18 @@
+---
+entity_type: organization
+names:
+- Sayyed Salem ABU MSAMEH
+- Sayed Salem ABU MUSAMEH
+source: us-govt-data
+ref_number: '9661'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1948'
+remark: 
+address:
+- street: "   "
+  city: Rafah
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

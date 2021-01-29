@@ -1,0 +1,33 @@
+---
+entity_type: organization
+names:
+- RUSSIAN DIRECT INVESTMENT FUND MANAGEMENT COMPANY
+- " LIMITED LIABILITY COMPANY RDIF MANAGEMENT COMPANY"
+- " RDIF MANAGEMENT COMPANY LLC"
+- " UK RFPI, OOO"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU UPRAVLYAYUSHCHAYA KOMPANIYA RFPI"
+- " MANAGEMENT COMPANY RDIF LLC"
+- " RDIF MANAGEMENT COMPANY"
+source: us-govt-data
+ref_number: '18279'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: 'd. 9 prospekt Akademika Sakharova   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107996'
+documents:
+- type: Public Registration Number
+  number: '1117746429371'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: rdif.ru
+  country: 

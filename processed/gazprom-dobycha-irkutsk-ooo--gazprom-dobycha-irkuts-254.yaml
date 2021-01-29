@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM DOBYCHA IRKUTSK, OOO
+- " GAZPROM DOBYCHA IRKUTSK"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM DOBYCHA IRKUTSK'"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO IRKUTSKGAZPROM"
+source: us-govt-data
+ref_number: '19672'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.14 ul.Nizhnyaya Naberezhnaya   '
+  city: Irkutsk
+  state: Irkutskaya obl
+  country: Russia
+  zip: '664011'
+documents:
+- type: Registration ID
+  number: '1073812008731'
+  country: 
+- type: Government Gazette Number
+  number: '53371127'
+  country: 
+- type: Tax ID No.
+  number: '3812100646'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: mail@irkgazprom.irk.ru
+  country: 
+- type: Website
+  number: Irkutsk-dobycha.gazprom.ru
+  country: 

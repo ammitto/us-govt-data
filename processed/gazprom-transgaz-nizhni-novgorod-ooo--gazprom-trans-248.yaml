@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM TRANSGAZ NIZHNI NOVGOROD, OOO
+- " GAZPROM TRANSGAZ NIZHNY NOVGOROD"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TRANSGAZ NIZHNI NOVGOROD'"
+source: us-govt-data
+ref_number: '19649'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.11 ul.Zvezdinka   '
+  city: Nizhni Novgorod
+  state: Nizhegorodskaya obl.
+  country: Russia
+  zip: '603950'
+documents:
+- type: Tax ID No.
+  number: '5260080007'
+  country: 
+- type: Registration ID
+  number: '1025203016332'
+  country: 
+- type: Government Gazette Number
+  number: '04864329'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: n-novgorod-tr.gazprom.ru
+  country: 
+- type: Email Address
+  number: ceo@vtg.gazprom.ru
+  country: 

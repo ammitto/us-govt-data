@@ -1,0 +1,17 @@
+---
+entity_type: organization
+names:
+- Mariam Mahmoud SALEH
+source: us-govt-data
+ref_number: '9650'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1952'
+remark: 
+address:
+- street: "   "
+  city: Ramallah
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

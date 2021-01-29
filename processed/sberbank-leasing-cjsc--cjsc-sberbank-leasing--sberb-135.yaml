@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- SBERBANK LEASING CJSC
+- " CJSC SBERBANK LEASING"
+- " SBERBANK LEASING ZAO"
+- " SBERBANK LIZING ZAKRYTOE AKTSIONERNOE OBSHCHESTVO"
+- " SBERBANK LEASING JOINT STOCK COMPANY"
+- " RUSSKO-GERMANSKAYA LIZINGOVAYA KOMPANIYA ZAO"
+source: us-govt-data
+ref_number: '18709'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: "   "
+  city: 
+  state: 
+  country: Russia
+  zip: 
+- street: '6 Vorobievskoe shosse   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119285'
+documents:
+- type: Registration ID
+  number: '1027739000728'
+  country: Russia
+- type: Website
+  number: www.sberleasing.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

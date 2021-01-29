@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- OTKRYTOE AKTSIONERNOE OBSHCHESTVO KALINOVSKI KHIMICHESKI ZAVOD
+- " KKHZ, OAO"
+- " KALINOVO CHEMICAL PLANT OPEN JOINT STOCK COMPANY"
+- " OPEN JOINT-STOCK COMPANY KALINOVSKIY KHIMICHESKIY ZAVOD"
+- " AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA KALINOVSKI KHIMICHEKI ZAVOD"
+source: us-govt-data
+ref_number: '18814'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'd. 8 ul. Lenina P Kalinovo   '
+  city: Nevyanski Raion
+  state: Sverdlovskaya obl.
+  country: Russia
+  zip: '624186'
+documents:
+- type: Government Gazette Number
+  number: '07511005'
+  country: 
+- type: Tax ID No.
+  number: '6621001262'
+  country: 
+- type: Registration ID
+  number: '1026601326597'
+  country: 
+- type: Website
+  number: http://www.kcplant.ru/
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Email Address
+  number: kcp@uraltc.ru
+  country: 

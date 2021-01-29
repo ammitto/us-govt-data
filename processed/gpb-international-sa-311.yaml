@@ -1,0 +1,27 @@
+---
+entity_type: organization
+names:
+- GPB INTERNATIONAL SA
+source: us-govt-data
+ref_number: '20317'
+ref_type: Sdn UID
+country: Luxembourg
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: '8-10 rue Mathias Hardt  '
+  city: Luxembourg
+  state: 
+  country: Luxembourg
+  zip: '1717'
+documents:
+- type: Registration ID
+  number: B178974
+  country: 
+- type: Website
+  number: http://www.gazprombank.ru/eng/group/banks/299515/
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

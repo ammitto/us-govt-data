@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- LADOZHSKI ELEVATOR, OAO
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'LADOZHSKI ELEVATOR'"
+- " OAO 'LADOZHSKI ELEVATOR'"
+- " OPEN JOINT STOCK COMPANY 'LADOGSKIY ELEVATOR'"
+- " AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA LADOZHSKI ELEVATOR"
+source: us-govt-data
+ref_number: '20665'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: RUSSIAN AGRICULTURAL BANK)'
+address:
+- street: '115 ul. Konshinykh Stanitsa Ladozhskaya   '
+  city: Ust-Labinski Raion
+  state: Krasnodarski Kr.
+  country: Russia
+  zip: '352320'
+- street: '115 Konshinykh Str.   '
+  city: Ladogskaya Village, Ust-Labinskiy District
+  state: Krasnodar Region
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1022304972029'
+  country: 
+- type: Government Gazette Number
+  number: '26370125'
+  country: 
+- type: Tax ID No.
+  number: '2356007563'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

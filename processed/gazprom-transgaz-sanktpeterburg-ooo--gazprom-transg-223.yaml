@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM TRANSGAZ SANKT-PETERBURG, OOO
+- " GAZPROM TRANSGAZ SAINT PETERSBURG"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TRANSGAZ SANKT-PETERBURG'"
+source: us-govt-data
+ref_number: '19471'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: '3 korp.2 ul.Varshavskaya   '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '196128'
+documents:
+- type: Tax ID No.
+  number: '7805018099'
+  country: 
+- type: Registration ID
+  number: '1027804862755'
+  country: 
+- type: Government Gazette Number
+  number: '00154312'
+  country: 
+- type: Email Address
+  number: gfokin@spb.ltg.gazprom.ru
+  country: 
+- type: Website
+  number: www.spb-tr.gazprom.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

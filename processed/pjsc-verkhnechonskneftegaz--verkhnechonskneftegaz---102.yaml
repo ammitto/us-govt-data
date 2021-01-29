@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- PJSC VERKHNECHONSKNEFTEGAZ
+- " VERKHNECHONSKNEFTEGAZ"
+- " OJSC VERKHNECHONSKNEFTEGAZ"
+source: us-govt-data
+ref_number: '18271'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: 'Baikalskaya St., 295 B   '
+  city: Irkutsk
+  state: 
+  country: Russia
+  zip: '664050'
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: vcng@rosneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

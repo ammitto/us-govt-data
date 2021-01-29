@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM INVEST, OOO
+- " GAZPROM INVEST"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM INVEST'"
+source: us-govt-data
+ref_number: '19640'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 6 litera D ul.Startovaya   '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '196210'
+documents:
+- type: Government Gazette Number
+  number: '82129203'
+  country: 
+- type: Tax ID No.
+  number: '7810483334'
+  country: 
+- type: Registration ID
+  number: '1077847507759'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: izelentsov@zapad-invest.gazprom.ru
+  country: 
+- type: Website
+  number: zapad-invest.gazprom.ru
+  country: 

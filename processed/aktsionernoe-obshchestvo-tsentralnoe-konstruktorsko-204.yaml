@@ -1,0 +1,50 @@
+---
+entity_type: organization
+names:
+- AKTSIONERNOE OBSHCHESTVO TSENTRALNOE KONSTRUKTORSKOE BYURO SPETSIALNYKH RADIOMATERIALOV
+- " TSKB RM, AO"
+- " OPEN JOINT-STOCK COMPANY CENTRAL DESIGN OFFICE OF RADIOMATERIALS"
+- " CENTRAL DESIGN BUREAU OF SPECIAL RADIO MATERIALS OPEN JOINT STOCK COMPANY"
+- " OPEN JOINT STOCK COMPANY TSENTRALNOYE KONSTRUKTORSKOYE BYURO SPETSIALNYKH RADIOMATERIALOV"
+- " FEDERALNOE GOSUDARSTVENNOE UNITARNOE PREDPRIYATIE TSENTRALNOE KONSTRUKTORSKOE
+  BYURO SPETSIALNYKH RADIOMATERIALOV"
+source: us-govt-data
+ref_number: '18793'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'd.125b shosse Varshavskoe   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117587'
+- street: 'Pr. Krasnokazarmenniy, D. 14 A, Bldg. 19   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1077746102060'
+  country: 
+- type: Government Gazette Number
+  number: '07550073'
+  country: 
+- type: Tax ID No.
+  number: '7722599844'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Website
+  number: http://ckbrm.ru
+  country: 
+- type: Email Address
+  number: ckbrm@nm.ru
+  country: 
+- type: Website
+  number: www.ckbrm.nm.ru
+  country: 

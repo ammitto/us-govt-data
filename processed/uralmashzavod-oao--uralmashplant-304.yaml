@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- URALMASHZAVOD OAO
+- " URALMASHPLANT"
+source: us-govt-data
+ref_number: '20309'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Pl. Pervoi Pyatiletki   '
+  city: Ekaterinburg
+  state: 
+  country: Russia
+  zip: '620012'
+documents:
+- type: Registration ID
+  number: '1026605620689'
+  country: 
+- type: Tax ID No.
+  number: '6663005798'
+  country: 
+- type: Website
+  number: www.uralmash.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

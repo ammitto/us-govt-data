@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- SURGUTMEBEL OOO
+- " SURGUTMEBEL, LLC"
+- " LLC SURGUTMEBEL"
+- " LLC SYRGUTMEBEL"
+- " LIMITED LIABILITY COMPANY SYRGUTMEBEL"
+source: us-govt-data
+ref_number: '23554'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: 'Vostochnaya Industrial 1 Territory 2 Poselok Barsovo Surgutsky District '
+  city: Yugra
+  state: Khanty-Mansiysky Autonomous Okrug
+  country: Russia
+  zip: 
+documents:
+- type: Tax ID No.
+  number: '8617013396'
+  country: Russia
+- type: Registration ID
+  number: '1028601679688'
+  country: Russia
+- type: Email Address
+  number: realsbt@surgutneftegaz.ru
+  country: 
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: http://surgutmebel.ru
+  country: 

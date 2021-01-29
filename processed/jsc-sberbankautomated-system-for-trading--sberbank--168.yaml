@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- JSC SBERBANK-AUTOMATED SYSTEM FOR TRADING
+- " SBERBANK - AUTOMATED TRADING SYSTEM CLOSED JOINT-STOCK COMPANY"
+- " SBERBANK-AST, ZAO"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO SBERBANKAVTOMATIZIROVANNAYA SISTEMA TORGOV"
+- " JOINT STOCK COMPANY SBERBANK-AUTOMATED SYSTEM FOR TRADING"
+source: us-govt-data
+ref_number: '18743'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: 'd. 24 str. 2 ul. Novoslobodskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127055'
+documents:
+- type: Registration ID
+  number: '1027707000441'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.sberbank-ast.ru
+  country: 

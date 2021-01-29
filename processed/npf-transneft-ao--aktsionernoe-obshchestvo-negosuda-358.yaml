@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- NPF TRANSNEFT, AO
+- " AKTSIONERNOE OBSHCHESTVO 'NEGOSUDARSTVENNY PENSIONNY FOND 'TRANSNEFT'"
+source: us-govt-data
+ref_number: '22400'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: 'd. 5/7 str. 2, 3 ul. Shchipok   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115054'
+documents:
+- type: Government Gazette Number
+  number: '54769346'
+  country: Russia
+- type: Tax ID No.
+  number: '9705044356'
+  country: Russia
+- type: Registration ID
+  number: '1157700011017'
+  country: Russia
+- type: Email Address
+  number: mail@npf-transneft.ru
+  country: 
+- type: Website
+  number: npf-transneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

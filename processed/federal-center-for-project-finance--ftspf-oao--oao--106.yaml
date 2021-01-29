@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- FEDERAL CENTER FOR PROJECT FINANCE
+- " FTSPF, OAO"
+- " OAO FEDERALNY TSENTR PROEKTNOGO FINANSIROVANIYA"
+- " FCPF"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO FEDERALNY CENTR PROEKTNOGO FINANSIROVANIYA"
+source: us-govt-data
+ref_number: '18275'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: 'd. 14 prospekt Olimpiski   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '129090'
+documents:
+- type: Public Registration Number
+  number: '1027739088410'
+  country: 
+- type: Website
+  number: fcpf.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

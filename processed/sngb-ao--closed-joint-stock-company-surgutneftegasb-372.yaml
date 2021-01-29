@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- SNGB AO
+- " CLOSED JOINT STOCK COMPANY SURGUTNEFTEGASBANK (ZAO SNGB)"
+- " JOINT STOCK COMPANY SURGUTNEFTEGASBANK"
+- " JSC BANK SNGB"
+source: us-govt-data
+ref_number: '23577'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: '19 Kukuyevitskogo Street   '
+  city: Surgut
+  state: 
+  country: Russia
+  zip: '628400'
+documents:
+- type: Registration ID
+  number: '1028600001792'
+  country: Russia
+- type: Tax ID No.
+  number: '8602190258'
+  country: Russia
+- type: Website
+  number: www.sngb.ru
+  country: 
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

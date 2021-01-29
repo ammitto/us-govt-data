@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- VTB INSURANCE LIMITED
+- " VTB STRAKHOVANIE STRAKHOVAYA KOMPANIYA OOO"
+- " VTB STRAKHOVANIE SK OOO"
+- " INSURANCE COMPANY VTB-INSURANCE, LTD"
+- " INSURANCE COMPANY VTB-INSURANCE LIMITED"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVOI KAPITAL"
+source: us-govt-data
+ref_number: '18732'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK OAO)'
+address:
+- street: 'str. 1 8 Chistoprudnyy bulvar   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '101000'
+documents:
+- type: Registration ID
+  number: '1027700462514'
+  country: Russia
+- type: Website
+  number: www.vtbins.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- BELOGLINSKI ELEVATOR, OAO
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'BELOGLINSKI ELEVATOR'"
+- " OAO 'BELOGLINSKI ELEVATOR'"
+- " OPEN JOINT STOCK COMPANY 'BELOGLINSKIY ELEVATOR'"
+- " AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA BELOGLINSKI ELEVATOR"
+source: us-govt-data
+ref_number: '20662'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: RUSSIAN AGRICULTURAL BANK)'
+address:
+- street: '1 ul. Privokzalnaya S. Belaya Glina   '
+  city: Beloglinski Raion
+  state: Krasnodarski Kr.
+  country: Russia
+  zip: '353040'
+- street: '1 Privokzalnaya Str.   '
+  city: Belaya Glina Village, Leningradsky District
+  state: Krasnodar Region
+  country: Russia
+  zip: 
+documents:
+- type: Government Gazette Number
+  number: '00940482'
+  country: 
+- type: Tax ID No.
+  number: '2326002180'
+  country: 
+- type: Registration ID
+  number: '1022303499074'
+  country: 
+- type: Email Address
+  number: belnep00@mail.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

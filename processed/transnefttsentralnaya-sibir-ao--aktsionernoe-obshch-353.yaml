@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- TRANSNEFT-TSENTRALNAYA SIBIR, AO
+- " AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - TSENTRALNAYA SIBIR'"
+- " JSC 'TSENTRSIBNEFTEPROVOD'"
+- " OPEN JOINT-STOCK COMPANY 'OIL TRUNK PIPELINES OF CENTRAL SIBERIA'"
+source: us-govt-data
+ref_number: '22395'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '24 ul. Naberezhnaya Reki Ushaiki   '
+  city: Tomsk
+  state: Tomskaya Obl.
+  country: Russia
+  zip: '634050'
+documents:
+- type: Government Gazette Number
+  number: '00139181'
+  country: Russia
+- type: Tax ID No.
+  number: '7017004366'
+  country: Russia
+- type: Registration ID
+  number: '1027000867101'
+  country: Russia
+- type: Email Address
+  number: bagamanovmn@tom.transneft.ru
+  country: 
+- type: Website
+  number: csib.tomsk.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- GAZPROMBANK LEASING ZAO
+- " CLOSED JOINT-STOCK COMPANY GAZPROMBANK LIZING"
+source: us-govt-data
+ref_number: '20297'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Proektiruyemiy proezd No 4062 building 6, structure 16, BTs ''Port Plaza''  '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115432'
+- street: 'D.40 Ulitsa Miklukho-Maklaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117342'
+documents:
+- type: Tax ID No.
+  number: '7728294503'
+  country: 
+- type: Registration ID
+  number: '1037728033606'
+  country: 
+- type: Website
+  number: www.gpbl.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- BM-DIREKTSIYA, OOO
+- " BM DIREKTSIYA LLC"
+- " LIMITED LIABILITY COMPANY 'BM-DIREKTSIYA'"
+- " OOO 'BM-DIREKTSIYA'"
+- " OBSHCHESTVO S ORGANICHENNOI OTVETSTVENNOSTYU 'BM-DIREKTSIYA'"
+source: us-govt-data
+ref_number: '20007'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: '8/15 str. 3 ul. Rozhdestvenka   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107996'
+documents:
+- type: Registration ID
+  number: '1117746628185'
+  country: 
+- type: Government Gazette Number
+  number: '30162881'
+  country: 
+- type: Tax ID No.
+  number: '7702768727'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

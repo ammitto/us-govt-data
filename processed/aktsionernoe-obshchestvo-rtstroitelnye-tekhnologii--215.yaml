@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- AKTSIONERNOE OBSHCHESTVO RT-STROITELNYE TEKHNOLOGII
+- " RT-STROITELNYE TEKHNOLOGII, AO"
+- " RT-STROITELNYE TECHNOLOGIES OAO"
+- " OPEN JOINT-STOCK COMPANY RT-STROITELNYYE TEKHNOLOGII"
+- " JOINT STOCK COMPANY RT-CONSTRUCTION TECHNOLOGIES"
+source: us-govt-data
+ref_number: '18816'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'd. 2 korp., 4 str., 16 kv., 6 per. Bolshoi Savvinski   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119435'
+documents:
+- type: Government Gazette Number
+  number: '61771160'
+  country: 
+- type: Tax ID No.
+  number: '7704727853'
+  country: 
+- type: Registration ID
+  number: '1097746324400'
+  country: 
+- type: Email Address
+  number: chernyakova-st@stroytech-rt.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

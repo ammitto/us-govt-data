@@ -1,0 +1,18 @@
+---
+entity_type: organization
+names:
+- Yahia Abdul Aziz AL-ABADSAH
+- Yehia Abdul Aziz EL ABADSA
+source: us-govt-data
+ref_number: '9656'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1958'
+remark: 
+address:
+- street: "   "
+  city: Khan Younis
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

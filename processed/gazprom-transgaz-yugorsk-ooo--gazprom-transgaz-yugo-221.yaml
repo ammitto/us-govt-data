@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM TRANSGAZ YUGORSK, OOO
+- " GAZPROM TRANSGAZ YUGORSK"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TRANSGAZ YUGORSK'"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU TYUMENTRANSGAZ"
+source: us-govt-data
+ref_number: '19469'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.15 ul.Mira   '
+  city: Yugorsk
+  state: Khanty-Mansiski Avtonomny okrug, Yugra a.o.
+  country: Russia
+  zip: '628260'
+documents:
+- type: Registration ID
+  number: '1028601843918'
+  country: 
+- type: Tax ID No.
+  number: '8622000931'
+  country: 
+- type: Government Gazette Number
+  number: '00154223'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: KANS1@TTG.GAZPROM.RU
+  country: 
+- type: Website
+  number: www.gazprom-transgaz-yugorsk.ru
+  country: 

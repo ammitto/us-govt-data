@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM DOBYCHA NADYM, OOO
+- " GAZPROM DOBYCHA NADYM"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM DOBYCHA NADYM'"
+source: us-govt-data
+ref_number: '19544'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.1 ul.Zvereva   '
+  city: Nadym
+  state: Yamalo-Nenetski a.o.
+  country: Russia
+  zip: '629730'
+documents:
+- type: Registration ID
+  number: '1028900578080'
+  country: 
+- type: Government Gazette Number
+  number: '00153761'
+  country: 
+- type: Tax ID No.
+  number: '8903019871'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: MANAGER@ONGP.RU
+  country: 
+- type: Website
+  number: nadymdobycha.gazprom.ru
+  country: 

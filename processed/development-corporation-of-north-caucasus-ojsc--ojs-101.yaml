@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- DEVELOPMENT CORPORATION OF NORTH CAUCASUS OJSC
+- " OJSC NORTH CAUCASUS DEVELOPMENT CORPORATION"
+- " OPEN JOINT-STOCK COMPANY NORTH CAUCASUS DEVELOPMENT CORPORATION"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO KORPORATSIYA RAZVITIYA SEVERNOGO KAVKAZA"
+- " KRSK, OAO"
+source: us-govt-data
+ref_number: '18270'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: 'd. 139 ul. Pyatigorskaya Essentuki   '
+  city: Stavropolski krai
+  state: 
+  country: Russia
+  zip: '357625'
+documents:
+- type: Public Registration Number
+  number: '1102632003253'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: krskfo.ru
+  country: 

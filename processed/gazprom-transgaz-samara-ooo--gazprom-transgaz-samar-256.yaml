@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM TRANSGAZ SAMARA, OOO
+- " GAZPROM TRANSGAZ SAMARA"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TRANSGAZ SAMARA'"
+source: us-govt-data
+ref_number: '19674'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 106 A str. 1 ul.Novo-Sadovaya   '
+  city: Samara
+  state: Samarskaya obl.
+  country: Russia
+  zip: '443068'
+documents:
+- type: Registration ID
+  number: '1026300956505'
+  country: 
+- type: Government Gazette Number
+  number: '00154306'
+  country: 
+- type: Tax ID No.
+  number: '6315000291'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: samara-tr.gazprom.ru
+  country: 
+- type: Email Address
+  number: oppt@samaratransgaz.gazprom.ru
+  country: 

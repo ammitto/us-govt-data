@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- TSUP VSTO, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'TSENTR UPRAVLENIYA PROEKTOM 'VOSTOCHNAYA
+  SIBIR - TIKHI OKEAN'"
+- " LLC TSUP VSTO"
+- " LIMITED LIABILITY COMPANY 'CENTRE OF MANAGEMENT OF THE PROJECT EASTERN SIBERIA-PACIFIC
+  OCEAN'"
+source: us-govt-data
+ref_number: '22394'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '2-B ul. Gorkogo   '
+  city: Angarsk
+  state: Irkutskaya Obl.
+  country: Russia
+  zip: '665830'
+documents:
+- type: Government Gazette Number
+  number: '77642401'
+  country: Russia
+- type: Tax ID No.
+  number: '3801079270'
+  country: Russia
+- type: Registration ID
+  number: '1053801124519'
+  country: Russia
+- type: Website
+  number: cupvsto.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

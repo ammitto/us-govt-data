@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- SBERBANK TECHNOLOGIES CLOSED JOINT STOCK COMPANY
+- " CJSC SBERBANK-TECHNOLOGY"
+- " SBERTEKH, ZAO"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO SBERBANK -TEKHNOLOGII"
+- " CLOSED JOINT STOCK COMPANY SBERBANK - TECHNOLOGY"
+source: us-govt-data
+ref_number: '18746'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: 'd.10 nab.Novodanilovskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117105'
+documents:
+- type: Registration ID
+  number: '1117746533926'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

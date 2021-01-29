@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- NOVGORODNEFTEPRODUKT OOO
+- " LLC NOVGORODNEFTEPRODUCT"
+- " NOVGORODNEFTEPRODUKT LLC"
+- " LIMITED LIABILITY COMPANY NOVGORODNEFTEPRODUCT"
+source: us-govt-data
+ref_number: '23562'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: 'd. 20 Germana Ulitsa   '
+  city: Veliky Novgorod
+  state: Novgorodskaya Oblast
+  country: Russia
+  zip: '173002'
+documents:
+- type: Registration ID
+  number: '1025300788644'
+  country: Russia
+- type: Tax ID No.
+  number: '5321059365'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: office@nnp.surgutneftegas.ru
+  country: 
+- type: Nationality of Registration
+  number: Russia
+  country: 

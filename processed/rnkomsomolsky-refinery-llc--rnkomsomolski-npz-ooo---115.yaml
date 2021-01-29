@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- RN-KOMSOMOLSKY REFINERY LLC
+- " RN-KOMSOMOLSKI NPZ OOO"
+- " KOMSOMOLSK REFINERY"
+- " LLC RN-KOMSOMOLSK REFINERY"
+source: us-govt-data
+ref_number: '18284'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: '115 Leningradskaya st.   '
+  city: Komsomolsk-on-Amur
+  state: Khabarovsk region
+  country: Russia
+  zip: '681007'
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: knpz@rosneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

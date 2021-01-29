@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM GEOLOGORAZVEDKA, OOO
+- " GAZPROM GEOLOGORAZVEDKA"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM GEOLOGORAZVEDKA'"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU GAZPROM DOBYCHA KRASNOYARSK"
+source: us-govt-data
+ref_number: '19678'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.70 ul.Gertsena   '
+  city: Tyumen
+  state: Tyumenskaya obl.
+  country: Russia
+  zip: '625000'
+documents:
+- type: Registration ID
+  number: '1042401809560'
+  country: 
+- type: Government Gazette Number
+  number: '75782730'
+  country: 
+- type: Tax ID No.
+  number: '2460066149'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: geologorazvedka.gazprom.ru
+  country: 
+- type: Email Address
+  number: a.davydov@ggr.gazprom.ru
+  country: 

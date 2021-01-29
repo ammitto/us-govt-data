@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM PROMGAZ, AO
+- " GAZPROM PROMGAZ"
+- " AKTSIONERNOE OBSHCHESTVO 'GAZPROM PROMGAZ'"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO GAZPROM PROMGAZ"
+source: us-govt-data
+ref_number: '19686'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 6 ul.Nametkina   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117420'
+documents:
+- type: Registration ID
+  number: '1027700174061'
+  country: 
+- type: Government Gazette Number
+  number: '00158847'
+  country: 
+- type: Tax ID No.
+  number: '7734034550'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: oao-promgaz.ru
+  country: 
+- type: Email Address
+  number: A.Solomko@promgaz.gazprom.ru
+  country: 

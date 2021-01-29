@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- PSKOVNEFTEPRODUKT OOO
+- " LLC PSKOVNEFTEPRODUCT"
+- " LIMITED LIABILITY COMPANY MARKETING ASSOCIATION PSKOVNEFTEPRODUCT"
+source: us-govt-data
+ref_number: '23559'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: '4 Oktyabrsky Prospekt   '
+  city: Pskov
+  state: 
+  country: Russia
+  zip: '180000'
+documents:
+- type: Registration ID
+  number: '1026000970049'
+  country: Russia
+- type: Tax ID No.
+  number: '6027042337'
+  country: Russia
+- type: Website
+  number: http://www.pskovnefteprodukt.ru
+  country: 
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

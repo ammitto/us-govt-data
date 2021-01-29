@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- SG MSK, AO
+- " OPEN JOINT STOK COMPANY 'INSURANCE GROUP MCK'"
+- " AKTSIONERNOE OBSHCHESTVO 'STRAKHOVAYA GRUPPA MSK'"
+- " OAO 'STRACHOVAIYA GRUPPA MSK'"
+- " PJSC 'INSURANCE GROUP MSK'"
+source: us-govt-data
+ref_number: '19989'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: 'd. 40, ul. Dolgorukovskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127006'
+documents:
+- type: Registration ID
+  number: '1021602843470'
+  country: Russia
+- type: Government Gazette Number
+  number: '23333017'
+  country: Russia
+- type: Tax ID No.
+  number: '1655006421'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Email Address
+  number: root@oasopsk.kazan.ru
+  country: 
+- type: Website
+  number: http://sgmsk.ru/about/raskrytie-informacii/oao-sg-msk
+  country: 

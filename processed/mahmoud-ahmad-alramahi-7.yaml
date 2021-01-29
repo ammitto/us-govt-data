@@ -1,0 +1,17 @@
+---
+entity_type: organization
+names:
+- Mahmoud Ahmad AL-RAMAHI
+source: us-govt-data
+ref_number: '9646'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1963'
+remark: 
+address:
+- street: "   "
+  city: Ramallah
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

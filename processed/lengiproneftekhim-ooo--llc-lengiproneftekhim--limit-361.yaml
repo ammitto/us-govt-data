@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- LENGIPRONEFTEKHIM OOO
+- " LLC LENGIPRONEFTEKHIM"
+- " LIMITED LIABILITY COMPANY OIL REFINING AND PETROCHEMICAL FACILITIES DESIGN INSTITUTE"
+- " INSTITUT PO PROEKTIROVANIYU PREDPRIYATY NEFTEPERERABATYVAYUSCHEY I NEFTEKHIMICHESKOY
+  PROMYSHLENNOSTI, LIMITED LIABILITY COMPANY"
+source: us-govt-data
+ref_number: '23552'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: 'D. 94, Obvodnogo Kanala, nab   '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '196084'
+documents:
+- type: Registration ID
+  number: '1057803105755'
+  country: Russia
+- type: Tax ID No.
+  number: '7810327462'
+  country: Russia
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: lgnch@lgnch.spb.ru
+  country: 

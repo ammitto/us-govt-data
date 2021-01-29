@@ -1,0 +1,33 @@
+---
+entity_type: organization
+names:
+- ROSNEFT TRADING S.A.
+source: us-govt-data
+ref_number: '18299'
+ref_type: Sdn UID
+country: Switzerland
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: 'Rue Place du Lac 2, 1204   '
+  city: Geneva
+  state: 
+  country: Switzerland
+  zip: 
+documents:
+- type: Tax ID No.
+  number: CHE-309.842.573
+  country: Switzerland
+- type: Registration Number
+  number: CH-660.0.257.011-8
+  country: Switzerland
+- type: Website
+  number: www.rosneft.com
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

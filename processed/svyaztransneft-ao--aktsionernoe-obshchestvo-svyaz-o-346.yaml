@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- SVYAZTRANSNEFT, AO
+- " AKTSIONERNOE OBSHCHESTVO 'SVYAZ OBEKTOV TRANSPORTA I DOBYCHI NEFTI'"
+- " JSC 'SVYAZTRANSNEFT'"
+- " OPEN JOINT-STOCK COMPANY 'COMMUNICATION OF THE OBJECTS OF OIL TRANSPORTATION AND
+  EXTRACTION'"
+source: us-govt-data
+ref_number: '22388'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '12 ul. Nametkina   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117420'
+documents:
+- type: Government Gazette Number
+  number: '00140058'
+  country: Russia
+- type: Tax ID No.
+  number: '7723011906'
+  country: Russia
+- type: Registration ID
+  number: '1027739420961'
+  country: Russia
+- type: Website
+  number: www.oilnet.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- MEDIA-INVEST OOO
+- " LLC MEDIA-INVEST"
+- " LIMITED LIABILITY COMPANY MEDIA-INVEST"
+source: us-govt-data
+ref_number: '23557'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: '17, Bld 1, Zubovsky Boulevard   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119847'
+documents:
+- type: Registration ID
+  number: '1077762407580'
+  country: Russia
+- type: Tax ID No.
+  number: '7704667322'
+  country: Russia
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

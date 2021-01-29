@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- OJSC SYZRAN REFINERY
+- " SYZRAN REFINERY"
+- " OPEN JOINT-STOCK OIL AND GAS COMPANY SYZRAN"
+source: us-govt-data
+ref_number: '18290'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: '1 Astrakhanskaya st.   '
+  city: Syzran
+  state: Samara region
+  country: Russia
+  zip: '446009'
+- street: 'Moskvorechje street 105 Building 8  '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115523'
+documents:
+- type: Email Address
+  number: sekr@snpz.rosneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

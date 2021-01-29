@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- KRIOGENMASH OAO
+- " CRYOGENMASH"
+- " OPEN JOINT-STOCK COMPANY KRIOGENNOGO MASHINOSTROYENIA"
+source: us-govt-data
+ref_number: '20306'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: '67 Lenin Avenue  '
+  city: Balashikha
+  state: Moscow Region
+  country: Russia
+  zip: '143907'
+- street: '36 Lenina Prospekt   '
+  city: Balashikha G.
+  state: 
+  country: Russia
+  zip: '143907'
+documents:
+- type: Tax ID No.
+  number: '5001000066'
+  country: 
+- type: Registration ID
+  number: '1025000513878'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.cryogenmash.ru
+  country: 

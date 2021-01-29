@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM ENERGO, OOO
+- " GAZPROM ENERGO"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM ENERGO'"
+source: us-govt-data
+ref_number: '19543'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: '8 Korp. 1 ul.Stroitelei   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117939'
+documents:
+- type: Government Gazette Number
+  number: '18584757'
+  country: 
+- type: Registration ID
+  number: '1027739841370'
+  country: 
+- type: Tax ID No.
+  number: '7736186950'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: info@adm.energo.gazprom.ru
+  country: 
+- type: Website
+  number: gazpromenergo.gazprom.ru
+  country: 

@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- GLOBEXBANK
+- " GLOBEX COMMERCIAL BANK, JOINT STOCK COMPANY"
+- " GLOBEKSBANK, AO"
+- " AKTSIONERNOE OBSHCHESTVO KOMMERCHESKI BANK GLOBEKS"
+- " CJSC GLOBEXBANK"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO KOMMERCHESKI BANK GLOBEKS"
+source: us-govt-data
+ref_number: '18277'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'All offices worldwide; for more information on directives, please visit the
+  following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: 'd. 59 str. 2 ul. Zemlyanoi Val   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '109004'
+documents:
+- type: Public Registration Number
+  number: '1027739326010'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: GLOBRUMM
+  country: 
+- type: Website
+  number: globexbank.ru
+  country: 

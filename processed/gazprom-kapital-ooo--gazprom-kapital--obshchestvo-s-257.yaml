@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM KAPITAL, OOO
+- " GAZPROM KAPITAL"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM KAPITAL'"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KAP INFIN"
+source: us-govt-data
+ref_number: '19675'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'Sosenskoe Pos, Pos. Gazoprovod, D. 101 Korp. 9   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '142770'
+documents:
+- type: Registration ID
+  number: '1087746212388'
+  country: 
+- type: Government Gazette Number
+  number: '84813628'
+  country: 
+- type: Tax ID No.
+  number: '7726588547'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: gazpromcapital.ru
+  country: 
+- type: Email Address
+  number: info.gazprom_capital@adm.gazprom.ru
+  country: 

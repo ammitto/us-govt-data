@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- NOVATEK-YARSALENEFTEGAZ, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-YARSALENEFTEGAZ'"
+source: us-govt-data
+ref_number: '20684'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: '9 ul. Respubliki   '
+  city: Salekhard
+  state: Yamalo-Nenetski Okr.
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1138901001194'
+  country: 
+- type: Government Gazette Number
+  number: '27013953'
+  country: 
+- type: Tax ID No.
+  number: '8901028126'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: v.solovyh@novatek.ru
+  country: 

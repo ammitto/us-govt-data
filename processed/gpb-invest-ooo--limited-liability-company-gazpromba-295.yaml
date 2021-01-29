@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- GPB INVEST OOO
+- " LIMITED LIABILITY COMPANY GAZPROMBANK-INVEST"
+source: us-govt-data
+ref_number: '20300'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Yakimanka B. Street Building 39  '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119049'
+- street: '27-29/1 building 6 Smolenskaya-Sennaya st. '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119121'
+documents:
+- type: Registration ID
+  number: '1037602004483'
+  country: 
+- type: Tax ID No.
+  number: '7612031791'
+  country: 
+- type: Website
+  number: www.gpbi.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

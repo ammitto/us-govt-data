@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM TRANSGAZ SURGUT, OOO
+- " GAZPROM TRANSGAZ SURGUT"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TRANSGAZ SURGUT'"
+source: us-govt-data
+ref_number: '19648'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.1 ul.Universitetskaya   '
+  city: Surgut
+  state: Khanty-Mansiski Avtonomny okrug - Yugra a.o.
+  country: Russia
+  zip: '628406'
+documents:
+- type: Registration ID
+  number: '1028601679314'
+  country: 
+- type: Government Gazette Number
+  number: '05015124'
+  country: 
+- type: Tax ID No.
+  number: '8617002073'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: Surgut-tr.gazprom.ru
+  country: 
+- type: Email Address
+  number: TELEGRAF@SURGUT.GAZPROM.RU
+  country: 

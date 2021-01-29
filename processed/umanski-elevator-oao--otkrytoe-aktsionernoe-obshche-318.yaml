@@ -1,0 +1,41 @@
+---
+entity_type: organization
+names:
+- UMANSKI ELEVATOR, OAO
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'UMANSKI ELEVATOR'"
+- " OPEN JOINT STOCK COMPANY 'UMANSKIY ELEVATOR'"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA UMANSKI ELEVATOR"
+source: us-govt-data
+ref_number: '20661'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: RUSSIAN AGRICULTURAL BANK)'
+address:
+- street: '1 per. Elevatorny Stanitsa Leningradskaya   '
+  city: Leningradski Raion
+  state: Krasnodarski Kr.
+  country: Russia
+  zip: '353740'
+- street: '1 Elevatorniy Pereulok   '
+  city: Leningradskaya Village, Leningradskiy District
+  state: Krasnodar Region
+  country: Russia
+  zip: 
+documents:
+- type: Tax ID No.
+  number: '2341000195'
+  country: 
+- type: Government Gazette Number
+  number: '00940849'
+  country: 
+- type: Registration ID
+  number: '1022304292416'
+  country: 
+- type: Email Address
+  number: umansk-el-yr@mail.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

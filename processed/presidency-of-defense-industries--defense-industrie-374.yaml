@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- PRESIDENCY OF DEFENSE INDUSTRIES
+- " DEFENSE INDUSTRIES PRESIDENCY"
+- " UNDERSECRETARIAT FOR DEFENSE INDUSTRIES"
+- " SSB"
+- " SSM"
+source: us-govt-data
+ref_number: '27016'
+ref_type: Sdn UID
+country: Turkey
+birthdate: 
+remark: 
+address:
+- street: "   "
+  city: Ankara
+  state: 
+  country: Turkey
+  zip: 
+documents:
+- type: 'CAATSA Section 235 Information:'
+  number: EXPORT-IMPORT BANK ASSISTANCE FOR EXPORTS TO SANCTIONED PERSONS. Sec. 235(a)(1)
+  country: 
+- type: 'CAATSA Section 235 Information:'
+  number: EXPORT SANCTIONS Sec. 235(a)(2)
+  country: 
+- type: 'CAATSA Section 235 Information:'
+  number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS. Sec. 235(a)(3)
+  country: 
+- type: 'CAATSA Section 235 Information:'
+  number: LOANS FROM INTERNATIONAL FINANCIAL INSTITUTIONS. Sec. 235(a)(4)
+  country: 
+- type: 'CAATSA Section 235 Information:'
+  number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec 235(a)(12)
+  country: 

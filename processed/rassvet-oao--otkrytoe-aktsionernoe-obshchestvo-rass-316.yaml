@@ -1,0 +1,45 @@
+---
+entity_type: organization
+names:
+- RASSVET, OAO
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'RASSVET'"
+- " OAO 'RASSVET'"
+- " OPEN JOINT STOCK COMPANY 'RASSVET'"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO RASSVET"
+source: us-govt-data
+ref_number: '20640'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: RUSSIAN AGRICULTURAL BANK)'
+address:
+- street: 'D. Retyum   '
+  city: Luzhski Raion
+  state: Leningradskaya Obl.
+  country: Russia
+  zip: '188230'
+- street: 'Retiun Village   '
+  city: Lujskiy District
+  state: Leningrad Region
+  country: Russia
+  zip: 
+documents:
+- type: Government Gazette Number
+  number: '00547371'
+  country: 
+- type: Tax ID No.
+  number: '4710004180'
+  country: 
+- type: Registration ID
+  number: '1024701557726'
+  country: 
+- type: Website
+  number: www.emitent-spb.ru
+  country: 
+- type: Email Address
+  number: lugarassvet@mail.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- SME BANK
+- " JSC RUSSIAN BANK FOR SMALL AND MEDIUM ENTERPRISES SUPPORT"
+- " JSC SME BANK"
+- " AKTSIONERNOE OBSHCHESTVO ROSSISKI BANK PODDERZHKI MALOGO I SREDNEGO PREDPRINIMATELSTVA"
+- " MSP BANK AO"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO ROSSISKI BANK RAZVITIYA"
+source: us-govt-data
+ref_number: '18283'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'All offices worldwide; for more information on directives, please visit the
+  following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: '79 ul. Sadovnicheskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115035'
+documents:
+- type: Public Registration Number
+  number: '1027739108649'
+  country: 
+- type: Website
+  number: mspbank.ru
+  country: 
+- type: SWIFT/BIC
+  number: RUDVRUMM
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

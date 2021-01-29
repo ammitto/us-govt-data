@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- OTKRYTOE AKTSIONERNOE OBSHCHESTVO RT-STANKOINSTRUMENT
+- " RT-STANKOINSTRUMENT, OAO"
+- " OPEN JOINT STOCK COMPANY RT-STANKOINSTRUMENT"
+- " OJSC STANKOINSTRUMENT"
+- " RT-STANKOINSTRUMENT"
+source: us-govt-data
+ref_number: '18775'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: ROSTEC)'
+address:
+- street: 'd. 65 str. 1 ul. Gilyarovskogo   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107996'
+documents:
+- type: Tax ID No.
+  number: '7702715348'
+  country: 
+- type: Government Gazette Number
+  number: '62826319'
+  country: 
+- type: Registration ID
+  number: '1097746559020'
+  country: 
+- type: Website
+  number: http://www.rt-stanko.ru/
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Email Address
+  number: n.dobrynina@rt-stanko.ru
+  country: 

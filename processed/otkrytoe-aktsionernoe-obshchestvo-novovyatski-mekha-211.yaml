@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOVYATSKI MEKHANICHESKI ZAVOD
+- " OPEN JOINT STOCK COMPANY NOVOVYATSK MECHANICAL PLANT"
+- " OPEN JOINT-STOCK COMPANY NOVOVYATSKIY MEKHANICHESKIY ZAVOD"
+- " NOVOVYATSKI MEKHANICHESKI ZAVOD OAO"
+- " NMZ OJSC"
+- " NMZ OAO"
+source: us-govt-data
+ref_number: '18812'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'd. 51 ul. Sovetskaya   '
+  city: Kirov
+  state: Kirovskaya obl.
+  country: Russia
+  zip: '610008'
+documents:
+- type: Government Gazette Number
+  number: '07501403'
+  country: 
+- type: Registration ID
+  number: '1034316578702'
+  country: 
+- type: Tax ID No.
+  number: '4345029953'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Email Address
+  number: nmz@nmz.kirov.ru
+  country: 

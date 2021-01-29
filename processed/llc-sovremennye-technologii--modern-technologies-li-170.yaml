@@ -1,0 +1,27 @@
+---
+entity_type: organization
+names:
+- LLC SOVREMENNYE TECHNOLOGII
+- " MODERN TECHNOLOGIES LIMITED LIABILITY COMPANY"
+- " SOVREMENNYE TEKHNOLOGII, OOO"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SOVREMENNYE TEKHNOLOGII"
+source: us-govt-data
+ref_number: '18745'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: '12a Korp. 1str 6 Pr 2-I Yuzhnoportovy   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115432'
+documents:
+- type: Registration ID
+  number: '1037708040468'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

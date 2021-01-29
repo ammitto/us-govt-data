@@ -1,0 +1,24 @@
+---
+entity_type: organization
+names:
+- SB SECURITIES S.A.
+source: us-govt-data
+ref_number: '18753'
+ref_type: Sdn UID
+country: Luxembourg
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: 'Boulevard Konrad Adenauer 2   '
+  city: Luxembourg
+  state: 
+  country: Luxembourg
+  zip: '1115'
+documents:
+- type: Registration ID
+  number: B171037
+  country: Luxembourg
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

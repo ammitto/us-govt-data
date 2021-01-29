@@ -1,0 +1,19 @@
+---
+entity_type: organization
+names:
+- Mohammed Jamal NU'MAN ALAEDDIN
+- Mohamad Nouman ALA AL DIN
+- Mohammed AL NATSHEH
+source: us-govt-data
+ref_number: '9642'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1959'
+remark: 
+address:
+- street: "   "
+  city: Hebron
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

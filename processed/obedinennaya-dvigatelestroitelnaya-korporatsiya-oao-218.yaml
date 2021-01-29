@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO
+- " UNITED ENGINE CORPORATION JSC"
+- " ODK OAO"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO UPRAVLYAYUSHCHAYA KOMPANIYA OBEDINENNAYA DVIGATELESTROITELNAYA
+  KORPORATSIYA"
+source: us-govt-data
+ref_number: '18819'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: '16 Budennogo prospekt   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '105118'
+documents:
+- type: Government Gazette Number
+  number: '84023868'
+  country: 
+- type: Registration ID
+  number: '1107746081717'
+  country: 
+- type: Tax ID No.
+  number: '7731644035'
+  country: 
+- type: Email Address
+  number: info@uecrus.com
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Website
+  number: www.uk-odk.ru
+  country: 

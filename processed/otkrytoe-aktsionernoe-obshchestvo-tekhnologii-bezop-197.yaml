@@ -1,0 +1,33 @@
+---
+entity_type: organization
+names:
+- OTKRYTOE AKTSIONERNOE OBSHCHESTVO TEKHNOLOGII BEZOPASNOSTI
+- " TEKHNOLOGII BEZOPASNOSTI, OAO"
+- " JOINT STOCK COMPANY SECURITY TECHNOLOGIES"
+- " SECURITY TECHNOLOGIES"
+source: us-govt-data
+ref_number: '18786'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'd. 24 ul. Usacheva   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119048'
+documents:
+- type: Government Gazette Number
+  number: '17434335'
+  country: 
+- type: Registration ID
+  number: '1137746355405'
+  country: 
+- type: Tax ID No.
+  number: '7704833788'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

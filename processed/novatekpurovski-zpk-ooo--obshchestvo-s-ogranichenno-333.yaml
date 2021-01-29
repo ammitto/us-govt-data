@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- NOVATEK-PUROVSKI ZPK, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-PUROVSKI ZPK'"
+- " NOVA ZPK OOO"
+- " OOO NOVATEK-PUROVSKY ZPK"
+source: us-govt-data
+ref_number: '20679'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: 'D. Limbei   '
+  city: Purovski Raion
+  state: Yamalo-Nenetski Okr.
+  country: Russia
+  zip: '629880'
+documents:
+- type: Registration ID
+  number: '1048900851515'
+  country: 
+- type: Government Gazette Number
+  number: '73157577'
+  country: 
+- type: Tax ID No.
+  number: '8911020197'
+  country: 
+- type: Email Address
+  number: comon@zpk.novatek.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

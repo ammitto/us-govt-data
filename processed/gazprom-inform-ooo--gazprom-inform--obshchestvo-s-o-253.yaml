@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM INFORM, OOO
+- " GAZPROM INFORM"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM INFORM'"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO INFORMGAZINVEST"
+source: us-govt-data
+ref_number: '19670'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 13 str. 3 ul.Bolshaya Cheremushkinskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117447'
+documents:
+- type: Registration ID
+  number: '1097746469303'
+  country: 
+- type: Government Gazette Number
+  number: '49880231'
+  country: 
+- type: Tax ID No.
+  number: '7727696104'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: inform.gazprom.ru
+  country: 
+- type: Email Address
+  number: d.g.kozlov@inform.gazprom.ru
+  country: 

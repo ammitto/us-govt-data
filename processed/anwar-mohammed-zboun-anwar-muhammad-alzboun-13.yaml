@@ -1,0 +1,18 @@
+---
+entity_type: organization
+names:
+- Anwar Mohammed ZBOUN
+- Anwar Muhammad AL-ZBOUN
+source: us-govt-data
+ref_number: '9652'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1968'
+remark: 
+address:
+- street: "   "
+  city: Bethlehem
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

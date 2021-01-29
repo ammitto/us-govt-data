@@ -1,0 +1,33 @@
+---
+entity_type: organization
+names:
+- GAZPROM RUSSKAYA, OOO
+- " GAZPROM RUSSKAYA"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM RUSSKAYA'"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOVYKTNEFTEGAZ"
+source: us-govt-data
+ref_number: '19542'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: '3 korp.2 ul.Varshavskaya   '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '196128'
+documents:
+- type: Registration ID
+  number: '1023801016887'
+  country: 
+- type: Government Gazette Number
+  number: '55567892'
+  country: 
+- type: Tax ID No.
+  number: '3808069915'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

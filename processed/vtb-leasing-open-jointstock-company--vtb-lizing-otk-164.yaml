@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- VTB LEASING OPEN JOINT-STOCK COMPANY
+- " VTB LIZING, OTKRYTOE AKTSIONERNOE OBSHCHESTVO"
+- " VTB-LEASING, OJSC"
+- " JSC VTB LEASING"
+- " VTB LIZING, OAO"
+source: us-govt-data
+ref_number: '18739'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK OAO)'
+address:
+- street: '2nd Volkonskiy pereulok 10   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127473'
+- street: '43 str. 1 ul. Vorontsovskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '109147'
+documents:
+- type: Registration ID
+  number: '1037700259244'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.vtb-leasing.ru
+  country: 

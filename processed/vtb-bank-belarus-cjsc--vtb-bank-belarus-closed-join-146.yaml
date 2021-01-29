@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- VTB BANK (BELARUS), CJSC
+- " VTB BANK (BELARUS) CLOSED JOINT STOCK COMPANY"
+- " VTB BANK (BELARUS)"
+- " CJSC VTB BANK (BELARUS)"
+- " CJSC SLAVNEFTEBANK"
+source: us-govt-data
+ref_number: '18721'
+ref_type: Sdn UID
+country: Belarus
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK OAO)'
+address:
+- street: '14, Moskovskaya Street   '
+  city: Minsk
+  state: 
+  country: Belarus
+  zip: '220007'
+documents:
+- type: Website
+  number: www.vtb-bank.by
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: SLANBY22
+  country: 

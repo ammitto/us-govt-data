@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- OJSC RN HOLDING
+- " RN HOLDING OAO"
+source: us-govt-data
+ref_number: '18296'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: '60 Oktyabrskaya ul.   '
+  city: 
+  state: Uvat
+  country: Russia
+  zip: '626170'
+documents:
+- type: Tax ID No.
+  number: '7225004092'
+  country: Russia
+- type: Registration ID
+  number: '1047200153770'
+  country: Russia
+- type: Government Gazette Number
+  number: '74743120'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

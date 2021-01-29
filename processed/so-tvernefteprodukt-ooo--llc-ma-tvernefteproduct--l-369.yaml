@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- SO TVERNEFTEPRODUKT OOO
+- " LLC MA TVERNEFTEPRODUCT"
+- " LIMITED LIABILITY COMPANY MARKETING ASSOCIATION TVERNEFTEPRODUCT"
+source: us-govt-data
+ref_number: '23570'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: '6 Novotorzhskaya Ulitsa   '
+  city: Tver
+  state: 
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1026900510647'
+  country: Russia
+- type: Tax ID No.
+  number: '6905041501'
+  country: Russia
+- type: Email Address
+  number: tnp@dep.tvcom.ru
+  country: 
+- type: Website
+  number: www.tvernefteproduct.ru
+  country: 
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

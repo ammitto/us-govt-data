@@ -1,0 +1,45 @@
+---
+entity_type: organization
+names:
+- OTKRYTOE AKTSIONERNOE OBSHCHESTVO KONTSERN AVIATSIONNOE OBORUDOVANIE
+- " JOINT STOCK COMPANY CONCERN OF AVIATION EQUIPMENT"
+- " KONTSERN AVIATSIONNOE OBORUDOVANIE, OAO"
+- " AVIATION EQUIPMENT CONCERN OPEN JOINT STOCK COMPANY"
+- " AVIATION EQUIPMENT HOLDING"
+source: us-govt-data
+ref_number: '18773'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: '29, korp.31 ul. Ibragimova   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '105318'
+- street: '29/31 Ibragimova Street   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '105318'
+documents:
+- type: Registration ID
+  number: '1097746108250'
+  country: 
+- type: Government Gazette Number
+  number: '60427973'
+  country: 
+- type: Tax ID No.
+  number: '7704722326'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Email Address
+  number: mailbox@avia-equipment.ru
+  country: 
+- type: Website
+  number: www.avia-equipment.ru
+  country: 

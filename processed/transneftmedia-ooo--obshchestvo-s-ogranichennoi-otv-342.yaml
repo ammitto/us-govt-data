@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- TRANSNEFT-MEDIA, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'TRANSNEFT - MEDIA'"
+- " LLC 'TRANSPRESS'"
+- " LIMITED LIABILITY COMPANY 'TRANSPRESS'"
+source: us-govt-data
+ref_number: '22384'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: 'd. 4 str.1 ul. Shchipok   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115093'
+documents:
+- type: Government Gazette Number
+  number: '36559384'
+  country: Russia
+- type: Tax ID No.
+  number: '7734019544'
+  country: Russia
+- type: Registration ID
+  number: '1027700276218'
+  country: Russia
+- type: Email Address
+  number: transpress.ttn@gmail.com
+  country: 
+- type: Website
+  number: http://en.media.transneft.ru/
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

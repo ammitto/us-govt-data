@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- LUKOIL OAO
+- " LUKOIL OIL COMPANY"
+- " LUKOIL"
+- " NK LUKOIL OAO"
+- " NEFTYANAYA KOMPANIYA LUKOIL OOO"
+source: us-govt-data
+ref_number: '17248'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
+address:
+- street: '11 Sretenski boulevard   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '101000'
+documents:
+- type: Government Gazette Number
+  number: '00044434'
+  country: 
+- type: Registration ID
+  number: '1027700035769'
+  country: 
+- type: Tax ID No.
+  number: '7708004767'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: www.lukoil.ru
+  country: 
+- type: Email Address
+  number: info@lukoil.ru
+  country: 

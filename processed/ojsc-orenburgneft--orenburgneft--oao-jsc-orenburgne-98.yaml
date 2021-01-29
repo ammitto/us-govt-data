@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- OJSC ORENBURGNEFT
+- " ORENBURGNEFT"
+- " OAO JSC ORENBURGNEFT"
+source: us-govt-data
+ref_number: '18267'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: 'Magistralnaya St., 2   '
+  city: Buzuluk
+  state: the Orenburg Region
+  country: Russia
+  zip: '461040'
+- street: 'st. Magistralynaya 2   '
+  city: Buzuluk
+  state: 
+  country: Russia
+  zip: '461040'
+documents:
+- type: Email Address
+  number: orenburgneft@rosneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

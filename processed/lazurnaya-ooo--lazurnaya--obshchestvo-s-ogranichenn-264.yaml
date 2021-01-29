@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- LAZURNAYA, OOO
+- " LAZURNAYA"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'LAZURNAYA'"
+source: us-govt-data
+ref_number: '19685'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.103 prospekt Kurortny   '
+  city: Sochi
+  state: Krasnodarski krai
+  country: Russia
+  zip: '354024'
+documents:
+- type: Registration ID
+  number: '1132367004989'
+  country: 
+- type: Government Gazette Number
+  number: '10077966'
+  country: 
+- type: Tax ID No.
+  number: '2319070831'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: www.lazurnaya.ru
+  country: 
+- type: Email Address
+  number: res@lazurnaya.ru
+  country: 

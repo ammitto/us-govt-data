@@ -1,0 +1,18 @@
+---
+entity_type: organization
+names:
+- Imad Mahmoud NOFAL
+- Imad Mahmoud NAWFAL
+source: us-govt-data
+ref_number: '9653'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1970'
+remark: 
+address:
+- street: "   "
+  city: Qalqilya
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

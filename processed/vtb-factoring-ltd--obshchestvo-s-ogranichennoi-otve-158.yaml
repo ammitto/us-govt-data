@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- VTB FACTORING, LTD
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB FAKTORING"
+- " VTB FAKTORING, OOO"
+- " VTB FACTORING LIMITED"
+source: us-govt-data
+ref_number: '18733'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK OAO)'
+address:
+- street: 'd. 52 str. 1 nab.Kosmodamianskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115054'
+documents:
+- type: Registration ID
+  number: '5087746611145'
+  country: Russia
+- type: Website
+  number: www.vtbf.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

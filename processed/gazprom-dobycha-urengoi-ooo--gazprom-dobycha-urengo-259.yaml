@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM DOBYCHA URENGOI, OOO
+- " GAZPROM DOBYCHA URENGOY"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM DOBYCHA URENGOI'"
+source: us-govt-data
+ref_number: '19677'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.8 ul.Zheleznodorozhnaya   '
+  city: Novy Urengoi
+  state: Yamalo-Nenetski a.o.
+  country: Russia
+  zip: '629307'
+documents:
+- type: Registration ID
+  number: '1028900628932'
+  country: 
+- type: Government Gazette Number
+  number: '05751745'
+  country: 
+- type: Tax ID No.
+  number: '8904034784'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: urengoy-dobycha.gazprom.ru
+  country: 
+- type: Email Address
+  number: s.v.mazanov@gd-urengoy.gazprom.ru
+  country: 

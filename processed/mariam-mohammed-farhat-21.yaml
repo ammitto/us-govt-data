@@ -1,0 +1,17 @@
+---
+entity_type: organization
+names:
+- Mariam Mohammed FARHAT
+source: us-govt-data
+ref_number: '9660'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1949'
+remark: 
+address:
+- street: "   "
+  city: 
+  state: Gaza
+  country: Palestinian
+  zip: 
+documents: []

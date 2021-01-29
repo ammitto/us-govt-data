@@ -1,0 +1,43 @@
+---
+entity_type: organization
+names:
+- SBERBANK (SWITZERLAND) AG
+source: us-govt-data
+ref_number: '18717'
+ref_type: Sdn UID
+country: Switzerland
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: 'Gartenstrasse 24   '
+  city: 8002 Zurich
+  state: 
+  country: Switzerland
+  zip: 
+- street: 'PO Box 2136   '
+  city: Zurich
+  state: 
+  country: Switzerland
+  zip: '8027'
+- street: 'Freigutstrasse 16   '
+  city: 8027 Zurich
+  state: 
+  country: Switzerland
+  zip: 
+documents:
+- type: Registration ID
+  number: CH-020.3.908.277-7
+  country: Switzerland
+- type: Registration ID
+  number: CHE-106.291.569
+  country: Switzerland
+- type: Website
+  number: www.slb-bank.ch
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: SLBZCHZZ
+  country: 

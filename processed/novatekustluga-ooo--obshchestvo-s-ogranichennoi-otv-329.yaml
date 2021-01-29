@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- NOVATEK-UST-LUGA, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-UST-LUGA'"
+- " OOO 'NOVATEK-UST-LUGA'"
+source: us-govt-data
+ref_number: '20675'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: '5 ul. Shkolnaya D. Vistino   '
+  city: Kingiseppski Raion
+  state: Leningradskaya Obl.
+  country: Russia
+  zip: '188477'
+documents:
+- type: Government Gazette Number
+  number: '80675261'
+  country: 
+- type: Tax ID No.
+  number: '4707026057'
+  country: 
+- type: Registration ID
+  number: '1074707002457'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- ACTIVEBUSINESSCOLLECTION LIMITED LIABILITY COMPANY
+- " LLC ACTIVEBUSINESSCOLLECTION"
+- " AKTIVBIZNESKOLLEKSHN, OOO"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU AKTIVBIZNESKOLLEKSHN"
+- " LIMITED LIABILITY COMPANY ACTIVEBUSINESSCOLLECTION"
+source: us-govt-data
+ref_number: '18748'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: 'd.19 ul. Vavilova   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117997'
+documents:
+- type: Registration ID
+  number: '1137746390572'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

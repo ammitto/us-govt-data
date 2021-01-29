@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- TRANSNEFT-SIBIR, AO
+- " AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - SIBIR'"
+- " TRANSNEFT SIBIRIA, JSC"
+- " JSC SIBNEFTEPROVOD"
+- " OPEN JOINT-STOCK COMPANY 'SIBNEFTEPROVOD'"
+source: us-govt-data
+ref_number: '22386'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '139 ul. Respubliki   '
+  city: Tyumen
+  state: Tyumenskaya Obl.
+  country: Russia
+  zip: '625048'
+documents:
+- type: Government Gazette Number
+  number: '00139229'
+  country: Russia
+- type: Tax ID No.
+  number: '7201000726'
+  country: Russia
+- type: Registration ID
+  number: '1027200789220'
+  country: Russia
+- type: Email Address
+  number: beschastnyhav@ueso.tmn.transneft.ru
+  country: 
+- type: Website
+  number: http://sibnefteprovod.transneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

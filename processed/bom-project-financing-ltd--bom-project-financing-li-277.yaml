@@ -1,0 +1,22 @@
+---
+entity_type: organization
+names:
+- BOM PROJECT FINANCING LTD
+- " BOM PROJECT FINANCING LIMITED"
+source: us-govt-data
+ref_number: '19997'
+ref_type: Sdn UID
+country: Cyprus
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: '14th Floor, Papachristoforu Building, 32 Kritis Street   '
+  city: Limassol
+  state: 
+  country: Cyprus
+  zip: 
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

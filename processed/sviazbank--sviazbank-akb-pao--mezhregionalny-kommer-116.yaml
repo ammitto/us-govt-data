@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- SVIAZ-BANK
+- " SVIAZ-BANK AKB PAO"
+- " MEZHREGIONALNY KOMMERCHESKI BANK RAZVITIYA SVYAZI I INFORMATIKI (PUBLICHNOE AKTSIONERNOE
+  OBSHCHESTVO)"
+- " INTERREGIONAL BANK FOR SETTLEMENTS OF THE TELECOMMUNICATIONS AND POSTAL SERVICES"
+source: us-govt-data
+ref_number: '18285'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'All offices worldwide; for more information on directives, please visit the
+  following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: '7 Tverskaya ul.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '125375'
+documents:
+- type: Public Registration Number
+  number: '1027700159288'
+  country: 
+- type: SWIFT/BIC
+  number: SVIZRUMM
+  country: 
+- type: Website
+  number: sviaz-bank.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

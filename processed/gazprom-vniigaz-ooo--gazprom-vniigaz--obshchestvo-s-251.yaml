@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM VNIIGAZ, OOO
+- " GAZPROM VNIIGAZ"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NAUCHNO-ISSLEDOVATELSKI INSTITUT
+  PRIRODNYKH GAZOV I GAZOVYKH TEKHNOLOGI - GAZPROM VNIIGAZ'"
+source: us-govt-data
+ref_number: '19653'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'P Razvilka   '
+  city: Leninski Raion
+  state: Moskovskaya obl.
+  country: Russia
+  zip: '142717'
+documents:
+- type: Registration ID
+  number: '1025000651598'
+  country: 
+- type: Government Gazette Number
+  number: '31323949'
+  country: 
+- type: Tax ID No.
+  number: '5003028155'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: adm@vniigaz.gazprom.ru
+  country: 
+- type: Website
+  number: www.vniigaz.ru
+  country: 

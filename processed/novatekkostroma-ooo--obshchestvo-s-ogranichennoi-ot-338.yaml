@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- NOVATEK-KOSTROMA, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-KOSTROMA'"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU KOSTROMSKAYA REGIONALNAYA KOMPANIYA
+  PO REALIZATSII GAZA"
+- " OOO NOVATEK-KOSTROMA"
+source: us-govt-data
+ref_number: '20685'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: '37 ul. Lesnaya   '
+  city: Kostroma
+  state: Kostromskaya Obl.
+  country: Russia
+  zip: '156005'
+documents:
+- type: Registration ID
+  number: '1024400511794'
+  country: 
+- type: Government Gazette Number
+  number: '50101120'
+  country: 
+- type: Tax ID No.
+  number: '4401017834'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: p.marchenko@gas-kostroma.ru
+  country: 
+- type: Website
+  number: http://www.kostroma.novatek.ru/
+  country: 

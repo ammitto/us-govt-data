@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- OMZ SPETSSTAL OOO
+- " LIMITED LIABILITY COMPANY OMZ-SPETSSTAL"
+- " OMZ-SPECIAL STEELS"
+source: us-govt-data
+ref_number: '20308'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Kolpino G Izhorski Zavod  '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '196651'
+- street: 'Izhorskiy Zavod Kolpino  '
+  city: Saint Petersburg
+  state: 
+  country: Russia
+  zip: '196650'
+documents:
+- type: Registration ID
+  number: '1026605609348'
+  country: 
+- type: Tax ID No.
+  number: '6673089388'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.omz-specialsteel.com
+  country: 

@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- RN-YUGANSKNEFTEGAZ LLC
+- " YUGANSKNEFTEGAZ"
+- " RN-YUGANSKNEFTEGAZ OOO"
+source: us-govt-data
+ref_number: '18276'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: 'Lenina St., 26   '
+  city: Nefteyugansk
+  state: Tyumen Region
+  country: Russia
+  zip: '628309'
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: rn_yng@yungjsc.com
+  country: 

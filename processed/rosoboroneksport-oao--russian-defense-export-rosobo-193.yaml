@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- ROSOBORONEKSPORT OAO
+- " RUSSIAN DEFENSE EXPORT ROSOBORONEXPORT"
+- " ROSOBORONEXPORT JSC"
+- " ROSOBORONEKSPORT OJSC"
+- " OJSC ROSOBORONEXPORT"
+- " ROSOBORONEXPORT"
+source: us-govt-data
+ref_number: '18782'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: '27 Stromynka ul.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107076'
+documents:
+- type: Registration ID
+  number: '1117746521452'
+  country: 
+- type: Government Gazette Number
+  number: '56467052'
+  country: 
+- type: Tax ID No.
+  number: '7718852163'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Website
+  number: www.roe.ru
+  country: 

@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PROMINVEST
+- " PROMINVEST, OOO"
+- " PROMINVEST LIMITED LIABILITY COMPANY"
+source: us-govt-data
+ref_number: '18780'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: '2-4-6, str. 14 per. Bolshoi Savvinski   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119435'
+documents:
+- type: Registration ID
+  number: '1027739228857'
+  country: 
+- type: Government Gazette Number
+  number: '58127923'
+  country: 
+- type: Tax ID No.
+  number: '7705422452'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

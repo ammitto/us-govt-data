@@ -1,0 +1,17 @@
+---
+entity_type: organization
+names:
+- Omar Mahmoud MATAR
+source: us-govt-data
+ref_number: '9654'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1958'
+remark: 
+address:
+- street: "   "
+  city: Salfit
+  state: West Bank
+  country: Palestinian
+  zip: 
+documents: []

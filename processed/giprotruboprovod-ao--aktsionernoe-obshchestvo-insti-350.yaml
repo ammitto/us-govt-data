@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GIPROTRUBOPROVOD, AO
+- " AKTSIONERNOE OBSHCHESTVO 'INSTITUT PO PROEKTIROVANIYU MAGISTRALNYKH TRUBOPROVODOV'"
+- " OJSC 'GIPROTRUBOPROVOD'"
+- " OPEN JOINT-STOCK COMPANY 'INSTITUTE ON PLANNING OF OIL TRUNK PIPELINES'"
+source: us-govt-data
+ref_number: '22392'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: 'd. 24 korp. 1 ul. Vavilova   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119334'
+documents:
+- type: Government Gazette Number
+  number: '00148406'
+  country: Russia
+- type: Tax ID No.
+  number: '7710022410'
+  country: Russia
+- type: Registration ID
+  number: '1027700002660'
+  country: Russia
+- type: Email Address
+  number: agafontsevaa@gtp.transneft.ru
+  country: 
+- type: Website
+  number: www.gtp.transneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

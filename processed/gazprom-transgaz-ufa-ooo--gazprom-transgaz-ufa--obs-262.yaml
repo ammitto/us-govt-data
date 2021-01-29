@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- GAZPROM TRANSGAZ UFA, OOO
+- " GAZPROM TRANSGAZ UFA"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TRANSGAZ UFA'"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU BASHTRANSGAZ OTKRYTOGO AKTSIONERNOGO
+  OBSHCHESTVA GAZPROM"
+source: us-govt-data
+ref_number: '19683'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: '59 ul.Rikharda Zorge   '
+  city: Ufa
+  state: Bashkortostan resp.
+  country: Russia
+  zip: '450054'
+documents:
+- type: Registration ID
+  number: '1020202861821'
+  country: 
+- type: Government Gazette Number
+  number: '00154358'
+  country: 
+- type: Tax ID No.
+  number: '0276053659'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: ufa-tr.gazprom.ru
+  country: 
+- type: Email Address
+  number: info@bashtg.gazp
+  country: 

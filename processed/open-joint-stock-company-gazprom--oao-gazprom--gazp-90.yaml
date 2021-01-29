@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- OPEN JOINT STOCK COMPANY GAZPROM
+- " OAO GAZPROM"
+- " GAZPROM OAO"
+source: us-govt-data
+ref_number: '17250'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
+address:
+- street: '16 Nametkina St.   '
+  city: Moscow
+  state: Russia
+  country: Russia
+  zip: GSP-7, 117997
+- street: '16 Nametkina ul.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117991'
+documents:
+- type: Government Gazette Number
+  number: '00040778'
+  country: Russia
+- type: Registration ID
+  number: '1027700070518'
+  country: Russia
+- type: Tax ID No.
+  number: '7736050003'
+  country: Russia
+- type: Email Address
+  number: gazprom@gazprom.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: www.gazprom.ru
+  country: 

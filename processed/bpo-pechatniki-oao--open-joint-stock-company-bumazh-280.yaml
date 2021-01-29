@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- BPO PECHATNIKI, OAO
+- " OPEN JOINT STOCK COMPANY 'BUMAZHNO-POLIGRAFICHESKOYE OBYEDINENIYE 'PECHATNIKI'"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'BUMAZHNO-POLIGRAFICHESKOE OBEDINENIE 'PECHATNIKI'"
+source: us-govt-data
+ref_number: '20000'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: 'd. 53, ul. Ryabinovaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121471'
+- street: 'D. 4, Brodnikov Per.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119180'
+documents:
+- type: Registration ID
+  number: '1087746844240'
+  country: 
+- type: Government Gazette Number
+  number: '87562873'
+  country: 
+- type: Tax ID No.
+  number: '7706694089'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

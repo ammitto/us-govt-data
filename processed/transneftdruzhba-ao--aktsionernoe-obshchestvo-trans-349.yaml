@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- TRANSNEFT-DRUZHBA, AO
+- " AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - DRUZHBA'"
+- " JSC 'DRUZHBA'"
+- ' OPEN JOINT-STOCK COMPANY "OIL TRUNK PIPELINES ''DRUZHBA''"'
+source: us-govt-data
+ref_number: '22391'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: 'd. 113 ul. Uralskaya   '
+  city: Bryansk
+  state: Bryanskaya Obl.
+  country: Russia
+  zip: '241020'
+documents:
+- type: Government Gazette Number
+  number: '10453441'
+  country: Russia
+- type: Tax ID No.
+  number: '3235002178'
+  country: Russia
+- type: Registration ID
+  number: '1023202736754'
+  country: Russia
+- type: Email Address
+  number: androsovaeg@brn.transneft.ru
+  country: 
+- type: Website
+  number: www.druzhbamn.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

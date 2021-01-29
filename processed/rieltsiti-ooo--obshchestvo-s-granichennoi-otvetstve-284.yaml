@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- RIELTSITI, OOO
+- " OBSHCHESTVO S GRANICHENNOI OTVETSTVENNOSTYU 'RIELTSITI'"
+- " LIMITED LIABILITY COMPANY 'RIELTSITI'"
+- " REALTCITY LLC"
+- " OOO 'REALTCITY'"
+- " REALT-CITY LLC"
+source: us-govt-data
+ref_number: '20005'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: 'd. 9, str. 5 ul. Krasnoproletarskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127030'
+- street: 'Per Uglovoy, D. 2, ETAZH 10, Room 22, Room 3   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127055'
+documents:
+- type: Registration ID
+  number: '1127746617008'
+  country: Russia
+- type: Government Gazette Number
+  number: '11365058'
+  country: 
+- type: Tax ID No.
+  number: '7707782490'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

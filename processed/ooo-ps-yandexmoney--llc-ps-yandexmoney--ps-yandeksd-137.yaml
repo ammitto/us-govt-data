@@ -1,0 +1,26 @@
+---
+entity_type: organization
+names:
+- OOO PS YANDEX.MONEY
+- " LLC PS YANDEX.MONEY"
+- " PS YANDEKS.DENGI OOO"
+source: us-govt-data
+ref_number: '18711'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: '16 Lva Tolstogo ul.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119021'
+documents:
+- type: Registration ID
+  number: '1077746365113'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

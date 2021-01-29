@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- TRANSNEFT-PRIKAME, AO
+- " AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT - PRIKAME'"
+- " TRANSNEFT-PRIKAMYE AO"
+- " JSC 'SZMN'"
+- " OPEN JOINT-STOCK COMPANY 'NORTH-WESTERN OIL TRUNK PIPELINES'"
+source: us-govt-data
+ref_number: '22402'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '26A ul. Nikolaya Ershova   '
+  city: Kazan
+  state: Tatarstan Resp.
+  country: Russia
+  zip: '420061'
+documents:
+- type: Government Gazette Number
+  number: '00139264'
+  country: Russia
+- type: Tax ID No.
+  number: '1645000340'
+  country: Russia
+- type: Registration ID
+  number: '1021601763820'
+  country: Russia
+- type: Email Address
+  number: hanovat@kaz.transneft.ru
+  country: 
+- type: Website
+  number: www.szmn.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

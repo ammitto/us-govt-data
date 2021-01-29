@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- ROSE GROUP LIMITED
+- " RGI INTERNATIONAL LIMITED"
+- " ROSE GROUP"
+- " RGI INTERNATIONAL"
+source: us-govt-data
+ref_number: '18289'
+ref_type: Sdn UID
+country: Guernsey
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: 'Frances House Sir William Place  '
+  city: St. Peter Port
+  state: 
+  country: Guernsey
+  zip: GY1 4EU
+- street: 'Korobeinikov Lane, 1   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119034'
+documents:
+- type: Website
+  number: rosegroup.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

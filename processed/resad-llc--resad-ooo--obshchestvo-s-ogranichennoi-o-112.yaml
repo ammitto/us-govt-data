@@ -1,0 +1,27 @@
+---
+entity_type: organization
+names:
+- RESAD LLC
+- " RESAD, OOO"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RESAD"
+- " LLC RESAD"
+source: us-govt-data
+ref_number: '18281'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: 'd. 5 ul. Bryanskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121059'
+documents:
+- type: Public Registration Number
+  number: '1027739071337'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

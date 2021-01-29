@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- UNITED COMPANY OJSC
+- " OJSC UNITED COMPANY"
+- " OAO 'OBIDINENAIYA KOMANIYA'"
+- " PJSC 'UNITED COMPANY'"
+source: us-govt-data
+ref_number: '20001'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: "   "
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '192177'
+- street: 'ul. Ryabinovaya d. 53   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121471'
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

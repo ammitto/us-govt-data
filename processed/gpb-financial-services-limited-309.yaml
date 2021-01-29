@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- GPB FINANCIAL SERVICES LIMITED
+source: us-govt-data
+ref_number: '20315'
+ref_type: Sdn UID
+country: Cyprus
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Arianthi Court 2nd floor 50 Agias Zonis Street '
+  city: Limassol
+  state: 
+  country: Cyprus
+  zip: '3090'
+- street: 'Agios Athanasios, 46 Interlink Hermes Plaza Floor 1 '
+  city: Limassol
+  state: 
+  country: Cyprus
+  zip: '4102'
+documents:
+- type: Registration ID
+  number: HE 246301
+  country: 
+- type: Website
+  number: www.gpbfs.com.cy
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

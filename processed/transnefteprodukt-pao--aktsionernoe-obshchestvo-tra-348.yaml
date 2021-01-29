@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- TRANSNEFTEPRODUKT, PAO
+- " AKTSIONERNOE OBSHCHESTVO 'TRANSNEFTEPRODUKT'"
+- " TRANSNEFTEPRODUCT JOINT-STOCK CO"
+- " JSC 'TRANSNEFTEPRODUKT'"
+- " OPEN JOINT-STOCK COMPANY 'TRANSNEFTEPRODUKT'"
+- " AKTSIONERNOE OBSHCHESTVO AKTSIONERNAYA KOMPANIYA TRUBOPROVODNOGO TRANSPORTA NEFTEPRODUKTOV
+  TRANSNEFTEPRODUKT"
+source: us-govt-data
+ref_number: '22390'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '8A prospekt Vernadskogo   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119311'
+documents:
+- type: Government Gazette Number
+  number: '00044474'
+  country: Russia
+- type: Tax ID No.
+  number: '7709027196'
+  country: Russia
+- type: Registration ID
+  number: '1027700054140'
+  country: Russia
+- type: Email Address
+  number: nurymbetovage@ak.aktnp.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

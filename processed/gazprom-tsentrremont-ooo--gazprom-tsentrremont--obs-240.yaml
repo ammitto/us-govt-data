@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM TSENTRREMONT, OOO
+- " GAZPROM TSENTRREMONT"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TSENTRREMONT'"
+source: us-govt-data
+ref_number: '19641'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.1 ul.Moskovskaya   '
+  city: Shchelkovo
+  state: Moskovskaya obl
+  country: Russia
+  zip: '141112'
+documents:
+- type: Registration ID
+  number: '1085050006766'
+  country: 
+- type: Tax ID No.
+  number: '5050073540'
+  country: 
+- type: Government Gazette Number
+  number: '86732184'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: I.Suvorova@gcr.gazprom.ru
+  country: 
+- type: Website
+  number: centrremont.gazprom.ru
+  country: 

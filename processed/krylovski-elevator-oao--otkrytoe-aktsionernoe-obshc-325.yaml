@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- KRYLOVSKI ELEVATOR, OAO
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'KRYLOVSKI ELVATOR'"
+- " OAO 'KRYLOVSKI ELEVATOR'"
+- " OPEN JOINT STOCK COMPANY 'KRYLOVSKIY ELEVATOR'"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA KRYLOVSKI ELEVATOR"
+source: us-govt-data
+ref_number: '20670'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: RUSSIAN AGRICULTURAL BANK)'
+address:
+- street: '1 ul. Krasnogvardeiskaya Stanitsa Oktyabrskaya   '
+  city: Krylovski Raion
+  state: Krasnodarski Kr.
+  country: Russia
+  zip: '352085'
+- street: '1 Krasnogvardeiskaya Str.   '
+  city: Oktiabrskaya Village, Krylovski District
+  state: Krasnodar Region
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1022304103678'
+  country: 
+- type: Government Gazette Number
+  number: '26982360'
+  country: 
+- type: Tax ID No.
+  number: '2338003767'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Email Address
+  number: klv_el@ibox.ru
+  country: 

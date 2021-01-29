@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- SBERBANK EUROPE AG
+source: us-govt-data
+ref_number: '18716'
+ref_type: Sdn UID
+country: Austria
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: 'Schwarzenbergplatz 3   '
+  city: Wien
+  state: 
+  country: Austria
+  zip: '1010'
+documents:
+- type: Registration ID
+  number: FN 161285 i
+  country: Austria
+- type: Website
+  number: www.sberbank.at
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: SABRATWW
+  country: 

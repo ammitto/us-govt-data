@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- CHERNOMORTRANSNEFT, AO
+- " AKTSIONERNOE OBSHCHESTVO 'CHERNOMORSKIE MAGISTRALNYE NEFTEPROVODY'"
+- " JSC 'CHERNOMORTRANSNEFT'"
+- " OPEN JOINT-STOCK COMPANY 'BLACK SEA OIL TRUNK PIPELINES'"
+source: us-govt-data
+ref_number: '22393'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: 'ul. Sheskharis   '
+  city: Novorossisk
+  state: Krasnodarski Kr.
+  country: Russia
+  zip: '353911'
+documents:
+- type: Government Gazette Number
+  number: '00139011'
+  country: Russia
+- type: Tax ID No.
+  number: '2315072242'
+  country: Russia
+- type: Registration ID
+  number: '1022302384136'
+  country: Russia
+- type: Email Address
+  number: fogela@nvr.transneft.ru
+  country: 
+- type: Website
+  number: www.nvr.transneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

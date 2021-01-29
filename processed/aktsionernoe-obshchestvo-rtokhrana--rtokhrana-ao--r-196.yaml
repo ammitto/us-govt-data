@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- AKTSIONERNOE OBSHCHESTVO RT-OKHRANA
+- " RT-OKHRANA, AO"
+- " RT-OKHRANA ZAO"
+- " ZAO RT-OKHRANA"
+- " JOINT STOCK COMPANY RT-GUARD"
+- " RT-OKHRANA"
+source: us-govt-data
+ref_number: '18785'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'd. 24 ul. Usacheva   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119048'
+documents:
+- type: Registration ID
+  number: '1107746577652'
+  country: 
+- type: Government Gazette Number
+  number: '66902230'
+  country: 
+- type: Tax ID No.
+  number: '7704759968'
+  country: 
+- type: Website
+  number: http://rtguard.ru/
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

@@ -1,0 +1,33 @@
+---
+entity_type: organization
+names:
+- NOVATEK-CHELYABINSK, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK- CHELYABINSK'"
+- " YAMALGAZRESURS-CHELYABINSK OOO"
+- " OOO NOVATEK-CHELYABINSK"
+source: us-govt-data
+ref_number: '20683'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: '42 prospekt Lenina   '
+  city: Chelyabinsk
+  state: Chelyabinskaya Obl.
+  country: Russia
+  zip: '454091'
+documents:
+- type: Registration ID
+  number: '1107404003376'
+  country: 
+- type: Tax ID No.
+  number: '7404056114'
+  country: 
+- type: Government Gazette Number
+  number: '68628371'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

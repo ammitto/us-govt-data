@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- EXIMBANK OF RUSSIA
+- " ROSEKSIMBANK, ZAO"
+- " RUSSIAN EXPORT-IMPORT BANK"
+- " GOSUDARSTVENNY SPETSIALIZIROVANNY ROSSISKI EKSPORTNO-IMPORTNY BANK (ZAKRYTOE AKTSIONERNOE
+  OBSHCHESTVO)"
+- " STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK (CLOSED JOINT-STOCK COMPANY)"
+source: us-govt-data
+ref_number: '18268'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'All offices worldwide; for more information on directives, please visit the
+  following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VNESHECONOMBANK)'
+address:
+- street: 'd.13 str. 1 per.3-I Neopalimovski   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119121'
+documents:
+- type: Public Registration Number
+  number: '1027739109133'
+  country: 
+- type: SWIFT/BIC
+  number: EXIRRUMM
+  country: 
+- type: Website
+  number: eximbank.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

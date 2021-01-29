@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- OJSC SAMOTLORNEFTEGAZ
+- " SAMOTLORNEFTEGAZ JSC"
+- " SAMOTLORNEFTEGAZ"
+source: us-govt-data
+ref_number: '18269'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: 'Lenina St. 4, the Tyumen Region   '
+  city: Khanty-Mansiysk
+  state: Autonomous District, Nizhnevartovsk
+  country: Russia
+  zip: '628606'
+documents:
+- type: Email Address
+  number: NVSNGinfo@rosneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

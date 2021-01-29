@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM TRANSGAZ KAZAN, OOO
+- " GAZPROM TRANSGAZ KAZAN"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TRANSGAZ KAZAN'"
+source: us-govt-data
+ref_number: '19633'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.41 ul.Adelya Kutuya   '
+  city: Kazan
+  state: Tatarstan resp
+  country: Russia
+  zip: '420073'
+documents:
+- type: Registration ID
+  number: '1021603624921'
+  country: 
+- type: Tax ID No.
+  number: '1600000036'
+  country: 
+- type: Government Gazette Number
+  number: '00154364'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: kazan-tr.gazprom.ru
+  country: 
+- type: Email Address
+  number: Vlads@TTG.bancorp.ru
+  country: 

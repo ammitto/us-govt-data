@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- STRAKHOVOVE OBSHCHESTVO SURGUTNEFTEGAZ OOO
+- " LLC INSURANCE COMPANY SURGUTNEFTEGAS"
+- " INSURANCE COMPANY SURGUTNEFTEGAS, LLC"
+- " LIMITED LIABILITY COMPANY INSURANCE COMPANY SURGUTNEFTEGAS"
+source: us-govt-data
+ref_number: '23571'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: '9/1 Lermontova Ulitsa   '
+  city: Surgut
+  state: 
+  country: Russia
+  zip: '628418'
+documents:
+- type: Registration ID
+  number: '1028600581811'
+  country: Russia
+- type: Tax ID No.
+  number: '8602103061'
+  country: Russia
+- type: Website
+  number: www.sngi.ru
+  country: 
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

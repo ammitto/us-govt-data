@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- UNITED INSTRUMENT MANUFACTURING CORPORATION
+- " JSC-UNITED-INSTRUMENT-MANUFACTURING-CORPORATION"
+- " UIMC"
+source: us-govt-data
+ref_number: '18787'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'Vereiskaya 29, str. 141   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121357'
+- street: '29 / 141 Verejskaya Street   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121357'
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Website
+  number: http://www.opkrt.ru
+  country: 
+- type: Email Address
+  number: info@opkrt.ru
+  country: 

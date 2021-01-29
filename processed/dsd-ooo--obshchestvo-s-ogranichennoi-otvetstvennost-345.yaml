@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- DSD, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'DALNEVOSTOCHNAYA STROITELNAYA DIREKTSIYA'"
+- " LLC 'DSD'"
+- " LIMITED LIABILITY COMPANY 'FAR EAST CONSTRUCTION DIRECTION'"
+source: us-govt-data
+ref_number: '22387'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '163 ul. Volochaevskaya   '
+  city: Khabarovsk
+  state: Khabarovski Kr.
+  country: Russia
+  zip: '680000'
+documents:
+- type: Government Gazette Number
+  number: '60668690'
+  country: Russia
+- type: Registration ID
+  number: '1092724004581'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: dsd-it@dsd.transneft.ru
+  country: 
+- type: Website
+  number: dsdvsto.ru
+  country: 

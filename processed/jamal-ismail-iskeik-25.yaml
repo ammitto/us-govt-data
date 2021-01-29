@@ -1,0 +1,17 @@
+---
+entity_type: organization
+names:
+- Jamal Ismail ISKEIK
+source: us-govt-data
+ref_number: '9664'
+ref_type: Sdn UID
+country: Palestinian
+birthdate: '1964'
+remark: 
+address:
+- street: "   "
+  city: 
+  state: Gaza
+  country: Palestinian
+  zip: 
+documents: []

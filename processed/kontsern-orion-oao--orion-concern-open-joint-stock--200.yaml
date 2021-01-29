@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- KONTSERN ORION OAO
+- " ORION CONCERN OPEN JOINT STOCK COMPANY"
+- " OPEN JOINT-STOCK COMPANY KONTSERN ORION"
+source: us-govt-data
+ref_number: '18789'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'Street Malaya Pirogovskaya, D. 18, Bldg. 1   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119435'
+documents:
+- type: Tax ID No.
+  number: '7704731673'
+  country: 
+- type: Website
+  number: http://www.concern-orion.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

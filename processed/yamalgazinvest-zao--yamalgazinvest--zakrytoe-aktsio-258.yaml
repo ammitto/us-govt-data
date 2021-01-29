@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- YAMALGAZINVEST, ZAO
+- " YAMALGAZINVEST"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO 'YAMALGAZINVEST'"
+source: us-govt-data
+ref_number: '19676'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 41 korp. 1 prospekt Vernadskogo   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117415'
+documents:
+- type: Registration ID
+  number: '1027700154261'
+  country: 
+- type: Government Gazette Number
+  number: '45938198'
+  country: 
+- type: Tax ID No.
+  number: '7728149400'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: www.yamalgazinvest.gazprom.ru
+  country: 
+- type: Email Address
+  number: a.alyabev@sever-invest.gazprom.ru
+  country: 

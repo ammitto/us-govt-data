@@ -1,0 +1,66 @@
+---
+entity_type: organization
+names:
+- PO URALENERGOMONTAZH ZAO
+- " PO UEM JSC"
+- " AO PROIZVODSTVENNOE OBYEDINENIE 'URALENERGOMONTAZH'"
+source: us-govt-data
+ref_number: '20302'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'D. 11 B Kv. 93 Prospekt Kosmonavtov  '
+  city: Ekaterinburg
+  state: 
+  country: Russia
+  zip: '620017'
+- street: 'Stroibaza   '
+  city: Dobryanka
+  state: 
+  country: Russia
+  zip: '618740'
+- street: '7, Liter A, K 4 Ul. Turbinnaya  '
+  city: Ekaterinburg
+  state: 
+  country: Russia
+  zip: '620017'
+- street: '1a Ul.Vladivostokskaya   '
+  city: Ufa
+  state: 
+  country: Russia
+  zip: '450078'
+- street: 'Stroibaza Sugres R-Nvodoka Per. Tikhi '
+  city: Verkhnyaya Pyshma
+  state: 
+  country: Russia
+  zip: '624070'
+- street: 'Rp Reftinski A/Ya 1  '
+  city: Asbest
+  state: 
+  country: Russia
+  zip: '624285'
+- street: 'Baes A/Ya 7   '
+  city: Zarechny
+  state: 
+  country: Russia
+  zip: '624051'
+- street: '50, A Ul. Transportnikov  '
+  city: Berezovski
+  state: 
+  country: Russia
+  zip: '623703'
+- street: 'Transportnikov Street Building 50 a  '
+  city: Berezovskiy
+  state: 
+  country: Russia
+  zip: '623704'
+documents:
+- type: Registration ID
+  number: '1026602949163'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

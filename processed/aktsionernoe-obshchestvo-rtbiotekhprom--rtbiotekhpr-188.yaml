@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- AKTSIONERNOE OBSHCHESTVO RT-BIOTEKHPROM
+- " RT-BIOTEKHPROM, AO"
+- " RT-BIOTECHPROM"
+- " RT-BIOTECHPROM OJSC"
+source: us-govt-data
+ref_number: '18777'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'd. 24 ul. Usacheva   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119048'
+documents:
+- type: Government Gazette Number
+  number: '62666778'
+  country: 
+- type: Registration ID
+  number: '1097746425996'
+  country: 
+- type: Tax ID No.
+  number: '7704730729'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Email Address
+  number: dshumikhin@rt-biotechprom.ru
+  country: 
+- type: Website
+  number: www.rt-biotechprom.ru
+  country: 

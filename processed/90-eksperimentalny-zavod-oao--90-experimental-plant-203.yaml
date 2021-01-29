@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- 90 EKSPERIMENTALNY ZAVOD OAO
+- " 90 EXPERIMENTAL PLANT OPEN JOINT STOCK COMPANY"
+- " OPEN JOINT-STOCK COMPANY 90 EKSPERIMENTALNIY ZAVOD"
+source: us-govt-data
+ref_number: '18792'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'P. Rassudovo, Street Tsentralnaya, D. 103   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '143396'
+documents:
+- type: Tax ID No.
+  number: '5030056754'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Website
+  number: http://www.90zavod.ru
+  country: 

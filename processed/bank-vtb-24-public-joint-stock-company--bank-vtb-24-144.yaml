@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- BANK VTB 24 PUBLIC JOINT STOCK COMPANY
+- " BANK VTB 24 PUBLICHNOE AKTSIONERNOE OBSHCHESTVO"
+- " VTB 24 PAO"
+- " BANK VTB 24 CLOSED JOINT STOCK COMPANY"
+- " VTB 24 JSC"
+- " BANK VTB 24 (ZAKRYTOE AKTSIONERNOE OBSHCHESTVO)"
+source: us-govt-data
+ref_number: '18719'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK OAO)'
+address:
+- street: 'd. 35 ul. Myasnitskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '101000'
+documents:
+- type: Registration ID
+  number: '1027739207462'
+  country: Russia
+- type: SWIFT/BIC
+  number: CBGURUMM
+  country: 
+- type: Website
+  number: www.vtb24.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

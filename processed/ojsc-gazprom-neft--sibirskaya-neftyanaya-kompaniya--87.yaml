@@ -1,0 +1,66 @@
+---
+entity_type: organization
+names:
+- OJSC GAZPROM NEFT
+- " SIBIRSKAYA NEFTYANAYA KOMPANIYA OAO"
+- " OPEN JOINT-STOCK COMPANY GAZPROM NEFT"
+- " JSC GAZPROM NEFT"
+- " GAZPROM NEFT OAO"
+source: us-govt-data
+ref_number: '17143'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
+address:
+- street: 'Let. A. Galernaya, 5 ul  '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '190000'
+- street: 'Ul. Pochtamtskaya, 3-5   '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '190000'
+- street: '3-5 Pochtamtskaya St.   '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '190000'
+- street: '125 A. Profsoyuznaya Street   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117647'
+documents:
+- type: Tax ID No.
+  number: '5504036333'
+  country: 
+- type: Government Gazette Number
+  number: '42045241'
+  country: 
+- type: Registration ID
+  number: '1025501701686'
+  country: 
+- type: Website
+  number: http://www.gazprom-neft.com/
+  country: 
+- type: Email Address
+  number: info@gazprom-neft.ru
+  country: 
+- type: Email Address
+  number: pr@gazprom-neft.ru
+  country: 
+- type: Email Address
+  number: shareholders@gazprom-neft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: ir@gazprom-neft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

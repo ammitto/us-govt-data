@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM TRANSGAZ VOLGOGRAD, OOO
+- " GAZPROM TRANSGAZ VOLGOGRAD"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TRANSGAZ VOLGOGRAD'"
+source: us-govt-data
+ref_number: '19646'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: '58 ul.Raboche-Krestyanskaya   '
+  city: Volgograd
+  state: Volgogradskaya obl.
+  country: Russia
+  zip: '400074'
+documents:
+- type: Registration ID
+  number: '1023403849182'
+  country: 
+- type: Government Gazette Number
+  number: '00154281'
+  country: 
+- type: Tax ID No.
+  number: '3445042160'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: VTG@GASPROM.RU
+  country: 
+- type: Website
+  number: Volgograd-tr.gazprom.ru
+  country: 

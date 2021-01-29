@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- ULYANOVSKI GIPROAVIAPROM OAO
+- " ULYANOVSKIY GIPROAVIAPROM OJSC"
+- " ULYANOVSK STATE DESIGN AND ENGINEERING INSTITUTE FOR AVIATION INDUSTRY OPEN JOINT
+  STOCK COMPANY"
+- " OPEN JOINT-STOCK COMPANY ULYANOVSKIY GOSUDARSTVENNIY PROYEKTNO-KONSTRUKTORSKIY
+  INSTITUT AVIATSIONNOY PROMYSHLENNOSTI"
+source: us-govt-data
+ref_number: '18818'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'Street Vracha Mikhaylova, D. 34   '
+  city: Ulyanovsk
+  state: 
+  country: Russia
+  zip: '432010'
+documents:
+- type: Tax ID No.
+  number: '7328046337'
+  country: 
+- type: Website
+  number: http://www.ulgap.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

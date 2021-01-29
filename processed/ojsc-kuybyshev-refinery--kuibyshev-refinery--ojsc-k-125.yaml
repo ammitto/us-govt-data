@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- OJSC KUYBYSHEV REFINERY
+- " KUIBYSHEV REFINERY"
+- " OJSC KUIBYSHEV REFINERY"
+source: us-govt-data
+ref_number: '18294'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: '25 Groznenskaya st.   '
+  city: Samara
+  state: 
+  country: Russia
+  zip: '443004'
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: sekr@knpz.rosneft.ru
+  country: 

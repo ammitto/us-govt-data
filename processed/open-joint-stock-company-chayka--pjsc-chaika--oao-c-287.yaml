@@ -1,0 +1,32 @@
+---
+entity_type: organization
+names:
+- OPEN JOINT STOCK COMPANY CHAYKA
+- " PJSC CHAIKA"
+- " OAO CHAIKA"
+- " CHAIKA OJSC"
+source: us-govt-data
+ref_number: '20008'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: "   "
+  city: 
+  state: 
+  country: Russia
+  zip: 
+- street: 'Turchaninov Per., D. 3, BLDG 1, G.   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119034'
+documents:
+- type: Tax ID No.
+  number: '7704021200'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

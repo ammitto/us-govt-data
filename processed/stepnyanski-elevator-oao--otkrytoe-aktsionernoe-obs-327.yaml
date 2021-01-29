@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- STEPNYANSKI ELEVATOR, OAO
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'STEPNYANSKI ELEVATOR'"
+- " OAO 'STEPNYANSKI ELEVATOR'"
+- " OPEN JOINT STOCK COMPANY 'STEPNYANSIKY ELEVATOR'"
+- " AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA STEPNYANSKI ELEVATOR"
+source: us-govt-data
+ref_number: '20672'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: RUSSIAN AGRICULTURAL BANK)'
+address:
+- street: '2 ul. Krupskaya S. Krasnoe   '
+  city: Kushchevski Raion
+  state: Krasnodarski Kr.
+  country: Russia
+  zip: '352010'
+- street: '2 Krupskoi Str.   '
+  city: Krasnoe Village, Kutshevskiy District
+  state: Krasnodar Region
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1022304243279'
+  country: 
+- type: Government Gazette Number
+  number: '00940648'
+  country: 
+- type: Tax ID No.
+  number: '2340003980'
+  country: 
+- type: Email Address
+  number: step_el@inbox.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM TELEKOM, OOO
+- " GAZPROM TELECOM"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM TELEKOM'"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO GAZTELEKOM"
+source: us-govt-data
+ref_number: '19654'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 62 str. 2 shosse Starokaluzhskoe   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117630'
+documents:
+- type: Registration ID
+  number: '1137746329962'
+  country: 
+- type: Government Gazette Number
+  number: '42934136'
+  country: 
+- type: Tax ID No.
+  number: '7728840569'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: www.gaztelecom.ru
+  country: 
+- type: Email Address
+  number: b.motenko@gazpromtelecom.ru
+  country: 

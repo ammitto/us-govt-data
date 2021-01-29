@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- NOVATEK-PERM, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-PERM'"
+- " OOO 'NOVATEK-PERM'"
+source: us-govt-data
+ref_number: '20681'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: '41 ul. Petropavlovskaya   '
+  city: Perm
+  state: Permski Kr.
+  country: Russia
+  zip: '614000'
+documents:
+- type: Registration ID
+  number: '1105904008297'
+  country: 
+- type: Government Gazette Number
+  number: '65136070'
+  country: 
+- type: Tax ID No.
+  number: '5904230529'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: info@perm.novatek.ru
+  country: 

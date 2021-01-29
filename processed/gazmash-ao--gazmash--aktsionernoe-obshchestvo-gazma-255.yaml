@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- GAZMASH, AO
+- " GAZMASH"
+- " AKTSIONERNOE OBSHCHESTVO 'GAZMASH'"
+- " DOCHERNEE OTKRYTOE AKTSIONERNOE OBSHCHESTVO GAZMASH OTKRYTOGO AKTSIONERNOGO OBSHCHESTVA
+  GAZPROM"
+source: us-govt-data
+ref_number: '19673'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 54 korp. 1 litera A pomeshch prospekt Primorski   '
+  city: St. Petersburg
+  state: 
+  country: Russia
+  zip: '197374'
+documents:
+- type: Registration ID
+  number: '1027700008390'
+  country: 
+- type: Government Gazette Number
+  number: '13265740'
+  country: 
+- type: Tax ID No.
+  number: '7709014944'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: www.gasmash.ru
+  country: 
+- type: Email Address
+  number: asg@gasmash.ru
+  country: 

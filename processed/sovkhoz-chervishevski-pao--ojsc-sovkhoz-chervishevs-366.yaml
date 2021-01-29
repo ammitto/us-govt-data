@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- SOVKHOZ CHERVISHEVSKI PAO
+- " OJSC SOVKHOZ CHERVISHEVSKY"
+- " SOVKHOZ CHERVISHEVSKY, JSC"
+- " OPEN JOINT STOCK COMPANY SOVKHOZ CHERVISHEVSKY"
+source: us-govt-data
+ref_number: '23566'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: 'd. 81 Sovetskaya Ulitsa S. Chervichevsky  '
+  city: Tyumensky Rayon
+  state: Tyumenskaya Oblast
+  country: Russia
+  zip: '625519'
+documents:
+- type: Registration ID
+  number: '1027200789142'
+  country: Russia
+- type: Tax ID No.
+  number: '7224019466'
+  country: Russia
+- type: Email Address
+  number: sovxoz@list.ru
+  country: 
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- OJSC ANGARSK PETROCHEMICAL COMPANY
+- " ANGARSK REFINERY"
+source: us-govt-data
+ref_number: '18280'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: 'Angarsk   '
+  city: 
+  state: Irkutsk region
+  country: Russia
+  zip: '665830'
+- street: '6 ul. K. Marksa   '
+  city: Angarsk
+  state: 
+  country: Russia
+  zip: '665830'
+documents:
+- type: Website
+  number: www.anhk.ru
+  country: 
+- type: Email Address
+  number: delo@anhk.rosneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

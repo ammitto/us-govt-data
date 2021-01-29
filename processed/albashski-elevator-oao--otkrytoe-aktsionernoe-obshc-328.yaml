@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- ALBASHSKI ELEVATOR, OAO
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO 'ALBASHSKI ELEVATOR'"
+- " OAO 'ALBASHSKI ELEVATOR'"
+- " OPEN JOINT STOCK COMPANY 'ALBASHSKIY ELEVATOR'"
+- " AKTSIONERNOE OBSHCHESTVO OTKRYTOGO TIPA ALBASHKI ELEVATOR"
+source: us-govt-data
+ref_number: '20673'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: RUSSIAN AGRICULTURAL BANK)'
+address:
+- street: '15 per. Zaporozhski Stanitsa Novominskaya   '
+  city: Kanevskoi Raion
+  state: Krasnodarski Kr.
+  country: Russia
+  zip: '353701'
+- street: '15 Zaporogskiy Pereulok   '
+  city: Novominskaya Village, Kanevskoy District
+  state: Krasnodar Region
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1022303977112'
+  country: 
+- type: Government Gazette Number
+  number: '00940430'
+  country: 
+- type: Tax ID No.
+  number: '2334001310'
+  country: 
+- type: Email Address
+  number: albashskiy@mail.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

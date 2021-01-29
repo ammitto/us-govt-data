@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA, AO
+- " JOINT STOCK COMPANY 'MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA'"
+- " AKTSIONERNOE OBSHCHESTVO 'MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA'"
+- " INTERNATIONAL MANAGEMENT COMPANY OJSC"
+- " OJSC INTERNATIONAL MANAGEMENT COMPANY"
+- " AKTSIONERNOE OBSHCHESTVO MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA"
+source: us-govt-data
+ref_number: '20006'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: BANK OF MOSCOW)'
+address:
+- street: 'd. 13/2 ul. Begovaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '125284'
+documents:
+- type: Registration ID
+  number: '1027714019772'
+  country: Russia
+- type: Government Gazette Number
+  number: '59709936'
+  country: Russia
+- type: Tax ID No.
+  number: '7714283773'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

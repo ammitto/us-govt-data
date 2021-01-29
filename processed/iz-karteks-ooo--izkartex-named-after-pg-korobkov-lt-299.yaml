@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- IZ KARTEKS OOO
+- " IZ-KARTEX NAMED AFTER P.G. KOROBKOV LTD"
+source: us-govt-data
+ref_number: '20304'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Izhorskiy Zavod B/N Kolpino  '
+  city: Saint-Petersburg
+  state: 
+  country: Russia
+  zip: '196650'
+- street: 'Izhorskiy Zavod d. b/n Kolpino '
+  city: Saint-Petersburg
+  state: 
+  country: Russia
+  zip: '196651'
+documents:
+- type: Tax ID No.
+  number: '7817301375'
+  country: 
+- type: Registration ID
+  number: '1047855158780'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: http://iz-kartex.com
+  country: 

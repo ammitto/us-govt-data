@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZ-OIL, OOO
+- " GAZ-OIL"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZ-OIL'"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO GAZ OIL"
+source: us-govt-data
+ref_number: '19639'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.10 B ul.Nametkina   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117420'
+documents:
+- type: Registration ID
+  number: '1113926004422'
+  country: 
+- type: Tax ID No.
+  number: '3906229324'
+  country: 
+- type: Government Gazette Number
+  number: '22876655'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: i.blagodarov@gasoil.ru
+  country: 
+- type: Website
+  number: gasoil.ru
+  country: 

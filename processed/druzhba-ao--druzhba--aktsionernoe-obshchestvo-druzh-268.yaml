@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- DRUZHBA, AO
+- " DRUZHBA"
+- " AKTSIONERNOE OBSHCHESTVO 'DRUZHBA'"
+source: us-govt-data
+ref_number: '19690'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'Rogozinino   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '143397'
+documents:
+- type: Registration ID
+  number: '1025003747317'
+  country: 
+- type: Government Gazette Number
+  number: '31850347'
+  country: 
+- type: Tax ID No.
+  number: '5030019801'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Website
+  number: en.imperialhotel.ru
+  country: 
+- type: Email Address
+  number: drugba@t50.ru
+  country: 

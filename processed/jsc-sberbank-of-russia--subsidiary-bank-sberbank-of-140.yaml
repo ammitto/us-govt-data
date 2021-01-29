@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- JSC SBERBANK OF RUSSIA
+- " SUBSIDIARY BANK SBERBANK OF RUSSIA PUBLIC JOINT-STOCK COMPANY"
+- " SBERBANK OF RUSSIA SUBSIDIARY BANK PUBLIC JOINT STOCK COMPANY"
+- " PUBLICHNE AKTSIONERNE TOVARYSTVO DOCHIRNII BANK SBERBANKU ROSII"
+- " SBERBANK OF RUSSIA JSC"
+- " SBERBANK OF RUSSIA SUBSIDIARY BANK PRIVATE JOINT STOCK COMPANY"
+source: us-govt-data
+ref_number: '18715'
+ref_type: Sdn UID
+country: Ukraine
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: '46, Volodymyrska street   '
+  city: Kyiv
+  state: 
+  country: Ukraine
+  zip: '01601'
+documents:
+- type: Registration ID
+  number: '25959784'
+  country: Ukraine
+- type: Website
+  number: www.sberbank.ua
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: SABRUAUK
+  country: 

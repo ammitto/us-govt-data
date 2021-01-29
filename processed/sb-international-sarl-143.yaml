@@ -1,0 +1,24 @@
+---
+entity_type: organization
+names:
+- SB INTERNATIONAL SARL
+source: us-govt-data
+ref_number: '18718'
+ref_type: Sdn UID
+country: Luxembourg
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: SBERBANK OF RUSSIA)'
+address:
+- street: 'Avenue J.F. Kennedy 46a   '
+  city: 1855 Luxembourg
+  state: 
+  country: Luxembourg
+  zip: 
+documents:
+- type: Registration ID
+  number: B161089
+  country: Luxembourg
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

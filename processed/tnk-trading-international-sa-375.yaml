@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- TNK TRADING INTERNATIONAL S.A.
+source: us-govt-data
+ref_number: '28603'
+ref_type: Sdn UID
+country: Switzerland
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'
+address:
+- street: 'place du Lac 2   '
+  city: Geneve
+  state: 
+  country: Switzerland
+  zip: '1204'
+documents:
+- type: V.A.T. Number
+  number: CHE-267.936.404
+  country: Switzerland
+- type: Business Registration Number
+  number: CH-660.0.559.011-2
+  country: Switzerland
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

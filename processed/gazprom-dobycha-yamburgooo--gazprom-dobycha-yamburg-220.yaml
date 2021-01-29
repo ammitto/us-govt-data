@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- GAZPROM DOBYCHA YAMBURG,OOO
+- " GAZPROM DOBYCHA YAMBURG"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM DOBYCHA YAMBURG'"
+source: us-govt-data
+ref_number: '19468'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd.9 ul. Geologorazvedchikov   '
+  city: Novy Urengoi
+  state: Yamalo-Nenetski a.o
+  country: Russia
+  zip: '629306'
+documents:
+- type: Registration ID
+  number: '1028900624576'
+  country: 
+- type: Government Gazette Number
+  number: '04803457'
+  country: 
+- type: Tax ID No.
+  number: '8904034777'
+  country: 
+- type: Email Address
+  number: PRIYEMNAYA@YGDU
+  country: 
+- type: Website
+  number: yamburg-dobycha.gazprom.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

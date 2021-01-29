@@ -1,0 +1,29 @@
+---
+entity_type: organization
+names:
+- VTB BANK JSC BELGRADE
+- " VTB BANKA AD BEOGRAD"
+- " MOSKOVSKA BANKA AD"
+source: us-govt-data
+ref_number: '18728'
+ref_type: Sdn UID
+country: Serbia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK OAO)'
+address:
+- street: '2 Balkanska street   '
+  city: Belgrade
+  state: 
+  country: Serbia
+  zip: 11 000
+documents:
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: MBBGRSBG
+  country: 
+- type: Website
+  number: www.vtbbanka.rs
+  country: 

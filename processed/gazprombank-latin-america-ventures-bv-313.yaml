@@ -1,0 +1,24 @@
+---
+entity_type: organization
+names:
+- GAZPROMBANK LATIN AMERICA VENTURES BV
+source: us-govt-data
+ref_number: '20319'
+ref_type: Sdn UID
+country: Netherlands
+birthdate: 
+remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: 'Dijsselhofplantsoen 14   '
+  city: Amsterdam
+  state: Noord-Holland
+  country: Netherlands
+  zip: '1077'
+documents:
+- type: Registration ID
+  number: '52285421'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

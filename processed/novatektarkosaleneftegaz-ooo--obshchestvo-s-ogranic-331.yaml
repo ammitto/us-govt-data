@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- NOVATEK-TARKOSALENEFTEGAZ, OOO
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NOVATEK-TARKOSALENEFTEGAZ'"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PUR LEND"
+- " OOO NOVATEK-TARKOSALENEFTGAS"
+source: us-govt-data
+ref_number: '20677'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: OAO NOVATEK)'
+address:
+- street: '28 ul. Tarasova, Tarko-Sale   '
+  city: Purovski Raion
+  state: Yamalo-Nentski Okr.
+  country: Russia
+  zip: '629850'
+documents:
+- type: Registration ID
+  number: '1058901201920'
+  country: 
+- type: Government Gazette Number
+  number: '33589611'
+  country: 
+- type: Tax ID No.
+  number: '8911020768'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Email Address
+  number: global@tsng.novatek.ru
+  country: 

@@ -1,0 +1,23 @@
+---
+entity_type: organization
+names:
+- Evren KAYAKIRAN
+source: us-govt-data
+ref_number: '26182'
+ref_type: Sdn UID
+country: Turkey
+birthdate: '08 Feb 1980'
+remark: 
+address:
+- street: "   "
+  city: 
+  state: 
+  country: Turkey
+  zip: 
+documents:
+- type: Passport
+  number: U00242309
+  country: Turkey
+- type: Gender
+  number: Male
+  country: 

@@ -1,0 +1,43 @@
+---
+entity_type: organization
+names:
+- AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE OPTIKA
+- " NPO OPTIKA, AO"
+- " OPEN JOINT STOCK COMPANY NAUCHNO-PROIZVODSTVENNOYE OBYEDINENIYE OPTIKA"
+- " FEDERAL STATE UNITARY ENTERPRISE @SCIENTIFIC AND PRODUCTION ASSOCIATION OPTIKA"
+- " FEDERALNOE GOSUDARSTVENNOE UNITARNOE PREDPRIYATIE NAUCHNO PROIZVODSTVENNOE OBEDINENIE
+  OPTIKA"
+source: us-govt-data
+ref_number: '18808'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'Vladenie 33 Shosse Altufevskoe   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127410'
+- street: 'Shosse Altufyevskoye, D. 33   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127410'
+documents:
+- type: Government Gazette Number
+  number: '17412936'
+  country: 
+- type: Registration ID
+  number: '1127746188536'
+  country: 
+- type: Tax ID No.
+  number: '7715909132'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: Email Address
+  number: TEOPT@MAIL.CNT.RU
+  country: 

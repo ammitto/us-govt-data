@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- TRANSNEFT-PRIVOLGA, AO
+- " AKTSIONERNOE OBSHCHESTVO 'TRANSNEFT-PRIVOLGA'"
+- " JSC PRIVOLZHSKNEFTEPROVOD"
+- " OPEN JOINT-STOCK COMPANY 'PRIVOLZHSK OIL TRUNK PIPELINES'"
+source: us-govt-data
+ref_number: '22385'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: AK TRANSNEFT OAO)'
+address:
+- street: '100 ul. Leninskaya   '
+  city: Samara
+  state: Samarskaya Obl.
+  country: Russia
+  zip: '443020'
+documents:
+- type: Registration ID
+  number: '1026301416371'
+  country: Russia
+- type: Government Gazette Number
+  number: '00139117'
+  country: Russia
+- type: Tax ID No.
+  number: '6317024749'
+  country: Russia
+- type: Email Address
+  number: ootorg@pmn.ru
+  country: 
+- type: Website
+  number: pmn.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 

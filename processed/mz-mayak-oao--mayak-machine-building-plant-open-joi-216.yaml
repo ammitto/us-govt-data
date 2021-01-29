@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- MZ MAYAK OAO
+- " MAYAK MACHINE BUILDING PLANT OPEN JOINT STOCK COMPANY"
+- " MASHINOSTROITELNIY ZAVOD MAYAK"
+- " OPEN JOINT-STOCK COMPANY MASHINOSTROITELNIY ZAVOD MAYAK"
+source: us-govt-data
+ref_number: '18817'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'Street Ibragimova, D. 31   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '105318'
+documents:
+- type: Tax ID No.
+  number: '7719024042'
+  country: 
+- type: Website
+  number: http://www.mzmayak.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 

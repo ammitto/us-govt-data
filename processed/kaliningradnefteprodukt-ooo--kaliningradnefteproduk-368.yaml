@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- KALININGRADNEFTEPRODUKT OOO
+- " KALININGRADNEFTEPRODUKT LLC"
+- " LLC KALININGRADNEFTEPRODUCT"
+- " LIMITED LIABILITY COMPANY KALININGRADNEFTEPRODUCT"
+source: us-govt-data
+ref_number: '23569'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
+  (Linked To: SURGUTNEFTEGAS)'
+address:
+- street: '22-b Komsomolskaya Ulitsa Central District  '
+  city: Kaliningrad
+  state: 
+  country: Russia
+  zip: 
+documents:
+- type: Registration ID
+  number: '1023900589240'
+  country: Russia
+- type: Tax ID No.
+  number: '3900000136'
+  country: Russia
+- type: Email Address
+  number: knp@baltnet.ru
+  country: 
+- type: Nationality of Registration
+  number: Russia
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 

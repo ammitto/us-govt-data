@@ -1,0 +1,37 @@
+---
+entity_type: organization
+names:
+- AREXIMBANK-GAZPROMBANK GROUP CJSC
+- " ARMENIAN-RUSSIAN EXPORT-IMPORT BANK-GAZPROMBANK GROUP CLOSED JOINT-STOCK COMPANY"
+source: us-govt-data
+ref_number: '20311'
+ref_type: Sdn UID
+country: Armenia
+birthdate: 
+remark: 'All offices worldwide; for more information on directives, please visit the
+  following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: GAZPROMBANK OAO)'
+address:
+- street: '12 M. Mkrtchyan Street   '
+  city: Yerevan
+  state: 
+  country: Armenia
+  zip: '375010'
+- street: '6-10 Northern Ave.   '
+  city: Yerevan
+  state: 
+  country: Armenia
+  zip: '0001'
+documents:
+- type: Tax ID No.
+  number: '02540791'
+  country: 
+- type: SWIFT/BIC
+  number: RKASAM22
+  country: 
+- type: Website
+  number: www.areximbank.am
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 

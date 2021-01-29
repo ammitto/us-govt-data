@@ -1,0 +1,15 @@
+---
+entity_type: organization
+names:
+- Paul VAN MAZIJK
+source: us-govt-data
+ref_number: '17532'
+ref_type: Sdn UID
+country: 
+birthdate: 24 Jan 1958
+remark: 
+address: []
+documents:
+- type: Passport
+  number: NSK7K05F4
+  country: Netherlands

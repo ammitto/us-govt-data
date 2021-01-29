@@ -1,0 +1,39 @@
+---
+entity_type: organization
+names:
+- GAZPROM FLOT, OOO
+- " GAZPROM FLOT"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'GAZPROM FLOT'"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU GAZFLOT"
+source: us-govt-data
+ref_number: '19638'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)'
+address:
+- street: 'd. 12 A ul.Nametkina   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117420'
+documents:
+- type: Registration ID
+  number: '1027700198635'
+  country: 
+- type: Tax ID No.
+  number: '7740000037'
+  country: 
+- type: Government Gazette Number
+  number: '40025139'
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: Email Address
+  number: denisenko@gazflot.ru
+  country: 
+- type: Website
+  number: flot.gazprom.ru
+  country: 

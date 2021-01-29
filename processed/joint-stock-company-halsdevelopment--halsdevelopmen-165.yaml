@@ -1,0 +1,33 @@
+---
+entity_type: organization
+names:
+- JOINT STOCK COMPANY HALS-DEVELOPMENT
+- " HALS-DEVELOPMENT JSC"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO GALS DEVELOPMENT"
+- " GALS-DEVELOPMENT, OAO"
+- " HALS-DEVELOPMENT, OJSC"
+- " HALS DEVELOPMENT OJSC"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO SISTEMA HALS"
+source: us-govt-data
+ref_number: '18740'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: VTB BANK OAO)'
+address:
+- street: 'd. 35 str. 4 ul. Tatarskaya B   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '115184'
+documents:
+- type: Registration ID
+  number: '1027739002510'
+  country: Russia
+- type: Website
+  number: www.hals-development.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
