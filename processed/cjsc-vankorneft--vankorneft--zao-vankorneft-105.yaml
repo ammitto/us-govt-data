@@ -19,11 +19,11 @@ address:
   zip: '660077'
 documents:
 - type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 4
   country: 
 - type: Email Address
   number: info@vankoroil.ru
-  country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 2
   country: 

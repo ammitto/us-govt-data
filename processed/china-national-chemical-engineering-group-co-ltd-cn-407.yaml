@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- CHINA NATIONAL CHEMICAL ENGINEERING GROUP CO., LTD. (CNCEC)
+- " CHINA NATIONAL CHEMICAL ENGINEERING GROUP CORP LTD"
+source: us-govt-data
+ref_number: '30952'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: 
+address: []
+documents:
+- type: Listing Date (CCMC)
+  number: 12 Nov 2020
+  country: 
+- type: Effective Date (CCMC)
+  number: 11 Jan 2021
+  country: 
+- type: Divestment Date (CCMC)
+  number: 12 Nov 2021
+  country: 
+- type: Equity Ticker
+  number: ZHJTTZ CN
+  country: 
+- type: Issuer Name
+  number: China National Chemical Engineering Group Corp Ltd
+  country: 

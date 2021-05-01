@@ -29,12 +29,12 @@ documents:
 - type: Registration ID
   number: '1025007389527'
   country: Russia
+- type: Email Address
+  number: korotkovaa@ctd.transneft.ru
+  country: 
 - type: Website
   number: www.diascan.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 2
-  country: 
-- type: Email Address
-  number: korotkovaa@ctd.transneft.ru
   country: 

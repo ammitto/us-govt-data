@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- CHINA SOUTH INDUSTRIES GROUP CORPORATION (CSGC)
+- " CHINA SOUTH INDUSTRIES GROUP CO LTD"
+source: us-govt-data
+ref_number: '30933'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: 
+address: []
+documents:
+- type: Issuer Name
+  number: China South Industries Group Co Ltd
+  country: 
+- type: Listing Date (CCMC)
+  number: 12 Nov 2020
+  country: 
+- type: Equity Ticker
+  number: CSIGCZ CN
+  country: 
+- type: Effective Date (CCMC)
+  number: 11 Jan 2021
+  country: 
+- type: Divestment Date (CCMC)
+  number: 12 Nov 2021
+  country: 

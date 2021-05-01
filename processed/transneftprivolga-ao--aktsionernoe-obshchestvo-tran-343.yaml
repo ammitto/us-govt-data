@@ -19,14 +19,14 @@ address:
   country: Russia
   zip: '443020'
 documents:
-- type: Registration ID
-  number: '1026301416371'
-  country: Russia
 - type: Government Gazette Number
   number: '00139117'
   country: Russia
 - type: Tax ID No.
   number: '6317024749'
+  country: Russia
+- type: Registration ID
+  number: '1026301416371'
   country: Russia
 - type: Email Address
   number: ootorg@pmn.ru

@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORP. (SMIC)
+- " SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORP"
+source: us-govt-data
+ref_number: '30951'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: 
+address: []
+documents:
+- type: Equity Ticker
+  number: 688981 CN
+  country: 
+- type: Listing Date (CCMC)
+  number: 03 Dec 2020
+  country: 
+- type: Effective Date (CCMC)
+  number: 01 Feb 2021
+  country: 
+- type: Divestment Date (CCMC)
+  number: 03 Dec 2021
+  country: 
+- type: Issuer Name
+  number: Semiconductor Manufacturing International Corp
+  country: 
+- type: Equity Ticker
+  number: 981 HK
+  country: 

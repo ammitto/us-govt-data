@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- CHINA INTERNATIONAL ENGINEERING CONSULTING CORP. (CIECC)
+- " CHINA INTERNATIONAL ENGINEERING CONSULTING CORP"
+source: us-govt-data
+ref_number: '30941'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: 
+address: []
+documents:
+- type: Effective Date (CCMC)
+  number: 01 Feb 2021
+  country: 
+- type: Divestment Date (CCMC)
+  number: 03 Dec 2021
+  country: 
+- type: Issuer Name
+  number: China International Engineering Consulting Corp
+  country: 
+- type: Listing Date (CCMC)
+  number: 03 Dec 2020
+  country: 
+- type: Equity Ticker
+  number: ENGINZ CN
+  country: 

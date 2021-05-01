@@ -30,12 +30,12 @@ documents:
 - type: Tax ID No.
   number: '7718218951'
   country: 
-- type: Website
-  number: www.oboronprom.com
-  country: 
 - type: Email Address
   number: oboronprom@oboronprom.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
+  country: 
+- type: Website
+  number: www.oboronprom.com
   country: 

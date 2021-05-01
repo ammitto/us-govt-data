@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- CHINA MOBILE LIMITED
+source: us-govt-data
+ref_number: '30923'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: "(Linked To: CHINA MOBILE COMMUNICATIONS GROUP)"
+address: []
+documents:
+- type: Equity Ticker
+  number: CHL US
+  country: 
+- type: Equity Ticker
+  number: 941 HK
+  country: 
+- type: Effective Date (CCMC)
+  number: '09 Mar 2021'
+  country: 
+- type: Divestment Date (CCMC)
+  number: '08 Jan 2022'
+  country: 
+- type: Listing Date (CCMC)
+  number: '08 Jan 2021'
+  country: 
+- type: Issuer Name
+  number: China Mobile Limited
+  country: 

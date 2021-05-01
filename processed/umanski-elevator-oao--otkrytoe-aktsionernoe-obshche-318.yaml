@@ -24,14 +24,14 @@ address:
   country: Russia
   zip: 
 documents:
-- type: Tax ID No.
-  number: '2341000195'
-  country: 
 - type: Government Gazette Number
   number: '00940849'
   country: 
 - type: Registration ID
   number: '1022304292416'
+  country: 
+- type: Tax ID No.
+  number: '2341000195'
   country: 
 - type: Email Address
   number: umansk-el-yr@mail.ru

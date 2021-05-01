@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- CHINA CONSTRUCTION TECHNOLOGY CO. LTD. (CCTC)
+- " CHINA CONSTRUCTION TECHNOLOGY CO LTD"
+source: us-govt-data
+ref_number: '30931'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: 
+address: []
+documents:
+- type: Listing Date (CCMC)
+  number: 03 Dec 2020
+  country: 
+- type: Effective Date (CCMC)
+  number: 01 Feb 2021
+  country: 
+- type: Divestment Date (CCMC)
+  number: 03 Dec 2021
+  country: 
+- type: Issuer Name
+  number: China Construction Technology Co Ltd
+  country: 
+- type: Equity Ticker
+  number: AABZDZ CN
+  country: 

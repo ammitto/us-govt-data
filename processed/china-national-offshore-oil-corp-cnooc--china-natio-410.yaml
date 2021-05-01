@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- CHINA NATIONAL OFFSHORE OIL CORP. (CNOOC)
+- " CHINA NATIONAL OFFSHORE OIL CORP"
+source: us-govt-data
+ref_number: '30956'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: 
+address: []
+documents:
+- type: Issuer Name
+  number: China National Offshore Oil Corp
+  country: 
+- type: Equity Ticker
+  number: CNOZ CN
+  country: 
+- type: Listing Date (CCMC)
+  number: 03 Dec 2020
+  country: 
+- type: Effective Date (CCMC)
+  number: 01 Feb 2021
+  country: 
+- type: Divestment Date (CCMC)
+  number: 03 Dec 2021
+  country: 

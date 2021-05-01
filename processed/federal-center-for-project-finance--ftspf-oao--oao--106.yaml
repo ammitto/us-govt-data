@@ -23,9 +23,9 @@ documents:
 - type: Public Registration Number
   number: '1027739088410'
   country: 
-- type: Website
-  number: fcpf.ru
-  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Website
+  number: fcpf.ru
   country: 

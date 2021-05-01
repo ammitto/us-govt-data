@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- AVIATION INDUSTRY CORPORATION OF CHINA (AVIC)
+- " AVIATION INDUSTRY CORPORATION OF CHINA, LTD. (AVIC)"
+source: us-govt-data
+ref_number: '30925'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: 
+address: []
+documents:
+- type: Equity Ticker
+  number: CAICPZ CN
+  country: 
+- type: Listing Date (CCMC)
+  number: 12 Nov 2020
+  country: 
+- type: Effective Date (CCMC)
+  number: 11 Jan 2021
+  country: 
+- type: Divestment Date (CCMC)
+  number: 12 Nov 2021
+  country: 
+- type: Issuer Name
+  number: Aviation Industry Corp of China Ltd
+  country: 

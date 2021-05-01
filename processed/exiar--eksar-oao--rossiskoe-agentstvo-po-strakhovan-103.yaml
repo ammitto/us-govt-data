@@ -24,9 +24,9 @@ documents:
 - type: Public Registration Number
   number: '1117746811566'
   country: 
-- type: Website
-  number: exiar.ru
-  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Website
+  number: exiar.ru
   country: 

@@ -22,12 +22,12 @@ address:
   country: Kazakhstan
   zip: '050010'
 documents:
-- type: Website
-  number: www.sberbank.kz
-  country: 
 - type: SWIFT/BIC
   number: SABRKZKA
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.sberbank.kz
   country: 

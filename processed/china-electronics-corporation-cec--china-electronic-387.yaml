@@ -1,0 +1,28 @@
+---
+entity_type: organization
+names:
+- CHINA ELECTRONICS CORPORATION (CEC)
+- " CHINA ELECTRONICS CORP"
+source: us-govt-data
+ref_number: '30932'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: 
+address: []
+documents:
+- type: Listing Date (CCMC)
+  number: 12 Nov 2020
+  country: 
+- type: Effective Date (CCMC)
+  number: 11 Jan 2021
+  country: 
+- type: Divestment Date (CCMC)
+  number: 12 Nov 2021
+  country: 
+- type: Issuer Name
+  number: China Electronics Corp
+  country: 
+- type: Equity Ticker
+  number: CHELEZ CN
+  country: 

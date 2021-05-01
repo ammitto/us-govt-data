@@ -20,14 +20,14 @@ address:
   country: Russia
   zip: '117420'
 documents:
-- type: Government Gazette Number
-  number: '00140058'
-  country: Russia
 - type: Tax ID No.
   number: '7723011906'
   country: Russia
 - type: Registration ID
   number: '1027739420961'
+  country: Russia
+- type: Government Gazette Number
+  number: '00140058'
   country: Russia
 - type: Website
   number: www.oilnet.ru
