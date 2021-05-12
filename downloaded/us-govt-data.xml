@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>01/08/2021</Publish_Date>
-    <Record_Count>415</Record_Count>
+    <Publish_Date>05/11/2021</Publish_Date>
+    <Record_Count>412</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -3662,117 +3662,6 @@
         <country>Switzerland</country>
       </address>
     </addressList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>17530</uid>
-    <lastName>STAROIL B.V.</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>SYRIA</program>
-      <program>FSE-SY</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>9872</uid>
-        <idType>Commercial Registry Number</idType>
-        <idNumber>34311024</idNumber>
-        <idCountry>Netherlands</idCountry>
-      </id>
-      <id>
-        <uid>9870</uid>
-        <idType>V.A.T. Number</idType>
-        <idNumber>NL 819860578B01</idNumber>
-        <idCountry>Netherlands</idCountry>
-      </id>
-      <id>
-        <uid>9871</uid>
-        <idType>Registration ID</idType>
-        <idNumber>819860578</idNumber>
-        <idCountry>Netherlands</idCountry>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>27044</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>STAROIL S.A.</lastName>
-      </aka>
-    </akaList>
-    <addressList>
-      <address>
-        <uid>26690</uid>
-        <address1>Wilhelminastraat 43 A</address1>
-        <city>Haarlem</city>
-        <postalCode>2011 VK</postalCode>
-        <country>Netherlands</country>
-      </address>
-      <address>
-        <uid>26691</uid>
-        <address1>30 A Rte de Chene</address1>
-        <city>Geneva</city>
-        <postalCode>1208</postalCode>
-        <country>Switzerland</country>
-      </address>
-    </addressList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>17531</uid>
-    <firstName>Alexander</firstName>
-    <lastName>HOLLEBRAND</lastName>
-    <sdnType>Individual</sdnType>
-    <programList>
-      <program>SYRIA</program>
-      <program>FSE-SY</program>
-    </programList>
-    <akaList>
-      <aka>
-        <uid>27046</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>HOLLEBRAND</lastName>
-        <firstName>Sander</firstName>
-      </aka>
-    </akaList>
-    <dateOfBirthList>
-      <dateOfBirthItem>
-        <uid>16502</uid>
-        <dateOfBirth>20 Dec 1954</dateOfBirth>
-        <mainEntry>true</mainEntry>
-      </dateOfBirthItem>
-    </dateOfBirthList>
-    <placeOfBirthList>
-      <placeOfBirthItem>
-        <uid>16503</uid>
-        <placeOfBirth>Netherlands</placeOfBirth>
-        <mainEntry>true</mainEntry>
-      </placeOfBirthItem>
-    </placeOfBirthList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>17532</uid>
-    <firstName>Paul</firstName>
-    <lastName>VAN MAZIJK</lastName>
-    <sdnType>Individual</sdnType>
-    <programList>
-      <program>SYRIA</program>
-      <program>FSE-SY</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>9873</uid>
-        <idType>Passport</idType>
-        <idNumber>NSK7K05F4</idNumber>
-        <idCountry>Netherlands</idCountry>
-      </id>
-    </idList>
-    <dateOfBirthList>
-      <dateOfBirthItem>
-        <uid>16504</uid>
-        <dateOfBirth>24 Jan 1958</dateOfBirth>
-        <mainEntry>true</mainEntry>
-      </dateOfBirthItem>
-    </dateOfBirthList>
   </sdnEntry>
   <sdnEntry>
     <uid>18267</uid>
