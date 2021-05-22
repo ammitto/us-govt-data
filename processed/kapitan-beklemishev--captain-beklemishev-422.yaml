@@ -1,0 +1,19 @@
+---
+entity_type: organization
+names:
+- KAPITAN BEKLEMISHEV
+- " CAPTAIN BEKLEMISHEV"
+source: us-govt-data
+ref_number: '31938'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: "(Linked To: FEDERAL STATE BUDGETARY INSTITUTION MARINE RESCUE SERVICE)"
+address: []
+documents:
+- type: Vessel Registration Identification
+  number: IMO 8724080
+  country: 
+- type: 'PEESA Information:'
+  number: Property and Interests in Property Blocked, Except Importation of Goods
+  country: 

@@ -1,0 +1,20 @@
+---
+entity_type: organization
+names:
+- BALTIYSKIY ISSLEDOVATEL
+- " BALTIC EXPLORER"
+- " BALT. ISSLEDOVATEL"
+source: us-govt-data
+ref_number: '31930'
+ref_type: Sdn UID
+country: 
+birthdate: 
+remark: "(Linked To: FEDERAL STATE BUDGETARY INSTITUTION MARINE RESCUE SERVICE)"
+address: []
+documents:
+- type: Vessel Registration Identification
+  number: IMO 9572020
+  country: 
+- type: 'PEESA Information:'
+  number: Property and Interests in Property Blocked, Except Importation of Goods
+  country: 

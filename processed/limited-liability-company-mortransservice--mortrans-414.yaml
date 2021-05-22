@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- LIMITED LIABILITY COMPANY MORTRANSSERVICE
+- " MORTRANSSERVIS OOO"
+source: us-govt-data
+ref_number: '31928'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 
+address:
+- street: 'ul Viktora Gyugo Building 1, 3rd Floor Room 15, Office 302, 303 '
+  city: Kaliningrad
+  state: 
+  country: Russia
+  zip: '129110'
+documents:
+- type: Tax ID No.
+  number: '7707847556'
+  country: Russia
+- type: Business Registration Number
+  number: '5147746277036'
+  country: Russia
+- type: Identification Number
+  number: IMO 5933437
+  country: 
+- type: 'PEESA Information:'
+  number: Property and Interests in Property Blocked, Except Importation of Goods
+  country: 
