@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD.
+- " CHINA UNITED NETWORK COMMUNICATIONS GROUP COMPANY LIMITED"
+- " CHINA UNICOM"
+- " CHINA UNITED TELECOMMUNICATIONS CORPORATION"
+source: us-govt-data
+ref_number: '30942'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 21, Financial Street Xicheng District  '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100033'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91110000MA001HYK9X
+  country: China
+- type: Target Type
+  number: Private Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

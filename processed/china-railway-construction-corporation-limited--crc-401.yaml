@@ -1,0 +1,45 @@
+---
+entity_type: organization
+names:
+- CHINA RAILWAY CONSTRUCTION CORPORATION LIMITED
+- " CRCC"
+source: us-govt-data
+ref_number: '30959'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'East Yard No. 40, Fuxing Road, Haidian District   '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100855'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91110000710935150D
+  country: China
+- type: Issuer Name
+  number: China Railway Construction Corporation Limited
+  country: 
+- type: Equity Ticker
+  number: 601186 CN
+  country: 
+- type: Equity Ticker
+  number: 1186 HK
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: ISIN
+  number: CNE1000009T1
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

@@ -1,0 +1,60 @@
+---
+entity_type: organization
+names:
+- CHINA COMMUNICATIONS CONSTRUCTION GROUP (LIMITED)
+- " CHINA COMMUNICATIONS CONSTRUCTION GROUP (LTD)"
+- " CHINA COMMUNICATIONS GROUP CO. LTD"
+- " CHINA COMMUNICATIONS GROUP COMPANY LIMITED"
+- " CCCG"
+source: us-govt-data
+ref_number: '32072'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: "(Linked To: CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED)"
+address:
+- street: 'No. 85, Deshengmen Outer Street Xicheng District  '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100088'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91110000710933809D
+  country: China
+- type: Issuer Name
+  number: China Communications Group Company Limited
+  country: 
+- type: ISIN
+  number: CND10003RDS3
+  country: 
+- type: ISIN
+  number: CND100041XX5
+  country: 
+- type: ISIN
+  number: CND1000455C3
+  country: 
+- type: ISIN
+  number: CND100041XW7
+  country: 
+- type: ISIN
+  number: CND1000455B5
+  country: 
+- type: Target Type
+  number: Private Company
+  country: 
+- type: Issuer Name
+  number: China Communications Group Co. Ltd
+  country: 
+- type: Issuer Name
+  number: China Communications Construction Group (Ltd.)
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

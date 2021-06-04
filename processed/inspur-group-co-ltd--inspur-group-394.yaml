@@ -1,0 +1,33 @@
+---
+entity_type: organization
+names:
+- INSPUR GROUP CO., LTD.
+- " INSPUR GROUP"
+source: us-govt-data
+ref_number: '30949'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 1036 High-Tech Inspur Road  '
+  city: Jinan
+  state: Shandong
+  country: China
+  zip: '250101'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '913700001630477270'
+  country: China
+- type: Target Type
+  number: Private Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

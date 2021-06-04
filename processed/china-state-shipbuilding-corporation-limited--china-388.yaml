@@ -1,0 +1,64 @@
+---
+entity_type: organization
+names:
+- CHINA STATE SHIPBUILDING CORPORATION LIMITED
+- " CHINA STATE SHIPBUILDING CORPORATION"
+- " CHINA SHIPBUILDING CORPORATION"
+- " CSSC"
+- " CSC"
+- " CHINA STATE SHIPBUILDING CORPORATION CO. LTD"
+source: us-govt-data
+ref_number: '30938'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 1, Pudong Avenue Pilot Free Trade Zone Pudong New District '
+  city: Shanghai
+  state: 
+  country: China
+  zip: '200135'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91310000710924478P
+  country: China
+- type: ISIN
+  number: CND100005C60
+  country: 
+- type: ISIN
+  number: CND10000KTB6
+  country: 
+- type: ISIN
+  number: CND10000KT93
+  country: 
+- type: ISIN
+  number: CND100005MX3
+  country: 
+- type: ISIN
+  number: CND100005MX3
+  country: 
+- type: ISIN
+  number: CND10000LD58
+  country: 
+- type: ISIN
+  number: CND10000LLH8
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Issuer Name
+  number: China State Shipbuilding Corporation
+  country: 
+- type: Issuer Name
+  number: China State Shipbuilding Corporation Co. Ltd
+  country: 
+- type: Target Type
+  number: Private Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 

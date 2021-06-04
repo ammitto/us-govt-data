@@ -1,0 +1,43 @@
+---
+entity_type: organization
+names:
+- NORTH NAVIGATION CONTROL TECHNOLOGY CO., LTD.
+- " BEIJING NORTH PHENIX INTELLIGENCE TECHNOLOGY CO., LTD."
+- " CHINA NORTH OPTICAL-ELECTRICAL TECHNOLOGY CO., LTD."
+source: us-govt-data
+ref_number: '32130'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 2 Kechuang 15 Street Economic Technology Development Zone '
+  city: Beijing
+  state: 
+  country: China
+  zip: 
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '911100007226144851'
+  country: China
+- type: Equity Ticker
+  number: 600435 CN
+  country: 
+- type: Issuer Name
+  number: Beijing North Phenix Intelligence Technology Co., Ltd
+  country: 
+- type: ISIN
+  number: CNE000001F88
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

@@ -1,0 +1,77 @@
+---
+entity_type: organization
+names:
+- CHINA SOUTH INDUSTRIES GROUP CORPORATION
+- " CHINA SOUTH INDUSTRIES GROUP CO., LTD."
+- " CHINA SOUTH INDUSTRIES GROUP CORPORATION"
+- " CSIGC"
+- " CSGC"
+source: us-govt-data
+ref_number: '30933'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 46, Sanlihe Road Xicheng District  '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100032'
+- street: 'No. 10 Yard Chedaogou Haidian District '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100089'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91110000710924929L
+  country: China
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Target Type
+  number: Private Company
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: ISIN
+  number: CND10000KTG5
+  country: 
+- type: ISIN
+  number: CND10000K5V9
+  country: 
+- type: ISIN
+  number: CND10000KTF7
+  country: 
+- type: ISIN
+  number: CND10000GGC9
+  country: 
+- type: ISIN
+  number: CND10000K0B2
+  country: 
+- type: ISIN
+  number: CND10000GGD7
+  country: 
+- type: ISIN
+  number: CND10000KTD2
+  country: 
+- type: ISIN
+  number: CND10000K5W7
+  country: 
+- type: ISIN
+  number: CND10001TRP9
+  country: 
+- type: ISIN
+  number: CND10001TRQ7
+  country: 
+- type: Issuer Name
+  number: China South Industries Group Co., Ltd.
+  country: 
+- type: Issuer Name
+  number: China South Industries Group Corporation
+  country: 

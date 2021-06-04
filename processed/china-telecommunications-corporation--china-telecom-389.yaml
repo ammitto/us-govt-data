@@ -1,35 +1,34 @@
 ---
 entity_type: organization
 names:
-- AERO ENGINE CORPORATION OF CHINA
-- " AERO ENGINE CORP OF CHINA"
-- " AECC"
-- " CHINA AVIATION ENGINE GROUP CO., LTD"
+- CHINA TELECOMMUNICATIONS CORPORATION
+- " CHINA TELECOM"
+- " CHINA TELECOM GROUP CO., LTD."
 source: us-govt-data
-ref_number: '30902'
+ref_number: '30939'
 ref_type: Sdn UID
 country: China
 birthdate: 
 remark: 
 address:
-- street: '5 Landianchang South Road Haidian District   '
+- street: '31 Jinrong Street Xicheng District  '
   city: Beijing
   state: 
   country: China
-  zip: '100097'
+  zip: '100033'
 documents:
 - type: Unified Social Credit Code (USCC)
-  number: 91110000MA005UCQ5P
+  number: 91110000100017707H
   country: China
-- type: Effective Date (CMIC)
-  number: 02 Aug 2021
+- type: Target Type
+  number: Private Company
   country: 
 - type: Listing Date (CMIC)
   number: 03 Jun 2021
   country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
-  country: 
-- type: Target Type
-  number: State-Owned Enterprise
   country: 

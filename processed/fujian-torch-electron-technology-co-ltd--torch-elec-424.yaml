@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- FUJIAN TORCH ELECTRON TECHNOLOGY CO., LTD.
+- " TORCH ELECTRON"
+source: us-govt-data
+ref_number: '32077'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'Hi-Tech Industrial Park, Jiangnan Park, 4, Zihua Road, Licheng district   '
+  city: Quanzhou
+  state: 
+  country: China
+  zip: '362000'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '913500001562023628'
+  country: China
+- type: ISIN
+  number: CNE100001TY3
+  country: 
+- type: Issuer Name
+  number: Fujian Torch Electron Technology Co., Ltd
+  country: 
+- type: Equity Ticker
+  number: 603678  CN
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

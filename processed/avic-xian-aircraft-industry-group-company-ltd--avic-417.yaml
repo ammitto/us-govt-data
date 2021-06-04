@@ -1,0 +1,45 @@
+---
+entity_type: organization
+names:
+- AVIC XI'AN AIRCRAFT INDUSTRY GROUP COMPANY LTD.
+- " AVIC XIAN AIRCRAFT INDUSTRY GROUP CO LTD"
+- " XI'AN AIRCRAFT INDUSTRY GROUP CO LTD"
+- " AVIC AIRCRAFT CO., LTD."
+- " XI'AN AIRCRAFT INDUSTRIAL CORP."
+source: us-govt-data
+ref_number: '32052'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 1 Xifei Avenue Yanliang District '
+  city: Xi'an
+  state: Shaanxi
+  country: China
+  zip: 
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '916100002942059830'
+  country: China
+- type: Issuer Name
+  number: AVIC Aircraft Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: '000768 CN'
+  country: 
+- type: ISIN
+  number: CNE000000RF9
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 

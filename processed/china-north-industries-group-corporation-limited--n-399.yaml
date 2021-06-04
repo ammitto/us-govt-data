@@ -1,0 +1,55 @@
+---
+entity_type: organization
+names:
+- CHINA NORTH INDUSTRIES GROUP CORPORATION LIMITED
+- " NORINCO"
+- " CHINA NORTH INDUSTRIES GROUP CORPORATION"
+- " NORINCO GROUP"
+- " CNIGC"
+- " CHINA NORTH INDUSTRIES GROUP CO. LTD"
+source: us-govt-data
+ref_number: '30957'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 46, Sanlihe Road Xicheng District  '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100821'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91110000710924910P
+  country: China
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Issuer Name
+  number: China North Industries Group Corporation Limited
+  country: 
+- type: Issuer Name
+  number: China North Industries Group Co. Ltd
+  country: 
+- type: Target Type
+  number: Private Company
+  country: 
+- type: ISIN
+  number: CND10001PXG4
+  country: 
+- type: ISIN
+  number: CND10000KPW0
+  country: 
+- type: ISIN
+  number: CND10000KSK9
+  country: 
+- type: ISIN
+  number: CND1000133M5
+  country: 

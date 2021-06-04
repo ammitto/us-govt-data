@@ -1,0 +1,69 @@
+---
+entity_type: organization
+names:
+- CNOOC LIMITED
+- " CNOOC LTD"
+source: us-govt-data
+ref_number: '30926'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: "(Linked To: CHINA NATIONAL OFFSHORE OIL CORPORATION)"
+address:
+- street: 'Bank of China Tower 65th Floor 1, Garden Road '
+  city: Hong Kong
+  state: 
+  country: China
+  zip: 
+documents:
+- type: Company Number
+  number: '0685974'
+  country: Hong Kong
+- type: Legal Entity Number
+  number: 549300XIVJCBIGMRUD48
+  country: 
+- type: Equity Ticker
+  number: '00083 HK'
+  country: 
+- type: Equity Ticker
+  number: CNU CA
+  country: 
+- type: ISIN
+  number: BRC1EODR004
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Equity Ticker
+  number: NC2B DE
+  country: 
+- type: Equity Ticker
+  number: CEO US
+  country: 
+- type: Issuer Name
+  number: CNOOC Limited
+  country: 
+- type: Issuer Name
+  number: CNOOC Ltd
+  country: 
+- type: ISIN
+  number: HK0883013259
+  country: 
+- type: ISIN
+  number: US1261321095
+  country: 
+- type: ISIN
+  number: HK2998013240
+  country: 
+- type: ISIN
+  number: HK0883013259
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 

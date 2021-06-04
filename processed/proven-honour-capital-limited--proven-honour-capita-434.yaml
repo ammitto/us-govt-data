@@ -1,0 +1,49 @@
+---
+entity_type: organization
+names:
+- PROVEN HONOUR CAPITAL LIMITED
+- " PROVEN HONOUR CAPITAL LTD"
+- " PROVEN HONOUR"
+source: us-govt-data
+ref_number: '32091'
+ref_type: Sdn UID
+country: Virgin Islands, British
+birthdate: 
+remark: "(Linked To: HUAWEI INVESTMENT & HOLDING CO., LTD.)"
+address:
+- street: 'C/O Vistra Corporate Services Centre Wickhams Cay II  '
+  city: Road Town
+  state: 
+  country: Virgin Islands, British
+  zip: VG1110
+documents:
+- type: Issuer Name
+  number: Proven Honour Capital Ltd
+  country: 
+- type: Issuer Name
+  number: Proven Honour Capital Limited
+  country: 
+- type: ISIN
+  number: XS1233275194
+  country: 
+- type: ISIN
+  number: HK0000216777
+  country: 
+- type: Target Type
+  number: Private Company
+  country: 
+- type: ISIN
+  number: XS1401816761
+  country: 
+- type: ISIN
+  number: HK0000111952
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

@@ -1,35 +1,33 @@
 ---
 entity_type: organization
 names:
-- AERO ENGINE CORPORATION OF CHINA
-- " AERO ENGINE CORP OF CHINA"
-- " AECC"
-- " CHINA AVIATION ENGINE GROUP CO., LTD"
+- HUAWEI TECHNOLOGIES CO., LTD.
+- " HUAWEI INVESTMENT & HOLDING CO LTD"
 source: us-govt-data
-ref_number: '30902'
+ref_number: '30947'
 ref_type: Sdn UID
 country: China
 birthdate: 
 remark: 
 address:
-- street: '5 Landianchang South Road Haidian District   '
-  city: Beijing
-  state: 
+- street: 'Huawei Headquarter Office Building Bantian Longgang District '
+  city: Guangdong
+  state: Shenzhen
   country: China
-  zip: '100097'
+  zip: '518129'
 documents:
 - type: Unified Social Credit Code (USCC)
-  number: 91110000MA005UCQ5P
+  number: '914403001922038216'
   country: China
 - type: Effective Date (CMIC)
   number: 02 Aug 2021
+  country: 
+- type: Target Type
+  number: Private Company
   country: 
 - type: Listing Date (CMIC)
   number: 03 Jun 2021
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
-  country: 
-- type: Target Type
-  number: State-Owned Enterprise
   country: 

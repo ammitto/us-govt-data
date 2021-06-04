@@ -1,0 +1,57 @@
+---
+entity_type: organization
+names:
+- HUAWEI INVESTMENT & HOLDING CO., LTD.
+- " HUAWEI INVESTMENT AND HOLDING CO., LTD."
+source: us-govt-data
+ref_number: '32087'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: "(Linked To: HUAWEI TECHNOLOGIES CO., LTD.)"
+address:
+- street: 'Building 1, Area B, Bantian Huawei Base Longgang District  '
+  city: Guangdong
+  state: Shenzhen
+  country: China
+  zip: 
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91440300746645251H
+  country: China
+- type: Target Type
+  number: Private Company
+  country: 
+- type: Issuer Name
+  number: Huawei Investment & Holding Co., Ltd.
+  country: 
+- type: Issuer Name
+  number: Huawei Investment and Holding Co., Ltd.
+  country: 
+- type: ISIN
+  number: CND10003D0F9
+  country: 
+- type: ISIN
+  number: CND10002J7T0
+  country: 
+- type: ISIN
+  number: CND1000336F8
+  country: 
+- type: ISIN
+  number: CND1000439R5
+  country: 
+- type: ISIN
+  number: CND100035KT2
+  country: 
+- type: ISIN
+  number: CND10002K3Y6
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

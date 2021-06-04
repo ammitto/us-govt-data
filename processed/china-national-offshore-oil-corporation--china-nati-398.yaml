@@ -1,42 +1,37 @@
 ---
 entity_type: organization
 names:
-- CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION
-- " CASC"
+- CHINA NATIONAL OFFSHORE OIL CORPORATION
+- " CHINA NATIONAL OFFSHORE OIL CORP."
+- " CNOOC"
 source: us-govt-data
-ref_number: '30929'
+ref_number: '30956'
 ref_type: Sdn UID
 country: China
 birthdate: 
 remark: 
 address:
-- street: 'No. 8, Fucheng Road, Haidian District   '
+- street: 'No. 25, Chaoyangmen North Street, Dongcheng District   '
   city: Beijing
   state: 
   country: China
-  zip: '100048'
+  zip: '100010'
 documents:
 - type: Unified Social Credit Code (USCC)
-  number: 91110000100014071Q
+  number: 91110000100001043E
   country: China
-- type: ISIN
-  number: CND1000090Q8
-  country: 
-- type: ISIN
-  number: CND100006HP7
+- type: Legal Entity Number
+  number: 300300AY5BEBCYDR2F31
   country: 
 - type: Target Type
   number: State-Owned Enterprise
   country: 
-- type: Issuer Name
-  number: China Aerospace Science and Technology Corporation
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
   country: 
 - type: Effective Date (CMIC)
   number: 02 Aug 2021
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
-  country: 
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
   country: 

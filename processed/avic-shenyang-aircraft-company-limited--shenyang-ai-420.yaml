@@ -1,0 +1,43 @@
+---
+entity_type: organization
+names:
+- AVIC SHENYANG AIRCRAFT COMPANY LIMITED
+- " SHENYANG AIRCRAFT CO. LTD."
+- " DONGAN HEIBAO CO., LTD."
+source: us-govt-data
+ref_number: '32056'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '1 Lingbei Street Huanggu District '
+  city: Shenyang
+  state: 
+  country: China
+  zip: '110850'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 9137000016309489X2
+  country: China
+- type: Issuer Name
+  number: Dongan Heibao Co. Ltd.
+  country: 
+- type: Equity Ticker
+  number: 600760 CN
+  country: 
+- type: ISIN
+  number: CNE000000MH6
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

@@ -1,0 +1,65 @@
+---
+entity_type: organization
+names:
+- NANJING PANDA ELECTRONICS COMPANY LIMITED
+- " NANJING PANDA ELECTRONIC CO. LTD."
+- " NANJING PANDA ELECTR. CO. LTD."
+- " NANJING PANDA"
+source: us-govt-data
+ref_number: '32128'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '7, Jingtian Road   '
+  city: Nanjing
+  state: 
+  country: China
+  zip: '210033'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91320100134974572K
+  country: China
+- type: ISIN
+  number: CN0009003921
+  country: 
+- type: ISIN
+  number: CNE1000003T4
+  country: 
+- type: ISIN
+  number: CNE000000NB7
+  country: 
+- type: ISIN
+  number: CN0005815195
+  country: 
+- type: Equity Ticker
+  number: 600775 CN
+  country: 
+- type: Equity Ticker
+  number: 00553 HK
+  country: 
+- type: Equity Ticker
+  number: NNJ DE
+  country: 
+- type: Issuer Name
+  number: Nanjing Panda Electr. Co. Ltd.
+  country: 
+- type: Issuer Name
+  number: Nanjing Panda Electronic Co. Ltd
+  country: 
+- type: Issuer Name
+  number: Nanjing Panda Electronics Company Limited
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

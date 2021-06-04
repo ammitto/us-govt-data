@@ -1,26 +1,31 @@
 ---
 entity_type: organization
 names:
-- AERO ENGINE CORPORATION OF CHINA
-- " AERO ENGINE CORP OF CHINA"
-- " AECC"
-- " CHINA AVIATION ENGINE GROUP CO., LTD"
+- CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION LIMITED
+- " CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION"
+- " CASIC"
 source: us-govt-data
-ref_number: '30902'
+ref_number: '30928'
 ref_type: Sdn UID
 country: China
 birthdate: 
 remark: 
 address:
-- street: '5 Landianchang South Road Haidian District   '
+- street: 'No. 8, Fucheng Road, Haidian District   '
   city: Beijing
   state: 
   country: China
-  zip: '100097'
+  zip: '100089'
 documents:
 - type: Unified Social Credit Code (USCC)
-  number: 91110000MA005UCQ5P
+  number: 91110000710925243K
   country: China
+- type: ISIN
+  number: CND1000142N4
+  country: 
+- type: Issuer Name
+  number: China Aerospace Science and Industry Corporation Limited
+  country: 
 - type: Effective Date (CMIC)
   number: 02 Aug 2021
   country: 

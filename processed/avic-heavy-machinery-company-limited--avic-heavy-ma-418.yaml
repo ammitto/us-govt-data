@@ -1,0 +1,44 @@
+---
+entity_type: organization
+names:
+- AVIC HEAVY MACHINERY COMPANY LIMITED
+- " AVIC HEAVY MACHINERY CO., LTD."
+- " GUIZHOU LIYUAN HYDRAULIC CO., LTD."
+- " GUIZHOU LIYUAN HYDRAULIC COMPONENTS CO., LTD."
+source: us-govt-data
+ref_number: '32053'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 501 Beiya Road Wudang District '
+  city: Guiyang
+  state: Guizhou
+  country: China
+  zip: 
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91520000214434146R
+  country: China
+- type: Issuer Name
+  number: Guizhou Liyuan Hydraulic Components Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 600765 CN
+  country: 
+- type: ISIN
+  number: CNE000000N22
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

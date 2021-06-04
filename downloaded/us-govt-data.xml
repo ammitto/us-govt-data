@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>05/21/2021</Publish_Date>
-    <Record_Count>426</Record_Count>
+    <Publish_Date>06/03/2021</Publish_Date>
+    <Record_Count>446</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -20978,20 +20978,16 @@
     <uid>30882</uid>
     <lastName>CHINA TELECOM CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>(Linked To: CHINA TELECOMMUNICATIONS CORP.)</remarks>
+    <remarks>(Linked To: CHINA TELECOMMUNICATIONS CORPORATION)</remarks>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>138980</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CHA US</idNumber>
-      </id>
-      <id>
-        <uid>138981</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>728 HK</idNumber>
+        <uid>21964</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>9111000071093019X7</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
         <uid>139431</uid>
@@ -20999,54 +20995,165 @@
         <idNumber>China Telecom Corporation Limited</idNumber>
       </id>
       <id>
-        <uid>139432</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>08 Jan 2021</idNumber>
+        <uid>141354</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
       </id>
       <id>
-        <uid>139433</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>09 Mar 2021</idNumber>
+        <uid>141355</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CHA US</idNumber>
       </id>
       <id>
-        <uid>139434</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>08 Jan 2022</idNumber>
+        <uid>141356</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CHA RU</idNumber>
+      </id>
+      <id>
+        <uid>141370</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141372</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141364</uid>
+        <idType>ISIN</idType>
+        <idNumber>US1694261033</idNumber>
+      </id>
+      <id>
+        <uid>141365</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000002V2</idNumber>
+      </id>
+      <id>
+        <uid>141367</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100020NC4</idNumber>
+      </id>
+      <id>
+        <uid>141368</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000248G3</idNumber>
+      </id>
+      <id>
+        <uid>141369</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003ND87</idNumber>
+      </id>
+      <id>
+        <uid>141350</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Telecom Corp Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141352</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Telecom Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141353</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Telecom Corporation Limited.Co.Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141357</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>ZCHA DE</idNumber>
+      </id>
+      <id>
+        <uid>141358</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CHA AR</idNumber>
+      </id>
+      <id>
+        <uid>141359</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>K3ED SG</idNumber>
+      </id>
+      <id>
+        <uid>141360</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>0728 HK</idNumber>
+      </id>
+      <id>
+        <uid>141362</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>ZCH DE</idNumber>
+      </id>
+      <id>
+        <uid>141516</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
     </idList>
+    <akaList>
+      <aka>
+        <uid>50530</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA TELECOM</lastName>
+      </aka>
+      <aka>
+        <uid>50531</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA TELECOM CO., LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50532</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA TELECOM CORP LTD</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48464</uid>
+        <address1>31 Jinrong Street</address1>
+        <address2>Xicheng District</address2>
+        <city>Beijing</city>
+        <postalCode>100033</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30902</uid>
     <lastName>AERO ENGINE CORPORATION OF CHINA</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>138957</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>1546063D CN</idNumber>
+        <uid>21905</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000MA005UCQ5P</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>138958</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Aero Engine Corp of China</idNumber>
+        <uid>141173</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
-        <uid>139259</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141174</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139240</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141175</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
       <id>
-        <uid>139239</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141134</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21056,15 +21163,36 @@
         <category>strong</category>
         <lastName>AERO ENGINE CORP OF CHINA</lastName>
       </aka>
+      <aka>
+        <uid>50453</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>AECC</lastName>
+      </aka>
+      <aka>
+        <uid>50454</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA AVIATION ENGINE GROUP CO., LTD</lastName>
+      </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48389</uid>
+        <address1>5 Landianchang South Road Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100097</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30923</uid>
     <lastName>CHINA MOBILE LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>(Linked To: CHINA MOBILE COMMUNICATIONS GROUP)</remarks>
+    <remarks>(Linked To: CHINA MOBILE COMMUNICATIONS GROUP CO., LTD.)</remarks>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
@@ -21078,34 +21206,110 @@
         <idNumber>941 HK</idNumber>
       </id>
       <id>
-        <uid>139428</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>09 Mar 2021</idNumber>
-      </id>
-      <id>
-        <uid>139429</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>08 Jan 2022</idNumber>
-      </id>
-      <id>
-        <uid>139427</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>08 Jan 2021</idNumber>
-      </id>
-      <id>
         <uid>139430</uid>
         <idType>Issuer Name</idType>
         <idNumber>China Mobile Limited</idNumber>
       </id>
+      <id>
+        <uid>141582</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CHL RU</idNumber>
+      </id>
+      <id>
+        <uid>141583</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CTMA DE</idNumber>
+      </id>
+      <id>
+        <uid>141584</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>K3PD SG</idNumber>
+      </id>
+      <id>
+        <uid>141585</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CTM DE</idNumber>
+      </id>
+      <id>
+        <uid>141596</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Mobile Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141598</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141607</uid>
+        <idType>ISIN</idType>
+        <idNumber>ARDEUT111812</idNumber>
+      </id>
+      <id>
+        <uid>141609</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141610</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141590</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CHL AR</idNumber>
+      </id>
+      <id>
+        <uid>141587</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>C1HL34 BR</idNumber>
+      </id>
+      <id>
+        <uid>141602</uid>
+        <idType>ISIN</idType>
+        <idNumber>US16941M1099</idNumber>
+      </id>
+      <id>
+        <uid>141604</uid>
+        <idType>ISIN</idType>
+        <idNumber>HK0941009539</idNumber>
+      </id>
+      <id>
+        <uid>141606</uid>
+        <idType>ISIN</idType>
+        <idNumber>BRC1HLBDR003</idNumber>
+      </id>
+      <id>
+        <uid>141608</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
     </idList>
+    <akaList>
+      <aka>
+        <uid>50613</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA MOBILE LTD</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48543</uid>
+        <address1>60th Floor, The Center, 99 Queens Road Central</address1>
+        <stateOrProvince>Hong Kong</stateOrProvince>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30924</uid>
     <lastName>CHINA UNICOM (HONG KONG) LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>(Linked To: CHINA UNITED NETWORK COMMUNICATIONS GROUP CO LTD)</remarks>
+    <remarks>(Linked To: CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD.)</remarks>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
@@ -21124,186 +21328,371 @@
         <idNumber>China Unicom (Hong Kong) Limited</idNumber>
       </id>
       <id>
-        <uid>139436</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>08 Jan 2021</idNumber>
+        <uid>141615</uid>
+        <idType>ISIN</idType>
+        <idNumber>HK0000049939</idNumber>
       </id>
       <id>
-        <uid>139437</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>09 Mar 2021</idNumber>
+        <uid>141616</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
       </id>
       <id>
-        <uid>139438</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>08 Jan 2022</idNumber>
+        <uid>141617</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
-    </idList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30925</uid>
-    <lastName>AVIATION INDUSTRY CORPORATION OF CHINA (AVIC)</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
       <id>
-        <uid>138993</uid>
+        <uid>141618</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141611</uid>
         <idType>Equity Ticker</idType>
-        <idNumber>CAICPZ CN</idNumber>
+        <idNumber>XCIA DE</idNumber>
       </id>
       <id>
-        <uid>139299</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141612</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>K3ID SG</idNumber>
       </id>
       <id>
-        <uid>139300</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141613</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>XCI DE</idNumber>
       </id>
       <id>
-        <uid>139301</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141614</uid>
+        <idType>ISIN</idType>
+        <idNumber>US16945R1041</idNumber>
       </id>
       <id>
-        <uid>138992</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Aviation Industry Corp of China Ltd</idNumber>
+        <uid>141637</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
-        <uid>48617</uid>
-        <type>a.k.a.</type>
+        <uid>50615</uid>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>AVIATION INDUSTRY CORPORATION OF CHINA, LTD. (AVIC)</lastName>
+        <lastName>CHINA UNICOM LIMITED</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48545</uid>
+        <address1>75th Floor, The Center, 99 Queen's Road Central</address1>
+        <city>Hong Kong</city>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>30925</uid>
+    <lastName>AVIATION INDUSTRY CORPORATION OF CHINA, LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21916</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710935732K</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141142</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001WLS0</idNumber>
+      </id>
+      <id>
+        <uid>141138</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Aviation Industry Corporation of China, Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141139</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
+        <uid>141144</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002HNP1</idNumber>
+      </id>
+      <id>
+        <uid>141146</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002DPC3</idNumber>
+      </id>
+      <id>
+        <uid>141338</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141339</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141340</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50464</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIATION INDUSTRY CORP OF CHINA</lastName>
+      </aka>
+      <aka>
+        <uid>50466</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIATION INDUSTRY OF CHINA</lastName>
+      </aka>
+      <aka>
+        <uid>50469</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>AVIC</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48406</uid>
+        <address1>Building 19 Compound A5 Shuguang Xili Chaoyang District</address1>
+        <city>Beijing</city>
+        <postalCode>100028</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30926</uid>
     <lastName>CNOOC LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>(Linked To: CHINA NATIONAL OFFSHORE OIL CORP. (CNOOC))</remarks>
+    <remarks>(Linked To: CHINA NATIONAL OFFSHORE OIL CORPORATION)</remarks>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>138986</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CEO US</idNumber>
+        <uid>21993</uid>
+        <idType>Company Number</idType>
+        <idNumber>0685974</idNumber>
+        <idCountry>Hong Kong</idCountry>
+      </id>
+      <id>
+        <uid>21994</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>549300XIVJCBIGMRUD48</idNumber>
       </id>
       <id>
         <uid>138987</uid>
         <idType>Equity Ticker</idType>
-        <idNumber>883 HK</idNumber>
+        <idNumber>00083 HK</idNumber>
       </id>
       <id>
-        <uid>138988</uid>
+        <uid>141586</uid>
         <idType>Equity Ticker</idType>
         <idNumber>CNU CA</idNumber>
       </id>
       <id>
-        <uid>139439</uid>
+        <uid>141597</uid>
+        <idType>ISIN</idType>
+        <idNumber>BRC1EODR004</idNumber>
+      </id>
+      <id>
+        <uid>141603</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141588</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>NC2B DE</idNumber>
+      </id>
+      <id>
+        <uid>141589</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CEO US</idNumber>
+      </id>
+      <id>
+        <uid>141591</uid>
         <idType>Issuer Name</idType>
         <idNumber>CNOOC Limited</idNumber>
       </id>
       <id>
-        <uid>139440</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>08 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139441</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>09 Mar 2021</idNumber>
-      </id>
-      <id>
-        <uid>139442</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>08 Jan 2022</idNumber>
-      </id>
-    </idList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30927</uid>
-    <lastName>CHINA ACADEMY OF LAUNCH VEHICLE TECHNOLOGY (CALT)</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>138994</uid>
+        <uid>141592</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China Academy of Launch Vehicle Technology</idNumber>
+        <idNumber>CNOOC Ltd</idNumber>
       </id>
       <id>
-        <uid>138995</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>1268213D CN</idNumber>
+        <uid>141593</uid>
+        <idType>ISIN</idType>
+        <idNumber>HK0883013259</idNumber>
       </id>
       <id>
-        <uid>139302</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141594</uid>
+        <idType>ISIN</idType>
+        <idNumber>US1261321095</idNumber>
       </id>
       <id>
-        <uid>139303</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141595</uid>
+        <idType>ISIN</idType>
+        <idNumber>HK2998013240</idNumber>
       </id>
       <id>
-        <uid>139304</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141599</uid>
+        <idType>ISIN</idType>
+        <idNumber>HK0883013259</idNumber>
+      </id>
+      <id>
+        <uid>141600</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141601</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141605</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
-        <uid>48619</uid>
+        <uid>50614</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA ACADEMY OF LAUNCH VEHICLE TECHNOLOGY</lastName>
+        <lastName>CNOOC LTD</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48544</uid>
+        <address1>Bank of China Tower</address1>
+        <address2>65th Floor</address2>
+        <address3>1, Garden Road</address3>
+        <city>Hong Kong</city>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
-    <uid>30928</uid>
-    <lastName>CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION (CASIC)</lastName>
+    <uid>30927</uid>
+    <lastName>CHINA ACADEMY OF LAUNCH VEHICLE TECHNOLOGY</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139306</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>21921</uid>
+        <idType>Business Registration Number</idType>
+        <idNumber>100000108000042</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139307</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141167</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
       <id>
-        <uid>139308</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141334</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>138996</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CASZ CN</idNumber>
+        <uid>141336</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141337</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50485</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CALT</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48423</uid>
+        <address1>1 Nandahongmen Road Fengtai District</address1>
+        <city>Beijing</city>
+        <postalCode>100076</postalCode>
+        <country>China</country>
+      </address>
+      <address>
+        <uid>48424</uid>
+        <address1>No. 1, South Dahongmen Road, Fengtai District</address1>
+        <city>Beijing</city>
+        <postalCode>100076</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>30928</uid>
+    <lastName>CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21929</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710925243K</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141185</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000142N4</idNumber>
       </id>
       <id>
         <uid>138997</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China Aerospace Science &amp; Industry Corp Ltd</idNumber>
+        <idNumber>China Aerospace Science and Industry Corporation Limited</idNumber>
+      </id>
+      <id>
+        <uid>141477</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141478</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141479</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141476</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21311,92 +21700,246 @@
         <uid>48621</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA AEROSPACE SCIENCE &amp; INDUSTRY CORPORATION (CASIC)</lastName>
+        <lastName>CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION</lastName>
       </aka>
       <aka>
-        <uid>48887</uid>
+        <uid>50495</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA AEROSPACE SCIENCE &amp; INDUSTRY CORP LTD</lastName>
+        <lastName>CASIC</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48432</uid>
+        <address1>No. 8, Fucheng Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100089</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30929</uid>
-    <lastName>CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION (CASC)</lastName>
+    <lastName>CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139309</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>21922</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000100014071Q</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139310</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141168</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000090Q8</idNumber>
       </id>
       <id>
-        <uid>139311</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141169</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100006HP7</idNumber>
+      </id>
+      <id>
+        <uid>141170</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
       <id>
         <uid>138998</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China Aerospace Science &amp; Technology Corp</idNumber>
+        <idNumber>China Aerospace Science and Technology Corporation</idNumber>
       </id>
       <id>
-        <uid>138999</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CASTCZ CN</idNumber>
+        <uid>141329</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141330</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141324</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
-        <uid>48623</uid>
+        <uid>50486</uid>
         <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA AEROSPACE SCIENCE &amp; TECHNOLOGY CORPORATION (CASC)</lastName>
-      </aka>
-      <aka>
-        <uid>48624</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA AEROSPACE SCIENCE &amp; TECHNOLOGY CORP</lastName>
+        <category>weak</category>
+        <lastName>CASC</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48425</uid>
+        <address1>No. 8, Fucheng Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100048</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30930</uid>
-    <lastName>CHINA COMMUNICATIONS CONSTRUCTION COMPANY (CCCC)</lastName>
+    <lastName>CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139312</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>21958</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710934369E</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139313</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141254</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Communications Construction Company Limited</idNumber>
       </id>
       <id>
-        <uid>139314</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141255</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Communications Construction Company Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141256</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Communications Constr Co Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141257</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CYY DE</idNumber>
+      </id>
+      <id>
+        <uid>141259</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000GBD8</idNumber>
+      </id>
+      <id>
+        <uid>141260</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001TD67</idNumber>
+      </id>
+      <id>
+        <uid>141261</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002GB63</idNumber>
+      </id>
+      <id>
+        <uid>141262</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001TD75</idNumber>
+      </id>
+      <id>
+        <uid>141263</uid>
+        <idType>ISIN</idType>
+        <idNumber>US1689261030</idNumber>
+      </id>
+      <id>
+        <uid>141264</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002G6P3</idNumber>
+      </id>
+      <id>
+        <uid>141266</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003TZ93</idNumber>
+      </id>
+      <id>
+        <uid>141269</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100017CS9</idNumber>
+      </id>
+      <id>
+        <uid>141270</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001TD59</idNumber>
+      </id>
+      <id>
+        <uid>141271</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002K094</idNumber>
+      </id>
+      <id>
+        <uid>141272</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002H1Z2</idNumber>
+      </id>
+      <id>
+        <uid>141273</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003R421</idNumber>
+      </id>
+      <id>
+        <uid>141274</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002KKV9</idNumber>
+      </id>
+      <id>
+        <uid>141275</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002DZZ3</idNumber>
+      </id>
+      <id>
+        <uid>141276</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003KT58</idNumber>
+      </id>
+      <id>
+        <uid>141277</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100043Z00</idNumber>
+      </id>
+      <id>
+        <uid>141278</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000002F5</idNumber>
+      </id>
+      <id>
+        <uid>141279</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002G601</idNumber>
+      </id>
+      <id>
+        <uid>141280</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002GB71</idNumber>
+      </id>
+      <id>
+        <uid>141281</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100001FN5</idNumber>
+      </id>
+      <id>
+        <uid>141282</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141283</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141284</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
       <id>
         <uid>139000</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China Communications Construction Co Ltd</idNumber>
+        <idNumber>China Communications Construction Co. Ltd</idNumber>
       </id>
       <id>
         <uid>139001</uid>
@@ -21406,142 +21949,218 @@
       <id>
         <uid>139002</uid>
         <idType>Equity Ticker</idType>
-        <idNumber>1800 HK</idNumber>
+        <idNumber>01800 HK</idNumber>
+      </id>
+      <id>
+        <uid>141495</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
       </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>48626</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA COMMUNICATION CONSTRUCTION GROUP COMPANY, LTD.</lastName>
-      </aka>
       <aka>
         <uid>48627</uid>
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>CHINA COMMUNICATIONS CONSTRUCTION CO LTD</lastName>
       </aka>
-    </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30931</uid>
-    <lastName>CHINA CONSTRUCTION TECHNOLOGY CO. LTD. (CCTC)</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139315</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>03 Dec 2020</idNumber>
-      </id>
-      <id>
-        <uid>139316</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>01 Feb 2021</idNumber>
-      </id>
-      <id>
-        <uid>139317</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>03 Dec 2021</idNumber>
-      </id>
-      <id>
-        <uid>139003</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Construction Technology Co Ltd</idNumber>
-      </id>
-      <id>
-        <uid>139004</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>AABZDZ CN</idNumber>
-      </id>
-    </idList>
-    <akaList>
       <aka>
-        <uid>48629</uid>
+        <uid>50525</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA CONSTRUCTION TECHNOLOGY CO LTD</lastName>
+        <lastName>CHINA COMMUNICATIONS CONSTRUCTION COMPANY LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50526</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA COMMUNICATIONS CONSTR CO LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50527</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CCCC</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48458</uid>
+        <address1>85, Deshengmen Street</address1>
+        <address2>Xicheng District</address2>
+        <city>Beijing</city>
+        <postalCode>100088</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30932</uid>
-    <lastName>CHINA ELECTRONICS CORPORATION (CEC)</lastName>
+    <lastName>CHINA ELECTRONICS CORPORATION</lastName>
     <sdnType>Entity</sdnType>
+    <remarks>(Linked To: NANJING PANDA ELECTRONICS COMPANY LIMITED)</remarks>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139318</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>21927</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000100010249W</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139319</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>21928</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>300300PV91RY9GH3CT16</idNumber>
       </id>
       <id>
-        <uid>139320</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141184</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002F8S4</idNumber>
+      </id>
+      <id>
+        <uid>141183</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KG49</idNumber>
       </id>
       <id>
         <uid>139011</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China Electronics Corp</idNumber>
+        <idNumber>China Electronics Corporation</idNumber>
       </id>
       <id>
-        <uid>139012</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CHELEZ CN</idNumber>
+        <uid>141441</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
+        <uid>141428</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141429</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141430</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
-        <uid>48637</uid>
+        <uid>50494</uid>
         <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA ELECTRONICS CORP</lastName>
+        <category>weak</category>
+        <lastName>CEC</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48431</uid>
+        <address1>19F, Building 1, No. 66A, Zhongguancun East Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100190</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30933</uid>
-    <lastName>CHINA SOUTH INDUSTRIES GROUP CORPORATION (CSGC)</lastName>
+    <lastName>CHINA SOUTH INDUSTRIES GROUP CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139006</uid>
+        <uid>21953</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710924929L</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141212</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141213</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141201</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
+        <uid>141214</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141202</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KTG5</idNumber>
+      </id>
+      <id>
+        <uid>141203</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000K5V9</idNumber>
+      </id>
+      <id>
+        <uid>141204</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KTF7</idNumber>
+      </id>
+      <id>
+        <uid>141205</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000GGC9</idNumber>
+      </id>
+      <id>
+        <uid>141206</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000K0B2</idNumber>
+      </id>
+      <id>
+        <uid>141207</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000GGD7</idNumber>
+      </id>
+      <id>
+        <uid>141208</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KTD2</idNumber>
+      </id>
+      <id>
+        <uid>141209</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000K5W7</idNumber>
+      </id>
+      <id>
+        <uid>141210</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001TRP9</idNumber>
+      </id>
+      <id>
+        <uid>141211</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001TRQ7</idNumber>
+      </id>
+      <id>
+        <uid>141235</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China South Industries Group Co Ltd</idNumber>
+        <idNumber>China South Industries Group Co., Ltd.</idNumber>
       </id>
       <id>
-        <uid>139359</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139005</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CSIGCZ CN</idNumber>
-      </id>
-      <id>
-        <uid>139360</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139361</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141236</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China South Industries Group Corporation</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21549,18 +22168,81 @@
         <uid>48632</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA SOUTH INDUSTRIES GROUP CO LTD</lastName>
+        <lastName>CHINA SOUTH INDUSTRIES GROUP CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50491</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA SOUTH INDUSTRIES GROUP CORPORATION</lastName>
+      </aka>
+      <aka>
+        <uid>50492</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CSIGC</lastName>
+      </aka>
+      <aka>
+        <uid>50493</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CSGC</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48449</uid>
+        <address1>No. 46, Sanlihe Road</address1>
+        <address2>Xicheng District</address2>
+        <city>Beijing</city>
+        <postalCode>100032</postalCode>
+        <country>China</country>
+      </address>
+      <address>
+        <uid>48450</uid>
+        <address1>No. 10 Yard</address1>
+        <address2>Chedaogou</address2>
+        <address3>Haidian District</address3>
+        <city>Beijing</city>
+        <postalCode>100089</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30934</uid>
-    <lastName>CHINA SPACESAT</lastName>
+    <lastName>CHINA SPACESAT CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
+      <id>
+        <uid>21923</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>911100001000274544</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141172</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141258</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141265</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141267</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
       <id>
         <uid>139007</uid>
         <idType>Equity Ticker</idType>
@@ -21569,200 +22251,256 @@
       <id>
         <uid>139008</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China Spacesat Co Ltd</idNumber>
+        <idNumber>China Spacesat Co., Ltd.</idNumber>
       </id>
       <id>
-        <uid>139362</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139363</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139364</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141171</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000SM3</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
-        <uid>48634</uid>
+        <uid>50487</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA SPACESAT CO LTD</lastName>
+        <lastName>CHINA SPACESAT</lastName>
       </aka>
     </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30935</uid>
-    <lastName>CHINA STATE CONSTRUCTION GROUP CO., LTD.</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139009</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CSECCZ CN</idNumber>
-      </id>
-      <id>
-        <uid>139010</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China State Construction Group Co Ltd</idNumber>
-      </id>
-      <id>
-        <uid>139365</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139366</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139367</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>48636</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA STATE CONSTRUCTION GROUP CO LTD</lastName>
-      </aka>
-    </akaList>
+    <addressList>
+      <address>
+        <uid>48426</uid>
+        <address1>Shenzhou Technology Mansion, 12th Floor, 31, Zhongguancun South Avenue</address1>
+        <city>Beijing</city>
+        <postalCode>100081</postalCode>
+        <country>China</country>
+      </address>
+      <address>
+        <uid>48427</uid>
+        <address1>12F Shenzhou Building, 31 Zhongguanchun South Street, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100081</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30936</uid>
-    <lastName>CHINA ELECTRONICS TECHNOLOGY GROUP CORPORATION (CETC)</lastName>
+    <lastName>CHINA ELECTRONICS TECHNOLOGY GROUP CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139321</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>21987</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710929498G</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139322</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141448</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
       <id>
-        <uid>139323</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141445</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139013</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Electronics Technology Group Corp</idNumber>
+        <uid>141446</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
-        <uid>139014</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CETCGZ CN</idNumber>
+        <uid>141447</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
         <uid>48639</uid>
         <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA ELECTRONICS TECHNOLOGY GROUP CORP</lastName>
+        <category>weak</category>
+        <lastName>CETC</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48492</uid>
+        <address1>No. 27</address1>
+        <address2>Wanshou Road</address2>
+        <address3>Haidian District</address3>
+        <city>Beijing</city>
+        <postalCode>100846</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30937</uid>
-    <lastName>CHINA GENERAL NUCLEAR POWER CORP.</lastName>
+    <lastName>CHINA GENERAL NUCLEAR POWER CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139327</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139328</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139329</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>21974</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>9144030010001694XX</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
         <uid>139015</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China General Nuclear Power Corp</idNumber>
+        <idNumber>China General Nuclear Power Corporation</idNumber>
       </id>
       <id>
-        <uid>139016</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CGNPCZ CN</idNumber>
+        <uid>141401</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141402</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141403</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141559</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
+        <uid>141384</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003XXN0</idNumber>
+      </id>
+      <id>
+        <uid>141385</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000248C2</idNumber>
+      </id>
+      <id>
+        <uid>141386</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003GZY7</idNumber>
+      </id>
+      <id>
+        <uid>141387</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000363K2</idNumber>
       </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>48641</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA GENERAL NUCLEAR POWER</lastName>
-      </aka>
       <aka>
         <uid>48642</uid>
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>CHINA GENERAL NUCLEAR POWER CORP</lastName>
       </aka>
+      <aka>
+        <uid>50554</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CGN</lastName>
+      </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48482</uid>
+        <address1>33F, South Building, China General Nuclear Building, No. 2002 Shennan Avenue, Futian District</address1>
+        <city>Shenzhen</city>
+        <stateOrProvince>Guangdong</stateOrProvince>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30938</uid>
-    <lastName>CHINA STATE SHIPBUILDING CORPORATION (CSSC)</lastName>
+    <lastName>CHINA STATE SHIPBUILDING CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139017</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>0763828D CN</idNumber>
+        <uid>21954</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91310000710924478P</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139018</uid>
+        <uid>141221</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100005C60</idNumber>
+      </id>
+      <id>
+        <uid>141222</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KTB6</idNumber>
+      </id>
+      <id>
+        <uid>141223</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KT93</idNumber>
+      </id>
+      <id>
+        <uid>141224</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100005MX3</idNumber>
+      </id>
+      <id>
+        <uid>141225</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100005MX3</idNumber>
+      </id>
+      <id>
+        <uid>141226</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000LD58</idNumber>
+      </id>
+      <id>
+        <uid>141227</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000LLH8</idNumber>
+      </id>
+      <id>
+        <uid>141238</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141239</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141219</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China State Shipbuilding Corp Ltd</idNumber>
+        <idNumber>China State Shipbuilding Corporation</idNumber>
       </id>
       <id>
-        <uid>139368</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141220</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China State Shipbuilding Corporation Co. Ltd</idNumber>
       </id>
       <id>
-        <uid>139369</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141218</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
       <id>
-        <uid>139370</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141237</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21770,42 +22508,78 @@
         <uid>48644</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA STATE SHIPBUILDING CORP LTD</lastName>
+        <lastName>CHINA STATE SHIPBUILDING CORPORATION</lastName>
+      </aka>
+      <aka>
+        <uid>50514</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA SHIPBUILDING CORPORATION</lastName>
+      </aka>
+      <aka>
+        <uid>50515</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CSSC</lastName>
+      </aka>
+      <aka>
+        <uid>50516</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CSC</lastName>
+      </aka>
+      <aka>
+        <uid>50517</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA STATE SHIPBUILDING CORPORATION CO. LTD</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48451</uid>
+        <address1>No. 1, Pudong Avenue</address1>
+        <address2>Pilot Free Trade Zone</address2>
+        <address3>Pudong New District</address3>
+        <city>Shanghai</city>
+        <postalCode>200135</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30939</uid>
-    <lastName>CHINA TELECOMMUNICATIONS CORP.</lastName>
+    <lastName>CHINA TELECOMMUNICATIONS CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139425</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>21963</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000100017707H</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139019</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CNTELZ CN</idNumber>
+        <uid>141341</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
       <id>
-        <uid>139020</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Telecommunications Corp</idNumber>
+        <uid>141342</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139371</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141343</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
-        <uid>139373</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141344</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21813,134 +22587,59 @@
         <uid>48646</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA TELECOMMUNICATIONS</lastName>
+        <lastName>CHINA TELECOM</lastName>
       </aka>
       <aka>
         <uid>48647</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA TELECOMMUNICATIONS CORP</lastName>
+        <lastName>CHINA TELECOM GROUP CO., LTD.</lastName>
       </aka>
     </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30940</uid>
-    <lastName>CHINA THREE GORGES CORPORATION LIMITED</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139024</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CJSXGZ CN</idNumber>
-      </id>
-      <id>
-        <uid>139025</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Three Gorges Corp</idNumber>
-      </id>
-      <id>
-        <uid>139374</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139375</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139376</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>48650</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA THREE GORGES CORP</lastName>
-      </aka>
-    </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30941</uid>
-    <lastName>CHINA INTERNATIONAL ENGINEERING CONSULTING CORP. (CIECC)</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139331</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>01 Feb 2021</idNumber>
-      </id>
-      <id>
-        <uid>139332</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>03 Dec 2021</idNumber>
-      </id>
-      <id>
-        <uid>139026</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China International Engineering Consulting Corp</idNumber>
-      </id>
-      <id>
-        <uid>139330</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>03 Dec 2020</idNumber>
-      </id>
-      <id>
-        <uid>139027</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>ENGINZ CN</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>48653</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA INTERNATIONAL ENGINEERING CONSULTING CORP</lastName>
-      </aka>
-    </akaList>
+    <addressList>
+      <address>
+        <uid>48463</uid>
+        <address1>31 Jinrong Street</address1>
+        <address2>Xicheng District</address2>
+        <city>Beijing</city>
+        <postalCode>100033</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30942</uid>
-    <lastName>CHINA UNITED NETWORK COMMUNICATIONS GROUP CO LTD</lastName>
+    <lastName>CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139028</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>600050 CN</idNumber>
+        <uid>21962</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000MA001HYK9X</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139031</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China United Network Communications Ltd</idNumber>
+        <uid>141325</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
       <id>
-        <uid>139377</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141326</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139378</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141327</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
-        <uid>139379</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141328</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21948,96 +22647,65 @@
         <uid>48654</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA UNITED NETWORK COMMUNICATIONS LTD</lastName>
-      </aka>
-    </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30943</uid>
-    <lastName>CRRC CORP.</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139033</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>601766 CN</idNumber>
-      </id>
-      <id>
-        <uid>139034</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>1766 HK</idNumber>
-      </id>
-      <id>
-        <uid>139035</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>CRRC Corp Ltd</idNumber>
-      </id>
-      <id>
-        <uid>139380</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139381</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139382</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>48657</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CRRC CORPORATION</lastName>
+        <lastName>CHINA UNITED NETWORK COMMUNICATIONS GROUP COMPANY LIMITED</lastName>
       </aka>
       <aka>
-        <uid>48892</uid>
+        <uid>50528</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CRRC CORP LTD</lastName>
+        <lastName>CHINA UNICOM</lastName>
+      </aka>
+      <aka>
+        <uid>50529</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA UNITED TELECOMMUNICATIONS CORPORATION</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48462</uid>
+        <address1>No. 21, Financial Street</address1>
+        <address2>Xicheng District</address2>
+        <city>Beijing</city>
+        <postalCode>100033</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30944</uid>
-    <lastName>CHINA MOBILE COMMUNICATIONS GROUP</lastName>
+    <lastName>CHINA MOBILE COMMUNICATIONS GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139333</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>21961</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>911100007109250324</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139334</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141312</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
       <id>
-        <uid>139042</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Mobile Communications Group Co Ltd</idNumber>
+        <uid>141313</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139044</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CHMOBZ CN</idNumber>
+        <uid>141314</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
-        <uid>139335</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141315</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22045,67 +22713,34 @@
         <uid>48665</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA MOBILE COMMUNICATIONS</lastName>
-      </aka>
-      <aka>
-        <uid>48666</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA MOBILE COMMUNICATIONS GROUP CO LTD</lastName>
+        <lastName>CHINA MOBILE</lastName>
       </aka>
     </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30945</uid>
-    <lastName>DAWNING INFORMATION INDUSTRY CO (SUGON)</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139385</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
-      </id>
-      <id>
-        <uid>139036</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>603019 CN</idNumber>
-      </id>
-      <id>
-        <uid>139037</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Dawning Information Industry Co Ltd</idNumber>
-      </id>
-      <id>
-        <uid>139383</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139384</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>48660</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>DAWNING INFORMATION INDUSTRY CO LTD</lastName>
-      </aka>
-    </akaList>
+    <addressList>
+      <address>
+        <uid>48461</uid>
+        <address1>No. 29, Financial Street</address1>
+        <address2>Xicheng District</address2>
+        <city>Beijing</city>
+        <postalCode>100032</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30946</uid>
-    <lastName>HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO., LTD. (HIKVISION)</lastName>
+    <lastName>HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
+      <id>
+        <uid>21925</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91330000733796106P</idNumber>
+        <idCountry>China</idCountry>
+      </id>
       <id>
         <uid>139038</uid>
         <idType>Equity Ticker</idType>
@@ -22114,22 +22749,32 @@
       <id>
         <uid>139039</uid>
         <idType>Issuer Name</idType>
-        <idNumber>Hangzhou Hikvision Digital Technology Co Ltd</idNumber>
+        <idNumber>Hangzhou Hikvision Digital Technology</idNumber>
       </id>
       <id>
-        <uid>139386</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141177</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
       </id>
       <id>
-        <uid>139387</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141176</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100000PM8</idNumber>
       </id>
       <id>
-        <uid>139388</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141240</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141242</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141243</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22143,42 +22788,53 @@
         <uid>48893</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO LTD</lastName>
+        <lastName>HANGZHOU HIKVISION DIGITAL TECHNOLOGY</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48429</uid>
+        <address1>555, Qianmo Road</address1>
+        <address2>Binjiang District</address2>
+        <city>Hangzhou</city>
+        <postalCode>310051</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30947</uid>
-    <lastName>HUAWEI</lastName>
+    <lastName>HUAWEI TECHNOLOGIES CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139040</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>KMCACZ CN</idNumber>
+        <uid>21959</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>914403001922038216</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139041</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Huawei Investment &amp; Holding Co Ltd</idNumber>
+        <uid>141290</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
-        <uid>139389</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141288</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
       <id>
-        <uid>139390</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141289</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139391</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141291</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22189,82 +22845,52 @@
         <lastName>HUAWEI INVESTMENT &amp; HOLDING CO LTD</lastName>
       </aka>
     </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30948</uid>
-    <lastName>CHINA NATIONAL CHEMICAL CORPORATION (CHEMCHINA)</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139338</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
-      </id>
-      <id>
-        <uid>139046</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China National Chemical Corp Ltd</idNumber>
-      </id>
-      <id>
-        <uid>139047</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CHNCCZ CN</idNumber>
-      </id>
-      <id>
-        <uid>139336</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139337</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>48669</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA NATIONAL CHEMICAL CORP LTD</lastName>
-      </aka>
-    </akaList>
+    <addressList>
+      <address>
+        <uid>48459</uid>
+        <address1>Huawei Headquarter Office Building</address1>
+        <address2>Bantian</address2>
+        <address3>Longgang District</address3>
+        <city>Guangdong</city>
+        <stateOrProvince>Shenzhen</stateOrProvince>
+        <postalCode>518129</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30949</uid>
-    <lastName>INSPUR GROUP</lastName>
+    <lastName>INSPUR GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139048</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>LANZ CN</idNumber>
+        <uid>21960</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>913700001630477270</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139050</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Inspur Group Co Ltd</idNumber>
+        <uid>141308</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
       <id>
-        <uid>139392</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141309</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139393</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141310</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
-        <uid>139394</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141311</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22272,101 +22898,184 @@
         <uid>48671</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>INSPUR GROUP CO LTD</lastName>
+        <lastName>INSPUR GROUP</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48460</uid>
+        <address1>No. 1036</address1>
+        <address2>High-Tech Inspur Road</address2>
+        <city>Jinan</city>
+        <stateOrProvince>Shandong</stateOrProvince>
+        <postalCode>250101</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30950</uid>
-    <lastName>PANDA ELECTRONICS GROUP</lastName>
+    <lastName>PANDA ELECTRONICS GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139051</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>600775 CN</idNumber>
+        <uid>21924</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>913201921348831521</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139052</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Nanjing Panda Electronics Co Ltd</idNumber>
+        <uid>141438</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139397</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141439</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
-        <uid>139062</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>553 HK</idNumber>
+        <uid>141440</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
       <id>
-        <uid>139395</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139396</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141442</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
-        <uid>48673</uid>
+        <uid>50488</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>PANDA ELECTRONICS</lastName>
-      </aka>
-      <aka>
-        <uid>48674</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>NANJING PANDA ELECTRONICS CO LTD</lastName>
+        <lastName>PANDA ELECTRONICS GROUP LIMITED</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48428</uid>
+        <address1>No. 301</address1>
+        <address2>Zhongshan East Road</address2>
+        <address3>Xuanwu District</address3>
+        <city>Nanjing</city>
+        <stateOrProvince>Jiangsu</stateOrProvince>
+        <postalCode>210002</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30951</uid>
-    <lastName>SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORP. (SMIC)</lastName>
+    <lastName>SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
+      <id>
+        <uid>141620</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Semiconductor Manufacturing International Corporation Limited</idNumber>
+      </id>
       <id>
         <uid>139053</uid>
         <idType>Equity Ticker</idType>
         <idNumber>688981 CN</idNumber>
       </id>
       <id>
-        <uid>139398</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>03 Dec 2020</idNumber>
+        <uid>141622</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>MKN1 DE</idNumber>
       </id>
       <id>
-        <uid>139399</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>01 Feb 2021</idNumber>
+        <uid>141623</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>MKN2 DE</idNumber>
       </id>
       <id>
-        <uid>139400</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>03 Dec 2021</idNumber>
+        <uid>141624</uid>
+        <idType>ISIN</idType>
+        <idNumber>KYG8020E1199</idNumber>
       </id>
       <id>
         <uid>139054</uid>
         <idType>Issuer Name</idType>
-        <idNumber>Semiconductor Manufacturing International Corp</idNumber>
+        <idNumber>Semiconductor Manufacturing International Corporation</idNumber>
       </id>
       <id>
         <uid>139059</uid>
         <idType>Equity Ticker</idType>
-        <idNumber>981 HK</idNumber>
+        <idNumber>00981 HK</idNumber>
+      </id>
+      <id>
+        <uid>141621</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Semiconductor Manufacturing International Corporation Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141625</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1432320429</idNumber>
+      </id>
+      <id>
+        <uid>141626</uid>
+        <idType>ISIN</idType>
+        <idNumber>US81663N2062</idNumber>
+      </id>
+      <id>
+        <uid>141627</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS2101828452</idNumber>
+      </id>
+      <id>
+        <uid>141628</uid>
+        <idType>ISIN</idType>
+        <idNumber>KYG8020E1017</idNumber>
+      </id>
+      <id>
+        <uid>141629</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1730881247</idNumber>
+      </id>
+      <id>
+        <uid>141630</uid>
+        <idType>ISIN</idType>
+        <idNumber>KYG802041031</idNumber>
+      </id>
+      <id>
+        <uid>141631</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000041W8</idNumber>
+      </id>
+      <id>
+        <uid>141632</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100022N41</idNumber>
+      </id>
+      <id>
+        <uid>141633</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141634</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141635</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141636</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22374,177 +23083,203 @@
         <uid>48676</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORP</lastName>
+        <lastName>SEMICONDUCTOR MFG INTL CORP</lastName>
       </aka>
-    </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30952</uid>
-    <lastName>CHINA NATIONAL CHEMICAL ENGINEERING GROUP CO., LTD. (CNCEC)</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139576</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139577</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139578</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
-      </id>
-      <id>
-        <uid>139056</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>ZHJTTZ CN</idNumber>
-      </id>
-      <id>
-        <uid>139055</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China National Chemical Engineering Group Corp Ltd</idNumber>
-      </id>
-    </idList>
-    <akaList>
       <aka>
-        <uid>48678</uid>
+        <uid>50629</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA NATIONAL CHEMICAL ENGINEERING GROUP CORP LTD</lastName>
+        <lastName>SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION LIMITED</lastName>
       </aka>
-    </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30953</uid>
-    <lastName>SINOCHEM GROUP CO LTD</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139401</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139402</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139057</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>1001Z CN</idNumber>
-      </id>
-      <id>
-        <uid>139058</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Sinochem Group Co Ltd</idNumber>
-      </id>
-      <id>
-        <uid>139403</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
-      </id>
-    </idList>
-    <akaList>
       <aka>
-        <uid>48680</uid>
+        <uid>50630</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SINOCHEM GROUP CO LTD</lastName>
+        <lastName>SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION CO., LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50631</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>SMIC</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48561</uid>
+        <address1>18, Zhangjiang Road, Pudong New Area</address1>
+        <city>Shanghai</city>
+        <postalCode>201203</postalCode>
+        <country>China</country>
+      </address>
+      <address>
+        <uid>48562</uid>
+        <country>Cayman Islands</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30954</uid>
-    <lastName>CHINA NATIONAL NUCLEAR CORP.</lastName>
+    <lastName>CHINA NATIONAL NUCLEAR CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
+        <uid>21976</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000100009563N</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
         <uid>139060</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China National Nuclear Corp</idNumber>
+        <idNumber>China National Nuclear Corporation</idNumber>
       </id>
       <id>
-        <uid>139061</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CNNZ CN</idNumber>
+        <uid>141557</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
       <id>
-        <uid>139424</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141389</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KRQ8</idNumber>
       </id>
       <id>
-        <uid>139339</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141390</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100005B38</idNumber>
       </id>
       <id>
-        <uid>139340</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141391</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002J9T6</idNumber>
+      </id>
+      <id>
+        <uid>141392</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100027TJ1</idNumber>
+      </id>
+      <id>
+        <uid>141393</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002DLF5</idNumber>
+      </id>
+      <id>
+        <uid>141394</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003RXC5</idNumber>
+      </id>
+      <id>
+        <uid>141395</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002J9V2</idNumber>
+      </id>
+      <id>
+        <uid>141396</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100005B20</idNumber>
+      </id>
+      <id>
+        <uid>141397</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100025BB0</idNumber>
+      </id>
+      <id>
+        <uid>141398</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003VCD9</idNumber>
+      </id>
+      <id>
+        <uid>141399</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003RXB7</idNumber>
+      </id>
+      <id>
+        <uid>141400</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001ZPR6</idNumber>
+      </id>
+      <id>
+        <uid>141404</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141405</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141406</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>48682</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA NATIONAL NUCLEAR</lastName>
-      </aka>
       <aka>
         <uid>48890</uid>
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>CHINA NATIONAL NUCLEAR CORP</lastName>
       </aka>
+      <aka>
+        <uid>50557</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CNNC</lastName>
+      </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48484</uid>
+        <address1>No. 1, Nansan Lane, Sanlihe, Xicheng District</address1>
+        <city>Beijing</city>
+        <postalCode>100822</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30956</uid>
-    <lastName>CHINA NATIONAL OFFSHORE OIL CORP. (CNOOC)</lastName>
+    <lastName>CHINA NATIONAL OFFSHORE OIL CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139064</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China National Offshore Oil Corp</idNumber>
+        <uid>21933</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000100001043E</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139426</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CNOZ CN</idNumber>
+        <uid>21934</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>300300AY5BEBCYDR2F31</idNumber>
       </id>
       <id>
-        <uid>139324</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>03 Dec 2020</idNumber>
+        <uid>141301</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
       <id>
-        <uid>139325</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>01 Feb 2021</idNumber>
+        <uid>141302</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
       <id>
-        <uid>139326</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>03 Dec 2021</idNumber>
+        <uid>141303</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141304</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22552,42 +23287,88 @@
         <uid>48894</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA NATIONAL OFFSHORE OIL CORP</lastName>
+        <lastName>CHINA NATIONAL OFFSHORE OIL CORP.</lastName>
+      </aka>
+      <aka>
+        <uid>50504</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CNOOC</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48439</uid>
+        <address1>No. 25, Chaoyangmen North Street, Dongcheng District</address1>
+        <city>Beijing</city>
+        <postalCode>100010</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30957</uid>
-    <lastName>CHINA NORTH INDUSTRIES GROUP CORPORATION (NORINCO GROUP)</lastName>
+    <lastName>CHINA NORTH INDUSTRIES GROUP CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139068</uid>
+        <uid>21926</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710924910P</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141215</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141216</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141217</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141228</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China North Industries Group Corp Ltd</idNumber>
+        <idNumber>China North Industries Group Corporation Limited</idNumber>
       </id>
       <id>
-        <uid>139069</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CNIZ CN</idNumber>
+        <uid>141229</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China North Industries Group Co. Ltd</idNumber>
       </id>
       <id>
-        <uid>139342</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141178</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
       </id>
       <id>
-        <uid>139344</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141179</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001PXG4</idNumber>
       </id>
       <id>
-        <uid>139345</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141180</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KPW0</idNumber>
+      </id>
+      <id>
+        <uid>141181</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10000KSK9</idNumber>
+      </id>
+      <id>
+        <uid>141182</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000133M5</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22601,42 +23382,91 @@
         <uid>48688</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CHINA NORTH INDUSTRIES GROUP CORP LTD</lastName>
+        <lastName>CHINA NORTH INDUSTRIES GROUP CORPORATION</lastName>
+      </aka>
+      <aka>
+        <uid>50489</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NORINCO GROUP</lastName>
+      </aka>
+      <aka>
+        <uid>50490</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CNIGC</lastName>
+      </aka>
+      <aka>
+        <uid>50520</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA NORTH INDUSTRIES GROUP CO. LTD</lastName>
       </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48430</uid>
+        <address1>No. 46, Sanlihe Road</address1>
+        <address2>Xicheng District</address2>
+        <city>Beijing</city>
+        <postalCode>100821</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30958</uid>
-    <lastName>CHINA NUCLEAR ENGINEERING &amp; CONSTRUCTION CORPORATION (CNECC)</lastName>
+    <lastName>CHINA NUCLEAR ENGINEERING CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
-        <uid>139070</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Nuclear Engineering &amp; Construction Corp Ltd</idNumber>
+        <uid>21973</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000717828569P</idNumber>
+        <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139071</uid>
+        <uid>141380</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Nuclear Engineering Corporation Limited</idNumber>
+      </id>
+      <id>
+        <uid>141381</uid>
         <idType>Equity Ticker</idType>
         <idNumber>601611 CN</idNumber>
       </id>
       <id>
-        <uid>139350</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141382</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100002896</idNumber>
       </id>
       <id>
-        <uid>139351</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141383</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003XJ14</idNumber>
       </id>
       <id>
-        <uid>139352</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141407</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141408</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141409</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141558</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
       </id>
     </idList>
     <akaList>
@@ -22646,20 +23476,59 @@
         <category>strong</category>
         <lastName>CHINA NUCLEAR ENGINEERING &amp; CONSTRUCTION CORP LTD</lastName>
       </aka>
+      <aka>
+        <uid>50550</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CNECC</lastName>
+      </aka>
+      <aka>
+        <uid>50551</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CNEC</lastName>
+      </aka>
+      <aka>
+        <uid>50552</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA NUCLEAR ENGINEERING CORPORATION LIMITED</lastName>
+      </aka>
+      <aka>
+        <uid>50553</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA NATIONAL ENGINEERING &amp; CONSTRUCTION CORPORATION LIMITED</lastName>
+      </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>48481</uid>
+        <address1>No. 12 Chegongzhuang Avenue, Xicheng District</address1>
+        <city>Beijing</city>
+        <postalCode>100037</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>30959</uid>
-    <lastName>CHINA RAILWAY CONSTRUCTION CORPORATION (CRCC)</lastName>
+    <lastName>CHINA RAILWAY CONSTRUCTION CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CCMC-EO13959</program>
+      <program>CMIC-EO</program>
     </programList>
     <idList>
       <id>
+        <uid>21975</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710935150D</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
         <uid>139072</uid>
         <idType>Issuer Name</idType>
-        <idNumber>China Railway Construction Corp Ltd</idNumber>
+        <idNumber>China Railway Construction Corporation Limited</idNumber>
       </id>
       <id>
         <uid>139073</uid>
@@ -22672,72 +23541,48 @@
         <idNumber>1186 HK</idNumber>
       </id>
       <id>
-        <uid>139353</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
+        <uid>141560</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
       </id>
       <id>
-        <uid>139354</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
+        <uid>141388</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000009T1</idNumber>
       </id>
       <id>
-        <uid>139355</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
+        <uid>141410</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141411</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141412</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
-        <uid>48692</uid>
+        <uid>50556</uid>
         <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA RAILWAY CONSTRUCTION CORP LTD</lastName>
+        <category>weak</category>
+        <lastName>CRCC</lastName>
       </aka>
     </akaList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>30960</uid>
-    <lastName>CHINA SHIPBUILDING INDUSTRY CORPORATION (CSIC)</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>CCMC-EO13959</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>139075</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CSIZ CN</idNumber>
-      </id>
-      <id>
-        <uid>139076</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Shipbuilding Industry Corp</idNumber>
-      </id>
-      <id>
-        <uid>139356</uid>
-        <idType>Listing Date (CCMC)</idType>
-        <idNumber>12 Nov 2020</idNumber>
-      </id>
-      <id>
-        <uid>139357</uid>
-        <idType>Effective Date (CCMC)</idType>
-        <idNumber>11 Jan 2021</idNumber>
-      </id>
-      <id>
-        <uid>139358</uid>
-        <idType>Divestment Date (CCMC)</idType>
-        <idNumber>12 Nov 2021</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>48891</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA SHIPBUILDING INDUSTRY CORP</lastName>
-      </aka>
-    </akaList>
+    <addressList>
+      <address>
+        <uid>48483</uid>
+        <address1>East Yard No. 40, Fuxing Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100855</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>31914</uid>
@@ -23272,5 +24117,2491 @@
       <vesselType>Salvage Ship</vesselType>
       <vesselFlag>Russia</vesselFlag>
     </vesselInfo>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32028</uid>
+    <lastName>ANHUI GREATWALL MILITARY INDUSTRY COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21815</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>9134000070503581XA</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140805</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000036L1</idNumber>
+      </id>
+      <id>
+        <uid>140806</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Anhui Greatwall Military Industry Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>140807</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>601606 CN</idNumber>
+      </id>
+      <id>
+        <uid>140809</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141348</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141349</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141351</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50234</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ANHUI GREAT WALL MILITARY INDUSTRY CO., LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50236</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ANHUI GREATWALL MILITARY INDUSTRY CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50237</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>GREATWALL MILITARY</lastName>
+      </aka>
+      <aka>
+        <uid>50238</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>GREATWALL MILITARY INDUSTRY</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48202</uid>
+        <address1>No. 99 Taoyuan Road, Economic Development Zone</address1>
+        <city>Hefei</city>
+        <country>China</country>
+      </address>
+      <address>
+        <uid>48203</uid>
+        <address1>Economic And Technological Development Zone, 99 Hezhang Road</address1>
+        <city>Hefei</city>
+        <postalCode>230001</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32052</uid>
+    <lastName>AVIC XI'AN AIRCRAFT INDUSTRY GROUP COMPANY LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21834</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>916100002942059830</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140820</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>AVIC Aircraft Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140821</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>000768 CN</idNumber>
+      </id>
+      <id>
+        <uid>140822</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000RF9</idNumber>
+      </id>
+      <id>
+        <uid>141451</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141452</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141453</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141449</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50272</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIC XIAN AIRCRAFT INDUSTRY GROUP CO LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50273</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>XI'AN AIRCRAFT INDUSTRY GROUP CO LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50274</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIC AIRCRAFT CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50275</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>XI'AN AIRCRAFT INDUSTRIAL CORP.</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48244</uid>
+        <address1>No. 1</address1>
+        <address2>Xifei Avenue</address2>
+        <address3>Yanliang District</address3>
+        <city>Xi'an</city>
+        <stateOrProvince>Shaanxi</stateOrProvince>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32053</uid>
+    <lastName>AVIC HEAVY MACHINERY COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21835</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91520000214434146R</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140823</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Guizhou Liyuan Hydraulic Components Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140824</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600765 CN</idNumber>
+      </id>
+      <id>
+        <uid>140825</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000N22</idNumber>
+      </id>
+      <id>
+        <uid>141455</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141456</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141457</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141458</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50277</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIC HEAVY MACHINERY CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50278</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>GUIZHOU LIYUAN HYDRAULIC CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50279</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>GUIZHOU LIYUAN HYDRAULIC COMPONENTS CO., LTD.</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48247</uid>
+        <address1>No. 501</address1>
+        <address2>Beiya Road</address2>
+        <address3>Wudang District</address3>
+        <city>Guiyang</city>
+        <stateOrProvince>Guizhou</stateOrProvince>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32055</uid>
+    <lastName>AVIC JONHON OPTRONIC TECHNOLOGY CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21838</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>914100007457748527</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140848</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>002179 CN</idNumber>
+      </id>
+      <id>
+        <uid>140849</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>AVIC Jonhon Optronic Technology Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140850</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003VVT5</idNumber>
+      </id>
+      <id>
+        <uid>140862</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000007T5</idNumber>
+      </id>
+      <id>
+        <uid>141459</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141460</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141461</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141462</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50298</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JONHON</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48255</uid>
+        <address1>No. 10, Zhoushan Rd.</address1>
+        <address2>Luoyang Area</address2>
+        <address3>Pilot Free Trade Zone</address3>
+        <city>Luoyang</city>
+        <stateOrProvince>Henan</stateOrProvince>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32056</uid>
+    <lastName>AVIC SHENYANG AIRCRAFT COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21840</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>9137000016309489X2</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140868</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Dongan Heibao Co. Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140869</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600760 CN</idNumber>
+      </id>
+      <id>
+        <uid>140870</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000MH6</idNumber>
+      </id>
+      <id>
+        <uid>141463</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141464</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141465</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141466</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50301</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SHENYANG AIRCRAFT CO. LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50302</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>DONGAN HEIBAO CO., LTD.</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48259</uid>
+        <address1>1</address1>
+        <address2>Lingbei Street</address2>
+        <address3>Huanggu District</address3>
+        <city>Shenyang</city>
+        <postalCode>110850</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32069</uid>
+    <lastName>CHINA SATELLITE COMMUNICATIONS CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21850</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710929113P</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140905</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Satellite Communications Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140906</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>601698  CN</idNumber>
+      </id>
+      <id>
+        <uid>140907</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100003PX9</idNumber>
+      </id>
+      <id>
+        <uid>141532</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141533</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141534</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141535</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50321</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA SATCOM</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48279</uid>
+        <address1>China Satellite Communications Tower, Building A, 21st Floor, 65, Zhichun Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100190</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32072</uid>
+    <lastName>CHINA COMMUNICATIONS CONSTRUCTION GROUP (LIMITED)</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED)</remarks>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21853</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710933809D</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140917</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Communications Group Company Limited</idNumber>
+      </id>
+      <id>
+        <uid>140918</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003RDS3</idNumber>
+      </id>
+      <id>
+        <uid>140919</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100041XX5</idNumber>
+      </id>
+      <id>
+        <uid>140920</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000455C3</idNumber>
+      </id>
+      <id>
+        <uid>140921</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100041XW7</idNumber>
+      </id>
+      <id>
+        <uid>140922</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000455B5</idNumber>
+      </id>
+      <id>
+        <uid>140914</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
+        <uid>140915</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Communications Group Co. Ltd</idNumber>
+      </id>
+      <id>
+        <uid>140916</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Communications Construction Group (Ltd.)</idNumber>
+      </id>
+      <id>
+        <uid>141285</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141286</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141287</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50330</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA COMMUNICATIONS CONSTRUCTION GROUP (LTD)</lastName>
+      </aka>
+      <aka>
+        <uid>50332</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA COMMUNICATIONS GROUP CO. LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50333</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA COMMUNICATIONS GROUP COMPANY LIMITED</lastName>
+      </aka>
+      <aka>
+        <uid>50334</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CCCG</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48286</uid>
+        <address1>No. 85, Deshengmen Outer Street</address1>
+        <address2>Xicheng District</address2>
+        <city>Beijing</city>
+        <postalCode>100088</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32073</uid>
+    <lastName>AEROSPACE COMMUNICATIONS HOLDINGS GROUP COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21855</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>913300001429112055</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140924</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Aerospace Communications Holdings Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140925</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600677  CN</idNumber>
+      </id>
+      <id>
+        <uid>140927</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000BS6</idNumber>
+      </id>
+      <id>
+        <uid>141541</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141539</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141540</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141542</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50336</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AEROSPACE COMMUNICATIONS HOLDINGS CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50337</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AEROCOM</lastName>
+      </aka>
+      <aka>
+        <uid>50339</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>AEROSPACE COMMUNICATIONS HOLDINGS COMPANY LIMITED</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48293</uid>
+        <address1>Block 1, Aerospace Communications Mansion, 138, Jiefang Road</address1>
+        <city>Hangzhou</city>
+        <postalCode>310009</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32077</uid>
+    <lastName>FUJIAN TORCH ELECTRON TECHNOLOGY CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21856</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>913500001562023628</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140932</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100001TY3</idNumber>
+      </id>
+      <id>
+        <uid>140929</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Fujian Torch Electron Technology Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>140931</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>603678  CN</idNumber>
+      </id>
+      <id>
+        <uid>141517</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141518</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141519</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141520</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50348</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>TORCH ELECTRON</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48298</uid>
+        <address1>Hi-Tech Industrial Park, Jiangnan Park, 4, Zihua Road, Licheng district</address1>
+        <city>Quanzhou</city>
+        <postalCode>362000</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32078</uid>
+    <lastName>INNER MONGOLIA FIRST MACHINERY GROUP CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21858</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91150000720180740Y</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140935</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Baotou Beifang Chuangye Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140936</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600967  CN</idNumber>
+      </id>
+      <id>
+        <uid>140937</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000001HP7</idNumber>
+      </id>
+      <id>
+        <uid>141521</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141522</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141523</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141524</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50350</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>FIRMACO</lastName>
+      </aka>
+      <aka>
+        <uid>50351</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BAOTOU BEIFANG CHUANGYE COMPANY LIMITED</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48303</uid>
+        <address1>Minzhu Road, Qingshan District</address1>
+        <city>Baotou</city>
+        <postalCode>014032</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32079</uid>
+    <lastName>CSSC OFFSHORE &amp; MARINE ENGINEERING (GROUP) COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21859</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91440101190499390U</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140939</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>00317  HK</idNumber>
+      </id>
+      <id>
+        <uid>140940</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600685  CN</idNumber>
+      </id>
+      <id>
+        <uid>140938</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>CSSC Offshore &amp; Marine Engineering (Group) Company Limited</idNumber>
+      </id>
+      <id>
+        <uid>140946</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100000395</idNumber>
+      </id>
+      <id>
+        <uid>141526</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141527</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141528</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141525</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50353</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>COMEC</lastName>
+      </aka>
+      <aka>
+        <uid>50354</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>GUANGZHOU SHIPYARD INTERNATIONAL COMPANY LIMITED</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48305</uid>
+        <address1>40, South Fang Cun Road, Liwan District</address1>
+        <city>Guangzhou</city>
+        <postalCode>510382</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32082</uid>
+    <lastName>AVIC AVIATION HIGH-TECHNOLOGY COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21862</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91320600138299578A</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140949</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Tonmac International Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140950</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600862  CN</idNumber>
+      </id>
+      <id>
+        <uid>140951</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000GZ0</idNumber>
+      </id>
+      <id>
+        <uid>141529</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141530</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141531</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50358</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIC AVIATION HIGH-TECHNOLOGY CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50359</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIC HI-TECH</lastName>
+      </aka>
+      <aka>
+        <uid>50360</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>TONTEC TECHNOLOGY INVESTMENT GROUP COMPANY LIMITED</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48313</uid>
+        <address1>1, Yonghe Road, Gangzha District</address1>
+        <city>Nantong</city>
+        <postalCode>226011</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32084</uid>
+    <lastName>AEROSPACE CH UAV CO., LTD</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21863</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91330000734507783B</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140954</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Aerospace CH UAV Co Ltd</idNumber>
+      </id>
+      <id>
+        <uid>140955</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>002389  CN</idNumber>
+      </id>
+      <id>
+        <uid>140956</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100000N20</idNumber>
+      </id>
+      <id>
+        <uid>141543</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141544</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141545</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141546</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50364</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>ZHEJIANG NANYANG TECHNOLOGY COMPANY LIMITED</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48316</uid>
+        <address1>Development Zone, 388, Kai Fa Avenue</address1>
+        <city>Taizhou</city>
+        <postalCode>318000</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32085</uid>
+    <lastName>CHINA AEROSPACE TIMES ELECTRONICS CO., LTD</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21864</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91420100177716821Q</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140957</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Aerospace Times Electronics Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>140958</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600879  CN</idNumber>
+      </id>
+      <id>
+        <uid>140959</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000J93</idNumber>
+      </id>
+      <id>
+        <uid>140960</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003B821</idNumber>
+      </id>
+      <id>
+        <uid>140961</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100034J27</idNumber>
+      </id>
+      <id>
+        <uid>140962</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100037514</idNumber>
+      </id>
+      <id>
+        <uid>140963</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100032457</idNumber>
+      </id>
+      <id>
+        <uid>140964</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002R795</idNumber>
+      </id>
+      <id>
+        <uid>140965</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003D843</idNumber>
+      </id>
+      <id>
+        <uid>140966</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100035G37</idNumber>
+      </id>
+      <id>
+        <uid>140967</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100037S23</idNumber>
+      </id>
+      <id>
+        <uid>140968</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002B3Q3</idNumber>
+      </id>
+      <id>
+        <uid>140969</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002T6Q6</idNumber>
+      </id>
+      <id>
+        <uid>140970</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100044B23</idNumber>
+      </id>
+      <id>
+        <uid>141547</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141548</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141549</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141550</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50366</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CATEC</lastName>
+      </aka>
+      <aka>
+        <uid>50368</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>LONG MARCH LAUNCH VEHICLE TECHNOLOGY COMPANY LIMITED</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48318</uid>
+        <address1>High-Technology Industrial Zone, Economic &amp; Technological Development Zone</address1>
+        <city>Wuhan</city>
+        <postalCode>430056</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32087</uid>
+    <lastName>HUAWEI INVESTMENT &amp; HOLDING CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: HUAWEI TECHNOLOGIES CO., LTD.)</remarks>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21866</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91440300746645251H</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140973</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
+        <uid>140974</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Huawei Investment &amp; Holding Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140976</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Huawei Investment and Holding Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140978</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003D0F9</idNumber>
+      </id>
+      <id>
+        <uid>140981</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002J7T0</idNumber>
+      </id>
+      <id>
+        <uid>140982</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000336F8</idNumber>
+      </id>
+      <id>
+        <uid>140983</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000439R5</idNumber>
+      </id>
+      <id>
+        <uid>140979</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100035KT2</idNumber>
+      </id>
+      <id>
+        <uid>140980</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10002K3Y6</idNumber>
+      </id>
+      <id>
+        <uid>141292</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141293</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141294</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50372</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>HUAWEI INVESTMENT AND HOLDING CO., LTD.</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48323</uid>
+        <address1>Building 1, Area B, Bantian Huawei Base</address1>
+        <address2>Longgang District</address2>
+        <city>Guangdong</city>
+        <stateOrProvince>Shenzhen</stateOrProvince>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32088</uid>
+    <lastName>JIANGXI HONGDU AVIATION INDUSTRY CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21868</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91360000705515290C</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>140995</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001KJ52</idNumber>
+      </id>
+      <id>
+        <uid>140996</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001KHB9</idNumber>
+      </id>
+      <id>
+        <uid>140989</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Jiangxi Hongdu Aviation Industry Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140991</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600316  CN</idNumber>
+      </id>
+      <id>
+        <uid>140992</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE0000015N3</idNumber>
+      </id>
+      <id>
+        <uid>141551</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141552</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141363</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141361</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50374</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>HDAA</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48325</uid>
+        <address1>P.O. Box 5001-500</address1>
+        <city>Nanchang</city>
+        <postalCode>330024</postalCode>
+        <country>China</country>
+      </address>
+      <address>
+        <uid>48326</uid>
+        <address1>Xinxi Bridge Road Qingyunpu District</address1>
+        <city>Nanchang</city>
+        <postalCode>330024</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32089</uid>
+    <lastName>PROVEN GLORY CAPITAL LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: HUAWEI INVESTMENT &amp; HOLDING CO., LTD.)</remarks>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>140994</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1808982398</idNumber>
+      </id>
+      <id>
+        <uid>140997</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1808982471</idNumber>
+      </id>
+      <id>
+        <uid>140999</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1567423766</idNumber>
+      </id>
+      <id>
+        <uid>141000</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1809220913</idNumber>
+      </id>
+      <id>
+        <uid>140987</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
+        <uid>140988</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Glory Capital Limited</idNumber>
+      </id>
+      <id>
+        <uid>140990</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1809220830</idNumber>
+      </id>
+      <id>
+        <uid>140998</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1567423501</idNumber>
+      </id>
+      <id>
+        <uid>141297</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141295</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141296</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50376</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PROVEN GLORY</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48328</uid>
+        <address1>263 Main Street</address1>
+        <city>Road Town</city>
+        <postalCode>VG11100</postalCode>
+        <country>Virgin Islands, British</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32090</uid>
+    <lastName>CHINA AVIONICS SYSTEMS COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21869</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000705514765U</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141001</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Avionics Systems Company Limited</idNumber>
+      </id>
+      <id>
+        <uid>141002</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600372  CN</idNumber>
+      </id>
+      <id>
+        <uid>141003</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE0000018C0</idNumber>
+      </id>
+      <id>
+        <uid>141004</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100018CL2</idNumber>
+      </id>
+      <id>
+        <uid>141556</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141555</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141553</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141554</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50378</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA AVIONICS SYSTEMS CO., LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50379</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIC AVIONICS</lastName>
+      </aka>
+      <aka>
+        <uid>50381</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA AVIC ELECTRONICS CO., LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50382</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA AVIC ELECTRONICS COMPANY LIMITED</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48331</uid>
+        <address1>Building 20, 8th-9th Floor, 5A, Shuguangxili</address1>
+        <city>Beijing</city>
+        <postalCode>100028</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32091</uid>
+    <lastName>PROVEN HONOUR CAPITAL LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: HUAWEI INVESTMENT &amp; HOLDING CO., LTD.)</remarks>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>141019</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Honour Capital Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141020</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Honour Capital Limited</idNumber>
+      </id>
+      <id>
+        <uid>141022</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1233275194</idNumber>
+      </id>
+      <id>
+        <uid>141023</uid>
+        <idType>ISIN</idType>
+        <idNumber>HK0000216777</idNumber>
+      </id>
+      <id>
+        <uid>141005</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
+        <uid>141032</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1401816761</idNumber>
+      </id>
+      <id>
+        <uid>141034</uid>
+        <idType>ISIN</idType>
+        <idNumber>HK0000111952</idNumber>
+      </id>
+      <id>
+        <uid>141298</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141299</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141300</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50383</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PROVEN HONOUR CAPITAL LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50384</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PROVEN HONOUR</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48332</uid>
+        <address1>C/O Vistra Corporate Services Centre</address1>
+        <address2>Wickhams Cay II</address2>
+        <city>Road Town</city>
+        <postalCode>VG1110</postalCode>
+        <country>Virgin Islands, British</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32100</uid>
+    <lastName>CHINA SHIPBUILDING INDUSTRY COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21880</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000710935329H</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141059</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>CHINA SHIPBUILDING INDUSTRY COMPANY LIMITED</idNumber>
+      </id>
+      <id>
+        <uid>141061</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>601989 CN</idNumber>
+      </id>
+      <id>
+        <uid>141062</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100000J75</idNumber>
+      </id>
+      <id>
+        <uid>141496</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141497</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141498</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141499</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50411</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA SHIPBUILDING INDUSTRY CO LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50412</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CSICL</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48350</uid>
+        <address1>72 Kunminghu South Road, Haidian District</address1>
+        <city>Beijing</city>
+        <postalCode>100097</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32101</uid>
+    <lastName>GUIZHOU SPACE APPLIANCE CO., LTD</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21881</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91520000730980020A</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141068</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>002025 CN</idNumber>
+      </id>
+      <id>
+        <uid>141069</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000001KG0</idNumber>
+      </id>
+      <id>
+        <uid>141071</uid>
+        <idType>ISIN</idType>
+        <idNumber>CN000A0B7NS3</idNumber>
+      </id>
+      <id>
+        <uid>141511</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Guizhou Space Appliance Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141512</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141513</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141508</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141515</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50415</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>SACO</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48352</uid>
+        <address1>7, Honghe Road, Xiaohe District</address1>
+        <city>Guiyang</city>
+        <postalCode>550009</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32102</uid>
+    <lastName>CHANGSHA JINGJIA MICROELECTRONICS COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21882</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>914301007853917172</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141074</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Changsha Jingjia Microelectronics Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>141075</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Changsha Jingjia Microelectronics Company Limited</idNumber>
+      </id>
+      <id>
+        <uid>141078</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>300474 CN</idNumber>
+      </id>
+      <id>
+        <uid>141079</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100002664</idNumber>
+      </id>
+      <id>
+        <uid>141504</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141505</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141506</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141507</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50417</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHANGSHA JINGJIA MICROELECTRONICS CO., LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50418</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JINGJIA MICRO</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48354</uid>
+        <address1>No.1, Meixihu Road, Yuelu District</address1>
+        <city>Changsha</city>
+        <postalCode>410205</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32103</uid>
+    <lastName>CHINA MARINE INFORMATION ELECTRONICS COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21883</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000224344507P</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141083</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Marine Information Electronics Company Limited</idNumber>
+      </id>
+      <id>
+        <uid>141085</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600764 CN</idNumber>
+      </id>
+      <id>
+        <uid>141086</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000N30</idNumber>
+      </id>
+      <id>
+        <uid>141500</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141501</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141502</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141503</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50420</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA MARINE INFORMATION ELECTRONICS CO LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50421</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA SHIPBUILDING INDUSTRY GROUP MARINE DEFENSE AND INFORMATION CONFRONTATION CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50422</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>CEC CORECAST CORPORATION LIMITED</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48357</uid>
+        <address1>4F Zhongshangxin Mansion 34 Xueyuan South Road</address1>
+        <city>Beijing</city>
+        <postalCode>100082</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32106</uid>
+    <lastName>CHINA SHIPBUILDING INDUSTRY GROUP POWER COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21884</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>911306007109266097</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141245</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141246</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141247</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141108</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141109</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Shipbuilding Industry Group Power</idNumber>
+      </id>
+      <id>
+        <uid>141110</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600482 CN</idNumber>
+      </id>
+      <id>
+        <uid>141111</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000001KB1</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50427</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA SHIPBUILDING INDUSTRY GROUP POWER CO LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50428</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA SHIPBUILDING INDUSTRY GROUP POWER</lastName>
+      </aka>
+      <aka>
+        <uid>50429</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CSIC POWER</lastName>
+      </aka>
+      <aka>
+        <uid>50430</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CSICP</lastName>
+      </aka>
+      <aka>
+        <uid>50431</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>FENGFAN CO., LTD.</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48362</uid>
+        <address1>72, Kunminghu South Road</address1>
+        <address2>Haidian District</address2>
+        <city>Beijing</city>
+        <postalCode>100097</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32107</uid>
+    <lastName>COSTAR GROUP CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21885</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91410000615301803D</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141248</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141249</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141250</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141115</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>002189 CN</idNumber>
+      </id>
+      <id>
+        <uid>141113</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141114</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Costar Group Co</idNumber>
+      </id>
+      <id>
+        <uid>141116</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100000882</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50433</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>COSTAR GROUP CO</lastName>
+      </aka>
+      <aka>
+        <uid>50434</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>LIDA OPTICAL &amp; ELECTRONIC CO., LTD.</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48364</uid>
+        <address1>508, Gongye Road</address1>
+        <city>Nanyang</city>
+        <postalCode>473003</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32128</uid>
+    <lastName>NANJING PANDA ELECTRONICS COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21920</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91320100134974572K</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141157</uid>
+        <idType>ISIN</idType>
+        <idNumber>CN0009003921</idNumber>
+      </id>
+      <id>
+        <uid>141158</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000003T4</idNumber>
+      </id>
+      <id>
+        <uid>141159</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000NB7</idNumber>
+      </id>
+      <id>
+        <uid>141160</uid>
+        <idType>ISIN</idType>
+        <idNumber>CN0005815195</idNumber>
+      </id>
+      <id>
+        <uid>141161</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600775 CN</idNumber>
+      </id>
+      <id>
+        <uid>141162</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>00553 HK</idNumber>
+      </id>
+      <id>
+        <uid>141163</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>NNJ DE</idNumber>
+      </id>
+      <id>
+        <uid>141164</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Nanjing Panda Electr. Co. Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>141165</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Nanjing Panda Electronic Co. Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141166</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Nanjing Panda Electronics Company Limited</idNumber>
+      </id>
+      <id>
+        <uid>141443</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141431</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141432</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141433</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50482</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NANJING PANDA ELECTRONIC CO. LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50483</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NANJING PANDA ELECTR. CO. LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50484</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NANJING PANDA</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48422</uid>
+        <address1>7, Jingtian Road</address1>
+        <city>Nanjing</city>
+        <postalCode>210033</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32129</uid>
+    <lastName>AEROSUN CORPORATION</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21930</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91320000714091899R</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141187</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600501 CN</idNumber>
+      </id>
+      <id>
+        <uid>141188</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Aerosun Corporation</idNumber>
+      </id>
+      <id>
+        <uid>141481</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000001857</idNumber>
+      </id>
+      <id>
+        <uid>141482</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141483</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141484</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141485</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50497</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AEROSUN CORP.</lastName>
+      </aka>
+      <aka>
+        <uid>50498</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AEROSUN</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48434</uid>
+        <address1>Jiangning Economic Zone, 188, Tianyuan Zhong Road</address1>
+        <city>Nanjing</city>
+        <postalCode>211100</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32130</uid>
+    <lastName>NORTH NAVIGATION CONTROL TECHNOLOGY CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21931</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>911100007226144851</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141190</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600435 CN</idNumber>
+      </id>
+      <id>
+        <uid>141189</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Beijing North Phenix Intelligence Technology Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141191</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000001F88</idNumber>
+      </id>
+      <id>
+        <uid>141487</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141488</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141489</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141490</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50500</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BEIJING NORTH PHENIX INTELLIGENCE TECHNOLOGY CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>50501</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>CHINA NORTH OPTICAL-ELECTRICAL TECHNOLOGY CO., LTD.</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48436</uid>
+        <address1>No. 2</address1>
+        <address2>Kechuang 15 Street</address2>
+        <address3>Economic Technology Development Zone</address3>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32131</uid>
+    <lastName>SHAANXI ZHONGTIAN ROCKET TECHNOLOGY COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21932</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91610000741252408P</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141192</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000046W7</idNumber>
+      </id>
+      <id>
+        <uid>141193</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>003009 CN</idNumber>
+      </id>
+      <id>
+        <uid>141194</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Shaanxi Zhongtian Rocket Technology Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141494</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141493</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141491</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141492</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50503</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SHAANXI ZHONGTIAN ROCKET TECHNOLOGY CO., LTD</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48438</uid>
+        <city>Xi'an</city>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>32153</uid>
+    <lastName>ZHONGHANG ELECTRONIC MEASURING INSTRUMENTS COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21955</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91610000745016111K</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>141231</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Zhonghang Electronic Measuring Instruments Co., Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141233</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>300114 CN</idNumber>
+      </id>
+      <id>
+        <uid>141234</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100000T08</idNumber>
+      </id>
+      <id>
+        <uid>141640</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141638</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141639</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>50519</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ZHONGHANG ELECTRONIC MEASURING INSTRUMENTS CO., LTD</lastName>
+      </aka>
+      <aka>
+        <uid>50521</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ZEMIC</lastName>
+      </aka>
+      <aka>
+        <uid>50523</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AVIC ZEMIC</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>48453</uid>
+        <address1>High-Tech Industrial Development Zone</address1>
+        <address2>166</address2>
+        <address3>West Avenue</address3>
+        <city>Xi'an</city>
+        <postalCode>710119</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
   </sdnEntry>
 </sdnList>

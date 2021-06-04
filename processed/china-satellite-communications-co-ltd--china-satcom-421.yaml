@@ -1,0 +1,43 @@
+---
+entity_type: organization
+names:
+- CHINA SATELLITE COMMUNICATIONS CO., LTD.
+- " CHINA SATCOM"
+source: us-govt-data
+ref_number: '32069'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'China Satellite Communications Tower, Building A, 21st Floor, 65, Zhichun
+    Road, Haidian District   '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100190'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91110000710929113P
+  country: China
+- type: Issuer Name
+  number: China Satellite Communications Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 601698  CN
+  country: 
+- type: ISIN
+  number: CNE100003PX9
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

@@ -1,0 +1,41 @@
+---
+entity_type: organization
+names:
+- AVIC AVIATION HIGH-TECHNOLOGY COMPANY LIMITED
+- " AVIC AVIATION HIGH-TECHNOLOGY CO., LTD."
+- " AVIC HI-TECH"
+- " TONTEC TECHNOLOGY INVESTMENT GROUP COMPANY LIMITED"
+source: us-govt-data
+ref_number: '32082'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '1, Yonghe Road, Gangzha District   '
+  city: Nantong
+  state: 
+  country: China
+  zip: '226011'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91320600138299578A
+  country: China
+- type: Issuer Name
+  number: Tonmac International Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 600862  CN
+  country: 
+- type: ISIN
+  number: CNE000000GZ0
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

@@ -1,42 +1,45 @@
 ---
 entity_type: organization
 names:
-- CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION
-- " CASC"
+- GUIZHOU SPACE APPLIANCE CO., LTD
+- " SACO"
 source: us-govt-data
-ref_number: '30929'
+ref_number: '32101'
 ref_type: Sdn UID
 country: China
 birthdate: 
 remark: 
 address:
-- street: 'No. 8, Fucheng Road, Haidian District   '
-  city: Beijing
+- street: '7, Honghe Road, Xiaohe District   '
+  city: Guiyang
   state: 
   country: China
-  zip: '100048'
+  zip: '550009'
 documents:
 - type: Unified Social Credit Code (USCC)
-  number: 91110000100014071Q
+  number: 91520000730980020A
   country: China
-- type: ISIN
-  number: CND1000090Q8
+- type: Equity Ticker
+  number: 002025 CN
   country: 
 - type: ISIN
-  number: CND100006HP7
+  number: CNE000001KG0
   country: 
-- type: Target Type
-  number: State-Owned Enterprise
+- type: ISIN
+  number: CN000A0B7NS3
   country: 
 - type: Issuer Name
-  number: China Aerospace Science and Technology Corporation
+  number: Guizhou Space Appliance Co., Ltd
   country: 
-- type: Effective Date (CMIC)
-  number: 02 Aug 2021
+- type: Target Type
+  number: Public Company
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
   country: 
 - type: Listing Date (CMIC)
   number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
   country: 

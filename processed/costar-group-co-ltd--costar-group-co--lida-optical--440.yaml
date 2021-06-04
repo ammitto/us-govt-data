@@ -1,0 +1,43 @@
+---
+entity_type: organization
+names:
+- COSTAR GROUP CO., LTD.
+- " COSTAR GROUP CO"
+- " LIDA OPTICAL & ELECTRONIC CO., LTD."
+source: us-govt-data
+ref_number: '32107'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '508, Gongye Road   '
+  city: Nanyang
+  state: 
+  country: China
+  zip: '473003'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91410000615301803D
+  country: China
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Equity Ticker
+  number: '002189 CN'
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Issuer Name
+  number: Costar Group Co
+  country: 
+- type: ISIN
+  number: CNE100000882
+  country: 

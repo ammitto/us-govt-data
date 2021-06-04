@@ -1,0 +1,50 @@
+---
+entity_type: organization
+names:
+- CHINA GENERAL NUCLEAR POWER CORPORATION
+- " CHINA GENERAL NUCLEAR POWER CORP"
+- " CGN"
+source: us-govt-data
+ref_number: '30937'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '33F, South Building, China General Nuclear Building, No. 2002 Shennan Avenue,
+    Futian District   '
+  city: Shenzhen
+  state: Guangdong
+  country: China
+  zip: 
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 9144030010001694XX
+  country: China
+- type: Issuer Name
+  number: China General Nuclear Power Corporation
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Target Type
+  number: Private Company
+  country: 
+- type: ISIN
+  number: CND10003XXN0
+  country: 
+- type: ISIN
+  number: CND1000248C2
+  country: 
+- type: ISIN
+  number: CND10003GZY7
+  country: 
+- type: ISIN
+  number: CND1000363K2
+  country: 

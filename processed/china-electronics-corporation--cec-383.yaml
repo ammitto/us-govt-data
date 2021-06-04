@@ -1,42 +1,45 @@
 ---
 entity_type: organization
 names:
-- CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION
-- " CASC"
+- CHINA ELECTRONICS CORPORATION
+- " CEC"
 source: us-govt-data
-ref_number: '30929'
+ref_number: '30932'
 ref_type: Sdn UID
 country: China
 birthdate: 
-remark: 
+remark: "(Linked To: NANJING PANDA ELECTRONICS COMPANY LIMITED)"
 address:
-- street: 'No. 8, Fucheng Road, Haidian District   '
+- street: '19F, Building 1, No. 66A, Zhongguancun East Road, Haidian District   '
   city: Beijing
   state: 
   country: China
-  zip: '100048'
+  zip: '100190'
 documents:
 - type: Unified Social Credit Code (USCC)
-  number: 91110000100014071Q
+  number: 91110000100010249W
   country: China
-- type: ISIN
-  number: CND1000090Q8
+- type: Legal Entity Number
+  number: 300300PV91RY9GH3CT16
   country: 
 - type: ISIN
-  number: CND100006HP7
+  number: CND10002F8S4
+  country: 
+- type: ISIN
+  number: CND10000KG49
+  country: 
+- type: Issuer Name
+  number: China Electronics Corporation
   country: 
 - type: Target Type
   number: State-Owned Enterprise
   country: 
-- type: Issuer Name
-  number: China Aerospace Science and Technology Corporation
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
   country: 
 - type: Effective Date (CMIC)
   number: 02 Aug 2021
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
-  country: 
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
   country: 

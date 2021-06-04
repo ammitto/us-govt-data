@@ -1,0 +1,44 @@
+---
+entity_type: organization
+names:
+- AEROSPACE COMMUNICATIONS HOLDINGS GROUP COMPANY LIMITED
+- " AEROSPACE COMMUNICATIONS HOLDINGS CO., LTD."
+- " AEROCOM"
+- " AEROSPACE COMMUNICATIONS HOLDINGS COMPANY LIMITED"
+source: us-govt-data
+ref_number: '32073'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'Block 1, Aerospace Communications Mansion, 138, Jiefang Road   '
+  city: Hangzhou
+  state: 
+  country: China
+  zip: '310009'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '913300001429112055'
+  country: China
+- type: Issuer Name
+  number: Aerospace Communications Holdings Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 600677  CN
+  country: 
+- type: ISIN
+  number: CNE000000BS6
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

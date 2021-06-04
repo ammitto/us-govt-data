@@ -1,0 +1,43 @@
+---
+entity_type: organization
+names:
+- HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO., LTD.
+- " HIKVISION"
+- " HANGZHOU HIKVISION DIGITAL TECHNOLOGY"
+source: us-govt-data
+ref_number: '30946'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '555, Qianmo Road Binjiang District  '
+  city: Hangzhou
+  state: 
+  country: China
+  zip: '310051'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91330000733796106P
+  country: China
+- type: Equity Ticker
+  number: 002415 CN
+  country: 
+- type: Issuer Name
+  number: Hangzhou Hikvision Digital Technology
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: ISIN
+  number: CNE100000PM8
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

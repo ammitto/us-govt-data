@@ -1,0 +1,51 @@
+---
+entity_type: organization
+names:
+- PROVEN GLORY CAPITAL LIMITED
+- " PROVEN GLORY"
+source: us-govt-data
+ref_number: '32089'
+ref_type: Sdn UID
+country: Virgin Islands, British
+birthdate: 
+remark: "(Linked To: HUAWEI INVESTMENT & HOLDING CO., LTD.)"
+address:
+- street: '263 Main Street   '
+  city: Road Town
+  state: 
+  country: Virgin Islands, British
+  zip: VG11100
+documents:
+- type: ISIN
+  number: XS1808982398
+  country: 
+- type: ISIN
+  number: XS1808982471
+  country: 
+- type: ISIN
+  number: XS1567423766
+  country: 
+- type: ISIN
+  number: XS1809220913
+  country: 
+- type: Target Type
+  number: Private Company
+  country: 
+- type: Issuer Name
+  number: Proven Glory Capital Limited
+  country: 
+- type: ISIN
+  number: XS1809220830
+  country: 
+- type: ISIN
+  number: XS1567423501
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 

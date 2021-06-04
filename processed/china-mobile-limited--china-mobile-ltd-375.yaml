@@ -1,0 +1,72 @@
+---
+entity_type: organization
+names:
+- CHINA MOBILE LIMITED
+- " CHINA MOBILE LTD"
+source: us-govt-data
+ref_number: '30923'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: "(Linked To: CHINA MOBILE COMMUNICATIONS GROUP CO., LTD.)"
+address:
+- street: '60th Floor, The Center, 99 Queens Road Central   '
+  city: 
+  state: Hong Kong
+  country: China
+  zip: 
+documents:
+- type: Equity Ticker
+  number: CHL US
+  country: 
+- type: Equity Ticker
+  number: 941 HK
+  country: 
+- type: Issuer Name
+  number: China Mobile Limited
+  country: 
+- type: Equity Ticker
+  number: CHL RU
+  country: 
+- type: Equity Ticker
+  number: CTMA DE
+  country: 
+- type: Equity Ticker
+  number: K3PD SG
+  country: 
+- type: Equity Ticker
+  number: CTM DE
+  country: 
+- type: Issuer Name
+  number: China Mobile Ltd
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: ISIN
+  number: ARDEUT111812
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Equity Ticker
+  number: CHL AR
+  country: 
+- type: Equity Ticker
+  number: C1HL34 BR
+  country: 
+- type: ISIN
+  number: US16941M1099
+  country: 
+- type: ISIN
+  number: HK0941009539
+  country: 
+- type: ISIN
+  number: BRC1HLBDR003
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

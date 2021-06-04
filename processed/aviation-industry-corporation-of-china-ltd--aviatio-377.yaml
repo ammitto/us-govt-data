@@ -1,42 +1,47 @@
 ---
 entity_type: organization
 names:
-- CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION
-- " CASC"
+- AVIATION INDUSTRY CORPORATION OF CHINA, LTD.
+- " AVIATION INDUSTRY CORP OF CHINA"
+- " AVIATION INDUSTRY OF CHINA"
+- " AVIC"
 source: us-govt-data
-ref_number: '30929'
+ref_number: '30925'
 ref_type: Sdn UID
 country: China
 birthdate: 
 remark: 
 address:
-- street: 'No. 8, Fucheng Road, Haidian District   '
+- street: 'Building 19 Compound A5 Shuguang Xili Chaoyang District   '
   city: Beijing
   state: 
   country: China
-  zip: '100048'
+  zip: '100028'
 documents:
 - type: Unified Social Credit Code (USCC)
-  number: 91110000100014071Q
+  number: 91110000710935732K
   country: China
 - type: ISIN
-  number: CND1000090Q8
+  number: CND10001WLS0
   country: 
-- type: ISIN
-  number: CND100006HP7
+- type: Issuer Name
+  number: Aviation Industry Corporation of China, Ltd
   country: 
 - type: Target Type
   number: State-Owned Enterprise
   country: 
-- type: Issuer Name
-  number: China Aerospace Science and Technology Corporation
+- type: ISIN
+  number: CND10002HNP1
   country: 
-- type: Effective Date (CMIC)
-  number: 02 Aug 2021
+- type: ISIN
+  number: CND10002DPC3
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
   country: 
 - type: Listing Date (CMIC)
   number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
   country: 

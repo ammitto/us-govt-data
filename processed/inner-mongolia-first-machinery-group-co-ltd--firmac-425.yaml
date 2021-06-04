@@ -1,0 +1,43 @@
+---
+entity_type: organization
+names:
+- INNER MONGOLIA FIRST MACHINERY GROUP CO., LTD.
+- " FIRMACO"
+- " BAOTOU BEIFANG CHUANGYE COMPANY LIMITED"
+source: us-govt-data
+ref_number: '32078'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'Minzhu Road, Qingshan District   '
+  city: Baotou
+  state: 
+  country: China
+  zip: '014032'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91150000720180740Y
+  country: China
+- type: Issuer Name
+  number: Baotou Beifang Chuangye Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 600967  CN
+  country: 
+- type: ISIN
+  number: CNE000001HP7
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 

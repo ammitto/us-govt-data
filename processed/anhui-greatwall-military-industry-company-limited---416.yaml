@@ -1,0 +1,50 @@
+---
+entity_type: organization
+names:
+- ANHUI GREATWALL MILITARY INDUSTRY COMPANY LIMITED
+- " ANHUI GREAT WALL MILITARY INDUSTRY CO., LTD"
+- " ANHUI GREATWALL MILITARY INDUSTRY CO., LTD."
+- " GREATWALL MILITARY"
+- " GREATWALL MILITARY INDUSTRY"
+source: us-govt-data
+ref_number: '32028'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'No. 99 Taoyuan Road, Economic Development Zone   '
+  city: Hefei
+  state: 
+  country: China
+  zip: 
+- street: 'Economic And Technological Development Zone, 99 Hezhang Road   '
+  city: Hefei
+  state: 
+  country: China
+  zip: '230001'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 9134000070503581XA
+  country: China
+- type: ISIN
+  number: CNE1000036L1
+  country: 
+- type: Issuer Name
+  number: Anhui Greatwall Military Industry Co., Ltd
+  country: 
+- type: Equity Ticker
+  number: 601606 CN
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 

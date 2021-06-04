@@ -1,0 +1,42 @@
+---
+entity_type: organization
+names:
+- SHAANXI ZHONGTIAN ROCKET TECHNOLOGY COMPANY LIMITED
+- " SHAANXI ZHONGTIAN ROCKET TECHNOLOGY CO., LTD"
+source: us-govt-data
+ref_number: '32131'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: "   "
+  city: Xi'an
+  state: 
+  country: China
+  zip: 
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91610000741252408P
+  country: China
+- type: ISIN
+  number: CNE1000046W7
+  country: 
+- type: Equity Ticker
+  number: '003009 CN'
+  country: 
+- type: Issuer Name
+  number: Shaanxi Zhongtian Rocket Technology Co., Ltd
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 

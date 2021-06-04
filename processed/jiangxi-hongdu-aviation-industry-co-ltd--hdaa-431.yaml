@@ -1,0 +1,53 @@
+---
+entity_type: organization
+names:
+- JIANGXI HONGDU AVIATION INDUSTRY CO., LTD.
+- " HDAA"
+source: us-govt-data
+ref_number: '32088'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'P.O. Box 5001-500   '
+  city: Nanchang
+  state: 
+  country: China
+  zip: '330024'
+- street: 'Xinxi Bridge Road Qingyunpu District   '
+  city: Nanchang
+  state: 
+  country: China
+  zip: '330024'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91360000705515290C
+  country: China
+- type: ISIN
+  number: CND10001KJ52
+  country: 
+- type: ISIN
+  number: CND10001KHB9
+  country: 
+- type: Issuer Name
+  number: Jiangxi Hongdu Aviation Industry Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 600316  CN
+  country: 
+- type: ISIN
+  number: CNE0000015N3
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 

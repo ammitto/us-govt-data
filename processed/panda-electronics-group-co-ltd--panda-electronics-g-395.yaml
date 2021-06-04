@@ -1,31 +1,29 @@
 ---
 entity_type: organization
 names:
-- AERO ENGINE CORPORATION OF CHINA
-- " AERO ENGINE CORP OF CHINA"
-- " AECC"
-- " CHINA AVIATION ENGINE GROUP CO., LTD"
+- PANDA ELECTRONICS GROUP CO., LTD.
+- " PANDA ELECTRONICS GROUP LIMITED"
 source: us-govt-data
-ref_number: '30902'
+ref_number: '30950'
 ref_type: Sdn UID
 country: China
 birthdate: 
 remark: 
 address:
-- street: '5 Landianchang South Road Haidian District   '
-  city: Beijing
-  state: 
+- street: 'No. 301 Zhongshan East Road Xuanwu District '
+  city: Nanjing
+  state: Jiangsu
   country: China
-  zip: '100097'
+  zip: '210002'
 documents:
 - type: Unified Social Credit Code (USCC)
-  number: 91110000MA005UCQ5P
+  number: '913201921348831521'
   country: China
-- type: Effective Date (CMIC)
-  number: 02 Aug 2021
-  country: 
 - type: Listing Date (CMIC)
   number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022

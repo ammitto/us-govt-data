@@ -1,0 +1,117 @@
+---
+entity_type: organization
+names:
+- CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED
+- " CHINA COMMUNICATIONS CONSTRUCTION CO LTD"
+- " CHINA COMMUNICATIONS CONSTRUCTION COMPANY LTD"
+- " CHINA COMMUNICATIONS CONSTR CO LTD"
+- " CCCC"
+source: us-govt-data
+ref_number: '30930'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '85, Deshengmen Street Xicheng District  '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100088'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91110000710934369E
+  country: China
+- type: Issuer Name
+  number: China Communications Construction Company Limited
+  country: 
+- type: Issuer Name
+  number: China Communications Construction Company Ltd
+  country: 
+- type: Issuer Name
+  number: China Communications Constr Co Ltd
+  country: 
+- type: Equity Ticker
+  number: CYY DE
+  country: 
+- type: ISIN
+  number: CND10000GBD8
+  country: 
+- type: ISIN
+  number: CND10001TD67
+  country: 
+- type: ISIN
+  number: CND10002GB63
+  country: 
+- type: ISIN
+  number: CND10001TD75
+  country: 
+- type: ISIN
+  number: US1689261030
+  country: 
+- type: ISIN
+  number: CND10002G6P3
+  country: 
+- type: ISIN
+  number: CND10003TZ93
+  country: 
+- type: ISIN
+  number: CND100017CS9
+  country: 
+- type: ISIN
+  number: CND10001TD59
+  country: 
+- type: ISIN
+  number: CND10002K094
+  country: 
+- type: ISIN
+  number: CND10002H1Z2
+  country: 
+- type: ISIN
+  number: CND10003R421
+  country: 
+- type: ISIN
+  number: CND10002KKV9
+  country: 
+- type: ISIN
+  number: CND10002DZZ3
+  country: 
+- type: ISIN
+  number: CND10003KT58
+  country: 
+- type: ISIN
+  number: CND100043Z00
+  country: 
+- type: ISIN
+  number: CNE1000002F5
+  country: 
+- type: ISIN
+  number: CND10002G601
+  country: 
+- type: ISIN
+  number: CND10002GB71
+  country: 
+- type: ISIN
+  number: CNE100001FN5
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Issuer Name
+  number: China Communications Construction Co. Ltd
+  country: 
+- type: Equity Ticker
+  number: 601800 CN
+  country: 
+- type: Equity Ticker
+  number: '01800 HK'
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 

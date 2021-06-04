@@ -1,0 +1,47 @@
+---
+entity_type: organization
+names:
+- CHINA SPACESAT CO., LTD.
+- " CHINA SPACESAT"
+source: us-govt-data
+ref_number: '30934'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'Shenzhou Technology Mansion, 12th Floor, 31, Zhongguancun South Avenue   '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100081'
+- street: '12F Shenzhou Building, 31 Zhongguanchun South Street, Haidian District   '
+  city: Beijing
+  state: 
+  country: China
+  zip: '100081'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '911100001000274544'
+  country: China
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Equity Ticker
+  number: 600118 CN
+  country: 
+- type: Issuer Name
+  number: China Spacesat Co., Ltd.
+  country: 
+- type: ISIN
+  number: CNE000000SM3
+  country: 

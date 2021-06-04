@@ -1,0 +1,76 @@
+---
+entity_type: organization
+names:
+- CHINA AEROSPACE TIMES ELECTRONICS CO., LTD
+- " CATEC"
+- " LONG MARCH LAUNCH VEHICLE TECHNOLOGY COMPANY LIMITED"
+source: us-govt-data
+ref_number: '32085'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'High-Technology Industrial Zone, Economic & Technological Development Zone   '
+  city: Wuhan
+  state: 
+  country: China
+  zip: '430056'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91420100177716821Q
+  country: China
+- type: Issuer Name
+  number: China Aerospace Times Electronics Co., Ltd
+  country: 
+- type: Equity Ticker
+  number: 600879  CN
+  country: 
+- type: ISIN
+  number: CNE000000J93
+  country: 
+- type: ISIN
+  number: CND10003B821
+  country: 
+- type: ISIN
+  number: CND100034J27
+  country: 
+- type: ISIN
+  number: CND100037514
+  country: 
+- type: ISIN
+  number: CND100032457
+  country: 
+- type: ISIN
+  number: CND10002R795
+  country: 
+- type: ISIN
+  number: CND10003D843
+  country: 
+- type: ISIN
+  number: CND100035G37
+  country: 
+- type: ISIN
+  number: CND100037S23
+  country: 
+- type: ISIN
+  number: CND10002B3Q3
+  country: 
+- type: ISIN
+  number: CND10002T6Q6
+  country: 
+- type: ISIN
+  number: CND100044B23
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
