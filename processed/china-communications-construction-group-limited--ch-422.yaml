@@ -22,12 +22,6 @@ documents:
 - type: Unified Social Credit Code (USCC)
   number: 91110000710933809D
   country: China
-- type: Issuer Name
-  number: China Communications Group Company Limited
-  country: 
-- type: ISIN
-  number: CND10003RDS3
-  country: 
 - type: ISIN
   number: CND100041XX5
   country: 
@@ -57,4 +51,10 @@ documents:
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
+  country: 
+- type: Issuer Name
+  number: China Communications Group Company Limited
+  country: 
+- type: ISIN
+  number: CND10003RDS3
   country: 

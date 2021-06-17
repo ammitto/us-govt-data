@@ -22,9 +22,6 @@ documents:
   number: 91320100134974572K
   country: China
 - type: ISIN
-  number: CN0009003921
-  country: 
-- type: ISIN
   number: CNE1000003T4
   country: 
 - type: ISIN
@@ -62,4 +59,7 @@ documents:
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
+  country: 
+- type: ISIN
+  number: CN0009003921
   country: 

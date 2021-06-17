@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>06/03/2021</Publish_Date>
+    <Publish_Date>06/16/2021</Publish_Date>
     <Record_Count>446</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -20980,7 +20980,7 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: CHINA TELECOMMUNICATIONS CORPORATION)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21126,7 +21126,7 @@
     <lastName>AERO ENGINE CORPORATION OF CHINA</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21192,7 +21192,7 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: CHINA MOBILE COMMUNICATIONS GROUP CO., LTD.)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21309,7 +21309,7 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD.)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21395,7 +21395,7 @@
     <lastName>AVIATION INDUSTRY CORPORATION OF CHINA, LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21407,7 +21407,7 @@
       <id>
         <uid>141142</uid>
         <idType>ISIN</idType>
-        <idNumber>CND10001WLS0</idNumber>
+        <idNumber>CND10001WSL0</idNumber>
       </id>
       <id>
         <uid>141138</uid>
@@ -21481,7 +21481,7 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: CHINA NATIONAL OFFSHORE OIL CORPORATION)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21498,7 +21498,7 @@
       <id>
         <uid>138987</uid>
         <idType>Equity Ticker</idType>
-        <idNumber>00083 HK</idNumber>
+        <idNumber>00883 HK</idNumber>
       </id>
       <id>
         <uid>141586</uid>
@@ -21595,7 +21595,7 @@
     <lastName>CHINA ACADEMY OF LAUNCH VEHICLE TECHNOLOGY</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21655,7 +21655,7 @@
     <lastName>CHINA AEROSPACE SCIENCE AND INDUSTRY CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21724,7 +21724,7 @@
     <lastName>CHINA AEROSPACE SCIENCE AND TECHNOLOGY CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -21792,7 +21792,7 @@
     <lastName>CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22000,7 +22000,7 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: NANJING PANDA ELECTRONICS COMPANY LIMITED)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22073,7 +22073,7 @@
     <lastName>CHINA SOUTH INDUSTRIES GROUP CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22214,7 +22214,7 @@
     <lastName>CHINA SPACESAT CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22289,7 +22289,7 @@
     <lastName>CHINA ELECTRONICS TECHNOLOGY GROUP CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22344,7 +22344,7 @@
     <lastName>CHINA GENERAL NUCLEAR POWER CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22428,7 +22428,7 @@
     <lastName>CHINA STATE SHIPBUILDING CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22552,7 +22552,7 @@
     <lastName>CHINA TELECOMMUNICATIONS CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22612,7 +22612,7 @@
     <lastName>CHINA UNITED NETWORK COMMUNICATIONS GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22678,7 +22678,7 @@
     <lastName>CHINA MOBILE COMMUNICATIONS GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22732,7 +22732,7 @@
     <lastName>HANGZHOU HIKVISION DIGITAL TECHNOLOGY CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22807,7 +22807,7 @@
     <lastName>HUAWEI TECHNOLOGIES CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22863,7 +22863,7 @@
     <lastName>INSPUR GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22918,7 +22918,7 @@
     <lastName>PANDA ELECTRONICS GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -22974,9 +22974,34 @@
     <lastName>SEMICONDUCTOR MANUFACTURING INTERNATIONAL CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
+      <id>
+        <uid>141632</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100022N41</idNumber>
+      </id>
+      <id>
+        <uid>141633</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141634</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141635</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141636</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
       <id>
         <uid>141620</uid>
         <idType>Issuer Name</idType>
@@ -23052,31 +23077,6 @@
         <idType>ISIN</idType>
         <idNumber>CNE1000041W8</idNumber>
       </id>
-      <id>
-        <uid>141632</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND100022N41</idNumber>
-      </id>
-      <id>
-        <uid>141633</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141634</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141635</uid>
-        <idType>Target Type</idType>
-        <idNumber>Public Company</idNumber>
-      </id>
-      <id>
-        <uid>141636</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
     </idList>
     <akaList>
       <aka>
@@ -23123,7 +23123,7 @@
     <lastName>CHINA NATIONAL NUCLEAR CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -23247,7 +23247,7 @@
     <lastName>CHINA NATIONAL OFFSHORE OIL CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -23311,7 +23311,7 @@
     <lastName>CHINA NORTH INDUSTRIES GROUP CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -23419,7 +23419,7 @@
     <lastName>CHINA NUCLEAR ENGINEERING CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -23516,7 +23516,7 @@
     <lastName>CHINA RAILWAY CONSTRUCTION CORPORATION LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24123,7 +24123,7 @@
     <lastName>ANHUI GREATWALL MILITARY INDUSTRY COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24215,7 +24215,7 @@
     <lastName>AVIC XI'AN AIRCRAFT INDUSTRY GROUP COMPANY LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24303,7 +24303,7 @@
     <lastName>AVIC HEAVY MACHINERY COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24385,7 +24385,7 @@
     <lastName>AVIC JONHON OPTRONIC TECHNOLOGY CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24460,7 +24460,7 @@
     <lastName>AVIC SHENYANG AIRCRAFT COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24536,7 +24536,7 @@
     <lastName>CHINA SATELLITE COMMUNICATIONS CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24605,7 +24605,7 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: CHINA COMMUNICATIONS CONSTRUCTION COMPANY LIMITED)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24613,16 +24613,6 @@
         <idType>Unified Social Credit Code (USCC)</idType>
         <idNumber>91110000710933809D</idNumber>
         <idCountry>China</idCountry>
-      </id>
-      <id>
-        <uid>140917</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Communications Group Company Limited</idNumber>
-      </id>
-      <id>
-        <uid>140918</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND10003RDS3</idNumber>
       </id>
       <id>
         <uid>140919</uid>
@@ -24674,6 +24664,16 @@
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
       </id>
+      <id>
+        <uid>140917</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Communications Group Company Limited</idNumber>
+      </id>
+      <id>
+        <uid>140918</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003RDS3</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -24717,7 +24717,7 @@
     <lastName>AEROSPACE COMMUNICATIONS HOLDINGS GROUP COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24797,7 +24797,7 @@
     <lastName>FUJIAN TORCH ELECTRON TECHNOLOGY CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24865,7 +24865,7 @@
     <lastName>INNER MONGOLIA FIRST MACHINERY GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -24939,7 +24939,7 @@
     <lastName>CSSC OFFSHORE &amp; MARINE ENGINEERING (GROUP) COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25018,7 +25018,7 @@
     <lastName>AVIC AVIATION HIGH-TECHNOLOGY COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25093,7 +25093,7 @@
     <lastName>AEROSPACE CH UAV CO., LTD</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25161,7 +25161,7 @@
     <lastName>CHINA AEROSPACE TIMES ELECTRONICS CO., LTD</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25291,7 +25291,7 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: HUAWEI TECHNOLOGIES CO., LTD.)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25385,7 +25385,7 @@
     <lastName>JIANGXI HONGDU AVIATION INDUSTRY CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25471,7 +25471,7 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: HUAWEI INVESTMENT &amp; HOLDING CO., LTD.)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25553,7 +25553,7 @@
     <lastName>CHINA AVIONICS SYSTEMS COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25645,24 +25645,9 @@
     <sdnType>Entity</sdnType>
     <remarks>(Linked To: HUAWEI INVESTMENT &amp; HOLDING CO., LTD.)</remarks>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
-      <id>
-        <uid>141019</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Proven Honour Capital Ltd</idNumber>
-      </id>
-      <id>
-        <uid>141020</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Proven Honour Capital Limited</idNumber>
-      </id>
-      <id>
-        <uid>141022</uid>
-        <idType>ISIN</idType>
-        <idNumber>XS1233275194</idNumber>
-      </id>
       <id>
         <uid>141023</uid>
         <idType>ISIN</idType>
@@ -25698,6 +25683,21 @@
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
       </id>
+      <id>
+        <uid>141019</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Honour Capital Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141020</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Honour Capital Limited</idNumber>
+      </id>
+      <id>
+        <uid>141022</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1233275194</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -25729,7 +25729,7 @@
     <lastName>CHINA SHIPBUILDING INDUSTRY COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25803,7 +25803,7 @@
     <lastName>GUIZHOU SPACE APPLIANCE CO., LTD</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25876,7 +25876,7 @@
     <lastName>CHANGSHA JINGJIA MICROELECTRONICS COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -25955,7 +25955,7 @@
     <lastName>CHINA MARINE INFORMATION ELECTRONICS COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -26035,7 +26035,7 @@
     <lastName>CHINA SHIPBUILDING INDUSTRY GROUP POWER COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -26128,7 +26128,7 @@
     <lastName>COSTAR GROUP CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -26202,7 +26202,7 @@
     <lastName>NANJING PANDA ELECTRONICS COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -26210,11 +26210,6 @@
         <idType>Unified Social Credit Code (USCC)</idType>
         <idNumber>91320100134974572K</idNumber>
         <idCountry>China</idCountry>
-      </id>
-      <id>
-        <uid>141157</uid>
-        <idType>ISIN</idType>
-        <idNumber>CN0009003921</idNumber>
       </id>
       <id>
         <uid>141158</uid>
@@ -26281,6 +26276,11 @@
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
       </id>
+      <id>
+        <uid>141157</uid>
+        <idType>ISIN</idType>
+        <idNumber>CN0009003921</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -26317,7 +26317,7 @@
     <lastName>AEROSUN CORPORATION</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -26391,7 +26391,7 @@
     <lastName>NORTH NAVIGATION CONTROL TECHNOLOGY CO., LTD.</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -26466,7 +26466,7 @@
     <lastName>SHAANXI ZHONGTIAN ROCKET TECHNOLOGY COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>
@@ -26532,7 +26532,7 @@
     <lastName>ZHONGHANG ELECTRONIC MEASURING INSTRUMENTS COMPANY LIMITED</lastName>
     <sdnType>Entity</sdnType>
     <programList>
-      <program>CMIC-EO</program>
+      <program>CMIC-EO13959</program>
     </programList>
     <idList>
       <id>

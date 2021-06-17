@@ -24,6 +24,21 @@ address:
   country: Cayman Islands
   zip: 
 documents:
+- type: ISIN
+  number: CND100022N41
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
 - type: Issuer Name
   number: Semiconductor Manufacturing International Corporation Limited
   country: 
@@ -68,19 +83,4 @@ documents:
   country: 
 - type: ISIN
   number: CNE1000041W8
-  country: 
-- type: ISIN
-  number: CND100022N41
-  country: 
-- type: Purchase/Sales For Divestment Date (CMIC)
-  number: 03 Jun 2022
-  country: 
-- type: Effective Date (CMIC)
-  number: 02 Aug 2021
-  country: 
-- type: Target Type
-  number: Public Company
-  country: 
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
   country: 
