@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>08/20/2021</Publish_Date>
-    <Record_Count>432</Record_Count>
+    <Publish_Date>12/10/2021</Publish_Date>
+    <Record_Count>433</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -26066,6 +26066,56 @@
         <address3>West Avenue</address3>
         <city>Xi'an</city>
         <postalCode>710119</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>33114</uid>
+    <lastName>SENSETIME GROUP LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>22776</uid>
+        <idType>C.R. No.</idType>
+        <idNumber>2162198</idNumber>
+        <idCountry>Hong Kong</idCountry>
+      </id>
+      <id>
+        <uid>145490</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>10 Dec 2022</idNumber>
+      </id>
+      <id>
+        <uid>145488</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>10 Dec 2021</idNumber>
+      </id>
+      <id>
+        <uid>145489</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>08 Feb 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>52095</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SENSETIME GROUP LTD</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>49789</uid>
+        <address1>Block 1, 1F &amp; 2F Harbour View</address1>
+        <address2>12 Science Park</address2>
+        <address3>West Avenue</address3>
+        <city>Hong Kong New Territories</city>
+        <stateOrProvince>Hong Kong SAR</stateOrProvince>
         <country>China</country>
       </address>
     </addressList>

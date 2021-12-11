@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- SENSETIME GROUP LIMITED
+- " SENSETIME GROUP LTD"
+source: us-govt-data
+ref_number: '33114'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'Block 1, 1F & 2F Harbour View 12 Science Park West Avenue '
+  city: Hong Kong New Territories
+  state: Hong Kong SAR
+  country: China
+  zip: 
+documents:
+- type: C.R. No.
+  number: '2162198'
+  country: Hong Kong
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 10 Dec 2022
+  country: 
+- type: Listing Date (CMIC)
+  number: 10 Dec 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: '08 Feb 2022'
+  country: 
