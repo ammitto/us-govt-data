@@ -1,0 +1,31 @@
+---
+entity_type: organization
+names:
+- MEGVII TECHNOLOGY LIMITED
+source: us-govt-data
+ref_number: '33091'
+ref_type: Sdn UID
+country: Cayman Islands
+birthdate: 
+remark: 
+address:
+- street: 'PO Box 309 Ugland House  '
+  city: Grand Cayman
+  state: 
+  country: Cayman Islands
+  zip: KY1-1104
+- street: 'Block A Raycom Infotech Park No. 2 Kexueyuan South Road, Haidian District '
+  city: Beijing
+  state: 
+  country: China
+  zip: 
+documents:
+- type: Effective Date (CMIC)
+  number: 14 Feb 2022
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 16 Dec 2022
+  country: 
+- type: Listing Date (CMIC)
+  number: 16 Dec 2021
+  country: 

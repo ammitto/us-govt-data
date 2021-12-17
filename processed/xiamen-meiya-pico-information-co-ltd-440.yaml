@@ -1,0 +1,38 @@
+---
+entity_type: organization
+names:
+- XIAMEN MEIYA PICO INFORMATION CO., LTD.
+source: us-govt-data
+ref_number: '33896'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '2nd Phase of Xiamen Software Park Meiya Pico Building 12 Guanri Road '
+  city: Xiamen
+  state: 
+  country: China
+  zip: '361008'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: 91350200705420347R
+  country: China
+- type: Issuer Name
+  number: Xiamen Meiya Pico Information Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 300188 CN
+  country: 
+- type: ISIN
+  number: CNE100001120
+  country: 
+- type: Listing Date (CMIC)
+  number: 16 Dec 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 14 Feb 2022
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 16 Dec 2022
+  country: 

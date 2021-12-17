@@ -1,0 +1,41 @@
+---
+entity_type: organization
+names:
+- LEON TECHNOLOGY COMPANY LIMITED
+- " LEON TECHNOLOGY CO., LTD."
+- " LEON TECHNOLOGY"
+source: us-govt-data
+ref_number: '33894'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'High-Tech Zone Century Pacific International Centre, 416 South Beijing
+    Road '
+  city: Urumqi
+  state: 
+  country: China
+  zip: '830000'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '916501002999341738'
+  country: China
+- type: Issuer Name
+  number: Leon Technology Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 300603 CN
+  country: 
+- type: Effective Date (CMIC)
+  number: 14 Feb 2022
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 16 Dec 2022
+  country: 
+- type: Listing Date (CMIC)
+  number: 16 Dec 2021
+  country: 
+- type: ISIN
+  number: CNE100002Q17
+  country: 

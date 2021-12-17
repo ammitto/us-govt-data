@@ -1,0 +1,36 @@
+---
+entity_type: organization
+names:
+- CLOUDWALK TECHNOLOGY CO., LTD.
+- " CLOUDWALK"
+source: us-govt-data
+ref_number: '33112'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: 'Room 501, No. 37 Jinlong Road Nansha District '
+  city: Guangzhou
+  state: Guangdong
+  country: China
+  zip: '511457'
+- street: 'Building 11, Zhangjiang Artificial Intelligence Island Chuanhe Road Pudong
+    New Area '
+  city: Shanghai
+  state: 
+  country: China
+  zip: 
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '914401153314442716'
+  country: China
+- type: Effective Date (CMIC)
+  number: 14 Feb 2022
+  country: 
+- type: Listing Date (CMIC)
+  number: 16 Dec 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 16 Dec 2022
+  country: 

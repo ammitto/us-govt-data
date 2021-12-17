@@ -1,0 +1,26 @@
+---
+entity_type: organization
+names:
+- YITU LIMITED
+source: us-govt-data
+ref_number: '33893'
+ref_type: Sdn UID
+country: Cayman Islands
+birthdate: 
+remark: 
+address:
+- street: 'Suite #4-210 Governors Square 23 Lime Tree Bay Avenue, PO Box 23211 '
+  city: Grand Cayman
+  state: 
+  country: Cayman Islands
+  zip: KY1-1209
+documents:
+- type: Listing Date (CMIC)
+  number: 16 Dec 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 14 Feb 2022
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 16 Dec 2022
+  country: 

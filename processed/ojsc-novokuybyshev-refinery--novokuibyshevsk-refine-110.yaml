@@ -3,7 +3,6 @@ entity_type: organization
 names:
 - OJSC NOVOKUYBYSHEV REFINERY
 - " NOVOKUIBYSHEVSK REFINERY"
-- " OJSC NOVOKUYBYSHEV REFINERY"
 source: us-govt-data
 ref_number: '18282'
 ref_type: Sdn UID
@@ -22,8 +21,8 @@ documents:
   number: sekr@nknpz.rosneft.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 4
+  number: Subject to Directive 2
   country: 
 - type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 2
+  number: Subject to Directive 4
   country: 

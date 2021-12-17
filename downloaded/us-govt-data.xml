@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>12/10/2021</Publish_Date>
-    <Record_Count>433</Record_Count>
+    <Publish_Date>12/16/2021</Publish_Date>
+    <Record_Count>441</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -4555,14 +4555,14 @@
         <idNumber>sekr@nknpz.rosneft.ru</idNumber>
       </id>
       <id>
-        <uid>117646</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
         <uid>117586</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
+      </id>
+      <id>
+        <uid>117646</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4571,12 +4571,6 @@
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>NOVOKUIBYSHEVSK REFINERY</lastName>
-      </aka>
-      <aka>
-        <uid>28262</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>OJSC NOVOKUYBYSHEV REFINERY</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -22171,12 +22165,6 @@
         <lastName>CHINA SOUTH INDUSTRIES GROUP CO., LTD.</lastName>
       </aka>
       <aka>
-        <uid>50491</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA SOUTH INDUSTRIES GROUP CORPORATION</lastName>
-      </aka>
-      <aka>
         <uid>50492</uid>
         <type>a.k.a.</type>
         <category>weak</category>
@@ -23487,12 +23475,6 @@
         <type>a.k.a.</type>
         <category>weak</category>
         <lastName>CNEC</lastName>
-      </aka>
-      <aka>
-        <uid>50552</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CHINA NUCLEAR ENGINEERING CORPORATION LIMITED</lastName>
       </aka>
       <aka>
         <uid>50553</uid>
@@ -26071,6 +26053,216 @@
     </addressList>
   </sdnEntry>
   <sdnEntry>
+    <uid>33091</uid>
+    <lastName>MEGVII TECHNOLOGY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>145571</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>14 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>145572</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>16 Dec 2022</idNumber>
+      </id>
+      <id>
+        <uid>145573</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>16 Dec 2021</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>49762</uid>
+        <address1>PO Box 309</address1>
+        <address2>Ugland House</address2>
+        <city>Grand Cayman</city>
+        <postalCode>KY1-1104</postalCode>
+        <country>Cayman Islands</country>
+      </address>
+      <address>
+        <uid>49763</uid>
+        <address1>Block A</address1>
+        <address2>Raycom Infotech Park</address2>
+        <address3>No. 2 Kexueyuan South Road, Haidian District</address3>
+        <city>Beijing</city>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>33111</uid>
+    <lastName>SZ DJI TECHNOLOGY CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>22773</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>914403007954257495</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>145568</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>14 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>145569</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>16 Dec 2021</idNumber>
+      </id>
+      <id>
+        <uid>145570</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>16 Dec 2022</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>49782</uid>
+        <address1>14 F, West Block of Skyworth Semiconductor Design Building</address1>
+        <address2>No. 18 Gaoxin South 4th Road</address2>
+        <address3>Nanshan District</address3>
+        <city>Shenzhen</city>
+        <stateOrProvince>Guangdong</stateOrProvince>
+        <postalCode>518057</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>33112</uid>
+    <lastName>CLOUDWALK TECHNOLOGY CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>22774</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>914401153314442716</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>145553</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>14 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>145555</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>16 Dec 2021</idNumber>
+      </id>
+      <id>
+        <uid>145550</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>16 Dec 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>52091</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>CLOUDWALK</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>49784</uid>
+        <address1>Room 501, No. 37</address1>
+        <address2>Jinlong Road</address2>
+        <address3>Nansha District</address3>
+        <city>Guangzhou</city>
+        <stateOrProvince>Guangdong</stateOrProvince>
+        <postalCode>511457</postalCode>
+        <country>China</country>
+      </address>
+      <address>
+        <uid>49785</uid>
+        <address1>Building 11, Zhangjiang Artificial Intelligence Island</address1>
+        <address2>Chuanhe Road</address2>
+        <address3>Pudong New Area</address3>
+        <city>Shanghai</city>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>33113</uid>
+    <lastName>DAWNING INFORMATION INDUSTRY CO., LTD</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>22775</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91120000783342508F</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>142901</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>603019CN</idNumber>
+      </id>
+      <id>
+        <uid>142900</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Sugon Information Industry Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>142902</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100001TW7</idNumber>
+      </id>
+      <id>
+        <uid>145567</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>16 Dec 2021</idNumber>
+      </id>
+      <id>
+        <uid>145566</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>16 Dec 2022</idNumber>
+      </id>
+      <id>
+        <uid>145565</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>14 Feb 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>52093</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>SUGON</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>49787</uid>
+        <address1>Zhongguancun Software Park</address1>
+        <address2>Sugon Building 36, 8, Dongbeiwang West Road</address2>
+        <address3>Haidian District</address3>
+        <city>Beijing</city>
+        <postalCode>100193</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
     <uid>33114</uid>
     <lastName>SENSETIME GROUP LIMITED</lastName>
     <sdnType>Entity</sdnType>
@@ -26116,6 +26308,241 @@
         <address3>West Avenue</address3>
         <city>Hong Kong New Territories</city>
         <stateOrProvince>Hong Kong SAR</stateOrProvince>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>33893</uid>
+    <lastName>YITU LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>145554</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>16 Dec 2021</idNumber>
+      </id>
+      <id>
+        <uid>145551</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>14 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>145552</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>16 Dec 2022</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>50764</uid>
+        <address1>Suite #4-210</address1>
+        <address2>Governors Square</address2>
+        <address3>23 Lime Tree Bay Avenue, PO Box 23211</address3>
+        <city>Grand Cayman</city>
+        <postalCode>KY1-1209</postalCode>
+        <country>Cayman Islands</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>33894</uid>
+    <lastName>LEON TECHNOLOGY COMPANY LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>23531</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>916501002999341738</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>144829</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Leon Technology Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>144828</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>300603 CN</idNumber>
+      </id>
+      <id>
+        <uid>145556</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>14 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>145557</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>16 Dec 2022</idNumber>
+      </id>
+      <id>
+        <uid>145558</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>16 Dec 2021</idNumber>
+      </id>
+      <id>
+        <uid>144827</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100002Q17</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>53113</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>LEON TECHNOLOGY CO., LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>53114</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>LEON TECHNOLOGY</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>50766</uid>
+        <address1>High-Tech Zone</address1>
+        <address2>Century Pacific International Centre, 416</address2>
+        <address3>South Beijing Road</address3>
+        <city>Urumqi</city>
+        <postalCode>830000</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>33895</uid>
+    <lastName>NETPOSA TECHNOLOGIES LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>23532</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91110000721497432T</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>144830</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>NetPosa Technologies, Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>144831</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100001S40</idNumber>
+      </id>
+      <id>
+        <uid>144832</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>300367 CN</idNumber>
+      </id>
+      <id>
+        <uid>145559</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>14 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>145560</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>16 Dec 2021</idNumber>
+      </id>
+      <id>
+        <uid>145561</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>16 Dec 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>53116</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NETPOSA TECHNOLOGIES, LTD.</lastName>
+      </aka>
+      <aka>
+        <uid>53117</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NETPOSA</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>50768</uid>
+        <address1>Wangjing Soho, 2nd Tower, 26th Floor</address1>
+        <address2>1, Futong Avenue</address2>
+        <address3>Chaoyang District</address3>
+        <city>Beijing</city>
+        <postalCode>100102</postalCode>
+        <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>33896</uid>
+    <lastName>XIAMEN MEIYA PICO INFORMATION CO., LTD.</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>CMIC-EO13959</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>23533</uid>
+        <idType>Unified Social Credit Code (USCC)</idType>
+        <idNumber>91350200705420347R</idNumber>
+        <idCountry>China</idCountry>
+      </id>
+      <id>
+        <uid>144833</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Xiamen Meiya Pico Information Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>144834</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>300188 CN</idNumber>
+      </id>
+      <id>
+        <uid>144835</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE100001120</idNumber>
+      </id>
+      <id>
+        <uid>145563</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>16 Dec 2021</idNumber>
+      </id>
+      <id>
+        <uid>145562</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>14 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>145564</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>16 Dec 2022</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>50771</uid>
+        <address1>2nd Phase of Xiamen Software Park</address1>
+        <address2>Meiya Pico Building</address2>
+        <address3>12 Guanri Road</address3>
+        <city>Xiamen</city>
+        <postalCode>361008</postalCode>
         <country>China</country>
       </address>
     </addressList>

@@ -1,0 +1,30 @@
+---
+entity_type: organization
+names:
+- SZ DJI TECHNOLOGY CO., LTD.
+source: us-govt-data
+ref_number: '33111'
+ref_type: Sdn UID
+country: China
+birthdate: 
+remark: 
+address:
+- street: '14 F, West Block of Skyworth Semiconductor Design Building No. 18 Gaoxin
+    South 4th Road Nanshan District '
+  city: Shenzhen
+  state: Guangdong
+  country: China
+  zip: '518057'
+documents:
+- type: Unified Social Credit Code (USCC)
+  number: '914403007954257495'
+  country: China
+- type: Effective Date (CMIC)
+  number: 14 Feb 2022
+  country: 
+- type: Listing Date (CMIC)
+  number: 16 Dec 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 16 Dec 2022
+  country: 
