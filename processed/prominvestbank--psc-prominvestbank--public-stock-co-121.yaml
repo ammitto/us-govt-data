@@ -3,7 +3,7 @@ entity_type: organization
 names:
 - PROMINVESTBANK
 - " PSC PROMINVESTBANK"
-- " PUBLIC STOCK COMPANY JOINT STOCK COMMERCIAL INDUSTRIAL & INVESTMENT BANK"
+- " PUBLIC STOCK COMPANY JOINT STOCK COMMERCIAL INDUSTRIAL AND INVESTMENT BANK"
 - " COMMERCIAL INDUSTRIAL AND INVESTMENT BANK PUBLIC JOINT STOCK COMPANY"
 - " JOINT STOCK COMMERCIAL INDUSTRIAL AND INVESTMENT BANK PUBLIC JOINT STOCK COMPANY"
 source: us-govt-data
@@ -13,7 +13,8 @@ country: Ukraine
 birthdate: 
 remark: 'All offices worldwide; for more information on directives, please visit the
   following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
-  (Linked To: VNESHECONOMBANK)'
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'
 address:
 - street: '12, Shevchenko lane   '
   city: Kyiv
@@ -21,12 +22,21 @@ address:
   country: Ukraine
   zip: '01001'
 documents:
+- type: Registration Number
+  number: '00039002'
+  country: Ukraine
 - type: SWIFT/BIC
   number: UPIBUAUX
   country: 
 - type: Website
-  number: pib.com.ua
+  number: pib.ua
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Organization Established Date
+  number: 26 Aug 1992
+  country: 
+- type: Target Type
+  number: Financial Institution
   country: 

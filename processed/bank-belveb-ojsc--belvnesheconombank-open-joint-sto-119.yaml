@@ -4,6 +4,7 @@ names:
 - BANK BELVEB OJSC
 - " BELVNESHECONOMBANK OPEN JOINT STOCK COMPANY"
 - " BELVESHECONOMBANK OAO"
+- " BANK BELVEB OPEN JOINT STOCK COMPANY"
 source: us-govt-data
 ref_number: '18291'
 ref_type: Sdn UID
@@ -11,14 +12,26 @@ country: Belarus
 birthdate: 
 remark: 'All offices worldwide; for more information on directives, please visit the
   following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
-  (Linked To: VNESHECONOMBANK)'
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'
 address:
 - street: '29 Pobeditelei ave.   '
   city: Minsk
   state: 
   country: Belarus
   zip: '220004'
+- street: 'Myasnikova, 32   '
+  city: Minsk
+  state: 
+  country: Belarus
+  zip: '220050'
 documents:
+- type: Tax ID No.
+  number: '7750004150'
+  country: Russia
+- type: Legal Entity Number
+  number: 25340038P8SYW80B9W34
+  country: Russia
 - type: SWIFT/BIC
   number: BELBBY2X
   country: 
@@ -27,4 +40,10 @@ documents:
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Organization Established Date
+  number: 23 Dec 1991
+  country: 
+- type: Target Type
+  number: Financial Institution
   country: 

@@ -1,32 +1,44 @@
 ---
 entity_type: organization
 names:
-- EXIAR
+- RUSSIAN AGENCY FOR EXPORT CREDIT AND INVESTMENT INSURANCE OJSC
 - " EKSAR OAO"
 - " ROSSISKOE AGENTSTVO PO STRAKHOVANIYU EKSPORTNYKH KREDITOV I INVESTITSI OTKRYTOE
   AKTSIONERNOE OBSHCHESTVO"
-- " RUSSIAN AGENCY FOR EXPORT CREDIT AND INVESTMENT INSURANCE OJSC"
+- " RUSSIAN AGENCY FOR EXPORT CREDIT AND INVESTMENT INSURANCE JSC"
 - " EXIAR OJSC"
+- " EXIAR"
+- " EXIAR JSC"
 source: us-govt-data
 ref_number: '18272'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
-  (Linked To: VNESHECONOMBANK)'
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'
 address:
-- street: 'str. 1 3 1-i Zachatievski per   '
+- street: 'nab. Krasnopresnenskaya d. 12   '
   city: Moscow
-  state: '119034'
+  state: 
   country: Russia
-  zip: 
+  zip: '123610'
 documents:
-- type: Public Registration Number
+- type: Registration Number
   number: '1117746811566'
-  country: 
+  country: Russia
+- type: Tax ID No.
+  number: '7704792651'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
 - type: Website
   number: exiar.ru
+  country: 
+- type: Target Type
+  number: Government Entity
+  country: 
+- type: Organization Established Date
+  number: 13 Oct 2011
   country: 

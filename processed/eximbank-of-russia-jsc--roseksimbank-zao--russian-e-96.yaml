@@ -1,12 +1,15 @@
 ---
 entity_type: organization
 names:
-- EXIMBANK OF RUSSIA
+- EXIMBANK OF RUSSIA JSC
 - " ROSEKSIMBANK, ZAO"
 - " RUSSIAN EXPORT-IMPORT BANK"
 - " GOSUDARSTVENNY SPETSIALIZIROVANNY ROSSISKI EKSPORTNO-IMPORTNY BANK (ZAKRYTOE AKTSIONERNOE
   OBSHCHESTVO)"
-- " STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK (CLOSED JOINT-STOCK COMPANY)"
+- " STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK JOINT-STOCK COMPANY"
+- " EXIMBANK OF RUSSIA ZAO"
+- " EXIMBANK OF RUSSIA"
+- " AO ROSEKSIMBANK"
 source: us-govt-data
 ref_number: '18268'
 ref_type: Sdn UID
@@ -14,17 +17,24 @@ country: Russia
 birthdate: 
 remark: 'All offices worldwide; for more information on directives, please visit the
   following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
-  (Linked To: VNESHECONOMBANK)'
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'
 address:
-- street: 'd.13 str. 1 per.3-I Neopalimovski   '
+- street: '12 Krasnopresnenskaya Embankments   '
   city: Moscow
   state: 
   country: Russia
-  zip: '119121'
+  zip: '123610'
 documents:
-- type: Public Registration Number
+- type: Registration Number
   number: '1027739109133'
+  country: Russia
+- type: Legal Entity Number
+  number: 253400HA6URWT39X2982
   country: 
+- type: Tax ID No.
+  number: '7704001959'
+  country: Russia
 - type: SWIFT/BIC
   number: EXIRRUMM
   country: 
@@ -33,4 +43,10 @@ documents:
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Organization Established Date
+  number: 24 May 1994
+  country: 
+- type: Target Type
+  number: Financial Institution
   country: 

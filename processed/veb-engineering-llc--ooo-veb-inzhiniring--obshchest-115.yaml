@@ -2,28 +2,42 @@
 entity_type: organization
 names:
 - VEB ENGINEERING LLC
-- " VEB INZHINIRING, OOO"
+- " OOO VEB INZHINIRING"
 - " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VEB INZHINIRING"
+- " VEB ENGINEERING LIMITED LIABILITY COMPANY"
+- " OOO VEB ENGINEERING"
 source: us-govt-data
 ref_number: '18287'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
-  (Linked To: VNESHECONOMBANK)'
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'
 address:
 - street: 'd. 9 prospekt Akademika Sakharova   '
   city: Moscow
   state: 
   country: Russia
   zip: '107996'
+- street: 'Per. Lyalin D. 19, Korpus 1, Pom. XXIV, Kom 11   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '101000'
 documents:
-- type: Public Registration Number
+- type: Registration Number
   number: '1107746181674'
+  country: Russia
+- type: Tax ID No.
+  number: '7708715560'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
   country: 
 - type: Website
   number: vebeng.ru
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 1
+- type: Organization Established Date
+  number: 11 Mar 2010
   country: 

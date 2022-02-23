@@ -2,30 +2,42 @@
 entity_type: organization
 names:
 - VEB LEASING OJSC
-- " VEB-LIZING, OAO"
-- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO VEB-LIZING"
-- " OPEN JOINT-STOCK COMPANY VEB-LEASING"
-- " OJSC VEB-LEASING"
+- " OAO VEB LIZING"
+- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO VEB LIZING"
+- " OPEN JOINT STOCK COMPANY VEB LEASING"
+- " OJSC VEB LEASING"
 source: us-govt-data
 ref_number: '18288'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
-  (Linked To: VNESHECONOMBANK)'
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'
 address:
 - street: 'd. 10 ul. Vozdvizhenka   '
   city: Moscow
   state: 
   country: Russia
   zip: '125009'
+- street: 'Str. Dolgorukovskaya, 7, Novoslobodskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '127006'
 documents:
-- type: Public Registration Number
+- type: Registration Number
   number: '1037709024781'
-  country: 
+  country: Russia
+- type: Tax ID No.
+  number: '7709413138'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
 - type: Website
   number: veb-leasing.ru
+  country: 
+- type: Organization Established Date
+  number: '2003'
   country: 

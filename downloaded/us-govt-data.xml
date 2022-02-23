@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>12/16/2021</Publish_Date>
-    <Record_Count>441</Record_Count>
+    <Publish_Date>02/22/2022</Publish_Date>
+    <Record_Count>444</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -2587,13 +2587,32 @@
   </sdnEntry>
   <sdnEntry>
     <uid>17015</uid>
-    <lastName>VNESHECONOMBANK</lastName>
+    <lastName>STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24680</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1077711000102</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24681</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7750004150</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24679</uid>
+        <idType>Government Gazette Number</idType>
+        <idNumber>00005061</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
       <id>
         <uid>115778</uid>
         <idType>BIK (RU)</idType>
@@ -2607,15 +2626,25 @@
       <id>
         <uid>115791</uid>
         <idType>Website</idType>
-        <idNumber>http://www.veb.ru</idNumber>
+        <idNumber>www.veb.ru</idNumber>
       </id>
       <id>
-        <uid>115792</uid>
-        <idType>Email Address</idType>
-        <idNumber>info@veb.ru</idNumber>
+        <uid>146598</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
       <id>
-        <uid>116153</uid>
+        <uid>146596</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>18 Aug 1922</idNumber>
+      </id>
+      <id>
+        <uid>146597</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
+        <uid>146960</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
@@ -2628,24 +2657,73 @@
         <lastName>VEB</lastName>
       </aka>
       <aka>
-        <uid>26089</uid>
+        <uid>55018</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>BANK RAZVITIYA I VNESHNEEKONOMICHESKOI DEYATELNOSTI (VNESHEKONOMBANK) GOSUDARSTVENNAYA KORPORATSIYA</lastName>
+        <lastName>GOSUDARSTVENNAYA KORPORATSIYA RAZVITIYA VEB.RF</lastName>
       </aka>
       <aka>
-        <uid>26090</uid>
+        <uid>55019</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS (VNESHECONOMBANK) STATE CORPORATION</lastName>
+        <lastName>STATE DEVELOPMENT CORPORATION VEB.RF</lastName>
+      </aka>
+      <aka>
+        <uid>55020</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>GK VEB.RF</lastName>
+      </aka>
+      <aka>
+        <uid>55021</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VEB.RF</lastName>
+      </aka>
+      <aka>
+        <uid>55022</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>BANK FOR DEVELOPMENT</lastName>
+      </aka>
+      <aka>
+        <uid>55023</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>VNESHECONOMBANK</lastName>
+      </aka>
+      <aka>
+        <uid>55024</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>VNESHEKONOMBANK SSSR</lastName>
+      </aka>
+      <aka>
+        <uid>55025</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>VNESHEKONOMBANK GK</lastName>
+      </aka>
+      <aka>
+        <uid>55026</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK FOR FOREIGN TRADE OF THE U.S.S.R.</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>25805</uid>
-        <address1>9 Akademika Sakharova prospekt</address1>
+        <address1>Akademik Sakharov Ave 9</address1>
         <city>Moscow</city>
         <postalCode>107996</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52521</uid>
+        <address1>Pr-kt, Akademika Sakharova, D. 9</address1>
+        <city>Moscow</city>
+        <postalCode>107078</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -3722,17 +3800,30 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18268</uid>
-    <lastName>EXIMBANK OF RUSSIA</lastName>
+    <lastName>EXIMBANK OF RUSSIA JSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>10549</uid>
-        <idType>Public Registration Number</idType>
+        <idType>Registration Number</idType>
         <idNumber>1027739109133</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24619</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>253400HA6URWT39X2982</idNumber>
+      </id>
+      <id>
+        <uid>24617</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7704001959</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>117518</uid>
@@ -3748,6 +3839,16 @@
         <uid>117570</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146532</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>24 May 1994</idNumber>
+      </id>
+      <id>
+        <uid>146786</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3773,15 +3874,33 @@
         <uid>28203</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK (CLOSED JOINT-STOCK COMPANY)</lastName>
+        <lastName>STATE SPECIALIZED RUSSIAN EXPORT-IMPORT BANK JOINT-STOCK COMPANY</lastName>
+      </aka>
+      <aka>
+        <uid>54898</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>EXIMBANK OF RUSSIA ZAO</lastName>
+      </aka>
+      <aka>
+        <uid>54899</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>EXIMBANK OF RUSSIA</lastName>
+      </aka>
+      <aka>
+        <uid>54901</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AO ROSEKSIMBANK</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>27626</uid>
-        <address1>d.13 str. 1 per.3-I Neopalimovski</address1>
+        <address1>12 Krasnopresnenskaya Embankments</address1>
         <city>Moscow</city>
-        <postalCode>119121</postalCode>
+        <postalCode>123610</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -3948,17 +4067,25 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18272</uid>
-    <lastName>EXIAR</lastName>
+    <lastName>RUSSIAN AGENCY FOR EXPORT CREDIT AND INVESTMENT INSURANCE OJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>10551</uid>
-        <idType>Public Registration Number</idType>
+        <idType>Registration Number</idType>
         <idNumber>1117746811566</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24628</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7704792651</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>117565</uid>
@@ -3969,6 +4096,16 @@
         <uid>117523</uid>
         <idType>Website</idType>
         <idNumber>exiar.ru</idNumber>
+      </id>
+      <id>
+        <uid>146788</uid>
+        <idType>Target Type</idType>
+        <idNumber>Government Entity</idNumber>
+      </id>
+      <id>
+        <uid>146533</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>13 Oct 2011</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3988,7 +4125,7 @@
         <uid>28218</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>RUSSIAN AGENCY FOR EXPORT CREDIT AND INVESTMENT INSURANCE OJSC</lastName>
+        <lastName>RUSSIAN AGENCY FOR EXPORT CREDIT AND INVESTMENT INSURANCE JSC</lastName>
       </aka>
       <aka>
         <uid>28219</uid>
@@ -3996,74 +4133,94 @@
         <category>strong</category>
         <lastName>EXIAR OJSC</lastName>
       </aka>
+      <aka>
+        <uid>54910</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>EXIAR</lastName>
+      </aka>
+      <aka>
+        <uid>54911</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>EXIAR JSC</lastName>
+      </aka>
     </akaList>
     <addressList>
       <address>
         <uid>27635</uid>
-        <address1>str. 1 3 1-i Zachatievski per</address1>
+        <address1>nab. Krasnopresnenskaya d. 12</address1>
         <city>Moscow</city>
-        <stateOrProvince>119034</stateOrProvince>
+        <postalCode>123610</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>18273</uid>
-    <lastName>FAR EAST AND BAIKAL REGION DEVELOPMENT FUND OJSC</lastName>
+    <lastName>JSC VEB.DV</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>10552</uid>
-        <idType>Public Registration Number</idType>
-        <idNumber>1112721010995</idNumber>
+        <uid>24757</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>2721188289</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>117524</uid>
-        <idType>Website</idType>
-        <idNumber>fondvostok.ru</idNumber>
+        <uid>24756</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1112721010995</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>117566</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>117524</uid>
+        <idType>Website</idType>
+        <idNumber>fondvostok.ru</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>28221</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>OPEN JOINT-STOCK COMPANY THE FAR EAST AND BAIKAL REGION DEVELOPMENT FUND</lastName>
-      </aka>
-      <aka>
-        <uid>28222</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>FOND RAZVITIYA DALNEGO VOSTOKA I BAIKALSKOGO REGIONA, OAO</lastName>
-      </aka>
-      <aka>
-        <uid>28223</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO FOND RAZVITIYA DALNEGO VOSTOKA I BAIKALSKOGO REGIONA</lastName>
+        <lastName>JSC FAR EAST AND ARCTIC REGION DEVELOPMENT FUND</lastName>
       </aka>
       <aka>
         <uid>28224</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
         <lastName>OJSC THE FAR EAST AND BAIKAL REGION DEVELOPMENT FUND</lastName>
+      </aka>
+      <aka>
+        <uid>55112</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AO VEB.DV</lastName>
+      </aka>
+      <aka>
+        <uid>55113</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>FAR EAST AND BAIKAL REGION DEVELOPMENT FUND OJSC</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>27639</uid>
-        <address1>d. 82 str. 2 ul. Sadovnicheskaya</address1>
+        <address1>Nab. Presnenskaya D. 10, pom II komn 8-59</address1>
         <city>Moscow</city>
-        <postalCode>115035</postalCode>
+        <postalCode>123112</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -4492,17 +4649,25 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18281</uid>
-    <lastName>RESAD LLC</lastName>
+    <lastName>LLC INFRASTRUCTURE MOLZHANINOVO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>10557</uid>
-        <idType>Public Registration Number</idType>
+        <uid>24760</uid>
+        <idType>Registration Number</idType>
         <idNumber>1027739071337</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24761</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7733109347</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>117572</uid>
@@ -4513,27 +4678,27 @@
     <akaList>
       <aka>
         <uid>28257</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>RESAD, OOO</lastName>
-      </aka>
-      <aka>
-        <uid>28258</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RESAD</lastName>
+        <lastName>LLC RESAD</lastName>
       </aka>
       <aka>
         <uid>28259</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>RESAD LLC</lastName>
+      </aka>
+      <aka>
+        <uid>55116</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>LLC RESAD</lastName>
+        <lastName>INFRASTRUKTURA MOLZHANINOVO</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>27658</uid>
-        <address1>d. 5 ul. Bryanskaya</address1>
+        <address1>ul. Bryanskaya D. 5, et 4 pom. I kom 25</address1>
         <city>Moscow</city>
         <postalCode>121059</postalCode>
         <country>Russia</country>
@@ -4775,15 +4940,28 @@
     <uid>18286</uid>
     <lastName>VEB CAPITAL</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>10560</uid>
-        <idType>Public Registration Number</idType>
+        <uid>24697</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7708710924</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24698</uid>
+        <idType>Registration Number</idType>
         <idNumber>1097746831709</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>117560</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
         <uid>117543</uid>
@@ -4791,41 +4969,29 @@
         <idNumber>vebcapital.ru</idNumber>
       </id>
       <id>
-        <uid>117560</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>146608</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>24 Dec 2009</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
-        <uid>28278</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>VEB CAPITAL LLC</lastName>
-      </aka>
-      <aka>
         <uid>28279</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VEB KAPITAL, OOO</lastName>
+        <lastName>OOO VEB KAPITAL</lastName>
       </aka>
       <aka>
         <uid>28280</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU INVESTITSIONNAYA KOMPANIYA VNESHEKONOMBANKA (VEB KAPITAL)</lastName>
-      </aka>
-      <aka>
-        <uid>28281</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>LIMITED LIABILITY COMPANY VEB CAPITAL</lastName>
+        <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU INVESTITSIONNA YA KOMPANIYA VNESHEKONOMBANKA</lastName>
       </aka>
       <aka>
         <uid>28283</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>LLC VEB-CAPITAL</lastName>
+        <lastName>LLC VEB CAPITAL</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -4842,15 +5008,28 @@
     <uid>18287</uid>
     <lastName>VEB ENGINEERING LLC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>10561</uid>
-        <idType>Public Registration Number</idType>
+        <uid>24701</uid>
+        <idType>Registration Number</idType>
         <idNumber>1107746181674</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24702</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7708715560</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>117561</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
         <uid>117544</uid>
@@ -4858,9 +5037,9 @@
         <idNumber>vebeng.ru</idNumber>
       </id>
       <id>
-        <uid>117561</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>146610</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>11 Mar 2010</idNumber>
       </id>
     </idList>
     <akaList>
@@ -4868,13 +5047,25 @@
         <uid>28285</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VEB INZHINIRING, OOO</lastName>
+        <lastName>OOO VEB INZHINIRING</lastName>
       </aka>
       <aka>
         <uid>28286</uid>
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VEB INZHINIRING</lastName>
+      </aka>
+      <aka>
+        <uid>55043</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VEB ENGINEERING LIMITED LIABILITY COMPANY</lastName>
+      </aka>
+      <aka>
+        <uid>55044</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>OOO VEB ENGINEERING</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -4885,21 +5076,36 @@
         <postalCode>107996</postalCode>
         <country>Russia</country>
       </address>
+      <address>
+        <uid>52533</uid>
+        <address1>Per. Lyalin D. 19, Korpus 1, Pom. XXIV, Kom 11</address1>
+        <city>Moscow</city>
+        <postalCode>101000</postalCode>
+        <country>Russia</country>
+      </address>
     </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>18288</uid>
     <lastName>VEB LEASING OJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>10562</uid>
-        <idType>Public Registration Number</idType>
+        <uid>24690</uid>
+        <idType>Registration Number</idType>
         <idNumber>1037709024781</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24691</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7709413138</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>117562</uid>
@@ -4911,31 +5117,36 @@
         <idType>Website</idType>
         <idNumber>veb-leasing.ru</idNumber>
       </id>
+      <id>
+        <uid>146606</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>2003</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>28288</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VEB-LIZING, OAO</lastName>
+        <lastName>OAO VEB LIZING</lastName>
       </aka>
       <aka>
         <uid>28289</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO VEB-LIZING</lastName>
+        <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO VEB LIZING</lastName>
       </aka>
       <aka>
         <uid>28290</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OPEN JOINT-STOCK COMPANY VEB-LEASING</lastName>
+        <lastName>OPEN JOINT STOCK COMPANY VEB LEASING</lastName>
       </aka>
       <aka>
         <uid>28291</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OJSC VEB-LEASING</lastName>
+        <lastName>OJSC VEB LEASING</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -4944,6 +5155,13 @@
         <address1>d. 10 ul. Vozdvizhenka</address1>
         <city>Moscow</city>
         <postalCode>125009</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52531</uid>
+        <address1>Str. Dolgorukovskaya, 7, Novoslobodskaya</address1>
+        <city>Moscow</city>
+        <postalCode>127006</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -5068,11 +5286,24 @@
     <uid>18291</uid>
     <lastName>BANK BELVEB OJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
+      <program>RUSSIA-EO14024</program>
       <program>UKRAINE-EO13662</program>
     </programList>
     <idList>
+      <id>
+        <uid>24683</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7750004150</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24684</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>25340038P8SYW80B9W34</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
       <id>
         <uid>117548</uid>
         <idType>SWIFT/BIC</idType>
@@ -5088,6 +5319,16 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>146600</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>23 Dec 1991</idNumber>
+      </id>
+      <id>
+        <uid>146793</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -5102,6 +5343,12 @@
         <category>strong</category>
         <lastName>BELVESHECONOMBANK OAO</lastName>
       </aka>
+      <aka>
+        <uid>55032</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK BELVEB OPEN JOINT STOCK COMPANY</lastName>
+      </aka>
     </akaList>
     <addressList>
       <address>
@@ -5109,6 +5356,13 @@
         <address1>29 Pobeditelei ave.</address1>
         <city>Minsk</city>
         <postalCode>220004</postalCode>
+        <country>Belarus</country>
+      </address>
+      <address>
+        <uid>52523</uid>
+        <address1>Myasnikova, 32</address1>
+        <city>Minsk</city>
+        <postalCode>220050</postalCode>
         <country>Belarus</country>
       </address>
     </addressList>
@@ -5167,11 +5421,18 @@
     <uid>18293</uid>
     <lastName>PROMINVESTBANK</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24692</uid>
+        <idType>Registration Number</idType>
+        <idNumber>00039002</idNumber>
+        <idCountry>Ukraine</idCountry>
+      </id>
       <id>
         <uid>117551</uid>
         <idType>SWIFT/BIC</idType>
@@ -5180,12 +5441,22 @@
       <id>
         <uid>117552</uid>
         <idType>Website</idType>
-        <idNumber>pib.com.ua</idNumber>
+        <idNumber>pib.ua</idNumber>
       </id>
       <id>
         <uid>117576</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146607</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>26 Aug 1992</idNumber>
+      </id>
+      <id>
+        <uid>146792</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5199,7 +5470,7 @@
         <uid>28307</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>PUBLIC STOCK COMPANY JOINT STOCK COMMERCIAL INDUSTRIAL &amp; INVESTMENT BANK</lastName>
+        <lastName>PUBLIC STOCK COMPANY JOINT STOCK COMMERCIAL INDUSTRIAL AND INVESTMENT BANK</lastName>
       </aka>
       <aka>
         <uid>28308</uid>
@@ -5277,15 +5548,27 @@
     <uid>18295</uid>
     <lastName>VEB ASIA LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24759</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1886537</idNumber>
+        <idCountry>Hong Kong</idCountry>
+      </id>
       <id>
         <uid>117563</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146794</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>08 Apr 2013</idNumber>
       </id>
     </idList>
     <addressList>
@@ -23563,6 +23846,213 @@
         <city>Beijing</city>
         <postalCode>100855</postalCode>
         <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>31693</uid>
+    <lastName>NATIONAL WEALTH FUND OF THE RUSSIAN FEDERATION</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>146790</uid>
+        <idType>Target Type</idType>
+        <idNumber>Government Entity</idNumber>
+      </id>
+      <id>
+        <uid>146807</uid>
+        <idType>Listing Date (EO 14024 Directive 1a):</idType>
+        <idNumber>22 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146808</uid>
+        <idType>Effective Date (EO 14024 Directive 1a):</idType>
+        <idNumber>01 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146742</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 1a - As of the effective date, participation in the secondary market for ruble or non-ruble denominated bonds issued on or after the effective date by the Central Bank of the Russian Federation, the National Wealth Fund of the Russian Federation, or the Ministry of Finance of the Russian Federation is prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146743</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>47735</uid>
+        <address1>9 Ilyinka Street</address1>
+        <city>Moscow</city>
+        <postalCode>109097</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>31694</uid>
+    <lastName>MINISTRY OF FINANCE OF THE RUSSIAN FEDERATION</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>146740</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 1a - As of the effective date, participation in the secondary market for ruble or non-ruble denominated bonds issued on or after the effective date by the Central Bank of the Russian Federation, the National Wealth Fund of the Russian Federation, or the Ministry of Finance of the Russian Federation is prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146787</uid>
+        <idType>Target Type</idType>
+        <idNumber>Government Entity</idNumber>
+      </id>
+      <id>
+        <uid>146809</uid>
+        <idType>Effective Date (EO 14024 Directive 1a):</idType>
+        <idNumber>01 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146810</uid>
+        <idType>Listing Date (EO 14024 Directive 1a):</idType>
+        <idNumber>22 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146741</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>47732</uid>
+        <address1>9 Ilyinka Street</address1>
+        <city>Moscow</city>
+        <postalCode>109097</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>31695</uid>
+    <lastName>CENTRAL BANK OF THE RUSSIAN FEDERATION</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>21575</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7702235133</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>21573</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1037700013020</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>21574</uid>
+        <idType>Government Gazette Number</idType>
+        <idNumber>00032253</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>140243</uid>
+        <idType>Website</idType>
+        <idNumber>www.cbr.ru</idNumber>
+      </id>
+      <id>
+        <uid>140244</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>13 Jul 1990</idNumber>
+      </id>
+      <id>
+        <uid>140242</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>CBRFRUMM</idNumber>
+      </id>
+      <id>
+        <uid>140245</uid>
+        <idType>Organization Type:</idType>
+        <idNumber>Central banking</idNumber>
+      </id>
+      <id>
+        <uid>146812</uid>
+        <idType>Listing Date (EO 14024 Directive 1a):</idType>
+        <idNumber>22 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146814</uid>
+        <idType>Effective Date (EO 14024 Directive 1a):</idType>
+        <idNumber>01 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146797</uid>
+        <idType>Target Type</idType>
+        <idNumber>Government Entity</idNumber>
+      </id>
+      <id>
+        <uid>146744</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146745</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 1a - As of the effective date, participation in the secondary market for ruble or non-ruble denominated bonds issued on or after the effective date by the Central Bank of the Russian Federation, the National Wealth Fund of the Russian Federation, or the Ministry of Finance of the Russian Federation is prohibited.</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>49722</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK ROSSI, FEDERAL STATE BUDGETARY INSTITUTION</lastName>
+      </aka>
+      <aka>
+        <uid>49723</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK OF RUSSIA</lastName>
+      </aka>
+      <aka>
+        <uid>49724</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK OF RUSSIA, CENTRAL BANK</lastName>
+      </aka>
+      <aka>
+        <uid>49725</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>TSENTRALNY BANK ROSSISKOI FEDERATSII</lastName>
+      </aka>
+      <aka>
+        <uid>49726</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CENTRAL BANK OF RUSSIA</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>47734</uid>
+        <address1>Neglinnaya St 12</address1>
+        <city>Moscow</city>
+        <postalCode>107016</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>47741</uid>
+        <city>Moscow</city>
+        <country>Russia</country>
       </address>
     </addressList>
   </sdnEntry>

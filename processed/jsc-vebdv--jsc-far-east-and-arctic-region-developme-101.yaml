@@ -1,28 +1,35 @@
 ---
 entity_type: organization
 names:
-- VEB ASIA LIMITED
+- JSC VEB.DV
+- " JSC FAR EAST AND ARCTIC REGION DEVELOPMENT FUND"
+- " OJSC THE FAR EAST AND BAIKAL REGION DEVELOPMENT FUND"
+- " AO VEB.DV"
+- " FAR EAST AND BAIKAL REGION DEVELOPMENT FUND OJSC"
 source: us-govt-data
-ref_number: '18295'
+ref_number: '18273'
 ref_type: Sdn UID
-country: China
+country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
   (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
   VNESHECONOMBANK)'
 address:
-- street: 'Suite 5808 58/F, Two International Finance Center 8 Finance Street Central '
-  city: Hong Kong
+- street: 'Nab. Presnenskaya D. 10, pom II komn 8-59   '
+  city: Moscow
   state: 
-  country: China
-  zip: 
+  country: Russia
+  zip: '123112'
 documents:
+- type: Tax ID No.
+  number: '2721188289'
+  country: Russia
 - type: Registration Number
-  number: '1886537'
-  country: Hong Kong
+  number: '1112721010995'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
-- type: Organization Established Date
-  number: '08 Apr 2013'
+- type: Website
+  number: fondvostok.ru
   country: 

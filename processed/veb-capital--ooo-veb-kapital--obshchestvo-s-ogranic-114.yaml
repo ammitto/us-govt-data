@@ -2,19 +2,17 @@
 entity_type: organization
 names:
 - VEB CAPITAL
-- " VEB CAPITAL LLC"
-- " VEB KAPITAL, OOO"
-- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU INVESTITSIONNAYA KOMPANIYA VNESHEKONOMBANKA
-  (VEB KAPITAL)"
-- " LIMITED LIABILITY COMPANY VEB CAPITAL"
-- " LLC VEB-CAPITAL"
+- " OOO VEB KAPITAL"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU INVESTITSIONNA YA KOMPANIYA VNESHEKONOMBANKA"
+- " LLC VEB CAPITAL"
 source: us-govt-data
 ref_number: '18286'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
-  (Linked To: VNESHECONOMBANK)'
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'
 address:
 - street: 'd. 7 str. A ul. Mashi Poryvaevoi   '
   city: Moscow
@@ -22,12 +20,18 @@ address:
   country: Russia
   zip: '107078'
 documents:
-- type: Public Registration Number
+- type: Tax ID No.
+  number: '7708710924'
+  country: Russia
+- type: Registration Number
   number: '1097746831709'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
   country: 
 - type: Website
   number: vebcapital.ru
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 1
+- type: Organization Established Date
+  number: 24 Dec 2009
   country: 

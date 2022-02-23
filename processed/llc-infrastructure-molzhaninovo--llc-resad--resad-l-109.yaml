@@ -1,27 +1,31 @@
 ---
 entity_type: organization
 names:
-- RESAD LLC
-- " RESAD, OOO"
-- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RESAD"
+- LLC INFRASTRUCTURE MOLZHANINOVO
 - " LLC RESAD"
+- " RESAD LLC"
+- " INFRASTRUKTURA MOLZHANINOVO"
 source: us-govt-data
 ref_number: '18281'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
-  (Linked To: VNESHECONOMBANK)'
+  (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS
+  VNESHECONOMBANK)'
 address:
-- street: 'd. 5 ul. Bryanskaya   '
+- street: 'ul. Bryanskaya D. 5, et 4 pom. I kom 25   '
   city: Moscow
   state: 
   country: Russia
   zip: '121059'
 documents:
-- type: Public Registration Number
+- type: Registration Number
   number: '1027739071337'
-  country: 
+  country: Russia
+- type: Tax ID No.
+  number: '7733109347'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 

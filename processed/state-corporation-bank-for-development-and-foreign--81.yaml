@@ -1,0 +1,62 @@
+---
+entity_type: organization
+names:
+- STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK
+- " VEB"
+- " GOSUDARSTVENNAYA KORPORATSIYA RAZVITIYA VEB.RF"
+- " STATE DEVELOPMENT CORPORATION VEB.RF"
+- " GK VEB.RF"
+- " VEB.RF"
+- " BANK FOR DEVELOPMENT"
+- " VNESHECONOMBANK"
+- " VNESHEKONOMBANK SSSR"
+- " VNESHEKONOMBANK GK"
+- " BANK FOR FOREIGN TRADE OF THE U.S.S.R."
+source: us-govt-data
+ref_number: '17015'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
+address:
+- street: 'Akademik Sakharov Ave 9   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107996'
+- street: 'Pr-kt, Akademika Sakharova, D. 9   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107078'
+documents:
+- type: Registration Number
+  number: '1077711000102'
+  country: Russia
+- type: Tax ID No.
+  number: '7750004150'
+  country: Russia
+- type: Government Gazette Number
+  number: '00005061'
+  country: Russia
+- type: BIK (RU)
+  number: '044525060'
+  country: 
+- type: SWIFT/BIC
+  number: BFEARUMM
+  country: 
+- type: Website
+  number: www.veb.ru
+  country: 
+- type: Target Type
+  number: Financial Institution
+  country: 
+- type: Organization Established Date
+  number: 18 Aug 1922
+  country: 
+- type: Target Type
+  number: State-Owned Enterprise
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
