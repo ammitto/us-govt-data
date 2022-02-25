@@ -26,14 +26,14 @@ address:
   country: Russia
   zip: '123610'
 documents:
-- type: Registration Number
-  number: '1027739109133'
-  country: Russia
 - type: Legal Entity Number
   number: 253400HA6URWT39X2982
   country: 
 - type: Tax ID No.
   number: '7704001959'
+  country: Russia
+- type: Registration Number
+  number: '1027739109133'
   country: Russia
 - type: SWIFT/BIC
   number: EXIRRUMM

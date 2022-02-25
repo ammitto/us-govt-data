@@ -1,0 +1,55 @@
+---
+entity_type: organization
+names:
+- OPEN JOINT STOCK COMPANY RUSSIAN RAILWAYS
+- " JSC RUSSIAN RAILWAYS"
+- " RUSSIAN RAILWAYS JSC"
+- " RUSSIAN RAILWAYS"
+- " JSC RZD"
+- " RZHD"
+source: us-govt-data
+ref_number: '34736'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 
+address:
+- street: 'Novaya Basmannaya Street, 2   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '107174'
+documents:
+- type: Registration Number
+  number: '1037739877295'
+  country: Russia
+- type: Tax ID No.
+  number: '7708503727'
+  country: Russia
+- type: Legal Entity Number
+  number: 253400XX5U3XALBF5728
+  country: Russia
+- type: Executive Order 14024 Directive Information
+  number: Subject to Directive 3 - All transactions in, provision of financing for,
+    and other dealings in new debt of longer than 14 days maturity or new equity where
+    such new debt or new equity is issued on or after the 'Effective Date (EO 14024
+    Directive)' associated with this name are prohibited.
+  country: 
+- type: 'Listing Date (EO 14024 Directive 3):'
+  number: 24 Feb 2022
+  country: 
+- type: 'Effective Date (EO 14024 Directive 3):'
+  number: 26 Mar 2022
+  country: 
+- type: Website
+  number: www.rzd.ru
+  country: 
+- type: Target Type
+  number: Government Entity
+  country: 
+- type: Organization Established Date
+  number: 18 Sep 2003
+  country: 
+- type: Executive Order 14024 Directive Information -
+  number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  country: 

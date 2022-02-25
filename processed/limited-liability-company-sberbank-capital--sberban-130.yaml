@@ -1,0 +1,40 @@
+---
+entity_type: organization
+names:
+- LIMITED LIABILITY COMPANY SBERBANK CAPITAL
+- " SBERBANK CAPITAL LLC"
+- " SBERBANK KAPITAL OOO"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU SBERBANK KAPITAL"
+- " SBERBANK CAPITAL LIMITED LIABILITY COMPANY"
+source: us-govt-data
+ref_number: '18669'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'
+address:
+- street: 'd. 19 ul. Vavilova   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '117997'
+documents:
+- type: Registration ID
+  number: '1087746887678'
+  country: Russia
+- type: Tax ID No.
+  number: '7736581290'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Executive Order 14024 Directive Information -
+  number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  country: 
+- type: 'Listing Date (EO 14024 Directive 2):'
+  number: 24 Feb 2022
+  country: 
+- type: 'Effective Date (EO 14024 Directive 2):'
+  number: 26 Mar 2022
+  country: 

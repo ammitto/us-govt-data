@@ -1,0 +1,57 @@
+---
+entity_type: organization
+names:
+- PUBLIC JOINT STOCK COMPANY TRANSNEFT
+- " AK TRANSNEFT OAO"
+- " AKTSIONERNAYA KOMPANIYA PO TRANSPORTU NEFTI TRANSNEFT PAO"
+- " OIL TRANSPORTING JOINT STOCK COMPANY TRANSNEFT"
+- " JSC TRANSNEFT"
+- " PJSC TRANSNEFT"
+- " PAO TRANSNEFT"
+- " PUBLICHNOE AKTSIONERNOE OBSHCHESTVO TRANSNEFT"
+source: us-govt-data
+ref_number: '17254'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
+address:
+- street: 'naberezhnaya Presnenskaya, D. 4, Str. 2   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '123112'
+documents:
+- type: Tax ID No.
+  number: '7706061801'
+  country: Russia
+- type: Government Gazette Number
+  number: '00044463'
+  country: Russia
+- type: Registration Number
+  number: '1027700049486'
+  country: Russia
+- type: Website
+  number: www.transneft.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 14024 Directive Information
+  number: Subject to Directive 3 - All transactions in, provision of financing for,
+    and other dealings in new debt of longer than 14 days maturity or new equity where
+    such new debt or new equity is issued on or after the 'Effective Date (EO 14024
+    Directive)' associated with this name are prohibited.
+  country: 
+- type: Executive Order 14024 Directive Information -
+  number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  country: 
+- type: Organization Established Date
+  number: 26 Aug 1993
+  country: 
+- type: 'Listing Date (EO 14024 Directive 3):'
+  number: 24 Feb 2022
+  country: 
+- type: 'Effective Date (EO 14024 Directive 3):'
+  number: 26 Mar 2022
+  country: 

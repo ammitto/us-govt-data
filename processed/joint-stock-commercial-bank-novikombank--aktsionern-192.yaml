@@ -1,0 +1,48 @@
+---
+entity_type: organization
+names:
+- JOINT STOCK COMMERCIAL BANK NOVIKOMBANK
+- " AKTSIONERNY KOMMERCHESKI BANK NOVIKOMBANK AKTSIONERNOE OBSHCHESTVO"
+- " AO AKB NOVIKOMBANK"
+- " JOINT STOCK COMMERCIAL BANK NOVIKOMBANK JOINT STOCK COMPANY"
+- " NOVIKOMBANK JCSB"
+- " NOVIKOMBANK AO"
+source: us-govt-data
+ref_number: '18784'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'All offices worldwide. For more information on directives, please visit the
+  following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: ROSTEC)'
+address:
+- street: 'bld.1,Polyanka Bolshaya str. 50/1   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119180'
+documents:
+- type: Registration ID
+  number: '1027739075891'
+  country: 
+- type: Government Gazette Number
+  number: '17541272'
+  country: 
+- type: Tax ID No.
+  number: '7706196340'
+  country: 
+- type: Website
+  number: http://www.novikom.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: SWIFT/BIC
+  number: CNOVRUMM
+  country: 
+- type: BIK (RU)
+  number: '044583162'
+  country: 
+- type: Organization Established Date
+  number: '1993'
+  country: 

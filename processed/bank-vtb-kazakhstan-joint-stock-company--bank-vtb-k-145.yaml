@@ -1,28 +1,33 @@
 ---
 entity_type: organization
 names:
-- BANCO VTB AFRICA SA
-- " VTB AFRICA"
+- BANK VTB KAZAKHSTAN JOINT STOCK COMPANY
+- " BANK VTB KAZAKHSTAN JSC"
+- " SUBSIDIARY JSC BANK VTB KAZAKHSTAN"
+- " JOINT STOCK COMPANY VTB BANK KAZAKHSTAN"
 source: us-govt-data
-ref_number: '18725'
+ref_number: '18723'
 ref_type: Sdn UID
-country: Angola
+country: Kazakhstan
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
 address:
-- street: '22, Rua da Missao   '
-  city: Luanda
+- street: '28 Timiryazev Street   '
+  city: Almaty
   state: 
-  country: Angola
-  zip: 
+  country: Kazakhstan
+  zip: '050040'
 documents:
-- type: Website
-  number: www.vtb.ao
-  country: 
 - type: SWIFT/BIC
-  number: VTBLAOLU
+  number: VTBAKZKZ
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Website
+  number: http://en.vtb-bank.kz/
+  country: 
+- type: Target Type
+  number: Financial Institution
   country: 

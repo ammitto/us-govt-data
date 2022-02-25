@@ -1,31 +1,50 @@
 ---
 entity_type: organization
 names:
-- SB SECURITIES SA
+- JOINT STOCK COMPANY SBERBANK
+- " SUBSIDIARY BANK SBERBANK OF RUSSIA PUBLIC JOINT STOCK COMPANY"
+- " SBERBANK OF RUSSIA SUBSIDIARY BANK PUBLIC JOINT STOCK COMPANY"
+- " PUBLICHNE AKTSIONERNE TOVARYSTVO DOCHIRNII BANK SBERBANKU ROSII"
+- " JSC SBERBANK OF RUSSIA"
+- " SBERBANK OF RUSSIA SUBSIDIARY BANK PRIVATE JOINT STOCK COMPANY"
+- " JSC SBERBANK"
+- " AKTSIONERNE TOVARYSTVO SBERBANK"
 source: us-govt-data
-ref_number: '18753'
+ref_number: '18715'
 ref_type: Sdn UID
-country: Luxembourg
+country: Ukraine
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'
 address:
-- street: 'Boulevard Konrad Adenauer 2   '
-  city: Luxembourg
+- street: '46 Volodymyrska street   '
+  city: Kyiv
   state: 
-  country: Luxembourg
-  zip: '1115'
-- street: '14, rue Edward Steichen   '
-  city: 
+  country: Ukraine
+  zip: '01601'
+- street: '46 Vladimirskaya St   '
+  city: Kyiv
   state: 
-  country: Luxembourg
-  zip: L-2540
+  country: Ukraine
+  zip: '01601'
 documents:
 - type: Registration ID
-  number: B171037
-  country: Luxembourg
+  number: '25959784'
+  country: Ukraine
+- type: Tax ID No.
+  number: '259597826652'
+  country: Ukraine
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: SWIFT/BIC
+  number: SABRUAUK
+  country: 
+- type: Website
+  number: www.sberbank.ua
+  country: 
+- type: Website
+  number: sbrf.com.ua
   country: 
 - type: 'Listing Date (EO 14024 Directive 2):'
   number: 24 Feb 2022

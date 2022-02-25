@@ -1,31 +1,40 @@
 ---
 entity_type: organization
 names:
-- SB SECURITIES SA
+- SETELEM BANK LIMITED LIABILITY COMPANY
+- " CETELEM BANK LLC"
+- " SETELEM BANK OOO"
+- " SETELEM BANK OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU"
+- " KOMMERCHESKI BANK UKRSIBBANK OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU"
+- " CETELEM BANK LIMITED LIABILITY COMPANY"
 source: us-govt-data
-ref_number: '18753'
+ref_number: '18710'
 ref_type: Sdn UID
-country: Luxembourg
+country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'
 address:
-- street: 'Boulevard Konrad Adenauer 2   '
-  city: Luxembourg
+- street: '26 ul. Pravdy   '
+  city: Moscow
   state: 
-  country: Luxembourg
-  zip: '1115'
-- street: '14, rue Edward Steichen   '
-  city: 
-  state: 
-  country: Luxembourg
-  zip: L-2540
+  country: Russia
+  zip: '125124'
 documents:
 - type: Registration ID
-  number: B171037
-  country: Luxembourg
+  number: '1027739664260'
+  country: Russia
+- type: Tax ID No.
+  number: '6452010742'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.cetelem.ru
+  country: 
+- type: SWIFT/BIC
+  number: CETBRUMM
   country: 
 - type: 'Listing Date (EO 14024 Directive 2):'
   number: 24 Feb 2022

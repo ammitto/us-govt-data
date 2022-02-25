@@ -1,0 +1,34 @@
+---
+entity_type: organization
+names:
+- VYDAYUSHCHIESYA KREDITY MICROCREDIT COMPANY LIMITED LIABILITY COMPANY
+- " MCC VYDAYUSHIESYA KREDITY LLC"
+- " MIKROKREDITNAYA KOMPANIYA VYDAYUSHCHIESYA KREDITY"
+source: us-govt-data
+ref_number: '34636'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"
+address:
+- street: '32 Kutuzovsky Avenue, building 1, floor 6, room 6.?.01   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121170'
+documents:
+- type: Registration Number
+  number: '1177746493473'
+  country: Russia
+- type: Tax ID No.
+  number: '7725374454'
+  country: Russia
+- type: Executive Order 14024 Directive Information -
+  number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  country: 
+- type: 'Listing Date (EO 14024 Directive 2):'
+  number: 24 Feb 2022
+  country: 
+- type: 'Effective Date (EO 14024 Directive 2):'
+  number: 26 Mar 2022
+  country: 

@@ -1,0 +1,35 @@
+---
+entity_type: organization
+names:
+- LIMITED LIABILITY COMPANY SBERBANK FACTORING
+- " SBERBANK FACTORING LLC"
+- " KORUS DISTRIBUTION LIMITED"
+- " SBERBANK FAKTORING"
+source: us-govt-data
+ref_number: '34638'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: "(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)"
+address:
+- street: 'Room I, 31a/bld. 1 Leningradsky Ave   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '125284'
+documents:
+- type: Registration Number
+  number: '1117847260794'
+  country: Russia
+- type: Tax ID No.
+  number: '7802754982'
+  country: Russia
+- type: Executive Order 14024 Directive Information -
+  number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  country: 
+- type: 'Listing Date (EO 14024 Directive 2):'
+  number: 24 Feb 2022
+  country: 
+- type: 'Effective Date (EO 14024 Directive 2):'
+  number: 26 Mar 2022
+  country: 

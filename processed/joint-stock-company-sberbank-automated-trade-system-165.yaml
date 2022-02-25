@@ -1,38 +1,50 @@
 ---
 entity_type: organization
 names:
-- SB SECURITIES SA
+- JOINT STOCK COMPANY SBERBANK AUTOMATED TRADE SYSTEM
+- " SBERBANK-AUTOMATED TRADING SYSTEM CLOSED JOINT STOCK COMPANY"
+- " SBERBANK-AST ZAO"
+- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO SBERBANK AVTOMATIZIROVANNAYA SISTEMA TORGOV"
+- " JOINT STOCK COMPANY SBERBANK-AUTOMATED SYSTEM FOR TRADING"
+- " SBERBANK-AST JSC"
+- " JSC SBERBANK-AUTOMATED SYSTEM FOR TRADING"
 source: us-govt-data
-ref_number: '18753'
+ref_number: '18743'
 ref_type: Sdn UID
-country: Luxembourg
+country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'
 address:
-- street: 'Boulevard Konrad Adenauer 2   '
-  city: Luxembourg
+- street: 'd. 24 str. 2 ul. Novoslobodskaya   '
+  city: Moscow
   state: 
-  country: Luxembourg
-  zip: '1115'
-- street: '14, rue Edward Steichen   '
-  city: 
+  country: Russia
+  zip: '127055'
+- street: '12 B. Savvinsky Lane, building 9, floor 1, office 1, room 1   '
+  city: Moscow
   state: 
-  country: Luxembourg
-  zip: L-2540
+  country: Russia
+  zip: '119435'
 documents:
 - type: Registration ID
-  number: B171037
-  country: Luxembourg
+  number: '1027707000441'
+  country: Russia
+- type: Tax ID No.
+  number: '7707308480'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.sberbank-ast.ru
   country: 
 - type: 'Listing Date (EO 14024 Directive 2):'
   number: 24 Feb 2022
   country: 
-- type: 'Effective Date (EO 14024 Directive 2):'
-  number: 26 Mar 2022
-  country: 
 - type: Executive Order 14024 Directive Information -
   number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  country: 
+- type: 'Effective Date (EO 14024 Directive 2):'
+  number: 26 Mar 2022
   country: 

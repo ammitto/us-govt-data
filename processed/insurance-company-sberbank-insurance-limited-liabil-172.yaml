@@ -1,0 +1,55 @@
+---
+entity_type: organization
+names:
+- INSURANCE COMPANY SBERBANK INSURANCE LIMITED LIABILITY COMPANY
+- " LLC INSURANCE COMPANY SBERBANK INSURANCE"
+- " SBERBANK STRAHOVANIE OOO SK"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVAYA KOMPANIYA SBERBANK STRAKHOVANIE"
+- " SK SBERBANK STRAHOVANIE LLC"
+- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVAYA KOMPANIYA SBERBANK OBSHCHEE
+  STRAKHOVANIE"
+- " SBERBANK INSURANCE IC LLC"
+- " STRAKHOVAYA KOMPANIYA SBERBANK STRAKHOVANIE"
+- " SBERBANK INSURANCE COMPANY LTD"
+source: us-govt-data
+ref_number: '18750'
+ref_type: Sdn UID
+country: Russia
+birthdate: 
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
+  (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'
+address:
+- street: '42 Bolshaya Yakimanka St., b. 1-2, office 209   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '119049'
+- street: '7 ul. Pavlovskaya   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: 
+- street: '3 Poklonnaya Street, building 1, floor 1, office 3   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121170'
+documents:
+- type: Registration ID
+  number: '1147746683479'
+  country: Russia
+- type: Tax ID No.
+  number: '7706810747'
+  country: Russia
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Executive Order 14024 Directive Information -
+  number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  country: 
+- type: 'Listing Date (EO 14024 Directive 2):'
+  number: 24 Feb 2022
+  country: 
+- type: 'Effective Date (EO 14024 Directive 2):'
+  number: 26 Mar 2022
+  country: 

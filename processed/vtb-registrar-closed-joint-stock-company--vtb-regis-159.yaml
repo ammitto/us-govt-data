@@ -1,30 +1,34 @@
 ---
 entity_type: organization
 names:
-- VTB PENSION ADMINISTRATOR LIMITED
-- " VTB PENSION ADMINISTRATOR LTD"
-- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB PENSIONNY ADMINISTRATOR"
-- " VTB PENSIONNY ADMINISTRATOR OOO"
+- VTB REGISTRAR CLOSED JOINT STOCK COMPANY
+- " VTB REGISTRAR"
+- " VTB REGISTRAR CJSC"
+- " JOINT STOCK COMPANY VTB REGISTRAR"
+- " JSC VTB REGISTRAR"
 source: us-govt-data
-ref_number: '18730'
+ref_number: '18737'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
 address:
-- street: 'd. 52 str. 1 nab.Kosmodamianskaya   '
+- street: '23, Pravdy Street   '
   city: Moscow
   state: 
   country: Russia
-  zip: '115054'
+  zip: '125040'
 documents:
-- type: Registration ID
-  number: '1097746178232'
+- type: Registration Number
+  number: '1045605469744'
   country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
-- type: 'Organization Type:'
-  number: Activities of holding companies
+- type: Website
+  number: www.vtbreg.ru
+  country: 
+- type: BIK (RU)
+  number: '044525745'
   country: 

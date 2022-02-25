@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>02/22/2022</Publish_Date>
-    <Record_Count>444</Record_Count>
+    <Publish_Date>02/24/2022</Publish_Date>
+    <Record_Count>462</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -2369,13 +2369,20 @@
   </sdnEntry>
   <sdnEntry>
     <uid>17013</uid>
-    <lastName>VTB BANK OAO</lastName>
+    <lastName>VTB BANK PUBLIC JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>9477</uid>
+        <idType>Registration ID</idType>
+        <idNumber>1027739609391</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
       <id>
         <uid>9478</uid>
         <idType>Government Gazette Number</idType>
@@ -2395,15 +2402,15 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>9477</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1027739609391</idNumber>
+        <uid>24641</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>253400V1H6ART1UQ0N98</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>116142</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>115745</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtb.com</idNumber>
       </id>
       <id>
         <uid>115744</uid>
@@ -2411,71 +2418,192 @@
         <idNumber>VTBRRUMM</idNumber>
       </id>
       <id>
-        <uid>115745</uid>
+        <uid>116142</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146553</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>17 Oct 1990</idNumber>
+      </id>
+      <id>
+        <uid>146548</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044030707</idNumber>
+      </id>
+      <id>
+        <uid>146549</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044525187</idNumber>
+      </id>
+      <id>
+        <uid>146547</uid>
         <idType>Website</idType>
-        <idNumber>www.vtb.com</idNumber>
+        <idNumber>www.vtb.ru</idNumber>
+      </id>
+      <id>
+        <uid>146669</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
       <aka>
         <uid>26072</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
         <lastName>JSC VTB BANK</lastName>
       </aka>
       <aka>
         <uid>26073</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>BANK VTB, OPEN JOINT-STOCK COMPANY</lastName>
-      </aka>
-      <aka>
-        <uid>26074</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>VNESHTORGBANK</lastName>
+        <lastName>BANK VTB OPEN JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26075</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>BANK VNESHNEY TORGOVLI, OPEN JOINT-STOCK COMPANY</lastName>
+        <lastName>BANK VNESHNEY TORGOVLI OPEN JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26076</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>BANK VNESHNEY TORGOVLI, JOINT-STOCK COMPANY</lastName>
+        <lastName>BANK VNESHNEY TORGOVLI JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26077</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>BANK VNESHNEY TORGOVLI RSFSR</lastName>
+        <lastName>BANK VNESHNEI TORGOVLI RSFSR</lastName>
       </aka>
       <aka>
         <uid>26078</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>BANK VNESHNEY TORGOVLI ROSSIYSKOY FEDERATSII, CLOSED JOINT-STOCK COMPANY</lastName>
+        <lastName>BANK VNESHNEY TORGOVLI ROSSIYSKOY FEDERATSII CLOSED JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26079</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>VNESHTORGBANK ROSSII, CLOSED JOINT-STOCK COMPANY</lastName>
-      </aka>
-      <aka>
-        <uid>26080</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>VTB BANK, OPEN JOINT-STOCK COMPANY</lastName>
+        <lastName>VNESHTORGBANK ROSSII CLOSED JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26081</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
         <lastName>BANK VTB OAO</lastName>
+      </aka>
+      <aka>
+        <uid>54895</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB BANK PAO</lastName>
+      </aka>
+      <aka>
+        <uid>54896</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB BANK OAO</lastName>
+      </aka>
+      <aka>
+        <uid>54900</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB BANK PJSC</lastName>
+      </aka>
+      <aka>
+        <uid>54902</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK VTB PUBLICHNOE AKTSIONERNOE OBSHCHESTVO</lastName>
+      </aka>
+      <aka>
+        <uid>54903</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB BANK</lastName>
+      </aka>
+      <aka>
+        <uid>54907</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>OAO BANK VTB</lastName>
+      </aka>
+      <aka>
+        <uid>54908</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB BANK OPEN JOINT STOCK COMPANY</lastName>
+      </aka>
+      <aka>
+        <uid>54909</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK VNESHEI TORGOVLI OAO</lastName>
+      </aka>
+      <aka>
+        <uid>54912</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK VNESHNEI TORGOVLI ROSSISKOI FEDERATSII AS A PRIVATE JOINT STOCK COMPANY</lastName>
+      </aka>
+      <aka>
+        <uid>54914</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>OAO VNESHTORGBANK</lastName>
+      </aka>
+      <aka>
+        <uid>54940</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK OF FOREIGN TRADE OF THE RUSSIAN FEDERATION</lastName>
+      </aka>
+      <aka>
+        <uid>54941</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK FOR FOREIGN TRADE OF RSFSR</lastName>
+      </aka>
+      <aka>
+        <uid>54942</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>VNESHTORGBANK OF RSFSR</lastName>
+      </aka>
+      <aka>
+        <uid>54943</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>CJSC BANK FOR FOREIGN TRADE OF THE RUSSIAN FEDERATION</lastName>
+      </aka>
+      <aka>
+        <uid>54944</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>RUSSIAN VNESHTORGBANK</lastName>
+      </aka>
+      <aka>
+        <uid>54945</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>VNESHTORGBANK</lastName>
+      </aka>
+      <aka>
+        <uid>54946</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>OJSC CJSC BANK FOR FOREIGN TRADE</lastName>
+      </aka>
+      <aka>
+        <uid>55124</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK VTB PAO</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -2500,36 +2628,76 @@
         <postalCode>109044</postalCode>
         <country>Russia</country>
       </address>
+      <address>
+        <uid>52482</uid>
+        <address1>11 litera, per. Degtyarny</address1>
+        <city>St. Petersburg</city>
+        <postalCode>191144</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52483</uid>
+        <address1>11, lit A, Degtyarnyy pereulok</address1>
+        <city>St. Petersburg</city>
+        <postalCode>191144</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52484</uid>
+        <address1>43, bld.1, Vorontsovskaya str.</address1>
+        <city>Moscow</city>
+        <postalCode>109147</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52485</uid>
+        <address1>Bashnya Zapad, Kompleks Federatsiya, 12, nab. Presnenskaya</address1>
+        <city>Moscow</city>
+        <postalCode>123317</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52486</uid>
+        <address1>str. 1, 43, ul. Vorontsovskaya</address1>
+        <city>Moscow</city>
+        <postalCode>109147</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52488</uid>
+        <address1>Vorontsovskaya Str 43</address1>
+        <city>Moscow</city>
+        <postalCode>109147</postalCode>
+        <country>Russia</country>
+      </address>
     </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>17014</uid>
-    <lastName>RUSSIAN AGRICULTURAL BANK</lastName>
+    <lastName>JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>9492</uid>
-        <idType>Registration ID</idType>
+        <idType>Registration Number</idType>
         <idNumber>1027700342890</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>9493</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>52750822</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>115820</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>RUAGRUMM</idNumber>
-      </id>
-      <id>
-        <uid>115746</uid>
-        <idType>Email Address</idType>
-        <idNumber>office@rshb.ru</idNumber>
       </id>
       <id>
         <uid>115747</uid>
@@ -2541,19 +2709,39 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>146708</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146690</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146961</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146962</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>26083</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>RUSSIAN AGRICULTURAL BANK OAO</lastName>
+        <lastName>RUSSIAN AGRICULTURAL BANK</lastName>
       </aka>
       <aka>
         <uid>26084</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>ROSSIYSKI SELSKOKHOZYAISTVENNY BANK OAO</lastName>
+        <lastName>RUSSIAN AGRICULTURAL BANK OPEN JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26085</uid>
@@ -2563,9 +2751,15 @@
       </aka>
       <aka>
         <uid>26086</uid>
-        <type>f.k.a.</type>
+        <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OTKRYTOE AKTSIONERNOE ROSSISKI SELSKOKHOZYAISTVENNY BANK</lastName>
+        <lastName>RUSSIAN AGRICULTURAL BANK OJSC</lastName>
+      </aka>
+      <aka>
+        <uid>54933</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>RUSAG</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -2730,37 +2924,31 @@
   </sdnEntry>
   <sdnEntry>
     <uid>17016</uid>
-    <lastName>GAZPROMBANK OAO</lastName>
+    <lastName>GAZPROMBANK JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>9495</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027700167110</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
       <id>
         <uid>9496</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>09807684</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>9497</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7744001497</idNumber>
-      </id>
-      <id>
-        <uid>9495</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1027700167110</idNumber>
-      </id>
-      <id>
-        <uid>115750</uid>
-        <idType>Email Address</idType>
-        <idNumber>mailbox@gazprombank.ru</idNumber>
-      </id>
-      <id>
-        <uid>116139</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>115751</uid>
@@ -2772,58 +2960,70 @@
         <idType>SWIFT/BIC</idType>
         <idNumber>GAZPRUMM</idNumber>
       </id>
+      <id>
+        <uid>116139</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146709</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146534</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>31 Jul 1990</idNumber>
+      </id>
+      <id>
+        <uid>146849</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146850</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146689</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
-        <uid>26092</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>GAZPROMBANK OTKRYTOE AKTSIONERNOE OBSHCHESTVO</lastName>
-      </aka>
-      <aka>
-        <uid>26093</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>GPB, OAO</lastName>
-      </aka>
-      <aka>
-        <uid>26094</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>GPB, OJSC</lastName>
-      </aka>
-      <aka>
         <uid>26095</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
         <lastName>GAZPROMBANK OPEN JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
-        <uid>26096</uid>
+        <uid>54916</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>GAZPROMBANK OJSC</lastName>
+        <lastName>BANK GPB JSC</lastName>
       </aka>
       <aka>
-        <uid>26097</uid>
+        <uid>54917</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>GAZPROMBANK GAS INDUSTRY OJSC</lastName>
+        <lastName>GAZPROMBANK AO</lastName>
+      </aka>
+      <aka>
+        <uid>54918</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>JOINT STOCK BANK OF THE GAS INDUSTRY GAZPROMBANK</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>25807</uid>
-        <address1>16, Building 1, Nametkina St.</address1>
+        <address1>16 Nametkina Street</address1>
+        <address2>Bldg. 1</address2>
         <city>Moscow</city>
         <postalCode>117420</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>25808</uid>
-        <address1>63, Novocheremushkinskaya St.</address1>
-        <city>Moscow</city>
-        <postalCode>117418</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -2912,22 +3112,35 @@
   </sdnEntry>
   <sdnEntry>
     <uid>17018</uid>
-    <lastName>SBERBANK OF RUSSIA</lastName>
+    <lastName>PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24639</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027700132195</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24640</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7707083893</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>115757</uid>
+        <idType>Website</idType>
+        <idNumber>www.sberbank.ru</idNumber>
+      </id>
       <id>
         <uid>116134</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>SABRRUMM</idNumber>
-      </id>
-      <id>
-        <uid>115756</uid>
-        <idType>Email Address</idType>
-        <idNumber>sbrf@sbrf.ru</idNumber>
       </id>
       <id>
         <uid>116151</uid>
@@ -2935,9 +3148,39 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>115757</uid>
+        <uid>146714</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146811</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146813</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146815</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146816</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146696</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146546</uid>
         <idType>Website</idType>
-        <idNumber>www.sberbank.ru</idNumber>
+        <idNumber>www.sberbank.com</idNumber>
       </id>
     </idList>
     <akaList>
@@ -2959,13 +3202,55 @@
         <category>strong</category>
         <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO SBERBANK ROSSII</lastName>
       </aka>
+      <aka>
+        <uid>54948</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK OF RUSSIA</lastName>
+      </aka>
+      <aka>
+        <uid>54949</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PJSC SBERBANK</lastName>
+      </aka>
+      <aka>
+        <uid>54950</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>OPEN JOINT STOCK COMPANY SBERBANK OF RUSSIA</lastName>
+      </aka>
+      <aka>
+        <uid>54951</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>OJSC SBERBANK OF RUSSIA</lastName>
+      </aka>
+      <aka>
+        <uid>54952</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>JOINT STOCK COMMERCIAL SAVINGS BANK OF THE RUSSIAN FEDERATION</lastName>
+      </aka>
+      <aka>
+        <uid>54953</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>JOINT STOCK COMMERCIAL SAVINGS BANK OF THE RUSSIAN SOVIET FEDERATIVE SOCIALIST REPUBLIC</lastName>
+      </aka>
+      <aka>
+        <uid>54954</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK OF RSFSR</lastName>
+      </aka>
     </akaList>
     <addressList>
       <address>
-        <uid>25813</uid>
+        <uid>52487</uid>
         <address1>19 ul. Vavilova</address1>
         <city>Moscow</city>
-        <postalCode>117997</postalCode>
+        <postalCode>117312</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -3138,47 +3423,31 @@
   </sdnEntry>
   <sdnEntry>
     <uid>17143</uid>
-    <lastName>OJSC GAZPROM NEFT</lastName>
+    <lastName>PUBLIC JOINT STOCK COMPANY GAZPROM NEFT</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>9591</uid>
         <idType>Tax ID No.</idType>
         <idNumber>5504036333</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>9590</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>42045241</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>9589</uid>
-        <idType>Registration ID</idType>
+        <idType>Registration Number</idType>
         <idNumber>1025501701686</idNumber>
-      </id>
-      <id>
-        <uid>115913</uid>
-        <idType>Website</idType>
-        <idNumber>http://www.gazprom-neft.com/</idNumber>
-      </id>
-      <id>
-        <uid>115914</uid>
-        <idType>Email Address</idType>
-        <idNumber>info@gazprom-neft.ru</idNumber>
-      </id>
-      <id>
-        <uid>115915</uid>
-        <idType>Email Address</idType>
-        <idNumber>pr@gazprom-neft.ru</idNumber>
-      </id>
-      <id>
-        <uid>115916</uid>
-        <idType>Email Address</idType>
-        <idNumber>shareholders@gazprom-neft.ru</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>116137</uid>
@@ -3186,70 +3455,66 @@
         <idNumber>Subject to Directive 2</idNumber>
       </id>
       <id>
-        <uid>115918</uid>
-        <idType>Email Address</idType>
-        <idNumber>ir@gazprom-neft.ru</idNumber>
-      </id>
-      <id>
         <uid>116138</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
       </id>
+      <id>
+        <uid>146694</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146841</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146725</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146842</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>26283</uid>
-        <type>f.k.a.</type>
-        <category>strong</category>
-        <lastName>SIBIRSKAYA NEFTYANAYA KOMPANIYA OAO</lastName>
-      </aka>
       <aka>
         <uid>26284</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OPEN JOINT-STOCK COMPANY GAZPROM NEFT</lastName>
+        <lastName>PUBLICHNOE AKTSIONERNOE OBSHCHESTVO GAZPROM NEFT</lastName>
       </aka>
       <aka>
         <uid>26285</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>JSC GAZPROM NEFT</lastName>
+        <lastName>GAZPROM NEFT PJSC</lastName>
       </aka>
       <aka>
         <uid>26286</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>GAZPROM NEFT OAO</lastName>
+        <lastName>GAZPROM NEFT PAO</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>26038</uid>
-        <address1>Let. A. Galernaya, 5</address1>
-        <address2>ul</address2>
-        <city>St. Petersburg</city>
+        <address1>5, Let. A</address1>
+        <address2>Galernaya</address2>
+        <city>Saint Petersburg</city>
         <postalCode>190000</postalCode>
         <country>Russia</country>
       </address>
       <address>
         <uid>26039</uid>
-        <address1>Ul. Pochtamtskaya, 3-5</address1>
+        <address1>d. 3-5 litera A Ch. Pom. 1N kab. 2401</address1>
+        <address2>ul. Pochtamtskaya</address2>
         <city>St. Petersburg</city>
         <postalCode>190000</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>26040</uid>
-        <address1>3-5 Pochtamtskaya St.</address1>
-        <city>St. Petersburg</city>
-        <postalCode>190000</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>26041</uid>
-        <address1>125 A. Profsoyuznaya Street</address1>
-        <city>Moscow</city>
-        <postalCode>117647</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -3418,23 +3683,24 @@
   </sdnEntry>
   <sdnEntry>
     <uid>17250</uid>
-    <lastName>OPEN JOINT STOCK COMPANY GAZPROM</lastName>
+    <lastName>PUBLIC JOINT STOCK COMPANY GAZPROM</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>9672</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027700070518</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
       <id>
         <uid>9668</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>00040778</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>9672</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1027700070518</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -3444,19 +3710,29 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>116117</uid>
-        <idType>Email Address</idType>
-        <idNumber>gazprom@gazprom.ru</idNumber>
-      </id>
-      <id>
         <uid>116147</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
       </id>
       <id>
-        <uid>116118</uid>
-        <idType>Website</idType>
-        <idNumber>www.gazprom.ru</idNumber>
+        <uid>146723</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146844</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146846</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146693</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
       </id>
     </idList>
     <akaList>
@@ -3464,61 +3740,73 @@
         <uid>26548</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OAO GAZPROM</lastName>
+        <lastName>GAZPROM PAO</lastName>
       </aka>
       <aka>
         <uid>26549</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>GAZPROM OAO</lastName>
+        <lastName>PJSC GAZPROM</lastName>
+      </aka>
+      <aka>
+        <uid>54934</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>GAZPROM</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>26288</uid>
-        <address1>16 Nametkina St.</address1>
-        <city>Moscow</city>
+        <address1>2/3 Lakhtinsky Avenue</address1>
+        <address2>Bldg. 1</address2>
+        <city>St. Petersburg</city>
         <stateOrProvince>Russia</stateOrProvince>
-        <postalCode>GSP-7, 117997</postalCode>
+        <postalCode>197229</postalCode>
         <country>Russia</country>
       </address>
       <address>
         <uid>26290</uid>
-        <address1>16 Nametkina ul.</address1>
-        <city>Moscow</city>
-        <postalCode>117991</postalCode>
+        <address1>BOX 1255</address1>
+        <city>St. Petersburg</city>
+        <postalCode>190900</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52480</uid>
+        <address1>156A Moskovsky Avenue</address1>
+        <city>St. Petersburg</city>
         <country>Russia</country>
       </address>
     </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>17254</uid>
-    <lastName>AK TRANSNEFT OAO</lastName>
+    <lastName>PUBLIC JOINT STOCK COMPANY TRANSNEFT</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>9691</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1027700049486</idNumber>
+        <uid>9692</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7706061801</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>9693</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>00044463</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>9692</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>7706061801</idNumber>
-      </id>
-      <id>
-        <uid>116119</uid>
-        <idType>Email Address</idType>
-        <idNumber>transneft@ak.transneft.ru</idNumber>
+        <uid>24764</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027700049486</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>116120</uid>
@@ -3530,58 +3818,82 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 2</idNumber>
       </id>
+      <id>
+        <uid>146695</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146726</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146656</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>26 Aug 1993</idNumber>
+      </id>
+      <id>
+        <uid>146847</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146848</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>26558</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>OAO AK TRANSNEFT</lastName>
+        <lastName>AK TRANSNEFT OAO</lastName>
       </aka>
       <aka>
         <uid>26559</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>AKTSIONERNAYA KOMPANIYA PO TRANSPORTUNEFTI TRANSNEFT OAO</lastName>
+        <lastName>AKTSIONERNAYA KOMPANIYA PO TRANSPORTU NEFTI TRANSNEFT PAO</lastName>
       </aka>
       <aka>
         <uid>26560</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OIL TRANSPORTING JOINT-STOCK COMPANY TRANSNEFT</lastName>
+        <lastName>OIL TRANSPORTING JOINT STOCK COMPANY TRANSNEFT</lastName>
       </aka>
       <aka>
         <uid>26561</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>TRANSNEFT, JSC</lastName>
+        <lastName>JSC TRANSNEFT</lastName>
       </aka>
       <aka>
         <uid>26562</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>TRANSNEFT OJSC</lastName>
+        <lastName>PJSC TRANSNEFT</lastName>
       </aka>
       <aka>
         <uid>26563</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>TRANSNEFT</lastName>
+        <lastName>PAO TRANSNEFT</lastName>
+      </aka>
+      <aka>
+        <uid>55119</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PUBLICHNOE AKTSIONERNOE OBSHCHESTVO TRANSNEFT</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
-        <uid>26306</uid>
-        <address1>57 B. Polyanka ul.</address1>
+        <uid>52600</uid>
+        <address1>naberezhnaya Presnenskaya, D. 4, Str. 2</address1>
         <city>Moscow</city>
-        <postalCode>119180</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>26307</uid>
-        <address1>57 Bolshaya. Polyanka</address1>
-        <city>Moscow</city>
-        <postalCode>119180</postalCode>
+        <postalCode>123112</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -3809,12 +4121,6 @@
     </programList>
     <idList>
       <id>
-        <uid>10549</uid>
-        <idType>Registration Number</idType>
-        <idNumber>1027739109133</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
         <uid>24619</uid>
         <idType>Legal Entity Number</idType>
         <idNumber>253400HA6URWT39X2982</idNumber>
@@ -3823,6 +4129,12 @@
         <uid>24617</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7704001959</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>10549</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027739109133</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -3959,7 +4271,7 @@
     <uid>18270</uid>
     <lastName>DEVELOPMENT CORPORATION OF NORTH CAUCASUS OJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -4278,7 +4590,7 @@
     <uid>18275</uid>
     <lastName>FEDERAL CENTER FOR PROJECT FINANCE</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -4389,7 +4701,7 @@
     <uid>18277</uid>
     <lastName>GLOBEXBANK</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -4461,7 +4773,7 @@
     <uid>18278</uid>
     <lastName>KRASLESINVEST CJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -4523,7 +4835,7 @@
     <uid>18279</uid>
     <lastName>RUSSIAN DIRECT INVESTMENT FUND MANAGEMENT COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -4752,7 +5064,7 @@
     <uid>18283</uid>
     <lastName>SME BANK</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -4880,7 +5192,7 @@
     <uid>18285</uid>
     <lastName>SVIAZ-BANK</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -5170,7 +5482,7 @@
     <uid>18289</uid>
     <lastName>ROSE GROUP LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VNESHECONOMBANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS VNESHECONOMBANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -5873,11 +6185,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18669</uid>
-    <lastName>SBERBANK CAPITAL LLC</lastName>
+    <lastName>LIMITED LIABILITY COMPANY SBERBANK CAPITAL</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -5887,9 +6200,30 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>24682</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7736581290</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
         <uid>118412</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146733</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146861</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146864</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5897,13 +6231,13 @@
         <uid>29247</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>LLC SBERBANK CAPITAL</lastName>
+        <lastName>SBERBANK CAPITAL LLC</lastName>
       </aka>
       <aka>
         <uid>29248</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SBERBANK KAPITAL, OOO</lastName>
+        <lastName>SBERBANK KAPITAL OOO</lastName>
       </aka>
       <aka>
         <uid>29249</uid>
@@ -5921,7 +6255,7 @@
     <addressList>
       <address>
         <uid>28371</uid>
-        <address1>d.19 ul. Vavilova</address1>
+        <address1>d. 19 ul. Vavilova</address1>
         <city>Moscow</city>
         <postalCode>117997</postalCode>
         <country>Russia</country>
@@ -5930,17 +6264,45 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18708</uid>
-    <lastName>SBERBANK INVESTMENTS LLC</lastName>
+    <lastName>LIMITED LIABILITY COMPANY SBERBANK INVESTMENTS</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24693</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1105032007761</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24694</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>5039441</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
       <id>
         <uid>118414</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146869</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146870</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146736</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
       </id>
     </idList>
     <akaList>
@@ -5948,7 +6310,7 @@
         <uid>29285</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>LLC SBERBANK INVESTMENTS</lastName>
+        <lastName>SBERBANK INVESTMENTS LLC</lastName>
       </aka>
       <aka>
         <uid>29286</uid>
@@ -5960,8 +6322,9 @@
     <addressList>
       <address>
         <uid>28410</uid>
-        <address1>46 Molodezhnaya Ul.</address1>
+        <address1>46 Molodezhnaya St</address1>
         <city>Odintsovo</city>
+        <stateOrProvince>Moscow Region</stateOrProvince>
         <postalCode>143002</postalCode>
         <country>Russia</country>
       </address>
@@ -5969,11 +6332,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18709</uid>
-    <lastName>SBERBANK LEASING CJSC</lastName>
+    <lastName>JOINT STOCK COMPANY SBERBANK LEASING</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -5983,14 +6347,35 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118149</uid>
-        <idType>Website</idType>
-        <idNumber>www.sberleasing.ru</idNumber>
+        <uid>24678</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7707009586</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>118418</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>118149</uid>
+        <idType>Website</idType>
+        <idNumber>www.sberleasing.ru</idNumber>
+      </id>
+      <id>
+        <uid>146731</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146855</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146856</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6016,7 +6401,7 @@
         <uid>29291</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SBERBANK LEASING JOINT STOCK COMPANY</lastName>
+        <lastName>SBERBANK LEASING JSC</lastName>
       </aka>
       <aka>
         <uid>29292</uid>
@@ -6028,6 +6413,10 @@
     <addressList>
       <address>
         <uid>28412</uid>
+        <address1>Novoivanovskoe workers settlement</address1>
+        <city>Odintsovo</city>
+        <stateOrProvince>Moscow Region</stateOrProvince>
+        <postalCode>143026</postalCode>
         <country>Russia</country>
       </address>
       <address>
@@ -6041,11 +6430,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18710</uid>
-    <lastName>CETELEM BANK LIMITED LIABILITY COMPANY</lastName>
+    <lastName>SETELEM BANK LIMITED LIABILITY COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -6055,9 +6445,10 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118151</uid>
-        <idType>Website</idType>
-        <idNumber>www.cetelem.ru</idNumber>
+        <uid>24711</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>6452010742</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>118419</uid>
@@ -6065,9 +6456,29 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
+        <uid>118151</uid>
+        <idType>Website</idType>
+        <idNumber>www.cetelem.ru</idNumber>
+      </id>
+      <id>
         <uid>118819</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>CETBRUMM</idNumber>
+      </id>
+      <id>
+        <uid>146929</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146930</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146748</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6095,13 +6506,19 @@
         <category>strong</category>
         <lastName>KOMMERCHESKI BANK UKRSIBBANK OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU</lastName>
       </aka>
+      <aka>
+        <uid>55059</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CETELEM BANK LIMITED LIABILITY COMPANY</lastName>
+      </aka>
     </akaList>
     <addressList>
       <address>
-        <uid>28416</uid>
+        <uid>52544</uid>
         <address1>26 ul. Pravdy</address1>
         <city>Moscow</city>
-        <postalCode>125040</postalCode>
+        <postalCode>125124</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -6153,17 +6570,25 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18713</uid>
-    <lastName>SB SBERBANK JSC</lastName>
+    <lastName>SUBSIDIARY BANK SBERBANK OF RUSSIA JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>118820</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>SABRKZKA</idNumber>
+        <uid>24664</uid>
+        <idType>Registration Number</idType>
+        <idNumber>930740000137</idNumber>
+        <idCountry>Kazakhstan</idCountry>
+      </id>
+      <id>
+        <uid>24665</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>600900050984</idNumber>
+        <idCountry>Kazakhstan</idCountry>
       </id>
       <id>
         <uid>118416</uid>
@@ -6171,9 +6596,29 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
+        <uid>118820</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>SABRKZKA</idNumber>
+      </id>
+      <id>
         <uid>118153</uid>
         <idType>Website</idType>
         <idNumber>www.sberbank.kz</idNumber>
+      </id>
+      <id>
+        <uid>146752</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146891</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146893</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6181,17 +6626,22 @@
         <uid>29305</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SUBSIDIARY BANK SBERBANK OF RUSSIA JOINT STOCK COMPANY</lastName>
+        <lastName>SB SBERBANK JSC</lastName>
+      </aka>
+      <aka>
+        <uid>55004</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>DOCHERNI BANK AKTSIONERNOE OBSHCHESTVO SBERBANK ROSSII</lastName>
+      </aka>
+      <aka>
+        <uid>55005</uid>
+        <type>f.k.a.</type>
+        <category>weak</category>
+        <lastName>TEXAKABANK JSC</lastName>
       </aka>
     </akaList>
     <addressList>
-      <address>
-        <uid>28423</uid>
-        <address1>13/1 Al Farabi Ave.</address1>
-        <city>Almaty</city>
-        <postalCode>050059</postalCode>
-        <country>Kazakhstan</country>
-      </address>
       <address>
         <uid>28424</uid>
         <address1>30/26, Gogol/Kaldayakov Street</address1>
@@ -6199,26 +6649,72 @@
         <postalCode>050010</postalCode>
         <country>Kazakhstan</country>
       </address>
+      <address>
+        <uid>52508</uid>
+        <address1>13/1 Al-Farabi Avenue, Bostandyk District</address1>
+        <city>Almaty</city>
+        <postalCode>050059</postalCode>
+        <country>Kazakhstan</country>
+      </address>
+      <address>
+        <uid>52509</uid>
+        <address1>Zenkov St, 24</address1>
+        <city>Almaty</city>
+        <postalCode>480100</postalCode>
+        <country>Kazakhstan</country>
+      </address>
     </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>18714</uid>
-    <lastName>BPS-SBERBANK</lastName>
+    <lastName>OPEN JOINT STOCK COMPANY BPS-SBERBANK</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24677</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>100219673</idNumber>
+        <idCountry>Belarus</idCountry>
+      </id>
+      <id>
+        <uid>118417</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
       <id>
         <uid>118821</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>BPSBBY2X</idNumber>
       </id>
       <id>
-        <uid>118417</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>146587</uid>
+        <idType>Website</idType>
+        <idNumber>www.sber-bank.by</idNumber>
+      </id>
+      <id>
+        <uid>146588</uid>
+        <idType>Website</idType>
+        <idNumber>www.bps-sberbank.by</idNumber>
+      </id>
+      <id>
+        <uid>146881</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146882</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146739</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6226,7 +6722,7 @@
         <uid>29307</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OJSC BPS-SBERBANK</lastName>
+        <lastName>BPS SBERBANK OJSC</lastName>
       </aka>
       <aka>
         <uid>29308</uid>
@@ -6234,11 +6730,17 @@
         <category>strong</category>
         <lastName>BPS-SBERBANK OAO</lastName>
       </aka>
+      <aka>
+        <uid>55013</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBER BANK</lastName>
+      </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28426</uid>
-        <address1>6 Mulyavin Boulevard</address1>
+        <address1>6 Mulyavina Boulevard</address1>
         <city>Minsk</city>
         <postalCode>220005</postalCode>
         <country>Belarus</country>
@@ -6247,11 +6749,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18715</uid>
-    <lastName>JSC SBERBANK OF RUSSIA</lastName>
+    <lastName>JOINT STOCK COMPANY SBERBANK</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -6261,9 +6764,10 @@
         <idCountry>Ukraine</idCountry>
       </id>
       <id>
-        <uid>118154</uid>
-        <idType>Website</idType>
-        <idNumber>www.sberbank.ua</idNumber>
+        <uid>24671</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>259597826652</idNumber>
+        <idCountry>Ukraine</idCountry>
       </id>
       <id>
         <uid>118420</uid>
@@ -6275,13 +6779,38 @@
         <idType>SWIFT/BIC</idType>
         <idNumber>SABRUAUK</idNumber>
       </id>
+      <id>
+        <uid>118154</uid>
+        <idType>Website</idType>
+        <idNumber>www.sberbank.ua</idNumber>
+      </id>
+      <id>
+        <uid>146585</uid>
+        <idType>Website</idType>
+        <idNumber>sbrf.com.ua</idNumber>
+      </id>
+      <id>
+        <uid>146843</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146845</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146691</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>29310</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SUBSIDIARY BANK SBERBANK OF RUSSIA PUBLIC JOINT-STOCK COMPANY</lastName>
+        <lastName>SUBSIDIARY BANK SBERBANK OF RUSSIA PUBLIC JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>29311</uid>
@@ -6299,7 +6828,7 @@
         <uid>29313</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SBERBANK OF RUSSIA JSC</lastName>
+        <lastName>JSC SBERBANK OF RUSSIA</lastName>
       </aka>
       <aka>
         <uid>29314</uid>
@@ -6307,11 +6836,30 @@
         <category>strong</category>
         <lastName>SBERBANK OF RUSSIA SUBSIDIARY BANK PRIVATE JOINT STOCK COMPANY</lastName>
       </aka>
+      <aka>
+        <uid>55008</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JSC SBERBANK</lastName>
+      </aka>
+      <aka>
+        <uid>55010</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AKTSIONERNE TOVARYSTVO SBERBANK</lastName>
+      </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28428</uid>
-        <address1>46, Volodymyrska street</address1>
+        <address1>46 Volodymyrska street</address1>
+        <city>Kyiv</city>
+        <postalCode>01601</postalCode>
+        <country>Ukraine</country>
+      </address>
+      <address>
+        <uid>52516</uid>
+        <address1>46 Vladimirskaya St</address1>
         <city>Kyiv</city>
         <postalCode>01601</postalCode>
         <country>Ukraine</country>
@@ -6322,21 +6870,23 @@
     <uid>18716</uid>
     <lastName>SBERBANK EUROPE AG</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>10978</uid>
-        <idType>Registration ID</idType>
+        <idType>Registration Number</idType>
         <idNumber>FN 161285 i</idNumber>
         <idCountry>Austria</idCountry>
       </id>
       <id>
-        <uid>118156</uid>
-        <idType>Website</idType>
-        <idNumber>www.sberbank.at</idNumber>
+        <uid>24696</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>ATU55795009</idNumber>
+        <idCountry>Austria</idCountry>
       </id>
       <id>
         <uid>118409</uid>
@@ -6347,6 +6897,26 @@
         <uid>118155</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>SABRATWW</idNumber>
+      </id>
+      <id>
+        <uid>118156</uid>
+        <idType>Website</idType>
+        <idNumber>www.sberbank.at</idNumber>
+      </id>
+      <id>
+        <uid>146886</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146888</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146747</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
       </id>
     </idList>
     <addressList>
@@ -6603,13 +7173,19 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18721</uid>
-    <lastName>VTB BANK (BELARUS), CJSC</lastName>
+    <lastName>VTB BANK BELARUS CLOSED JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>118825</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>SLANBY22</idNumber>
+      </id>
       <id>
         <uid>118161</uid>
         <idType>Website</idType>
@@ -6621,9 +7197,9 @@
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>118825</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>SLANBY22</idNumber>
+        <uid>146663</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6631,25 +7207,31 @@
         <uid>29333</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VTB BANK (BELARUS) CLOSED JOINT STOCK COMPANY</lastName>
+        <lastName>VTB BANK BELARUS CLOSED JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>29334</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VTB BANK (BELARUS)</lastName>
+        <lastName>VTB BANK BELARUS</lastName>
       </aka>
       <aka>
         <uid>29335</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>CJSC VTB BANK (BELARUS)</lastName>
+        <lastName>CJSC VTB BANK BELARUS</lastName>
       </aka>
       <aka>
         <uid>29336</uid>
         <type>f.k.a.</type>
         <category>strong</category>
         <lastName>CJSC SLAVNEFTEBANK</lastName>
+      </aka>
+      <aka>
+        <uid>54976</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB BANK BELARUS CJSC</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -6664,18 +7246,14 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18722</uid>
-    <lastName>VTB BANK (ARMENIA), CJSC</lastName>
+    <lastName>VTB BANK ARMENIA CLOSED JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
-      <id>
-        <uid>118162</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtb.am</idNumber>
-      </id>
       <id>
         <uid>118826</uid>
         <idType>SWIFT/BIC</idType>
@@ -6686,25 +7264,35 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>118162</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtb.am</idNumber>
+      </id>
+      <id>
+        <uid>146661</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>29338</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>VTB BANK (ARMENIA) CJSC</lastName>
-      </aka>
       <aka>
         <uid>29339</uid>
         <type>f.k.a.</type>
         <category>strong</category>
         <lastName>SAVINGS BANK OF THE REPUBLIC OF ARMENIA</lastName>
       </aka>
+      <aka>
+        <uid>54971</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB BANK ARMENIA CJSC</lastName>
+      </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28446</uid>
-        <address1>46 Ul Nalbandyan</address1>
+        <address1>46 Ul, Nalbandyan</address1>
         <city>Yerevan</city>
         <postalCode>375010</postalCode>
         <country>Armenia</country>
@@ -6713,11 +7301,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18723</uid>
-    <lastName>BANK VTB (KAZAKHSTAN), JSC</lastName>
+    <lastName>BANK VTB KAZAKHSTAN JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -6735,29 +7324,33 @@
         <idType>Website</idType>
         <idNumber>http://en.vtb-bank.kz/</idNumber>
       </id>
+      <id>
+        <uid>146665</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
-        <uid>29341</uid>
+        <uid>54967</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SUBSIDIARY JSC BANK VTB (KAZAKHSTAN)</lastName>
+        <lastName>BANK VTB KAZAKHSTAN JSC</lastName>
       </aka>
       <aka>
-        <uid>29342</uid>
+        <uid>54968</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>JOINT STOCK COMPANY VTB BANK (KAZAKHSTAN)</lastName>
+        <lastName>SUBSIDIARY JSC BANK VTB KAZAKHSTAN</lastName>
+      </aka>
+      <aka>
+        <uid>54969</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JOINT STOCK COMPANY VTB BANK KAZAKHSTAN</lastName>
       </aka>
     </akaList>
     <addressList>
-      <address>
-        <uid>28448</uid>
-        <address1>28 v Timiryazeva str.</address1>
-        <city>Almaty</city>
-        <postalCode>050040</postalCode>
-        <country>Kazakhstan</country>
-      </address>
       <address>
         <uid>28449</uid>
         <address1>28 Timiryazev Street</address1>
@@ -6769,27 +7362,33 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18724</uid>
-    <lastName>VTB BANK (AZERBAIJAN), OJSC</lastName>
+    <lastName>VTB BANK AZERBAIJAN OPEN JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
-      <id>
-        <uid>118226</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
       <id>
         <uid>118828</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>VTBAAZ22</idNumber>
       </id>
       <id>
+        <uid>118226</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
         <uid>118166</uid>
         <idType>Website</idType>
         <idNumber>http://en.vtb.az/</idNumber>
+      </id>
+      <id>
+        <uid>146662</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6797,13 +7396,13 @@
         <uid>29344</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>BANK VTB (AZERBAIJAN) OJSC</lastName>
+        <lastName>BANK VTB AZERBAIJAN OJSC</lastName>
       </aka>
       <aka>
         <uid>29345</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>JSC VTB BANK (AZERBAIJAN)</lastName>
+        <lastName>JSC VTB BANK AZERBAIJAN</lastName>
       </aka>
       <aka>
         <uid>29346</uid>
@@ -6831,17 +7430,18 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18725</uid>
-    <lastName>BANCO VTB AFRICA, S.A.</lastName>
+    <lastName>BANCO VTB AFRICA SA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>118218</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>118167</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtb.ao</idNumber>
       </id>
       <id>
         <uid>118830</uid>
@@ -6849,9 +7449,9 @@
         <idNumber>VTBLAOLU</idNumber>
       </id>
       <id>
-        <uid>118167</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtb.ao</idNumber>
+        <uid>118218</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6873,18 +7473,14 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18726</uid>
-    <lastName>VTB BANK (GEORGIA), JSC</lastName>
+    <lastName>VTB BANK GEORGIA JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
-      <id>
-        <uid>118168</uid>
-        <idType>Website</idType>
-        <idNumber>www.vtb.com.ge</idNumber>
-      </id>
       <id>
         <uid>118829</uid>
         <idType>SWIFT/BIC</idType>
@@ -6895,14 +7491,18 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>118168</uid>
+        <idType>Website</idType>
+        <idNumber>www.vtb.com.ge</idNumber>
+      </id>
+      <id>
+        <uid>146664</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>29352</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>JSC VTB BANK (GEORGIA)</lastName>
-      </aka>
       <aka>
         <uid>29353</uid>
         <type>a.k.a.</type>
@@ -6912,8 +7512,14 @@
       <aka>
         <uid>29354</uid>
         <type>f.k.a.</type>
-        <category>strong</category>
+        <category>weak</category>
         <lastName>UNITED GEORGIAN BANK</lastName>
+      </aka>
+      <aka>
+        <uid>54974</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB BANK GEORGIA JSC</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -7017,11 +7623,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18729</uid>
-    <lastName>VTB CAPITAL HOLDING CJSC</lastName>
+    <lastName>VTB CAPITAL HOLDINGS CLOSED JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -7031,14 +7638,19 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>118172</uid>
+        <idType>Website</idType>
+        <idNumber>http://vtbcapital.com</idNumber>
+      </id>
+      <id>
         <uid>118227</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
       <id>
-        <uid>118172</uid>
-        <idType>Website</idType>
-        <idNumber>http://vtbcapital.com</idNumber>
+        <uid>146668</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7052,13 +7664,25 @@
         <uid>29362</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>HOLDING VTB CAPITAL, CJSC</lastName>
+        <lastName>HOLDING VTB CAPITAL CJSC</lastName>
       </aka>
       <aka>
         <uid>29363</uid>
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>VTB CAPITAL HOLDING ZAO</lastName>
+      </aka>
+      <aka>
+        <uid>54972</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB CAPITAL HOLDING CJSC</lastName>
+      </aka>
+      <aka>
+        <uid>54973</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB CAPITAL JSC</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -7069,15 +7693,30 @@
         <postalCode>123100</postalCode>
         <country>Russia</country>
       </address>
+      <address>
+        <uid>52492</uid>
+        <address1>4th Lesnoy Pereulok 4, Capital Plaza</address1>
+        <city>Moscow</city>
+        <postalCode>125047</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52493</uid>
+        <address1>Room 410, Stolyarniy Pereulok 3, bld 34</address1>
+        <city>Moscow</city>
+        <postalCode>123022</postalCode>
+        <country>Russia</country>
+      </address>
     </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>18730</uid>
-    <lastName>VTB PENSION ADMINISTRATOR, LIMITED</lastName>
+    <lastName>VTB PENSION ADMINISTRATOR LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -7091,13 +7730,18 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>146674</uid>
+        <idType>Organization Type:</idType>
+        <idNumber>Activities of holding companies</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>29365</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VTB PENSION ADMINISTRATOR, LTD</lastName>
+        <lastName>VTB PENSION ADMINISTRATOR LTD</lastName>
       </aka>
       <aka>
         <uid>29366</uid>
@@ -7109,7 +7753,7 @@
         <uid>29367</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VTB PENSIONNY ADMINISTRATOR, OOO</lastName>
+        <lastName>VTB PENSIONNY ADMINISTRATOR OOO</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -7124,25 +7768,64 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18731</uid>
-    <lastName>VTB DC, LTD</lastName>
+    <lastName>LIMITED LIABILITY COMPANY VTB DC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24644</uid>
+        <idType>Registration Number</idType>
+        <idNumber>5117746058733</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
       <id>
         <uid>118229</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>146558</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>2011</idNumber>
+      </id>
     </idList>
+    <akaList>
+      <aka>
+        <uid>54980</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>LLC VTB DC</lastName>
+      </aka>
+      <aka>
+        <uid>54981</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB DC LIMITED</lastName>
+      </aka>
+      <aka>
+        <uid>54982</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB DC LTD</lastName>
+      </aka>
+    </akaList>
     <addressList>
       <address>
         <uid>28466</uid>
         <address1>Room 47, office XIV, 8 Brestskaya Street</address1>
         <city>Moscow</city>
         <postalCode>125047</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52496</uid>
+        <address1>d. 35 str. 1, Prospect Leningradski</address1>
+        <city>Moscow</city>
+        <postalCode>125284</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -7217,11 +7900,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18733</uid>
-    <lastName>VTB FACTORING, LTD</lastName>
+    <lastName>VTB FACTORING LTD</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -7240,6 +7924,11 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>146795</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -7252,7 +7941,7 @@
         <uid>29378</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VTB FAKTORING, OOO</lastName>
+        <lastName>VTB FAKTORING OOO</lastName>
       </aka>
       <aka>
         <uid>29380</uid>
@@ -7273,11 +7962,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18734</uid>
-    <lastName>NPF VTB PENSION FUND, JSC</lastName>
+    <lastName>NPF VTB PENSION FUND JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -7290,6 +7980,11 @@
         <uid>118210</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146667</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7322,6 +8017,12 @@
         <type>f.k.a.</type>
         <category>strong</category>
         <lastName>NEKOMMERCHESKAYA ORGANIZATSIYA NEGOSUDARSTVENNY PENSIONNY FOND VTB PENSIONNY FOND</lastName>
+      </aka>
+      <aka>
+        <uid>54970</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NPF VTB PENSION FUND JSC</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -7387,13 +8088,20 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18736</uid>
-    <lastName>VTB SPECIALIZED DEPOSITORY, CJSC</lastName>
+    <lastName>VTB SPECIALIZED DEPOSITORY CLOSED JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24796</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027739157522</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
       <id>
         <uid>118174</uid>
         <idType>Website</idType>
@@ -7404,6 +8112,16 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>146796</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>04 Jul 1996</idNumber>
+      </id>
+      <id>
+        <uid>146673</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
@@ -7411,6 +8129,12 @@
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>CJS VTB SPECIALIZED DEPOSITORY</lastName>
+      </aka>
+      <aka>
+        <uid>54975</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB SPECIALIZED DEPOSITORY CJSC</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -7425,22 +8149,34 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18737</uid>
-    <lastName>VTB REGISTRAR, CJSC</lastName>
+    <lastName>VTB REGISTRAR CLOSED JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>24700</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1045605469744</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>118222</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
       <id>
         <uid>118175</uid>
         <idType>Website</idType>
         <idNumber>www.vtbreg.ru</idNumber>
       </id>
       <id>
-        <uid>118222</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
+        <uid>146609</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044525745</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7449,6 +8185,24 @@
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>VTB REGISTRAR</lastName>
+      </aka>
+      <aka>
+        <uid>54996</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB REGISTRAR CJSC</lastName>
+      </aka>
+      <aka>
+        <uid>54997</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JOINT STOCK COMPANY VTB REGISTRAR</lastName>
+      </aka>
+      <aka>
+        <uid>54998</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JSC VTB REGISTRAR</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -7781,17 +8535,24 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18743</uid>
-    <lastName>JSC SBERBANK-AUTOMATED SYSTEM FOR TRADING</lastName>
+    <lastName>JOINT STOCK COMPANY SBERBANK AUTOMATED TRADE SYSTEM</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>10995</uid>
         <idType>Registration ID</idType>
         <idNumber>1027707000441</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24685</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7707308480</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -7804,31 +8565,58 @@
         <idType>Website</idType>
         <idNumber>www.sberbank-ast.ru</idNumber>
       </id>
+      <id>
+        <uid>146853</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146730</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146854</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>29425</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SBERBANK - AUTOMATED TRADING SYSTEM CLOSED JOINT-STOCK COMPANY</lastName>
+        <lastName>SBERBANK-AUTOMATED TRADING SYSTEM CLOSED JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>29426</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SBERBANK-AST, ZAO</lastName>
+        <lastName>SBERBANK-AST ZAO</lastName>
       </aka>
       <aka>
         <uid>29427</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>ZAKRYTOE AKTSIONERNOE OBSHCHESTVO SBERBANKAVTOMATIZIROVANNAYA SISTEMA TORGOV</lastName>
+        <lastName>ZAKRYTOE AKTSIONERNOE OBSHCHESTVO SBERBANK AVTOMATIZIROVANNAYA SISTEMA TORGOV</lastName>
       </aka>
       <aka>
         <uid>29428</uid>
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>JOINT STOCK COMPANY SBERBANK-AUTOMATED SYSTEM FOR TRADING</lastName>
+      </aka>
+      <aka>
+        <uid>55031</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK-AST JSC</lastName>
+      </aka>
+      <aka>
+        <uid>55033</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JSC SBERBANK-AUTOMATED SYSTEM FOR TRADING</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -7839,15 +8627,23 @@
         <postalCode>127055</postalCode>
         <country>Russia</country>
       </address>
+      <address>
+        <uid>52524</uid>
+        <address1>12 B. Savvinsky Lane, building 9, floor 1, office 1, room 1</address1>
+        <city>Moscow</city>
+        <postalCode>119435</postalCode>
+        <country>Russia</country>
+      </address>
     </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>18744</uid>
-    <lastName>SBERBANK FINANCE COMPANY LIMITED LIABILITY COMPANY</lastName>
+    <lastName>LIMITED LIABILITY COMPANY SBERBANK FINANCIAL COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -7857,9 +8653,30 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>24687</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7736617998</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
         <uid>118433</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146866</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146734</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146865</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -7873,7 +8690,7 @@
         <uid>29431</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SBERBANK-FINANS, OOO</lastName>
+        <lastName>SBERBANK-FINANS OOO</lastName>
       </aka>
       <aka>
         <uid>29432</uid>
@@ -7882,16 +8699,28 @@
         <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU FINANSOVAYA KOMPANIYA SBERBANKA</lastName>
       </aka>
       <aka>
-        <uid>29433</uid>
+        <uid>55036</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>LIMITED LIABILITY COMPANY SBERBANK FINANCIAL COMPANY</lastName>
+        <lastName>SBERBANK FINANCE LLC</lastName>
+      </aka>
+      <aka>
+        <uid>55037</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK-FINANCE</lastName>
+      </aka>
+      <aka>
+        <uid>55038</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK FINANCE COMPANY LIMITED LIABILITY COMPANY</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28493</uid>
-        <address1>d.29/16 per. Sivtsev Vrazhek</address1>
+        <address1>d. 29/16 per. Sivtsev Vrazhek</address1>
         <city>Moscow</city>
         <postalCode>119002</postalCode>
         <country>Russia</country>
@@ -8104,17 +8933,24 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18749</uid>
-    <lastName>NON-STATE PENSION FUND OF SBERBANK</lastName>
+    <lastName>JOINT STOCK COMPANY SBERBANK PRIVATE PENSION FUND</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>11000</uid>
         <idType>Registration ID</idType>
         <idNumber>1147799009160</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24765</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7725352740</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -8126,6 +8962,21 @@
         <uid>118181</uid>
         <idType>Website</idType>
         <idNumber>www.npfsberbanka.ru</idNumber>
+      </id>
+      <id>
+        <uid>146732</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146857</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146858</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8139,7 +8990,7 @@
         <uid>29453</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>NPF SBERBANKA, ZAO</lastName>
+        <lastName>NPF SBERBANKA ZAO</lastName>
       </aka>
       <aka>
         <uid>29454</uid>
@@ -8151,13 +9002,19 @@
         <uid>29455</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SBERBANK PRIVATE PENSION FUND CLOSED JOINT-STOCK COMPANY</lastName>
+        <lastName>SBERBANK PRIVATE PENSION FUND CLOSED JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>29456</uid>
         <type>f.k.a.</type>
         <category>strong</category>
         <lastName>NEGOSUDARSTVENNY PENSIONNY FOND SBERBANKA</lastName>
+      </aka>
+      <aka>
+        <uid>55120</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK PPF JSC</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -8172,11 +9029,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18750</uid>
-    <lastName>SBERBANK INSURANCE COMPANY LTD</lastName>
+    <lastName>INSURANCE COMPANY SBERBANK INSURANCE LIMITED LIABILITY COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -8186,9 +9044,30 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>24710</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7706810747</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
         <uid>118422</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146707</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146839</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146840</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8214,13 +9093,31 @@
         <uid>29461</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SK SBERBANK STRAHOVANIE, LLC</lastName>
+        <lastName>SK SBERBANK STRAHOVANIE LLC</lastName>
       </aka>
       <aka>
         <uid>29462</uid>
         <type>f.k.a.</type>
         <category>strong</category>
         <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU STRAKHOVAYA KOMPANIYA SBERBANK OBSHCHEE STRAKHOVANIE</lastName>
+      </aka>
+      <aka>
+        <uid>55056</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK INSURANCE IC LLC</lastName>
+      </aka>
+      <aka>
+        <uid>55057</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>STRAKHOVAYA KOMPANIYA SBERBANK STRAKHOVANIE</lastName>
+      </aka>
+      <aka>
+        <uid>55058</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK INSURANCE COMPANY LTD</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -8237,15 +9134,23 @@
         <city>Moscow</city>
         <country>Russia</country>
       </address>
+      <address>
+        <uid>52543</uid>
+        <address1>3 Poklonnaya Street, building 1, floor 1, office 3</address1>
+        <city>Moscow</city>
+        <postalCode>121170</postalCode>
+        <country>Russia</country>
+      </address>
     </addressList>
   </sdnEntry>
   <sdnEntry>
     <uid>18751</uid>
-    <lastName>SBERBANK INSURANCE BROKER LIMITED LIABILITY COMPANY</lastName>
+    <lastName>LIMITED LIABILITY COMPANY SBERBANK INSURANCE BROKER</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -8255,9 +9160,30 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>24707</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7706810730</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
         <uid>118427</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>146867</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146868</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146735</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8271,7 +9197,7 @@
         <uid>29465</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>STRAKHOVOI BROKER SBERBANKA, OOO</lastName>
+        <lastName>SBERBANK INSURANCE BROKER LLC</lastName>
       </aka>
       <aka>
         <uid>29466</uid>
@@ -8292,6 +9218,13 @@
         <address1>42 Bolshaya Yakimanka St., b. 1-2, office 206</address1>
         <city>Moscow</city>
         <postalCode>119049</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52541</uid>
+        <address1>1 Vasilisy Kozhinoy Street, building 1, floor 11, room 30</address1>
+        <city>Moscow</city>
+        <postalCode>121096</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -8349,11 +9282,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18753</uid>
-    <lastName>SB SECURITIES S.A.</lastName>
+    <lastName>SB SECURITIES SA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -8367,6 +9301,21 @@
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>146884</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146885</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146746</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
     </idList>
     <addressList>
       <address>
@@ -8374,6 +9323,12 @@
         <address1>Boulevard Konrad Adenauer 2</address1>
         <city>Luxembourg</city>
         <postalCode>1115</postalCode>
+        <country>Luxembourg</country>
+      </address>
+      <address>
+        <uid>52532</uid>
+        <address1>14, rue Edward Steichen</address1>
+        <postalCode>L-2540</postalCode>
         <country>Luxembourg</country>
       </address>
     </addressList>
@@ -9700,11 +10655,12 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18784</uid>
-    <lastName>JOINT-STOCK COMMERCIAL BANK NOVIKOMBANK</lastName>
+    <lastName>JOINT STOCK COMMERCIAL BANK NOVIKOMBANK</lastName>
     <sdnType>Entity</sdnType>
     <remarks>All offices worldwide. For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -9721,11 +10677,6 @@
         <uid>11064</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7706196340</idNumber>
-      </id>
-      <id>
-        <uid>118269</uid>
-        <idType>Email Address</idType>
-        <idNumber>office@novikom.ru</idNumber>
       </id>
       <id>
         <uid>118270</uid>
@@ -9747,14 +10698,13 @@
         <idType>BIK (RU)</idType>
         <idNumber>044583162</idNumber>
       </id>
+      <id>
+        <uid>146545</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1993</idNumber>
+      </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>29585</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>JSCB NOVIKOMBANK</lastName>
-      </aka>
       <aka>
         <uid>29586</uid>
         <type>a.k.a.</type>
@@ -9765,33 +10715,31 @@
         <uid>29587</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>NOVIKOMBANK, AO AKB</lastName>
+        <lastName>AO AKB NOVIKOMBANK</lastName>
       </aka>
       <aka>
-        <uid>29588</uid>
+        <uid>54935</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JOINT STOCK COMMERCIAL BANK NOVIKOMBANK JOINT STOCK COMPANY</lastName>
+      </aka>
+      <aka>
+        <uid>54936</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>NOVIKOMBANK JCSB</lastName>
+      </aka>
+      <aka>
+        <uid>54938</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>AKTSIONERNY KOMMERCHESKI BANK NOVIKOMBANK ZAKRYTOE AKTSIONERNOE OBSHCHESTVO</lastName>
+        <lastName>NOVIKOMBANK AO</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
-        <uid>28565</uid>
-        <address1>building 2, 4/4 Yakimanskaya naberezhnaya</address1>
-        <city>Moscow</city>
-        <postalCode>119180</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>28566</uid>
-        <address1>d. 4/4 korp., 2 nab., Yakimanskaya</address1>
-        <city>Moscow</city>
-        <postalCode>119180</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>28567</uid>
-        <address1>4/4 Yakimanskaya emb., bld 2</address1>
+        <uid>52481</uid>
+        <address1>bld.1,Polyanka Bolshaya str. 50/1</address1>
         <city>Moscow</city>
         <postalCode>119180</postalCode>
         <country>Russia</country>
@@ -15274,65 +16222,107 @@
     <uid>20002</uid>
     <lastName>BM BANK PUBLIC JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
-        <uid>120487</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>BMLTUAUK</idNumber>
+        <uid>24642</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027700159497</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>120488</uid>
-        <idType>Email Address</idType>
-        <idNumber>bank@bmbank.com.ua</idNumber>
+        <uid>24643</uid>
+        <idType>Government Gazette Number</idType>
+        <idNumber>29292940</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>120487</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>MOSWRUMM</idNumber>
       </id>
       <id>
         <uid>120489</uid>
         <idType>Website</idType>
-        <idNumber>http://www.bmbank.com.ua</idNumber>
+        <idNumber>www.bm.ru</idNumber>
       </id>
       <id>
         <uid>120850</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
       </id>
+      <id>
+        <uid>146554</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044525219</idNumber>
+      </id>
+      <id>
+        <uid>146657</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
-        <uid>31574</uid>
+        <uid>54959</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>BMBANK JSC</lastName>
+        <lastName>BM BANK JSC</lastName>
       </aka>
       <aka>
-        <uid>31575</uid>
+        <uid>54960</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BM BANK AO</lastName>
+      </aka>
+      <aka>
+        <uid>54961</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AKTSIONERNOE OBSHCHESTVO BM BANK</lastName>
+      </aka>
+      <aka>
+        <uid>54962</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PAO BM BANK</lastName>
+      </aka>
+      <aka>
+        <uid>54963</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>BM BANK LLC</lastName>
+        <lastName>BANK MOSKVY PAO</lastName>
       </aka>
       <aka>
-        <uid>31576</uid>
-        <type>a.k.a.</type>
-        <category>weak</category>
-        <lastName>LLC BM BANK</lastName>
-      </aka>
-      <aka>
-        <uid>31578</uid>
-        <type>a.k.a.</type>
+        <uid>54964</uid>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>PUBLICHNOYE JOINT-STOCK COMPANY 'BM BANK'</lastName>
+        <lastName>BANK OF MOSCOW</lastName>
+      </aka>
+      <aka>
+        <uid>54965</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY OTKRYTOE AKTSIONERNOE OBSCHCHESTVO</lastName>
+      </aka>
+      <aka>
+        <uid>54966</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW OPEN JOINT STOCK COMPANY</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
-        <uid>30296</uid>
-        <address1>37/122 T. Shevchenko bld</address1>
-        <city>Kyiv</city>
-        <postalCode>01032</postalCode>
-        <country>Ukraine</country>
+        <uid>52491</uid>
+        <address1>Bld 3 8/15, Rozhdestvenka St.</address1>
+        <city>Moscow</city>
+        <postalCode>107996</postalCode>
+        <country>Russia</country>
       </address>
     </addressList>
   </sdnEntry>
@@ -27034,6 +28024,1405 @@
         <city>Xiamen</city>
         <postalCode>361008</postalCode>
         <country>China</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34542</uid>
+    <lastName>LIMITED LIABILITY COMPANY MARKET FUND ADMINISTRATION</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24179</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1107746400827</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24180</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7736618039</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146880</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146719</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146879</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54102</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK FUND ADMINISTRATION LIMITED LIABILITY COMPANY</lastName>
+      </aka>
+      <aka>
+        <uid>54103</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>MARKET FA LLC</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51776</uid>
+        <address1>79 V. Lenina St, room 8</address1>
+        <city>Derbent</city>
+        <stateOrProvince>Dagestan</stateOrProvince>
+        <postalCode>368602</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34556</uid>
+    <lastName>PUBLIC JOINT STOCK COMPANY ROSTELECOM</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24196</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027700198767</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24197</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7707049388</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24198</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>2534001D752JPNM0H170</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146819</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>145990</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1993</idNumber>
+      </id>
+      <id>
+        <uid>146675</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146676</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146820</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54107</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ROSTELEKOM PJSC</lastName>
+      </aka>
+      <aka>
+        <uid>54108</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PJSC ROSTELECOM</lastName>
+      </aka>
+      <aka>
+        <uid>54109</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PUBLICHNOE AKTSIONERNOY OBSHCHESTVO ROSTELEKOM</lastName>
+      </aka>
+      <aka>
+        <uid>54110</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PUBLICHNOE AKTSIONERNOE OBSHCHESTVO ROSTELEKOM</lastName>
+      </aka>
+      <aka>
+        <uid>54111</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ROSTELECOM</lastName>
+      </aka>
+      <aka>
+        <uid>54112</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>PAO MEZHDUGORODNOI I MEZHDUNARODNOI ELEKTRICHESKOI SVYAZI ROSTELEKOM</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51785</uid>
+        <address1>P.O. Box: 14, 1, Tverskaya-Yamskaya Street</address1>
+        <city>Moscow</city>
+        <postalCode>125047</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>51787</uid>
+        <address1>30 (building 1), Goncharnaya st.</address1>
+        <city>Moscow</city>
+        <postalCode>115172</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>51788</uid>
+        <address1>d. 14 litera A, naberezhnaya Sinopskaya</address1>
+        <city>St. Petersburg</city>
+        <postalCode>191167</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34578</uid>
+    <lastName>PUBLIC JOINT STOCK COMPANY RUSHYDRO</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24290</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>2534005TJN9DX4YWVT97</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24292</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1042401810494</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24293</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>2460066195</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146057</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>2004</idNumber>
+      </id>
+      <id>
+        <uid>146710</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146823</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146824</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146682</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54302</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PUBLIC JOINT-STOCK COMPANY FEDERAL HYDRO-GENERATING COMPANY - RUSHYDRO</lastName>
+      </aka>
+      <aka>
+        <uid>54303</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>FEDERAL HYDRO-GENERATING COMPANY RUSHYDRO PAO</lastName>
+      </aka>
+      <aka>
+        <uid>54304</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PUBLICHNOE AKTSIONERNOE OBSCHESTVO FEDERALNAYA GYDROGENERIRUYUSCHAYA KOMPANIYA-RUSGYDRO</lastName>
+      </aka>
+      <aka>
+        <uid>54305</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PUBLICHNOE AKTSIONERNOE OBSHCHESTVO FEDERALNAYA GIDROGENERIRUYUSHCHAYA KOMPANIYA - RUSGIDRO</lastName>
+      </aka>
+      <aka>
+        <uid>54306</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>RUSGIDRO, PAO</lastName>
+      </aka>
+      <aka>
+        <uid>54309</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>FEDERAL HYDRO-GENERATING COMPANY RUSHYDRO OAO</lastName>
+      </aka>
+      <aka>
+        <uid>54310</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>GIDROOGK OAO</lastName>
+      </aka>
+      <aka>
+        <uid>54312</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>OTKRYTOE AKTSIONERNOE OBSCHESTVO FEDERALNAYA GYDROGENERIRUYUSCHAYA KOMPANIYA-RUSGYDRO</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51904</uid>
+        <address1>51, Republic Street</address1>
+        <city>Kedrovyy</city>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>51907</uid>
+        <address1>d. 43 k. 1, ul. Dubrovinskogo</address1>
+        <city>Krasnoyarsk</city>
+        <stateOrProvince>Krasnoyarski Kr.</stateOrProvince>
+        <postalCode>660017</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>51908</uid>
+        <address1>23 Pravda St</address1>
+        <city>Moscow</city>
+        <postalCode>127015</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>51909</uid>
+        <address1>Mail Box No. 54</address1>
+        <city>Moscow</city>
+        <postalCode>127137</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34597</uid>
+    <lastName>LIMITED LIABILITY COMPANY YOOMONEY</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24207</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1077746365113</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24208</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7736554890</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146727</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146892</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146894</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54170</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>YOOMONEY LLC</lastName>
+      </aka>
+      <aka>
+        <uid>54171</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>YOOMONEY LIMITED LIABILITY COMPANY</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51810</uid>
+        <address1>82 bld. 2 Sadovnicheskaya St</address1>
+        <city>Moscow</city>
+        <postalCode>115035</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34616</uid>
+    <lastName>ARIMERO HOLDING LIMITED</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24216</uid>
+        <idType>Registration Number</idType>
+        <idNumber>C146742</idNumber>
+        <idCountry>Cyprus</idCountry>
+      </id>
+      <id>
+        <uid>146715</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146859</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146860</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <addressList>
+      <address>
+        <uid>51825</uid>
+        <address1>Agiou Andreou, 332, Partician Chambers</address1>
+        <city>Limassol</city>
+        <postalCode>3035</postalCode>
+        <country>Cyprus</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34617</uid>
+    <lastName>TEKHNOLOGII KREDITOVANIYA LIMITED LIABILITY COMPANY</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24217</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1187746782519</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24218</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7736317458</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146724</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146896</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146897</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54188</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>OOO TEHNOLOGII KREDITOVANYA</lastName>
+      </aka>
+      <aka>
+        <uid>54189</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>OOO LENDING TECHNOLOGIES</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51827</uid>
+        <address1>Room 1.104, 23/1 Vavilova St</address1>
+        <city>Moscow</city>
+        <postalCode>117312</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34636</uid>
+    <lastName>VYDAYUSHCHIESYA KREDITY MICROCREDIT COMPANY LIMITED LIABILITY COMPANY</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24219</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1177746493473</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24220</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7725374454</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146722</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146901</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146902</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54207</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MCC VYDAYUSHIESYA KREDITY LLC</lastName>
+      </aka>
+      <aka>
+        <uid>54208</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>MIKROKREDITNAYA KOMPANIYA VYDAYUSHCHIESYA KREDITY</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51844</uid>
+        <address1>32 Kutuzovsky Avenue, building 1, floor 6, room 6.?.01</address1>
+        <city>Moscow</city>
+        <postalCode>121170</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34637</uid>
+    <lastName>JOINT STOCK COMPANY RASCHETNIYE RESHENIYA</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24221</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1107746390949</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24222</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7727718421</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146718</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146877</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146878</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54210</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JSC RASCHETNIYE RESHENIYA</lastName>
+      </aka>
+      <aka>
+        <uid>54211</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>JSC SETTLEMENT SOLUTIONS</lastName>
+      </aka>
+      <aka>
+        <uid>54212</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>LIMITED LIABILITY COMPANY NON-BANK CREDIT ORGANIZATION SETTLEMENT SOLUTIONS</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51846</uid>
+        <address1>Room XLIV, 11th floor, 118/1 Varshavskoye Shosse</address1>
+        <city>Moscow</city>
+        <postalCode>117587</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34638</uid>
+    <lastName>LIMITED LIABILITY COMPANY SBERBANK FACTORING</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24223</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1117847260794</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24224</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7802754982</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146729</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146889</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146890</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54214</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK FACTORING LLC</lastName>
+      </aka>
+      <aka>
+        <uid>54215</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>KORUS DISTRIBUTION LIMITED</lastName>
+      </aka>
+      <aka>
+        <uid>54216</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK FAKTORING</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51848</uid>
+        <address1>Room I, 31a/bld. 1 Leningradsky Ave</address1>
+        <city>Moscow</city>
+        <postalCode>125284</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34639</uid>
+    <lastName>LIMITED LIABILITY COMPANY SBERBANK CIB HOLDING</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24225</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027700057428</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24226</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7709297379</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146883</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146887</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146721</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54218</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK CIB HOLDING LLC</lastName>
+      </aka>
+      <aka>
+        <uid>54219</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SB KIB KHOLDING</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51850</uid>
+        <address1>19 Vavilova St</address1>
+        <city>Moscow</city>
+        <postalCode>117312</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34641</uid>
+    <lastName>INSURANCE COMPANY SBERBANK LIFE INSURANCE LIMITED LIABILITY COMPANY</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24229</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1037700051146</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24230</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7744002123</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146875</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146876</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146717</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54224</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SBERBANK LIFE INSURANCE IC LLC</lastName>
+      </aka>
+      <aka>
+        <uid>54225</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>LIMITED LIABILITY COMPANY INSURANCE COMPANY SBERBANK INSURANCE</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51854</uid>
+        <address1>3 Poklonnaya St., Building 1</address1>
+        <city>Moscow</city>
+        <postalCode>121170</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34642</uid>
+    <lastName>LIMITED LIABILITY COMPANY PROMISING INVESTMENTS</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24231</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1105032001458</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24232</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>5032218680</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146720</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146899</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146900</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54227</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>PROMISING INVESTMENTS LLC</lastName>
+      </aka>
+      <aka>
+        <uid>54228</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>PERSPECTIVE INVESTMENTS LIMITED LIABILITY COMPANY</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51856</uid>
+        <address1>46 Molodezhnaya St., Office 335</address1>
+        <city>Odintsovo</city>
+        <stateOrProvince>Moscow Region</stateOrProvince>
+        <postalCode>143007</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34643</uid>
+    <lastName>IKS JOINT STOCK COMPANY</lastName>
+    <sdnType>Entity</sdnType>
+    <remarks>(Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24233</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1025203020424</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24234</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>5263023906</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146716</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146862</uid>
+        <idType>Listing Date (EO 14024 Directive 2):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146863</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54230</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>IKS JSC</lastName>
+      </aka>
+      <aka>
+        <uid>54231</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AKTSIONERNOE OBSHCHESTVO SPETSIALIZIROVANNYI ZASTROISHCHIK IKS</lastName>
+      </aka>
+      <aka>
+        <uid>54232</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>AO SZ IKS</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51858</uid>
+        <address1>33 Oktyabrskaya St</address1>
+        <city>Nizhny Novgorod</city>
+        <postalCode>603005</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34644</uid>
+    <lastName>PUBLIC JOINT STOCK COMPANY ALROSA</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24235</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1021400967092</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24236</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>1433000147</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24237</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>894500DKUWVBYZLLE651</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146683</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146827</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146711</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146832</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54235</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AK ALROSA PAO</lastName>
+      </aka>
+      <aka>
+        <uid>54236</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PJSC ALROSA</lastName>
+      </aka>
+      <aka>
+        <uid>54237</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ALROSA GROUP</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51860</uid>
+        <address1>24 Ozerkovskaya Naberezhnaya</address1>
+        <city>Moscow</city>
+        <postalCode>115184</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>51861</uid>
+        <address1>6 ulitsa Lenina</address1>
+        <city>Mirny</city>
+        <stateOrProvince>Republic of Sakha (Yakutia)</stateOrProvince>
+        <postalCode>678174</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34682</uid>
+    <lastName>JOINT STOCK COMPANY ALFA-BANK</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24318</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027700067328</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24319</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7728168971</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>147247</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>147128</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044525593</idNumber>
+      </id>
+      <id>
+        <uid>147250</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>147248</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146076</uid>
+        <idType>Website</idType>
+        <idNumber>alfabank.ru</idNumber>
+      </id>
+      <id>
+        <uid>146077</uid>
+        <idType>Website</idType>
+        <idNumber>alfabank.com</idNumber>
+      </id>
+      <id>
+        <uid>146078</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1990</idNumber>
+      </id>
+      <id>
+        <uid>146079</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>ALFARUMM</idNumber>
+      </id>
+      <id>
+        <uid>147249</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>147116</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54353</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>ALFA-BANK</lastName>
+      </aka>
+      <aka>
+        <uid>54354</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JSC ALFA-BANK</lastName>
+      </aka>
+      <aka>
+        <uid>54359</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AO ALFA-BANK</lastName>
+      </aka>
+      <aka>
+        <uid>54360</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>OPEN JOINT STOCK COMPANY ALFA-BANK</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>51939</uid>
+        <address1>Kalanchevskaya Street 27</address1>
+        <city>Moscow</city>
+        <postalCode>107078</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>51940</uid>
+        <address1>27, Kalanchyovskaya Ul.</address1>
+        <city>Moscow</city>
+        <postalCode>107078</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34736</uid>
+    <lastName>OPEN JOINT STOCK COMPANY RUSSIAN RAILWAYS</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24397</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1037739877295</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24398</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7708503727</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24399</uid>
+        <idType>Legal Entity Number</idType>
+        <idNumber>253400XX5U3XALBF5728</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146686</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146837</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146838</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146167</uid>
+        <idType>Website</idType>
+        <idNumber>www.rzd.ru</idNumber>
+      </id>
+      <id>
+        <uid>146168</uid>
+        <idType>Target Type</idType>
+        <idNumber>Government Entity</idNumber>
+      </id>
+      <id>
+        <uid>146169</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>18 Sep 2003</idNumber>
+      </id>
+      <id>
+        <uid>146713</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54467</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JSC RUSSIAN RAILWAYS</lastName>
+      </aka>
+      <aka>
+        <uid>54468</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>RUSSIAN RAILWAYS JSC</lastName>
+      </aka>
+      <aka>
+        <uid>54469</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>RUSSIAN RAILWAYS</lastName>
+      </aka>
+      <aka>
+        <uid>54470</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>JSC RZD</lastName>
+      </aka>
+      <aka>
+        <uid>54471</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>RZHD</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>52044</uid>
+        <address1>Novaya Basmannaya Street, 2</address1>
+        <city>Moscow</city>
+        <postalCode>107174</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>34741</uid>
+    <lastName>JOINT STOCK COMPANY SOVCOMFLOT</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24409</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7702060116</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24410</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1027739028712</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>146684</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>146174</uid>
+        <idType>Website</idType>
+        <idNumber>sovcomflot.ru</idNumber>
+      </id>
+      <id>
+        <uid>146175</uid>
+        <idType>Website</idType>
+        <idNumber>www.scf-group.com</idNumber>
+      </id>
+      <id>
+        <uid>146834</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>146835</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>146712</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>54480</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PAO SOVCOMFLOT</lastName>
+      </aka>
+      <aka>
+        <uid>54481</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PUBLICHNOE AKTSIONERNOE OBSCHESTVO SOVREMENNYY KOMMERCHESKIY FLOT</lastName>
+      </aka>
+      <aka>
+        <uid>54812</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JSC SOVCOMFLOT</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>52059</uid>
+        <address1>Ul. Gasheka D. 6</address1>
+        <city>Moscow</city>
+        <postalCode>125047</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>52060</uid>
+        <address1>Nab. Reki Moiki d.3, Lit. A</address1>
+        <city>Saint Petersburg</city>
+        <postalCode>191186</postalCode>
+        <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>35163</uid>
+    <lastName>CREDIT BANK OF MOSCOW PUBLIC JOINT STOCK COMPANY</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>RUSSIA-EO14024</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>24904</uid>
+        <idType>Registration ID</idType>
+        <idNumber>1027739555282</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24905</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7734202860</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>147251</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>147252</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>147253</uid>
+        <idType>Listing Date (EO 14024 Directive 3):</idType>
+        <idNumber>24 Feb 2022</idNumber>
+      </id>
+      <id>
+        <uid>147254</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>147152</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
+      <id>
+        <uid>147153</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1992</idNumber>
+      </id>
+      <id>
+        <uid>147142</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>MCRBRUMM</idNumber>
+      </id>
+      <id>
+        <uid>147145</uid>
+        <idType>BIK (RU)</idType>
+        <idNumber>044525659</idNumber>
+      </id>
+      <id>
+        <uid>147147</uid>
+        <idType>Website</idType>
+        <idNumber>www.mkb.ru</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>55284</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CREDIT BANK OF MOSCOW PJSC</lastName>
+      </aka>
+      <aka>
+        <uid>55285</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>CREDIT BANK OF MOSCOW</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>52808</uid>
+        <address1>Lukov pereulok 2, bldg. 1</address1>
+        <city>Moscow</city>
+        <postalCode>107045</postalCode>
+        <country>Russia</country>
       </address>
     </addressList>
   </sdnEntry>

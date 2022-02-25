@@ -1,29 +1,41 @@
 ---
 entity_type: organization
 names:
-- VTB FACTORING LTD
-- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB FAKTORING"
-- " VTB FAKTORING OOO"
-- " VTB FACTORING LIMITED"
+- VTB CAPITAL HOLDINGS CLOSED JOINT STOCK COMPANY
+- " KHOLDING VTB KAPITAL ZAKRYTOE AKTSIONERNOE OBSHCHESTVO"
+- " HOLDING VTB CAPITAL CJSC"
+- " VTB CAPITAL HOLDING ZAO"
+- " VTB CAPITAL HOLDING CJSC"
+- " VTB CAPITAL JSC"
 source: us-govt-data
-ref_number: '18733'
+ref_number: '18729'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
 address:
-- street: 'd. 52 str. 1 nab.Kosmodamianskaya   '
+- street: '12 Presnenskaya nab.   '
   city: Moscow
   state: 
   country: Russia
-  zip: '115054'
+  zip: '123100'
+- street: '4th Lesnoy Pereulok 4, Capital Plaza   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '125047'
+- street: 'Room 410, Stolyarniy Pereulok 3, bld 34   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '123022'
 documents:
 - type: Registration ID
-  number: '5087746611145'
+  number: '1097746344596'
   country: Russia
 - type: Website
-  number: www.vtbf.ru
+  number: http://vtbcapital.com
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
