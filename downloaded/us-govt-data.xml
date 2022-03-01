@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>02/24/2022</Publish_Date>
+    <Publish_Date>02/28/2022</Publish_Date>
     <Record_Count>462</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -6527,7 +6527,7 @@
     <uid>18711</uid>
     <lastName>OOO PS YANDEX.MONEY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -6933,7 +6933,7 @@
     <uid>18717</uid>
     <lastName>SBERBANK (SWITZERLAND) AG</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -6992,7 +6992,7 @@
     <uid>18718</uid>
     <lastName>SB INTERNATIONAL SARL</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -7022,7 +7022,7 @@
     <uid>18719</uid>
     <lastName>BANK VTB 24 PUBLIC JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -7095,7 +7095,7 @@
     <uid>18720</uid>
     <lastName>PJSC VTB BANK (KIEV)</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -7536,7 +7536,7 @@
     <uid>18727</uid>
     <lastName>VTB BANK (AUSTRIA) AG</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -7576,7 +7576,7 @@
     <uid>18728</uid>
     <lastName>VTB BANK JSC BELGRADE</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -7834,7 +7834,7 @@
     <uid>18732</uid>
     <lastName>VTB INSURANCE LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8039,7 +8039,7 @@
     <uid>18735</uid>
     <lastName>VTB REAL ESTATE LIMITED LIABILITY COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8103,16 +8103,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118174</uid>
-        <idType>Website</idType>
-        <idNumber>www.odk.ru</idNumber>
-      </id>
-      <id>
-        <uid>118230</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>146796</uid>
         <idType>Organization Established Date</idType>
         <idNumber>04 Jul 1996</idNumber>
@@ -8121,6 +8111,16 @@
         <uid>146673</uid>
         <idType>Target Type</idType>
         <idNumber>Financial Institution</idNumber>
+      </id>
+      <id>
+        <uid>118174</uid>
+        <idType>Website</idType>
+        <idNumber>www.odk.ru</idNumber>
+      </id>
+      <id>
+        <uid>118230</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -8219,7 +8219,7 @@
     <uid>18738</uid>
     <lastName>MULTICARTA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8275,7 +8275,7 @@
     <uid>18739</uid>
     <lastName>VTB LEASING OPEN JOINT-STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8344,7 +8344,7 @@
     <uid>18740</uid>
     <lastName>JOINT STOCK COMPANY HALS-DEVELOPMENT</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8418,7 +8418,7 @@
     <uid>18741</uid>
     <lastName>AUCTION LIMITED LIABILITY COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8480,7 +8480,7 @@
     <uid>18742</uid>
     <lastName>RUST CLOSED JOINT-STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8731,7 +8731,7 @@
     <uid>18745</uid>
     <lastName>LLC SOVREMENNYE TECHNOLOGII</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8782,7 +8782,7 @@
     <uid>18746</uid>
     <lastName>SBERBANK TECHNOLOGIES CLOSED JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8839,7 +8839,7 @@
     <uid>18747</uid>
     <lastName>BYLINNYE BOGATYRI LIMITED LIABILITY COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -8878,7 +8878,7 @@
     <uid>18748</uid>
     <lastName>ACTIVEBUSINESSCOLLECTION LIMITED LIABILITY COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -9233,7 +9233,7 @@
     <uid>18752</uid>
     <lastName>KORUS CONSULTING CIS LIMITED LIABILITY COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: SBERBANK OF RUSSIA)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12380,7 +12380,7 @@
     <uid>19468</uid>
     <lastName>GAZPROM DOBYCHA YAMBURG,OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12445,7 +12445,7 @@
     <uid>19469</uid>
     <lastName>GAZPROM TRANSGAZ YUGORSK, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12516,7 +12516,7 @@
     <uid>19470</uid>
     <lastName>NIIGAZEKONOMIKA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12580,7 +12580,7 @@
     <uid>19471</uid>
     <lastName>GAZPROM TRANSGAZ SANKT-PETERBURG, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12644,7 +12644,7 @@
     <uid>19472</uid>
     <lastName>GAZPROM TRANSGAZ STAVROPOL, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12709,7 +12709,7 @@
     <uid>19542</uid>
     <lastName>GAZPROM RUSSKAYA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12769,7 +12769,7 @@
     <uid>19543</uid>
     <lastName>GAZPROM ENERGO, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12833,7 +12833,7 @@
     <uid>19544</uid>
     <lastName>GAZPROM DOBYCHA NADYM, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12898,7 +12898,7 @@
     <uid>19545</uid>
     <lastName>GAZPROM SVYAZ, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12962,7 +12962,7 @@
     <uid>19546</uid>
     <lastName>GAZPROM MEZHREGIONGAZ, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13026,7 +13026,7 @@
     <uid>19631</uid>
     <lastName>GAZPROM DOBYCHA KUZNETSK, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13091,7 +13091,7 @@
     <uid>19632</uid>
     <lastName>GAZPROM TRANSGAZ UKHTA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13156,7 +13156,7 @@
     <uid>19633</uid>
     <lastName>GAZPROM TRANSGAZ KAZAN, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13221,7 +13221,7 @@
     <uid>19634</uid>
     <lastName>GAZPROM TRANSGAZ SARATOV, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13286,7 +13286,7 @@
     <uid>19635</uid>
     <lastName>GAZPROM SOTSINVEST, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13356,7 +13356,7 @@
     <uid>19636</uid>
     <lastName>GAZPROM DOBYCHA NOYABRSK, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13421,7 +13421,7 @@
     <uid>19637</uid>
     <lastName>GAZPROM GAZOBEZOPASNOST, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13485,7 +13485,7 @@
     <uid>19638</uid>
     <lastName>GAZPROM FLOT, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13555,7 +13555,7 @@
     <uid>19639</uid>
     <lastName>GAZ-OIL, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13625,7 +13625,7 @@
     <uid>19640</uid>
     <lastName>GAZPROM INVEST, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13689,7 +13689,7 @@
     <uid>19641</uid>
     <lastName>GAZPROM TSENTRREMONT, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13754,7 +13754,7 @@
     <uid>19642</uid>
     <lastName>GAZPROM DOBYCHA KRASNODAR, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13819,7 +13819,7 @@
     <uid>19643</uid>
     <lastName>GAZPROM TRANSGAZ KRASNODAR, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13884,7 +13884,7 @@
     <uid>19644</uid>
     <lastName>GAZPROM PERSONAL, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -13943,7 +13943,7 @@
     <uid>19645</uid>
     <lastName>GAZPROM PERERABOTKA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14008,7 +14008,7 @@
     <uid>19646</uid>
     <lastName>GAZPROM TRANSGAZ VOLGOGRAD, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14073,7 +14073,7 @@
     <uid>19647</uid>
     <lastName>GAZPROM TRANSGAZ TOMSK, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14138,7 +14138,7 @@
     <uid>19648</uid>
     <lastName>GAZPROM TRANSGAZ SURGUT, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14203,7 +14203,7 @@
     <uid>19649</uid>
     <lastName>GAZPROM TRANSGAZ NIZHNI NOVGOROD, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14268,7 +14268,7 @@
     <uid>19650</uid>
     <lastName>GAZPROM GAZNADZOR, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14332,7 +14332,7 @@
     <uid>19652</uid>
     <lastName>GAZPROM KOMPLEKTATSIYA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14396,7 +14396,7 @@
     <uid>19653</uid>
     <lastName>GAZPROM VNIIGAZ, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14461,7 +14461,7 @@
     <uid>19654</uid>
     <lastName>GAZPROM TELEKOM, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14531,7 +14531,7 @@
     <uid>19670</uid>
     <lastName>GAZPROM INFORM, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14601,7 +14601,7 @@
     <uid>19672</uid>
     <lastName>GAZPROM DOBYCHA IRKUTSK, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14672,7 +14672,7 @@
     <uid>19673</uid>
     <lastName>GAZMASH, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14742,7 +14742,7 @@
     <uid>19674</uid>
     <lastName>GAZPROM TRANSGAZ SAMARA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14807,7 +14807,7 @@
     <uid>19675</uid>
     <lastName>GAZPROM KAPITAL, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14877,7 +14877,7 @@
     <uid>19676</uid>
     <lastName>YAMALGAZINVEST, ZAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -14941,7 +14941,7 @@
     <uid>19677</uid>
     <lastName>GAZPROM DOBYCHA URENGOI, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15006,7 +15006,7 @@
     <uid>19678</uid>
     <lastName>GAZPROM GEOLOGORAZVEDKA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15077,7 +15077,7 @@
     <uid>19681</uid>
     <lastName>GAZPROM TRANSGAZ MAKHACHKALA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15148,7 +15148,7 @@
     <uid>19683</uid>
     <lastName>GAZPROM TRANSGAZ UFA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15219,7 +15219,7 @@
     <uid>19684</uid>
     <lastName>VOSTOKGAZPROM, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15284,7 +15284,7 @@
     <uid>19685</uid>
     <lastName>LAZURNAYA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15349,7 +15349,7 @@
     <uid>19686</uid>
     <lastName>GAZPROM PROMGAZ, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15419,7 +15419,7 @@
     <uid>19687</uid>
     <lastName>KAMCHATGAZPROM, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15484,7 +15484,7 @@
     <uid>19688</uid>
     <lastName>DALTRANSGAZ, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15548,7 +15548,7 @@
     <uid>19690</uid>
     <lastName>DRUZHBA, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15612,7 +15612,7 @@
     <uid>19691</uid>
     <lastName>KRASNOYARSKGAZPROM, PAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -15676,7 +15676,7 @@
     <uid>19692</uid>
     <lastName>ACHIM DEVELOPMENT, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: OPEN JOINT STOCK COMPANY GAZPROM)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16725,7 +16725,7 @@
     <uid>20294</uid>
     <lastName>CREDIT URAL BANK</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16796,7 +16796,7 @@
     <uid>20295</uid>
     <lastName>GAZKARDSERVIS OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16841,7 +16841,7 @@
     <uid>20296</uid>
     <lastName>GAZPROM MEDIA HOLDING</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16912,7 +16912,7 @@
     <uid>20297</uid>
     <lastName>GAZPROMBANK LEASING ZAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16968,7 +16968,7 @@
     <uid>20298</uid>
     <lastName>GAZPROMBANK UPRAVLENIE AKTIVAMI</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17024,7 +17024,7 @@
     <uid>20299</uid>
     <lastName>GPB-FACTORING OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17079,7 +17079,7 @@
     <uid>20300</uid>
     <lastName>GPB INVEST OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17137,7 +17137,7 @@
     <uid>20301</uid>
     <lastName>NEW FINANCIAL TECHNOLOGIES OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17198,7 +17198,7 @@
     <uid>20302</uid>
     <lastName>PO URALENERGOMONTAZH ZAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17305,7 +17305,7 @@
     <uid>20303</uid>
     <lastName>GPB-MORTGAGE JSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17359,7 +17359,7 @@
     <uid>20304</uid>
     <lastName>IZ KARTEKS OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17417,7 +17417,7 @@
     <uid>20305</uid>
     <lastName>IZHORSKIYE ZAVODY OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17475,7 +17475,7 @@
     <uid>20306</uid>
     <lastName>KRIOGENMASH OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17538,7 +17538,7 @@
     <uid>20307</uid>
     <lastName>OMZ OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17594,7 +17594,7 @@
     <uid>20308</uid>
     <lastName>OMZ SPETSSTAL OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17657,7 +17657,7 @@
     <uid>20309</uid>
     <lastName>URALMASHZAVOD OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17705,7 +17705,7 @@
     <uid>20311</uid>
     <lastName>AREXIMBANK-GAZPROMBANK GROUP CJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17760,7 +17760,7 @@
     <uid>20312</uid>
     <lastName>GAZPROMBANK (SWITZERLAND) LTD</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17802,7 +17802,7 @@
     <uid>20313</uid>
     <lastName>CENTREX EUROPE ENERGY AND GAS AG</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17845,7 +17845,7 @@
     <uid>20314</uid>
     <lastName>GPB-DI HOLDINGS LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17883,7 +17883,7 @@
     <uid>20315</uid>
     <lastName>GPB FINANCIAL SERVICES LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17929,7 +17929,7 @@
     <uid>20316</uid>
     <lastName>GPB GLOBAL RESOURCES BV</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17964,7 +17964,7 @@
     <uid>20317</uid>
     <lastName>GPB INTERNATIONAL SA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18000,7 +18000,7 @@
     <uid>20318</uid>
     <lastName>NAGELFAR TRADE AND INVEST LIMITED</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18043,7 +18043,7 @@
     <uid>20319</uid>
     <lastName>GAZPROMBANK LATIN AMERICA VENTURES BV</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18074,7 +18074,7 @@
     <uid>20320</uid>
     <lastName>SKODA JS A.S.</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18099,7 +18099,7 @@
     <uid>20621</uid>
     <lastName>TD AGROTORG, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18164,7 +18164,7 @@
     <uid>20640</uid>
     <lastName>RASSVET, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18248,7 +18248,7 @@
     <uid>20660</uid>
     <lastName>AGROKREDIT-INFORM, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18308,7 +18308,7 @@
     <uid>20661</uid>
     <lastName>UMANSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18381,7 +18381,7 @@
     <uid>20662</uid>
     <lastName>BELOGLINSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18460,7 +18460,7 @@
     <uid>20665</uid>
     <lastName>LADOZHSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18534,7 +18534,7 @@
     <uid>20666</uid>
     <lastName>VELICHKOVSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18607,7 +18607,7 @@
     <uid>20667</uid>
     <lastName>EYANSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18680,7 +18680,7 @@
     <uid>20668</uid>
     <lastName>KHOMYAKOVSKI KHLADOKOMBINAT, ZAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18743,7 +18743,7 @@
     <uid>20669</uid>
     <lastName>MALOROSSISKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18816,7 +18816,7 @@
     <uid>20670</uid>
     <lastName>KRYLOVSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18895,7 +18895,7 @@
     <uid>20671</uid>
     <lastName>ROVNENSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -18974,7 +18974,7 @@
     <uid>20672</uid>
     <lastName>STEPNYANSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -19053,7 +19053,7 @@
     <uid>20673</uid>
     <lastName>ALBASHSKI ELEVATOR, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: RUSSIAN AGRICULTURAL BANK)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: JOINT STOCK COMPANY RUSSIAN AGRICULTURAL BANK)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -19844,7 +19844,7 @@
     <uid>22383</uid>
     <lastName>TRANSNEFT FINANS, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -19917,7 +19917,7 @@
     <uid>22384</uid>
     <lastName>TRANSNEFT-MEDIA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -19990,7 +19990,7 @@
     <uid>22385</uid>
     <lastName>TRANSNEFT-PRIVOLGA, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20064,7 +20064,7 @@
     <uid>22386</uid>
     <lastName>TRANSNEFT-SIBIR, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20144,7 +20144,7 @@
     <uid>22387</uid>
     <lastName>DSD, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20212,7 +20212,7 @@
     <uid>22388</uid>
     <lastName>SVYAZTRANSNEFT, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20280,7 +20280,7 @@
     <uid>22389</uid>
     <lastName>TRANSNEFT-URAL, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20354,7 +20354,7 @@
     <uid>22390</uid>
     <lastName>TRANSNEFTEPRODUKT, PAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20434,7 +20434,7 @@
     <uid>22391</uid>
     <lastName>TRANSNEFT-DRUZHBA, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20508,7 +20508,7 @@
     <uid>22392</uid>
     <lastName>GIPROTRUBOPROVOD, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20581,7 +20581,7 @@
     <uid>22393</uid>
     <lastName>CHERNOMORTRANSNEFT, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20655,7 +20655,7 @@
     <uid>22394</uid>
     <lastName>TSUP VSTO, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20724,7 +20724,7 @@
     <uid>22395</uid>
     <lastName>TRANSNEFT-TSENTRALNAYA SIBIR, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20798,7 +20798,7 @@
     <uid>22396</uid>
     <lastName>TRANSNEFT-SEVER, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20872,7 +20872,7 @@
     <uid>22397</uid>
     <lastName>TRANSNEFT-OKHRANA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20928,7 +20928,7 @@
     <uid>22398</uid>
     <lastName>TRANSNEFT-PODVODSERVIS, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -20997,7 +20997,7 @@
     <uid>22399</uid>
     <lastName>TRANSNEFT-DIASKAN, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -21077,7 +21077,7 @@
     <uid>22400</uid>
     <lastName>NPF TRANSNEFT, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -21138,7 +21138,7 @@
     <uid>22401</uid>
     <lastName>TRANSNEFT-METROLOGIYA, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -21211,7 +21211,7 @@
     <uid>22402</uid>
     <lastName>TRANSNEFT-PRIKAME, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: AK TRANSNEFT OAO)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY TRANSNEFT)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -24848,6 +24848,11 @@
     </programList>
     <idList>
       <id>
+        <uid>147413</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 4 - any transaction involving the Central Bank of the Russian Federation, the National Wealth Fund of the Russian Federation, or the Ministry of Finance of the Russian Federation, including any transfer of assets to such entities or any foreign exchange transaction for or on behalf of such entities is prohibited.</idNumber>
+      </id>
+      <id>
         <uid>146790</uid>
         <idType>Target Type</idType>
         <idNumber>Government Entity</idNumber>
@@ -24891,6 +24896,11 @@
       <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
+      <id>
+        <uid>147412</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 4 - any transaction involving the Central Bank of the Russian Federation, the National Wealth Fund of the Russian Federation, or the Ministry of Finance of the Russian Federation, including any transfer of assets to such entities or any foreign exchange transaction for or on behalf of such entities is prohibited.</idNumber>
+      </id>
       <id>
         <uid>146740</uid>
         <idType>Executive Order 14024 Directive Information</idType>
@@ -24997,6 +25007,11 @@
         <uid>146745</uid>
         <idType>Executive Order 14024 Directive Information</idType>
         <idNumber>Subject to Directive 1a - As of the effective date, participation in the secondary market for ruble or non-ruble denominated bonds issued on or after the effective date by the Central Bank of the Russian Federation, the National Wealth Fund of the Russian Federation, or the Ministry of Finance of the Russian Federation is prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>147411</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 4 - any transaction involving the Central Bank of the Russian Federation, the National Wealth Fund of the Russian Federation, or the Ministry of Finance of the Russian Federation, including any transfer of assets to such entities or any foreign exchange transaction for or on behalf of such entities is prohibited.</idNumber>
       </id>
     </idList>
     <akaList>

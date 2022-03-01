@@ -16,6 +16,13 @@ address:
   zip: '109097'
 documents:
 - type: Executive Order 14024 Directive Information
+  number: Subject to Directive 4 - any transaction involving the Central Bank of the
+    Russian Federation, the National Wealth Fund of the Russian Federation, or the
+    Ministry of Finance of the Russian Federation, including any transfer of assets
+    to such entities or any foreign exchange transaction for or on behalf of such
+    entities is prohibited.
+  country: 
+- type: Executive Order 14024 Directive Information
   number: Subject to Directive 1a - As of the effective date, participation in the
     secondary market for ruble or non-ruble denominated bonds issued on or after the
     effective date by the Central Bank of the Russian Federation, the National Wealth
