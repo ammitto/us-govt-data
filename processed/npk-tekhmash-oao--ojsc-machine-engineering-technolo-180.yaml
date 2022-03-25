@@ -1,40 +1,43 @@
 ---
 entity_type: organization
 names:
-- VERTOLETY ROSSII AO
-- " RUSSIAN HELICOPTERS JOINT STOCK COMPANY"
-- " OPEN JOINT STOCK COMPANY RUSSIAN HELICOPTERS"
-- " JSC RUSSIAN HELICOPTERS"
-- " JOINT STOCK COMPANY RUSSIAN HELICOPTERS"
-- " AKTSIONERNOE OBSHCHESTVO VERTOLETY ROSSII"
+- NPK TEKHMASH OAO
+- " OJSC MACHINE ENGINEERING TECHNOLOGIES"
+- " SCIENTIFIC INDUSTRIAL CONCERN MANUFACTURING ENGINEERING OJSC"
+- " JOINT STOCK COMPANY SCIENTIFIC INDUSTRIAL CONCERN MANUFACTURING ENGINEERING"
+- " JSC SPC TECHMASH"
+- " AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNY KONTSERN TEKHNOLOGII MASHINOSTROENIYA"
 source: us-govt-data
-ref_number: '18820'
+ref_number: '18772'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: ROSTEC)'
 address:
-- street: 'Entrance 9, 12, Krasnopresnenskaya emb.   '
+- street: 'd. 58 str. 4 shosse Leningradskoe   '
   city: Moscow
   state: 
   country: Russia
-  zip: '123610'
-- street: '1, Ul. Bolshaya Pionerskaya   '
+  zip: '125212'
+- street: 'Ul. Bolshaya Tatarskaya D. 35 Str. 5  '
   city: Moscow
   state: 
   country: Russia
-  zip: '115054'
+  zip: '115184'
 documents:
 - type: Registration ID
-  number: '1077746003334'
+  number: '1117746260477'
   country: Russia
 - type: Government Gazette Number
-  number: '98927243'
+  number: '91420386'
   country: Russia
 - type: Tax ID No.
-  number: '7731559044'
+  number: '7743813961'
   country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
+  country: 
+- type: Organization Established Date
+  number: 06 Apr 2011
   country: 
