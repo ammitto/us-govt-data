@@ -3,7 +3,7 @@ entity_type: organization
 names:
 - AUCTION LIMITED LIABILITY COMPANY
 - " LLC AUKCION"
-- " AUKTSION, OOO"
+- " AUKTSION OOO"
 - " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU AUKTSION"
 - " AUKCION LIMITED LIABILITY COMPANY"
 source: us-govt-data
@@ -19,6 +19,11 @@ address:
   state: 
   country: Russia
   zip: '111024'
+- street: 'Room 12, room IB, ground floor, 32 Leninsky Ave   '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: 
 documents:
 - type: Registration ID
   number: '1027700256297'
