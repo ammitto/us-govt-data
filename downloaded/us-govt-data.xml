@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>04/06/2022</Publish_Date>
-    <Record_Count>450</Record_Count>
+    <Publish_Date>04/07/2022</Publish_Date>
+    <Record_Count>449</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -28222,91 +28222,6 @@
         <address1>Mail Box No. 54</address1>
         <city>Moscow</city>
         <postalCode>127137</postalCode>
-        <country>Russia</country>
-      </address>
-    </addressList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>34644</uid>
-    <lastName>PUBLIC JOINT STOCK COMPANY ALROSA</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>RUSSIA-EO14024</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>24235</uid>
-        <idType>Registration Number</idType>
-        <idNumber>1021400967092</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>24236</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>1433000147</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>24237</uid>
-        <idType>Legal Entity Number</idType>
-        <idNumber>894500DKUWVBYZLLE651</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>146683</uid>
-        <idType>Executive Order 14024 Directive Information</idType>
-        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
-      </id>
-      <id>
-        <uid>146827</uid>
-        <idType>Listing Date (EO 14024 Directive 3):</idType>
-        <idNumber>24 Feb 2022</idNumber>
-      </id>
-      <id>
-        <uid>146711</uid>
-        <idType>Executive Order 14024 Directive Information -</idType>
-        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
-      </id>
-      <id>
-        <uid>146832</uid>
-        <idType>Effective Date (EO 14024 Directive 3):</idType>
-        <idNumber>26 Mar 2022</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>54235</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>AK ALROSA PAO</lastName>
-      </aka>
-      <aka>
-        <uid>54236</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>PJSC ALROSA</lastName>
-      </aka>
-      <aka>
-        <uid>54237</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>ALROSA GROUP</lastName>
-      </aka>
-    </akaList>
-    <addressList>
-      <address>
-        <uid>51860</uid>
-        <address1>24 Ozerkovskaya Naberezhnaya</address1>
-        <city>Moscow</city>
-        <postalCode>115184</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>51861</uid>
-        <address1>6 ulitsa Lenina</address1>
-        <city>Mirny</city>
-        <stateOrProvince>Republic of Sakha (Yakutia)</stateOrProvince>
-        <postalCode>678174</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
