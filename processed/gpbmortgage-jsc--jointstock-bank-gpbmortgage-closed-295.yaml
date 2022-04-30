@@ -12,7 +12,7 @@ birthdate:
 remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: GAZPROMBANK JOINT STOCK COMPANY)'
 address:
-- street: 'D.14 Pr Kolomenski   '
+- street: 'D. 14 Pr Kolomenski   '
   city: Moscow
   state: 
   country: Russia
@@ -29,4 +29,7 @@ documents:
   country: 
 - type: Website
   number: www.gpb-ipoteka.ru
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

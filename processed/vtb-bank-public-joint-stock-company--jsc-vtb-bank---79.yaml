@@ -120,3 +120,6 @@ documents:
 - type: Target Type
   number: Financial Institution
   country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 

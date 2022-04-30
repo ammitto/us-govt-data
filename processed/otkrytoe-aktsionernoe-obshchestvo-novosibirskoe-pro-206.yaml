@@ -23,15 +23,18 @@ documents:
 - type: Registration ID
   number: '1115476080610'
   country: 
-- type: Tax ID No.
-  number: '5404441240'
-  country: 
 - type: Government Gazette Number
   number: '07517605'
+  country: 
+- type: Tax ID No.
+  number: '5404441240'
   country: 
 - type: Email Address
   number: it@luch-nsk.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

@@ -19,18 +19,21 @@ address:
   country: Russia
   zip: '420500'
 documents:
-- type: Tax ID No.
-  number: '7704810710'
+- type: Registration ID
+  number: '1127746501190'
   country: 
 - type: Government Gazette Number
   number: '09911571'
   country: 
-- type: Registration ID
-  number: '1127746501190'
+- type: Tax ID No.
+  number: '7704810710'
   country: 
 - type: Website
   number: http://www.rtinform.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

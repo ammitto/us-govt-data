@@ -23,24 +23,27 @@ address:
   country: Russia
   zip: '127299'
 documents:
+- type: Registration ID
+  number: '1027739000475'
+  country: 
 - type: Government Gazette Number
   number: '48532918'
   country: 
 - type: Tax ID No.
   number: '7710277994'
   country: 
-- type: Registration ID
-  number: '1027739000475'
-  country: 
-- type: Website
-  number: www.ruselectronics.ru
-  country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 3
-  country: 
 - type: Email Address
   number: info@ruselectronics.ru
   country: 
 - type: Website
+  number: www.ruselectronics.ru
+  country: 
+- type: Website
   number: www.roselgroup.com
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

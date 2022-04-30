@@ -19,15 +19,18 @@ address:
   country: Russia
   zip: '119048'
 documents:
-- type: Government Gazette Number
-  number: '17434335'
-  country: 
 - type: Registration ID
   number: '1137746355405'
+  country: 
+- type: Government Gazette Number
+  number: '17434335'
   country: 
 - type: Tax ID No.
   number: '7704833788'
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

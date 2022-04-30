@@ -28,21 +28,24 @@ address:
   country: Russia
   zip: '119991'
 documents:
-- type: Government Gazette Number
-  number: '94137372'
+- type: Registration ID
+  number: '1077799030847'
   country: Russia
 - type: Tax ID No.
   number: '7704274402'
   country: Russia
-- type: Registration ID
-  number: '1077799030847'
+- type: Government Gazette Number
+  number: '94137372'
   country: Russia
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 3
-  country: 
 - type: Email Address
   number: info@rostec.ru
   country: 
 - type: Website
   number: www.rostec.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

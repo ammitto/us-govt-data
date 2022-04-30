@@ -21,18 +21,21 @@ address:
   country: Russia
   zip: '610008'
 documents:
-- type: Government Gazette Number
-  number: '07501403'
-  country: 
 - type: Registration ID
   number: '1034316578702'
+  country: 
+- type: Government Gazette Number
+  number: '07501403'
   country: 
 - type: Tax ID No.
   number: '4345029953'
   country: 
+- type: Email Address
+  number: nmz@nmz.kirov.ru
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
-- type: Email Address
-  number: nmz@nmz.kirov.ru
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

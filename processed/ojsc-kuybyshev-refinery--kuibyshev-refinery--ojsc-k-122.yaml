@@ -18,12 +18,15 @@ address:
   country: Russia
   zip: '443004'
 documents:
+- type: Email Address
+  number: sekr@knpz.rosneft.ru
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 2
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 4
   country: 
-- type: Email Address
-  number: sekr@knpz.rosneft.ru
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

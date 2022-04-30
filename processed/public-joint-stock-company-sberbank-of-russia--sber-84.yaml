@@ -65,3 +65,6 @@ documents:
 - type: Website
   number: www.sberbank.com
   country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 

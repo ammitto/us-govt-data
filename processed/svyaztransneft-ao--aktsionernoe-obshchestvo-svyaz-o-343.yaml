@@ -20,18 +20,21 @@ address:
   country: Russia
   zip: '117420'
 documents:
+- type: Government Gazette Number
+  number: '00140058'
+  country: Russia
 - type: Tax ID No.
   number: '7723011906'
   country: Russia
 - type: Registration ID
   number: '1027739420961'
   country: Russia
-- type: Government Gazette Number
-  number: '00140058'
-  country: Russia
 - type: Website
   number: www.oilnet.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 2
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

@@ -16,7 +16,7 @@ address:
   state: 
   country: Russia
   zip: '115432'
-- street: 'D.40 Ulitsa Miklukho-Maklaya   '
+- street: 'D. 40 Ulitsa Miklukho-Maklaya   '
   city: Moscow
   state: 
   country: Russia
@@ -33,4 +33,7 @@ documents:
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

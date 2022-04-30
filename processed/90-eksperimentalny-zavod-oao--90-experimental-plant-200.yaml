@@ -21,9 +21,12 @@ documents:
 - type: Tax ID No.
   number: '5030056754'
   country: 
+- type: Website
+  number: http://www.90zavod.ru
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
-- type: Website
-  number: http://www.90zavod.ru
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

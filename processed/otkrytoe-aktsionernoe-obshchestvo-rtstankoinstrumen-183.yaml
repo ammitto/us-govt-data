@@ -20,21 +20,24 @@ address:
   country: Russia
   zip: '107996'
 documents:
-- type: Tax ID No.
-  number: '7702715348'
+- type: Registration ID
+  number: '1097746559020'
   country: 
 - type: Government Gazette Number
   number: '62826319'
   country: 
-- type: Registration ID
-  number: '1097746559020'
-  country: 
-- type: Website
-  number: http://www.rt-stanko.ru/
+- type: Tax ID No.
+  number: '7702715348'
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
 - type: Email Address
   number: n.dobrynina@rt-stanko.ru
+  country: 
+- type: Website
+  number: http://www.rt-stanko.ru/
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

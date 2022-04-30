@@ -12,20 +12,20 @@ birthdate:
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)'
 address:
-- street: 'd.16 ul.Ostrovskogo   '
+- street: 'd. 16 ul. Ostrovskogo   '
   city: Surgut
   state: Khanty-Mansiski Avtonomny okrug - Yugra a.o.
   country: Russia
   zip: '628417'
 documents:
+- type: Registration ID
+  number: '1071102001651'
+  country: 
 - type: Government Gazette Number
   number: '97152834'
   country: 
 - type: Tax ID No.
   number: '1102054991'
-  country: 
-- type: Registration ID
-  number: '1071102001651'
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 4
@@ -35,4 +35,7 @@ documents:
   country: 
 - type: Website
   number: pererabotka.gazprom.ru
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

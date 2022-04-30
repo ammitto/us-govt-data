@@ -20,14 +20,17 @@ address:
   country: Russia
   zip: '105318'
 documents:
-- type: Government Gazette Number
-  number: '07543117'
-  country: 
 - type: Registration ID
   number: '1037719005873'
   country: 
+- type: Government Gazette Number
+  number: '07543117'
+  country: 
 - type: Tax ID No.
   number: '7719265496'
+  country: 
+- type: Email Address
+  number: amuravyeva@avia-equipment.ru
   country: 
 - type: Website
   number: www.akbyakor.ru
@@ -35,6 +38,6 @@ documents:
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
-- type: Email Address
-  number: amuravyeva@avia-equipment.ru
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

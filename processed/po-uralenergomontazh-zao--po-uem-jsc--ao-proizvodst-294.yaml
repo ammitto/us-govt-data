@@ -27,7 +27,7 @@ address:
   state: 
   country: Russia
   zip: '620017'
-- street: '1a Ul.Vladivostokskaya   '
+- street: '1a Ul. Vladivostokskaya   '
   city: Ufa
   state: 
   country: Russia
@@ -63,4 +63,7 @@ documents:
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

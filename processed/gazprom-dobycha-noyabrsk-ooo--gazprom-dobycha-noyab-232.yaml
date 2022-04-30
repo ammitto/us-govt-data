@@ -12,7 +12,7 @@ birthdate:
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)'
 address:
-- street: 'd.20 ul. Respubliki   '
+- street: 'd. 20 ul. Respubliki   '
   city: Noyabrsk
   state: Yamalo-Nenetski a.o.
   country: Russia
@@ -35,4 +35,7 @@ documents:
   country: 
 - type: Email Address
   number: NGD@NGD.GASPROM.RU
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

@@ -28,9 +28,12 @@ documents:
 - type: Registration ID
   number: '1037700259244'
   country: Russia
+- type: Website
+  number: www.vtb-leasing.ru
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
-- type: Website
-  number: www.vtb-leasing.ru
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

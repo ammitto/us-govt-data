@@ -18,12 +18,15 @@ address:
   country: Serbia
   zip: 11 000
 documents:
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 1
+- type: Website
+  number: www.vtbbanka.rs
   country: 
 - type: SWIFT/BIC
   number: MBBGRSBG
   country: 
-- type: Website
-  number: www.vtbbanka.rs
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

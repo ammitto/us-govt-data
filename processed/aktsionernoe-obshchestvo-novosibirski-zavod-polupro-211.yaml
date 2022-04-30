@@ -22,18 +22,21 @@ address:
   country: Russia
   zip: '630082'
 documents:
+- type: Registration ID
+  number: '1115476167180'
+  country: 
 - type: Government Gazette Number
   number: '07617658'
   country: 
 - type: Tax ID No.
   number: '5402546039'
   country: 
-- type: Registration ID
-  number: '1115476167180'
+- type: Email Address
+  number: secretar@nzpp.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
-- type: Email Address
-  number: secretar@nzpp.ru
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

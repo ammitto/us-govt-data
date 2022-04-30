@@ -4,7 +4,7 @@ names:
 - AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE OPTIKA
 - " NPO OPTIKA, AO"
 - " OPEN JOINT STOCK COMPANY NAUCHNO-PROIZVODSTVENNOYE OBYEDINENIYE OPTIKA"
-- " FEDERAL STATE UNITARY ENTERPRISE @SCIENTIFIC AND PRODUCTION ASSOCIATION OPTIKA"
+- " FEDERAL STATE UNITARY ENTERPRISE SCIENTIFIC AND PRODUCTION ASSOCIATION OPTIKA"
 - " FEDERALNOE GOSUDARSTVENNOE UNITARNOE PREDPRIYATIE NAUCHNO PROIZVODSTVENNOE OBEDINENIE
   OPTIKA"
 source: us-govt-data
@@ -26,18 +26,21 @@ address:
   country: Russia
   zip: '127410'
 documents:
-- type: Government Gazette Number
-  number: '17412936'
-  country: 
 - type: Registration ID
   number: '1127746188536'
+  country: 
+- type: Government Gazette Number
+  number: '17412936'
   country: 
 - type: Tax ID No.
   number: '7715909132'
   country: 
+- type: Email Address
+  number: TEOPT@MAIL.CNT.RU
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
-- type: Email Address
-  number: TEOPT@MAIL.CNT.RU
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

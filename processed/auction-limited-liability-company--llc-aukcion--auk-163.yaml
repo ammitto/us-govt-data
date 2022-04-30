@@ -28,6 +28,9 @@ documents:
 - type: Registration ID
   number: '1027700256297'
   country: Russia
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
 - type: Website
   number: www.aukcion-sbrf.ru
   country: 

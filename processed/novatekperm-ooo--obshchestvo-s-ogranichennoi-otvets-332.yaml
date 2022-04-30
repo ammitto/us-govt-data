@@ -27,9 +27,12 @@ documents:
 - type: Tax ID No.
   number: '5904230529'
   country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
 - type: Email Address
   number: info@perm.novatek.ru
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 2
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

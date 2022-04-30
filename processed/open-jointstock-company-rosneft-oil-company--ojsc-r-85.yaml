@@ -23,24 +23,27 @@ documents:
 - type: Registration ID
   number: '1027700043502'
   country: Russia
-- type: Tax ID No.
-  number: '7706107510'
-  country: Russia
 - type: Government Gazette Number
   number: '00044428'
   country: Russia
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 2
-  country: 
+- type: Tax ID No.
+  number: '7706107510'
+  country: Russia
 - type: Email Address
   number: postman@rosneft.ru
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 4
+- type: Website
+  number: www.rosneft.com
   country: 
 - type: Website
   number: www.rosneft.ru
   country: 
-- type: Website
-  number: www.rosneft.com
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 2
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

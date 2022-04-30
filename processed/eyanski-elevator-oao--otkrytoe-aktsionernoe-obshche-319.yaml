@@ -24,18 +24,21 @@ address:
   country: Russia
   zip: 
 documents:
-- type: Tax ID No.
-  number: '2344003814'
-  country: 
 - type: Registration ID
   number: '1022304420478'
   country: 
 - type: Government Gazette Number
   number: '00940588'
   country: 
+- type: Tax ID No.
+  number: '2344003814'
+  country: 
 - type: Email Address
   number: eya_silo@mail.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

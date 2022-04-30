@@ -22,15 +22,18 @@ address:
   country: Russia
   zip: '119121'
 documents:
-- type: Registration ID
-  number: '1037602004483'
-  country: 
 - type: Tax ID No.
   number: '7612031791'
+  country: 
+- type: Registration ID
+  number: '1037602004483'
   country: 
 - type: Website
   number: www.gpbi.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

@@ -22,18 +22,21 @@ documents:
 - type: Government Gazette Number
   number: '00044434'
   country: 
-- type: Registration ID
-  number: '1027700035769'
-  country: 
 - type: Tax ID No.
   number: '7708004767'
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 4
+- type: Registration ID
+  number: '1027700035769'
+  country: 
+- type: Email Address
+  number: info@lukoil.ru
   country: 
 - type: Website
   number: www.lukoil.ru
   country: 
-- type: Email Address
-  number: info@lukoil.ru
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

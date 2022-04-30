@@ -20,18 +20,21 @@ address:
   country: Russia
   zip: '119435'
 documents:
+- type: Registration ID
+  number: '1097746324400'
+  country: 
 - type: Government Gazette Number
   number: '61771160'
   country: 
 - type: Tax ID No.
   number: '7704727853'
   country: 
-- type: Registration ID
-  number: '1097746324400'
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
   country: 
 - type: Email Address
   number: chernyakova-st@stroytech-rt.ru
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 3
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

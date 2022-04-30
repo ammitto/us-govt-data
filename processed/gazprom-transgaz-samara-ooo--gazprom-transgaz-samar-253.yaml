@@ -12,7 +12,7 @@ birthdate:
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)'
 address:
-- street: 'd. 106 A str. 1 ul.Novo-Sadovaya   '
+- street: 'd. 106 A str. 1 ul. Novo-Sadovaya   '
   city: Samara
   state: Samarskaya obl.
   country: Russia
@@ -35,4 +35,7 @@ documents:
   country: 
 - type: Email Address
   number: oppt@samaratransgaz.gazprom.ru
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

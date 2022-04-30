@@ -19,21 +19,24 @@ address:
   country: Russia
   zip: '119048'
 documents:
-- type: Government Gazette Number
-  number: '62666778'
-  country: 
 - type: Registration ID
   number: '1097746425996'
   country: 
+- type: Government Gazette Number
+  number: '62666778'
+  country: 
 - type: Tax ID No.
   number: '7704730729'
-  country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 3
   country: 
 - type: Email Address
   number: dshumikhin@rt-biotechprom.ru
   country: 
 - type: Website
   number: www.rt-biotechprom.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

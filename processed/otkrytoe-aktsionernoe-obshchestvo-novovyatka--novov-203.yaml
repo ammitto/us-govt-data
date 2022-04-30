@@ -27,11 +27,14 @@ documents:
 - type: Registration ID
   number: '1034316578680'
   country: 
+- type: Government Gazette Number
+  number: '49616818'
+  country: 
 - type: Tax ID No.
   number: '4345029946'
   country: 
-- type: Government Gazette Number
-  number: '49616818'
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
   country: 
 - type: Email Address
   number: nmz@nmz.kirov.ru
@@ -39,6 +42,6 @@ documents:
 - type: Website
   number: http://www.nmz.ru
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 3
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

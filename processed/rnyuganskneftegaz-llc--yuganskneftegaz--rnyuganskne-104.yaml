@@ -19,11 +19,14 @@ address:
   zip: '628309'
 documents:
 - type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 4
-  country: 
-- type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 2
   country: 
 - type: Email Address
   number: rn_yng@yungjsc.com
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

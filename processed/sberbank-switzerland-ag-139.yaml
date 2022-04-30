@@ -32,12 +32,15 @@ documents:
 - type: Registration ID
   number: CHE-106.291.569
   country: Switzerland
-- type: Website
-  number: www.slb-bank.ch
-  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
+- type: Website
+  number: www.slb-bank.ch
+  country: 
 - type: SWIFT/BIC
   number: SLBZCHZZ
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

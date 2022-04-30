@@ -22,12 +22,15 @@ documents:
 - type: Registration ID
   number: '1107404003376'
   country: 
-- type: Tax ID No.
-  number: '7404056114'
-  country: 
 - type: Government Gazette Number
   number: '68628371'
   country: 
+- type: Tax ID No.
+  number: '7404056114'
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 2
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

@@ -34,12 +34,15 @@ documents:
 - type: Tax ID No.
   number: '7704722326'
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 3
-  country: 
 - type: Email Address
   number: mailbox@avia-equipment.ru
   country: 
 - type: Website
   number: www.avia-equipment.ru
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 3
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

@@ -13,7 +13,7 @@ birthdate:
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
 address:
-- street: 'd.70 ul. Mosfilmovskaya   '
+- street: 'd. 70 ul. Mosfilmovskaya   '
   city: Moscow
   state: 
   country: Russia
@@ -24,4 +24,7 @@ documents:
   country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

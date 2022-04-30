@@ -20,21 +20,24 @@ address:
   country: Russia
   zip: '624186'
 documents:
+- type: Registration ID
+  number: '1026601326597'
+  country: 
 - type: Government Gazette Number
   number: '07511005'
   country: 
 - type: Tax ID No.
   number: '6621001262'
   country: 
-- type: Registration ID
-  number: '1026601326597'
-  country: 
-- type: Website
-  number: http://www.kcplant.ru/
-  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
 - type: Email Address
   number: kcp@uraltc.ru
+  country: 
+- type: Website
+  number: http://www.kcplant.ru/
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 
