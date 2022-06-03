@@ -21,12 +21,6 @@ documents:
 - type: Unified Social Credit Code (USCC)
   number: 91320600138299578A
   country: China
-- type: Issuer Name
-  number: Tonmac International Co., Ltd.
-  country: 
-- type: Equity Ticker
-  number: 600862  CN
-  country: 
 - type: ISIN
   number: CNE000000GZ0
   country: 
@@ -38,4 +32,10 @@ documents:
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
+  country: 
+- type: Issuer Name
+  number: Tonmac International Co., Ltd.
+  country: 
+- type: Equity Ticker
+  number: 600862  CN
   country: 

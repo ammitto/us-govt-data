@@ -27,6 +27,9 @@ documents:
 - type: Tax ID No.
   number: '6500000930'
   country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 4
   country: 
@@ -35,7 +38,4 @@ documents:
   country: 
 - type: Email Address
   number: A.Podojjnicyna@khb.gtt.gazprom.ru
-  country: 
-- type: 'Secondary sanctions risk:'
-  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

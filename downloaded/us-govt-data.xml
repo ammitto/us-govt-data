@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>04/29/2022</Publish_Date>
+    <Publish_Date>06/02/2022</Publish_Date>
     <Record_Count>449</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -5731,6 +5731,11 @@
     </programList>
     <idList>
       <id>
+        <uid>143673</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>117547</uid>
         <idType>Email Address</idType>
         <idNumber>sekr@snpz.rosneft.ru</idNumber>
@@ -5744,11 +5749,6 @@
         <uid>117649</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
-        <uid>143673</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -9079,15 +9079,15 @@
     </programList>
     <idList>
       <id>
-        <uid>10996</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1107746399903</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
         <uid>24687</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7736617998</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>10996</uid>
+        <idType>Registration ID</idType>
+        <idNumber>1107746399903</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -14826,11 +14826,6 @@
     </programList>
     <idList>
       <id>
-        <uid>11982</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1027000862954</idNumber>
-      </id>
-      <id>
         <uid>11983</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7017005289</idNumber>
@@ -14839,6 +14834,11 @@
         <uid>11984</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>04634954</idNumber>
+      </id>
+      <id>
+        <uid>11982</uid>
+        <idType>Registration ID</idType>
+        <idNumber>1027000862954</idNumber>
       </id>
       <id>
         <uid>119951</uid>
@@ -16357,6 +16357,11 @@
         <idNumber>6500000930</idNumber>
       </id>
       <id>
+        <uid>143909</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>120058</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 4</idNumber>
@@ -16370,11 +16375,6 @@
         <uid>120060</uid>
         <idType>Email Address</idType>
         <idNumber>A.Podojjnicyna@khb.gtt.gazprom.ru</idNumber>
-      </id>
-      <id>
-        <uid>143909</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -16773,6 +16773,18 @@
     </programList>
     <idList>
       <id>
+        <uid>26596</uid>
+        <idType>Registration Number</idType>
+        <idNumber>1047855168140</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>26597</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7840309622</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
         <uid>120857</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
@@ -16781,6 +16793,11 @@
         <uid>151190</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>152127</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>16 Dec 2004</idNumber>
       </id>
     </idList>
     <akaList>
@@ -16794,12 +16811,34 @@
         <uid>31548</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>OOO 'BALTECH'</lastName>
+        <lastName>OOO BALTECH</lastName>
+      </aka>
+      <aka>
+        <uid>58566</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>LIMITED LIABILITY CORPORATION BALTECH</lastName>
+      </aka>
+      <aka>
+        <uid>58567</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>OBSCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU BALTEKH</lastName>
+      </aka>
+      <aka>
+        <uid>58568</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>OOO BALTEKH</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>30279</uid>
+        <address1>Ulitsa Yunnatov, Dom 3</address1>
+        <address2>Liter A, Ofis 15</address2>
+        <city>Saint Petersburg</city>
+        <postalCode>192177</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -17444,14 +17483,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>120882</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>143875</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120882</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -17895,14 +17934,14 @@
     </programList>
     <idList>
       <id>
-        <uid>12549</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>7728294503</idNumber>
-      </id>
-      <id>
         <uid>12550</uid>
         <idType>Registration ID</idType>
         <idNumber>1037728033606</idNumber>
+      </id>
+      <id>
+        <uid>12549</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7728294503</idNumber>
       </id>
       <id>
         <uid>120790</uid>
@@ -20623,6 +20662,11 @@
     </programList>
     <idList>
       <id>
+        <uid>12797</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>6330024410</idNumber>
+      </id>
+      <id>
         <uid>12795</uid>
         <idType>Registration ID</idType>
         <idNumber>1036301402576</idNumber>
@@ -20631,11 +20675,6 @@
         <uid>12796</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>14563310</idNumber>
-      </id>
-      <id>
-        <uid>12797</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>6330024410</idNumber>
       </id>
       <id>
         <uid>121967</uid>
@@ -23385,7 +23424,7 @@
         <uid>37174</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>LIMITED LIABILITY  COMPANY KIRISHIAVTOSERVIS</lastName>
+        <lastName>LIMITED LIABILITY COMPANY KIRISHIAVTOSERVIS</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -24388,11 +24427,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141168</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND1000090Q8</idNumber>
-      </id>
-      <id>
         <uid>141169</uid>
         <idType>ISIN</idType>
         <idNumber>CND100006HP7</idNumber>
@@ -24421,6 +24455,11 @@
         <uid>141324</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141168</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000090Q8</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24947,6 +24986,11 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141447</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
         <uid>141448</uid>
         <idType>Target Type</idType>
         <idNumber>State-Owned Enterprise</idNumber>
@@ -24960,11 +25004,6 @@
         <uid>141446</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141447</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27358,16 +27397,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>140949</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Tonmac International Co., Ltd.</idNumber>
-      </id>
-      <id>
-        <uid>140950</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>600862  CN</idNumber>
-      </id>
-      <id>
         <uid>140951</uid>
         <idType>ISIN</idType>
         <idNumber>CNE000000GZ0</idNumber>
@@ -27386,6 +27415,16 @@
         <uid>141531</uid>
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>140949</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Tonmac International Co., Ltd.</idNumber>
+      </id>
+      <id>
+        <uid>140950</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600862  CN</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27979,6 +28018,21 @@
     </programList>
     <idList>
       <id>
+        <uid>141019</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Honour Capital Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141020</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Honour Capital Limited</idNumber>
+      </id>
+      <id>
+        <uid>141022</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1233275194</idNumber>
+      </id>
+      <id>
         <uid>141023</uid>
         <idType>ISIN</idType>
         <idNumber>HK0000216777</idNumber>
@@ -28012,21 +28066,6 @@
         <uid>141300</uid>
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141019</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Proven Honour Capital Ltd</idNumber>
-      </id>
-      <id>
-        <uid>141020</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Proven Honour Capital Limited</idNumber>
-      </id>
-      <id>
-        <uid>141022</uid>
-        <idType>ISIN</idType>
-        <idNumber>XS1233275194</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28542,6 +28581,11 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141157</uid>
+        <idType>ISIN</idType>
+        <idNumber>CN0009003921</idNumber>
+      </id>
+      <id>
         <uid>141158</uid>
         <idType>ISIN</idType>
         <idNumber>CNE1000003T4</idNumber>
@@ -28605,11 +28649,6 @@
         <uid>141433</uid>
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>141157</uid>
-        <idType>ISIN</idType>
-        <idNumber>CN0009003921</idNumber>
       </id>
     </idList>
     <akaList>
@@ -29889,16 +29928,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>147251</uid>
-        <idType>Executive Order 14024 Directive Information</idType>
-        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
-      </id>
-      <id>
-        <uid>147252</uid>
-        <idType>Executive Order 14024 Directive Information -</idType>
-        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
-      </id>
-      <id>
         <uid>147253</uid>
         <idType>Listing Date (EO 14024 Directive 3):</idType>
         <idNumber>24 Feb 2022</idNumber>
@@ -29907,6 +29936,16 @@
         <uid>147254</uid>
         <idType>Effective Date (EO 14024 Directive 3):</idType>
         <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>147251</uid>
+        <idType>Executive Order 14024 Directive Information</idType>
+        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>147252</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
       </id>
       <id>
         <uid>147152</uid>

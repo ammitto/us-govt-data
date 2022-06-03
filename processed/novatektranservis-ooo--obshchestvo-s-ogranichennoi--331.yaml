@@ -18,14 +18,14 @@ address:
   country: Russia
   zip: '629880'
 documents:
+- type: Tax ID No.
+  number: '6330024410'
+  country: 
 - type: Registration ID
   number: '1036301402576'
   country: 
 - type: Government Gazette Number
   number: '14563310'
-  country: 
-- type: Tax ID No.
-  number: '6330024410'
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 2

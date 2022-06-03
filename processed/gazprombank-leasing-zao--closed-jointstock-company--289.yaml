@@ -22,11 +22,11 @@ address:
   country: Russia
   zip: '117342'
 documents:
-- type: Tax ID No.
-  number: '7728294503'
-  country: 
 - type: Registration ID
   number: '1037728033606'
+  country: 
+- type: Tax ID No.
+  number: '7728294503'
   country: 
 - type: Website
   number: www.gpbl.ru

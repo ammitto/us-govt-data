@@ -3,7 +3,10 @@ entity_type: organization
 names:
 - LLC BALTECH
 - " BALTECH LLC"
-- " OOO 'BALTECH'"
+- " OOO BALTECH"
+- " LIMITED LIABILITY CORPORATION BALTECH"
+- " OBSCHESTVO S OGRANICHENNOY OTVETSTVENNOSTYU BALTEKH"
+- " OOO BALTEKH"
 source: us-govt-data
 ref_number: '19992'
 ref_type: Sdn UID
@@ -12,15 +15,24 @@ birthdate:
 remark: 'For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: BANK OF MOSCOW)'
 address:
-- street: "   "
-  city: 
+- street: 'Ulitsa Yunnatov, Dom 3 Liter A, Ofis 15  '
+  city: Saint Petersburg
   state: 
   country: Russia
-  zip: 
+  zip: '192177'
 documents:
+- type: Registration Number
+  number: '1047855168140'
+  country: Russia
+- type: Tax ID No.
+  number: '7840309622'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Organization Established Date
+  number: 16 Dec 2004
   country: 

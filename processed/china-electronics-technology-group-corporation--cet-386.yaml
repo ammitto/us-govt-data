@@ -19,6 +19,9 @@ documents:
 - type: Unified Social Credit Code (USCC)
   number: 91110000710929498G
   country: China
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
 - type: Target Type
   number: State-Owned Enterprise
   country: 
@@ -27,7 +30,4 @@ documents:
   country: 
 - type: Effective Date (CMIC)
   number: 02 Aug 2021
-  country: 
-- type: Purchase/Sales For Divestment Date (CMIC)
-  number: 03 Jun 2022
   country: 

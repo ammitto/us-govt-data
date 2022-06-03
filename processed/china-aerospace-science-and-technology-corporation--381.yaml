@@ -20,9 +20,6 @@ documents:
   number: 91110000100014071Q
   country: China
 - type: ISIN
-  number: CND1000090Q8
-  country: 
-- type: ISIN
   number: CND100006HP7
   country: 
 - type: Target Type
@@ -39,4 +36,7 @@ documents:
   country: 
 - type: Listing Date (CMIC)
   number: 03 Jun 2021
+  country: 
+- type: ISIN
+  number: CND1000090Q8
   country: 
