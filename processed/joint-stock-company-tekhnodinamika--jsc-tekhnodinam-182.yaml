@@ -1,36 +1,35 @@
 ---
 entity_type: organization
 names:
-- OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RT-INFORM
-- " RT-INFORM LIMITED LIABILITY COMPANY"
-- " RT-INFORM, OOO"
-- " RT-INFORM"
+- JOINT STOCK COMPANY TEKHNODINAMIKA
+- " JSC TEKHNODINAMIKA"
+- " AKTSIONERNOE OBSCHESTVO TEKHNODINAMIKA"
+- " AO TEKHNODINAMIKA"
+- " TEKNODINAMIKA JSC"
+- " JOINT STOCK COMPANY AVIATION EQUIPMENT"
 source: us-govt-data
-ref_number: '18788'
+ref_number: '18774'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
-  (Linked To: ROSTEC)'
+  (Linked To: STATE CORPORATION ROSTEC)'
 address:
-- street: 'd. 1 pomeshchenie 1000 ul. Universitetskayap   '
-  city: Innopolis
-  state: Verkhneuslonski Raion, Tatarstan resp.
+- street: 'Ul. Bolshaya Tatarskaya D. 35, Str. 5   '
+  city: Moscow
+  state: 
   country: Russia
-  zip: '420500'
+  zip: '115184'
 documents:
 - type: Registration ID
-  number: '1127746501190'
-  country: 
+  number: '1037719005873'
+  country: Russia
 - type: Government Gazette Number
-  number: '09911571'
-  country: 
+  number: '07543117'
+  country: Russia
 - type: Tax ID No.
-  number: '7704810710'
-  country: 
-- type: Website
-  number: http://www.rtinform.ru
-  country: 
+  number: '7719265496'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 

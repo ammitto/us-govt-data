@@ -2,28 +2,23 @@
 entity_type: organization
 names:
 - BM BANK PUBLIC JOINT STOCK COMPANY
-- " BM BANK JSC"
-- " BM BANK AO"
-- " AKTSIONERNOE OBSHCHESTVO BM BANK"
-- " PAO BM BANK"
-- " BANK MOSKVY PAO"
-- " BANK OF MOSCOW"
-- " AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY OTKRYTOE AKTSIONERNOE OBSCHCHESTVO"
-- " JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW OPEN JOINT STOCK COMPANY"
+- " BMBANK JSC"
+- " PUBLICHNOYE JOINT-STOCK COMPANY BM BANK"
+- " LLC BM BANK"
 source: us-govt-data
 ref_number: '20002'
 ref_type: Sdn UID
-country: Russia
+country: Ukraine
 birthdate: 
 remark: 'All offices worldwide; for more information on directives, please visit the
   following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
-  (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
+  (Linked To: BM BANK JSC)'
 address:
-- street: 'Bld 3 8/15, Rozhdestvenka St.   '
-  city: Moscow
+- street: '37/122 T. Shevchenko bld   '
+  city: Kyiv
   state: 
-  country: Russia
-  zip: '107996'
+  country: Ukraine
+  zip: '01032'
 documents:
 - type: Registration Number
   number: '1027700159497'
@@ -32,19 +27,13 @@ documents:
   number: '29292940'
   country: Russia
 - type: SWIFT/BIC
-  number: MOSWRUMM
+  number: BMLTUAUK
   country: 
 - type: Website
-  number: www.bm.ru
+  number: http://www.bmbank.com.ua
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
-  country: 
-- type: BIK (RU)
-  number: '044525219'
-  country: 
-- type: Target Type
-  number: Financial Institution
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209

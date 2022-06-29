@@ -1,43 +1,37 @@
 ---
 entity_type: organization
 names:
-- AKTSIONERNOE OBSHCHESTVO TEKHNODINAMIKA
-- " JOINT STOCK COMPANY AVIATION EQUIPMENT"
-- " TEKHNODINAMIKA, AO"
-- " TECHNODINAMIKA"
-- " AGREGATNOE KONSTRUKTORSKOE BYURO YAKOR OAO"
+- RT-INFORM LIMITED LIABILITY COMPANY
+- " RT-INFORM LLC"
 source: us-govt-data
-ref_number: '18774'
+ref_number: '18788'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
-  (Linked To: ROSTEC)'
+  (Linked To: STATE CORPORATION ROSTEC)'
 address:
-- street: 'd. 29 ul. Ibragimova   '
+- street: 'Turchaninov Pereulok D. 6 Str. 2, Of. 105  '
   city: Moscow
   state: 
   country: Russia
-  zip: '105318'
+  zip: '119048'
 documents:
 - type: Registration ID
-  number: '1037719005873'
-  country: 
-- type: Government Gazette Number
-  number: '07543117'
-  country: 
+  number: '1127746501190'
+  country: Russia
 - type: Tax ID No.
-  number: '7719265496'
-  country: 
-- type: Email Address
-  number: amuravyeva@avia-equipment.ru
-  country: 
-- type: Website
-  number: www.akbyakor.ru
-  country: 
+  number: '7704810710'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Target Type
+  number: State-Owned Enterprise
+  country: 
+- type: Organization Established Date
+  number: 28 Jun 2012
   country: 

@@ -1,49 +1,39 @@
 ---
 entity_type: organization
 names:
-- AKTSIONERNOE OBSHCHESTVO SHVABE
-- " JOINT STOCK COMPANY SHVABE"
-- " SHVABE OPEN JOINT STOCK COMPANY"
-- " SHVABE, AO"
-- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNY KONTSERN OPTICHESKIE
-  SISTEMY I TECHNOLOGIES"
+- JOINT STOCK COMPANY SHVABE
+- " AKTSIONERNOE OBSHCHESTVO SHVABE"
+- " AO SHVABE"
+- " SHVABE PAO"
 source: us-govt-data
 ref_number: '18779'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
-  (Linked To: ROSTEC)'
+  (Linked To: STATE CORPORATION ROSTEC)'
 address:
-- street: 'd. 33 B ul. Vostochnaya   '
-  city: Ekaterinburg
-  state: Sverdlovskaya obl.
-  country: Russia
-  zip: '620100'
-- street: '33b, Vostochnaya St.   '
-  city: Yekaterinburg City
+- street: '176, Prospekt Mira   '
+  city: Moscow
   state: 
   country: Russia
-  zip: 
+  zip: '129366'
 documents:
 - type: Registration ID
   number: '1107746256727'
-  country: 
+  country: Russia
 - type: Government Gazette Number
   number: '07508641'
-  country: 
+  country: Russia
 - type: Tax ID No.
   number: '7717671799'
-  country: 
-- type: Email Address
-  number: mail@shvabe.com
-  country: 
-- type: Website
-  number: http://www.shvabe.com
-  country: 
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Target Type
+  number: State-Owned Enterprise
   country: 

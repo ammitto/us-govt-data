@@ -1,15 +1,21 @@
 ---
 entity_type: organization
 names:
-- BANK OF MOSCOW
-- " JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW, OPEN JOINT STOCK COMPANY"
-- " AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY, OTKRYTOE AKTSIONERNOE OBSCHCHESTVO"
+- BM BANK JSC
+- " JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW OPEN JOINT STOCK COMPANY"
+- " AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY OTKRYTOE AKTSIONERNOE OBSCHCHESTVO"
+- " BANK MOSKVY PAO"
+- " BANK OF MOSCOW"
+- " BM BANK PUBLIC JOINT STOCK COMPANY"
+- " PAO BM BANK"
+- " BM BANK AO"
 source: us-govt-data
 ref_number: '17017'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
-remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
+remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
+  (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
 address:
 - street: '8/15 Korp. 3 ul. Rozhdestvenka   '
   city: Moscow
@@ -24,21 +30,12 @@ address:
 documents:
 - type: Registration ID
   number: '1027700159497'
-  country: 
+  country: Russia
 - type: Government Gazette Number
   number: '29292940'
-  country: 
+  country: Russia
 - type: SWIFT/BIC
   number: MOSWRUMM
-  country: 
-- type: Website
-  number: www.bm.ru
-  country: 
-- type: Email Address
-  number: holmogorov_ss@mmbank.ru
-  country: 
-- type: Email Address
-  number: info@mmbank.ru
   country: 
 - type: BIK (RU)
   number: '044525219'
@@ -48,4 +45,7 @@ documents:
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Target Type
+  number: Financial Institution
   country: 

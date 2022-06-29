@@ -5,17 +5,15 @@ names:
 - " RUSSIAN DEFENSE EXPORT ROSOBORONEXPORT"
 - " ROSOBORONEXPORT JSC"
 - " ROSOBORONEKSPORT OJSC"
-- " OJSC ROSOBORONEXPORT"
-- " ROSOBORONEXPORT"
 source: us-govt-data
 ref_number: '18782'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
-  (Linked To: ROSTEC)'
+  (Linked To: STATE CORPORATION ROSTEC)'
 address:
-- street: '27 Stromynka ul.   '
+- street: '27 Stromynka Ul.   '
   city: Moscow
   state: 
   country: Russia
@@ -23,13 +21,13 @@ address:
 documents:
 - type: Registration ID
   number: '1117746521452'
-  country: 
+  country: Russia
 - type: Government Gazette Number
   number: '56467052'
-  country: 
+  country: Russia
 - type: Tax ID No.
   number: '7718852163'
-  country: 
+  country: Russia
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

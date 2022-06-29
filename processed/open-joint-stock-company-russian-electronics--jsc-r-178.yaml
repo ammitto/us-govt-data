@@ -1,45 +1,40 @@
 ---
 entity_type: organization
 names:
-- ROSSISKAYA ELEKTRONIKA OAO
-- " ROSELEKTRONIKA OAO"
-- " RUSSIAN ELECTRONICS OPEN JOINT STOCK COMPANY"
+- OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS
 - " JSC RUSELECTRONICS"
-- " RUSELECTRONICS JSC"
-- " RUSELEKTRONICS"
-- " RUSELECTRONICS"
-- " RUSSIAN ELECTRONICS"
+- " AO ROSELEKTRONIKA"
+- " JSC RUSSIAN ELECTRONICS"
 source: us-govt-data
 ref_number: '18770'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
-  (Linked To: ROSTEC)'
+  (Linked To: STATE CORPORATION ROSTEC)'
 address:
-- street: '12 Kosmonavta Volkova ul.   '
+- street: '12 Kosmonavta Volkova   '
   city: Moscow
   state: 
   country: Russia
   zip: '127299'
+- street: 'Ul. Vereiskaya D. 29 Str. 141  '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '121357'
 documents:
 - type: Registration ID
   number: '1027739000475'
-  country: 
+  country: Russia
 - type: Government Gazette Number
   number: '48532918'
-  country: 
+  country: Russia
 - type: Tax ID No.
   number: '7710277994'
-  country: 
-- type: Email Address
-  number: info@ruselectronics.ru
-  country: 
-- type: Website
-  number: www.ruselectronics.ru
-  country: 
-- type: Website
-  number: www.roselgroup.com
+  country: Russia
+- type: Target Type
+  number: State-Owned Enterprise
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3

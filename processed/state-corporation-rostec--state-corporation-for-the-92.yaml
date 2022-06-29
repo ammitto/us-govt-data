@@ -1,15 +1,9 @@
 ---
 entity_type: organization
 names:
-- ROSTEC
-- " STATE CORPORATION FOR ASSISTANCE TO DEVELOPMENT, PRODUCTION AND EXPORT OF ADVANCED
-  TECHNOLOGY INDUSTRIAL PRODUCT ROSTEKHNOLOGII"
-- " STATE CORPORATION ROSTEKHNOLOGII"
-- " ROSTEC STATE CORPORATION"
-- " RUSSIAN TECHNOLOGIES STATE CORPORATION FOR ASSISTANCE TO DEVELOPMENT, PRODUCTION
-  AND EXPORT OF ADVANCED TECHNOLOGY INDUSTRIAL PRODUCT"
-- " RUSSIAN TECHNOLOGIES"
-- " STATE CORPORATION ROSTECHNOLOGII"
+- STATE CORPORATION ROSTEC
+- " STATE CORPORATION FOR THE PROMOTION OF THE DEVELOPMENT, MANUFACTURE, AND EXPORT
+  OF HIGH TECH PRODUCTS ROSTEC"
 source: us-govt-data
 ref_number: '17260'
 ref_type: Sdn UID
@@ -17,7 +11,7 @@ country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'
 address:
-- street: '24 Usacheva ul.   '
+- street: '24 Usacheva Str.   '
   city: Moscow
   state: 
   country: Russia
@@ -37,11 +31,8 @@ documents:
 - type: Government Gazette Number
   number: '94137372'
   country: Russia
-- type: Email Address
-  number: info@rostec.ru
-  country: 
-- type: Website
-  number: www.rostec.ru
+- type: Organization Established Date
+  number: 03 Dec 2007
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3

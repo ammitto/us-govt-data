@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>06/02/2022</Publish_Date>
+    <Publish_Date>06/28/2022</Publish_Date>
     <Record_Count>449</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -3050,42 +3050,30 @@
   </sdnEntry>
   <sdnEntry>
     <uid>17017</uid>
-    <lastName>BANK OF MOSCOW</lastName>
+    <lastName>BM BANK JSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>9498</uid>
         <idType>Registration ID</idType>
         <idNumber>1027700159497</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>9499</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>29292940</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>115752</uid>
         <idType>SWIFT/BIC</idType>
         <idNumber>MOSWRUMM</idNumber>
-      </id>
-      <id>
-        <uid>115753</uid>
-        <idType>Website</idType>
-        <idNumber>www.bm.ru</idNumber>
-      </id>
-      <id>
-        <uid>115754</uid>
-        <idType>Email Address</idType>
-        <idNumber>holmogorov_ss@mmbank.ru</idNumber>
-      </id>
-      <id>
-        <uid>115755</uid>
-        <idType>Email Address</idType>
-        <idNumber>info@mmbank.ru</idNumber>
       </id>
       <id>
         <uid>115819</uid>
@@ -3102,19 +3090,54 @@
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
+      <id>
+        <uid>152962</uid>
+        <idType>Target Type</idType>
+        <idNumber>Financial Institution</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>26099</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW, OPEN JOINT STOCK COMPANY</lastName>
+        <lastName>JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW OPEN JOINT STOCK COMPANY</lastName>
       </aka>
       <aka>
         <uid>26100</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY, OTKRYTOE AKTSIONERNOE OBSCHCHESTVO</lastName>
+        <lastName>AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY OTKRYTOE AKTSIONERNOE OBSCHCHESTVO</lastName>
+      </aka>
+      <aka>
+        <uid>59455</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK MOSKVY PAO</lastName>
+      </aka>
+      <aka>
+        <uid>59456</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>BANK OF MOSCOW</lastName>
+      </aka>
+      <aka>
+        <uid>59457</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BM BANK PUBLIC JOINT STOCK COMPANY</lastName>
+      </aka>
+      <aka>
+        <uid>59458</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>PAO BM BANK</lastName>
+      </aka>
+      <aka>
+        <uid>59459</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>BM BANK AO</lastName>
       </aka>
     </akaList>
     <addressList>
@@ -3965,10 +3988,11 @@
   </sdnEntry>
   <sdnEntry>
     <uid>17260</uid>
-    <lastName>ROSTEC</lastName>
+    <lastName>STATE CORPORATION ROSTEC</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.</remarks>
     <programList>
+      <program>RUSSIA-EO14024</program>
       <program>UKRAINE-EO13662</program>
     </programList>
     <idList>
@@ -3991,14 +4015,9 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>116130</uid>
-        <idType>Email Address</idType>
-        <idNumber>info@rostec.ru</idNumber>
-      </id>
-      <id>
-        <uid>116131</uid>
-        <idType>Website</idType>
-        <idNumber>www.rostec.ru</idNumber>
+        <uid>152816</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>03 Dec 2007</idNumber>
       </id>
       <id>
         <uid>116150</uid>
@@ -4013,46 +4032,16 @@
     </idList>
     <akaList>
       <aka>
-        <uid>26591</uid>
+        <uid>59376</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>STATE CORPORATION FOR ASSISTANCE TO DEVELOPMENT, PRODUCTION AND EXPORT OF ADVANCED TECHNOLOGY INDUSTRIAL PRODUCT ROSTEKHNOLOGII</lastName>
-      </aka>
-      <aka>
-        <uid>26592</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>STATE CORPORATION ROSTEKHNOLOGII</lastName>
-      </aka>
-      <aka>
-        <uid>26593</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>ROSTEC STATE CORPORATION</lastName>
-      </aka>
-      <aka>
-        <uid>26594</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>RUSSIAN TECHNOLOGIES STATE CORPORATION FOR ASSISTANCE TO DEVELOPMENT, PRODUCTION AND EXPORT OF ADVANCED TECHNOLOGY INDUSTRIAL PRODUCT</lastName>
-      </aka>
-      <aka>
-        <uid>26595</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>RUSSIAN TECHNOLOGIES</lastName>
-      </aka>
-      <aka>
-        <uid>26596</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>STATE CORPORATION ROSTECHNOLOGII</lastName>
+        <lastName>STATE CORPORATION FOR THE PROMOTION OF THE DEVELOPMENT, MANUFACTURE, AND EXPORT OF HIGH TECH PRODUCTS ROSTEC</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>26319</uid>
-        <address1>24 Usacheva ul.</address1>
+        <address1>24 Usacheva Str.</address1>
         <city>Moscow</city>
         <postalCode>119048</postalCode>
         <country>Russia</country>
@@ -9819,7 +9808,7 @@
     <uid>18768</uid>
     <lastName>RT - GLOBALNYE RESURSY OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -9889,7 +9878,7 @@
     <uid>18769</uid>
     <lastName>JSC NPO HIGH PRECISION SYSTEMS</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
       <program>RUSSIA-EO14024</program>
@@ -9974,42 +9963,36 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18770</uid>
-    <lastName>ROSSISKAYA ELEKTRONIKA OAO</lastName>
+    <lastName>OPEN JOINT STOCK COMPANY RUSSIAN ELECTRONICS</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>11020</uid>
         <idType>Registration ID</idType>
         <idNumber>1027739000475</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11021</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>48532918</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11022</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7710277994</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118235</uid>
-        <idType>Email Address</idType>
-        <idNumber>info@ruselectronics.ru</idNumber>
-      </id>
-      <id>
-        <uid>118236</uid>
-        <idType>Website</idType>
-        <idNumber>www.ruselectronics.ru</idNumber>
-      </id>
-      <id>
-        <uid>118237</uid>
-        <idType>Website</idType>
-        <idNumber>www.roselgroup.com</idNumber>
+        <uid>152844</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
       </id>
       <id>
         <uid>118238</uid>
@@ -10024,54 +10007,38 @@
     </idList>
     <akaList>
       <aka>
-        <uid>29501</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>ROSELEKTRONIKA OAO</lastName>
-      </aka>
-      <aka>
-        <uid>29502</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>RUSSIAN ELECTRONICS OPEN JOINT STOCK COMPANY</lastName>
-      </aka>
-      <aka>
         <uid>29503</uid>
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>JSC RUSELECTRONICS</lastName>
       </aka>
       <aka>
-        <uid>29504</uid>
+        <uid>59392</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>RUSELECTRONICS JSC</lastName>
+        <lastName>AO ROSELEKTRONIKA</lastName>
       </aka>
       <aka>
-        <uid>29505</uid>
+        <uid>59393</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>RUSELEKTRONICS</lastName>
-      </aka>
-      <aka>
-        <uid>29506</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>RUSELECTRONICS</lastName>
-      </aka>
-      <aka>
-        <uid>29507</uid>
-        <type>a.k.a.</type>
-        <category>weak</category>
-        <lastName>RUSSIAN ELECTRONICS</lastName>
+        <lastName>JSC RUSSIAN ELECTRONICS</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28535</uid>
-        <address1>12 Kosmonavta Volkova ul.</address1>
+        <address1>12 Kosmonavta Volkova</address1>
         <city>Moscow</city>
         <postalCode>127299</postalCode>
+        <country>Russia</country>
+      </address>
+      <address>
+        <uid>56615</uid>
+        <address1>Ul. Vereiskaya D. 29</address1>
+        <address2>Str. 141</address2>
+        <city>Moscow</city>
+        <postalCode>121357</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -10080,7 +10047,7 @@
     <uid>18771</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE TEKHNOPROMEKSPORT</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -10173,7 +10140,7 @@
     <uid>18772</uid>
     <lastName>NPK TEKHMASH OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
       <program>RUSSIA-EO14024</program>
@@ -10267,7 +10234,7 @@
     <uid>18773</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO KONTSERN AVIATSIONNOE OBORUDOVANIE</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -10353,37 +10320,31 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18774</uid>
-    <lastName>AKTSIONERNOE OBSHCHESTVO TEKHNODINAMIKA</lastName>
+    <lastName>JOINT STOCK COMPANY TEKHNODINAMIKA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>11032</uid>
         <idType>Registration ID</idType>
         <idNumber>1037719005873</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11033</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>07543117</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11034</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7719265496</idNumber>
-      </id>
-      <id>
-        <uid>118245</uid>
-        <idType>Email Address</idType>
-        <idNumber>amuravyeva@avia-equipment.ru</idNumber>
-      </id>
-      <id>
-        <uid>118246</uid>
-        <idType>Website</idType>
-        <idNumber>www.akbyakor.ru</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>118263</uid>
@@ -10398,36 +10359,42 @@
     </idList>
     <akaList>
       <aka>
-        <uid>29533</uid>
+        <uid>59279</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>JSC TEKHNODINAMIKA</lastName>
+      </aka>
+      <aka>
+        <uid>59280</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AKTSIONERNOE OBSCHESTVO TEKHNODINAMIKA</lastName>
+      </aka>
+      <aka>
+        <uid>59281</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>AO TEKHNODINAMIKA</lastName>
+      </aka>
+      <aka>
+        <uid>59282</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>TEKNODINAMIKA JSC</lastName>
+      </aka>
+      <aka>
+        <uid>59283</uid>
         <type>a.k.a.</type>
         <category>strong</category>
         <lastName>JOINT STOCK COMPANY AVIATION EQUIPMENT</lastName>
-      </aka>
-      <aka>
-        <uid>29534</uid>
-        <type>a.k.a.</type>
-        <category>weak</category>
-        <lastName>TEKHNODINAMIKA, AO</lastName>
-      </aka>
-      <aka>
-        <uid>29535</uid>
-        <type>a.k.a.</type>
-        <category>weak</category>
-        <lastName>TECHNODINAMIKA</lastName>
-      </aka>
-      <aka>
-        <uid>29536</uid>
-        <type>f.k.a.</type>
-        <category>strong</category>
-        <lastName>AGREGATNOE KONSTRUKTORSKOE BYURO YAKOR OAO</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28544</uid>
-        <address1>d. 29 ul. Ibragimova</address1>
+        <address1>Ul. Bolshaya Tatarskaya D. 35, Str. 5</address1>
         <city>Moscow</city>
-        <postalCode>105318</postalCode>
+        <postalCode>115184</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -10436,7 +10403,7 @@
     <uid>18775</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO RT-STANKOINSTRUMENT</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -10517,7 +10484,7 @@
     <uid>18776</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO RT-KHIMICHESKIE TEKHNOLOGII I KOMPOZITSIONNYE MATERIALY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -10612,7 +10579,7 @@
     <uid>18777</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO RT-BIOTEKHPROM</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -10687,7 +10654,7 @@
     <uid>18778</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO RT-AVTO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -10767,37 +10734,31 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18779</uid>
-    <lastName>AKTSIONERNOE OBSHCHESTVO SHVABE</lastName>
+    <lastName>JOINT STOCK COMPANY SHVABE</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>11047</uid>
         <idType>Registration ID</idType>
         <idNumber>1107746256727</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11048</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>07508641</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11049</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7717671799</idNumber>
-      </id>
-      <id>
-        <uid>118256</uid>
-        <idType>Email Address</idType>
-        <idNumber>mail@shvabe.com</idNumber>
-      </id>
-      <id>
-        <uid>118257</uid>
-        <idType>Website</idType>
-        <idNumber>http://www.shvabe.com</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>118258</uid>
@@ -10809,46 +10770,38 @@
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
+      <id>
+        <uid>152758</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
-        <uid>29562</uid>
+        <uid>59276</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>JOINT STOCK COMPANY SHVABE</lastName>
+        <lastName>AKTSIONERNOE OBSHCHESTVO SHVABE</lastName>
       </aka>
       <aka>
-        <uid>29563</uid>
+        <uid>59277</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>SHVABE OPEN JOINT STOCK COMPANY</lastName>
+        <lastName>AO SHVABE</lastName>
       </aka>
       <aka>
-        <uid>29564</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>SHVABE, AO</lastName>
-      </aka>
-      <aka>
-        <uid>29565</uid>
+        <uid>59278</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NAUCHNO PROIZVODSTVENNY KONTSERN OPTICHESKIE SISTEMY I TECHNOLOGIES</lastName>
+        <lastName>SHVABE PAO</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
-        <uid>28554</uid>
-        <address1>d. 33 B ul. Vostochnaya</address1>
-        <city>Ekaterinburg</city>
-        <stateOrProvince>Sverdlovskaya obl.</stateOrProvince>
-        <postalCode>620100</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>28555</uid>
-        <address1>33b, Vostochnaya St.</address1>
-        <city>Yekaterinburg City</city>
+        <uid>56525</uid>
+        <address1>176, Prospekt Mira</address1>
+        <city>Moscow</city>
+        <postalCode>129366</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -10857,7 +10810,7 @@
     <uid>18780</uid>
     <lastName>OBSCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU PROMINVEST</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -10916,7 +10869,7 @@
     <uid>18781</uid>
     <lastName>OBIEDINENNAYA PROMYSHLENNAYA KORPORATSIYA OBORONPROM OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11003,8 +10956,9 @@
     <uid>18782</uid>
     <lastName>ROSOBORONEKSPORT OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
+      <program>RUSSIA-EO14024</program>
       <program>SYRIA</program>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11013,16 +10967,19 @@
         <uid>11056</uid>
         <idType>Registration ID</idType>
         <idNumber>1117746521452</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11057</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>56467052</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11058</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7718852163</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>151207</uid>
@@ -11059,23 +11016,11 @@
         <category>strong</category>
         <lastName>ROSOBORONEKSPORT OJSC</lastName>
       </aka>
-      <aka>
-        <uid>29579</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>OJSC ROSOBORONEXPORT</lastName>
-      </aka>
-      <aka>
-        <uid>29580</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>ROSOBORONEXPORT</lastName>
-      </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28561</uid>
-        <address1>27 Stromynka ul.</address1>
+        <address1>27 Stromynka Ul.</address1>
         <city>Moscow</city>
         <postalCode>107076</postalCode>
         <country>Russia</country>
@@ -11086,7 +11031,7 @@
     <uid>18783</uid>
     <lastName>KONTSERN SIRIUS OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11150,7 +11095,7 @@
     <uid>18784</uid>
     <lastName>JOINT STOCK COMMERCIAL BANK NOVIKOMBANK</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide. For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>All offices worldwide. For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
       <program>RUSSIA-EO14024</program>
@@ -11248,7 +11193,7 @@
     <uid>18785</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO RT-OKHRANA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11330,7 +11275,7 @@
     <uid>18786</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO TEKHNOLOGII BEZOPASNOSTI</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11395,7 +11340,7 @@
     <uid>18787</uid>
     <lastName>UNITED INSTRUMENT MANUFACTURING CORPORATION</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11454,32 +11399,25 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18788</uid>
-    <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RT-INFORM</lastName>
+    <lastName>RT-INFORM LIMITED LIABILITY COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>11071</uid>
         <idType>Registration ID</idType>
         <idNumber>1127746501190</idNumber>
-      </id>
-      <id>
-        <uid>11072</uid>
-        <idType>Government Gazette Number</idType>
-        <idNumber>09911571</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11073</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7704810710</idNumber>
-      </id>
-      <id>
-        <uid>118449</uid>
-        <idType>Website</idType>
-        <idNumber>http://www.rtinform.ru</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>118280</uid>
@@ -11491,34 +11429,32 @@
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
+      <id>
+        <uid>152857</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
+        <uid>152856</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>28 Jun 2012</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
-        <uid>29603</uid>
+        <uid>59395</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>RT-INFORM LIMITED LIABILITY COMPANY</lastName>
-      </aka>
-      <aka>
-        <uid>29604</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>RT-INFORM, OOO</lastName>
-      </aka>
-      <aka>
-        <uid>29605</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>RT-INFORM</lastName>
+        <lastName>RT-INFORM LLC</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28576</uid>
-        <address1>d. 1 pomeshchenie 1000 ul. Universitetskayap</address1>
-        <city>Innopolis</city>
-        <stateOrProvince>Verkhneuslonski Raion, Tatarstan resp.</stateOrProvince>
-        <postalCode>420500</postalCode>
+        <address1>Turchaninov Pereulok D. 6</address1>
+        <address2>Str. 2, Of. 105</address2>
+        <city>Moscow</city>
+        <postalCode>119048</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -11527,7 +11463,7 @@
     <uid>18789</uid>
     <lastName>KONTSERN ORION OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11581,7 +11517,7 @@
     <uid>18790</uid>
     <lastName>RT-METALLURGIYA OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11630,7 +11566,7 @@
     <uid>18791</uid>
     <lastName>KONTSERN AVIAPRIBOROSTROENIE OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11684,7 +11620,7 @@
     <uid>18792</uid>
     <lastName>90 EKSPERIMENTALNY ZAVOD OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11738,7 +11674,7 @@
     <uid>18793</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO TSENTRALNOE KONSTRUKTORSKOE BYURO SPETSIALNYKH RADIOMATERIALOV</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11836,7 +11772,7 @@
     <uid>18794</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO MOSKOVSKI MASHINOSTROITELNY EKSPERIMENTALNY ZAVOD - KOMPOZITSIONNYE TEKHNOLOGII</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -11930,7 +11866,7 @@
     <uid>18795</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVO-VYATKA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12013,7 +11949,7 @@
     <uid>18808</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE OPTIKA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12096,7 +12032,7 @@
     <uid>18809</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO VNESHNEEKONOMICHESKOE OBEDINENIE STANKOIMPORT</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12177,7 +12113,7 @@
     <uid>18810</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKOE PROIZVODSTVENNOE OBEDINENIE LUCH</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12248,7 +12184,7 @@
     <uid>18811</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NAUCHNO-PROIZVODSTVENNOE OBEDINENIE SPLAV</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12325,7 +12261,7 @@
     <uid>18812</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVOVYATSKI MEKHANICHESKI ZAVOD</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12408,7 +12344,7 @@
     <uid>18813</uid>
     <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU RT-ENERGOEFFEKTIVNOST</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12479,7 +12415,7 @@
     <uid>18814</uid>
     <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO KALINOVSKI KHIMICHESKI ZAVOD</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12561,7 +12497,7 @@
     <uid>18815</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO NOVOSIBIRSKI ZAVOD POLUPROVODNIKOVYKH PRIBOROV S OKB</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12638,7 +12574,7 @@
     <uid>18816</uid>
     <lastName>AKTSIONERNOE OBSHCHESTVO RT-STROITELNYE TEKHNOLOGII</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12714,7 +12650,7 @@
     <uid>18817</uid>
     <lastName>MZ MAYAK OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12774,7 +12710,7 @@
     <uid>18818</uid>
     <lastName>ULYANOVSKI GIPROAVIAPROM OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12834,7 +12770,7 @@
     <uid>18819</uid>
     <lastName>OBEDINENNAYA DVIGATELESTROITELNAYA KORPORATSIYA OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -12909,7 +12845,7 @@
     <uid>18820</uid>
     <lastName>VERTOLETY ROSSII AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: ROSTEC)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
       <program>RUSSIA-EO14024</program>
@@ -16603,7 +16539,7 @@
     <uid>19989</uid>
     <lastName>SG MSK, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16687,7 +16623,7 @@
     <uid>19990</uid>
     <lastName>BM PROEKT, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16767,7 +16703,7 @@
     <uid>19992</uid>
     <lastName>LLC BALTECH</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16847,7 +16783,7 @@
     <uid>19993</uid>
     <lastName>BM HOLDING AG</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16898,7 +16834,7 @@
     <uid>19995</uid>
     <lastName>BOM ASSET MANAGEMENT LTD</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16927,7 +16863,7 @@
     <uid>19996</uid>
     <lastName>BOM FINANCE LTD</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16956,7 +16892,7 @@
     <uid>19997</uid>
     <lastName>BOM PROJECT FINANCING LTD</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -16993,7 +16929,7 @@
     <uid>19998</uid>
     <lastName>CROSSPLANET LTD</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17023,7 +16959,7 @@
     <uid>19999</uid>
     <lastName>FINANSOVY ASSISTENT CJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17066,7 +17002,7 @@
     <uid>20000</uid>
     <lastName>BPO PECHATNIKI, OAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17132,7 +17068,7 @@
     <uid>20001</uid>
     <lastName>UNITED COMPANY OJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17188,10 +17124,9 @@
     <uid>20002</uid>
     <lastName>BM BANK PUBLIC JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>All offices worldwide; for more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
+    <remarks>All offices worldwide; for more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
-      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
@@ -17209,27 +17144,17 @@
       <id>
         <uid>120487</uid>
         <idType>SWIFT/BIC</idType>
-        <idNumber>MOSWRUMM</idNumber>
+        <idNumber>BMLTUAUK</idNumber>
       </id>
       <id>
         <uid>120489</uid>
         <idType>Website</idType>
-        <idNumber>www.bm.ru</idNumber>
+        <idNumber>http://www.bmbank.com.ua</idNumber>
       </id>
       <id>
         <uid>120850</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>146554</uid>
-        <idType>BIK (RU)</idType>
-        <idNumber>044525219</idNumber>
-      </id>
-      <id>
-        <uid>146657</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
       </id>
       <id>
         <uid>151133</uid>
@@ -17239,61 +17164,31 @@
     </idList>
     <akaList>
       <aka>
-        <uid>54959</uid>
+        <uid>58272</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>BM BANK JSC</lastName>
+        <lastName>BMBANK JSC</lastName>
       </aka>
       <aka>
-        <uid>54960</uid>
+        <uid>58273</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>BM BANK AO</lastName>
+        <lastName>PUBLICHNOYE JOINT-STOCK COMPANY BM BANK</lastName>
       </aka>
       <aka>
-        <uid>54961</uid>
+        <uid>58274</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>AKTSIONERNOE OBSHCHESTVO BM BANK</lastName>
-      </aka>
-      <aka>
-        <uid>54962</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>PAO BM BANK</lastName>
-      </aka>
-      <aka>
-        <uid>54963</uid>
-        <type>f.k.a.</type>
-        <category>strong</category>
-        <lastName>BANK MOSKVY PAO</lastName>
-      </aka>
-      <aka>
-        <uid>54964</uid>
-        <type>f.k.a.</type>
-        <category>strong</category>
-        <lastName>BANK OF MOSCOW</lastName>
-      </aka>
-      <aka>
-        <uid>54965</uid>
-        <type>f.k.a.</type>
-        <category>strong</category>
-        <lastName>AKTSIONERNY KOMMERCHESKI BANK BANK MOSKVY OTKRYTOE AKTSIONERNOE OBSCHCHESTVO</lastName>
-      </aka>
-      <aka>
-        <uid>54966</uid>
-        <type>f.k.a.</type>
-        <category>strong</category>
-        <lastName>JOINT STOCK COMMERCIAL BANK - BANK OF MOSCOW OPEN JOINT STOCK COMPANY</lastName>
+        <lastName>LLC BM BANK</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
-        <uid>52491</uid>
-        <address1>Bld 3 8/15, Rozhdestvenka St.</address1>
-        <city>Moscow</city>
-        <postalCode>107996</postalCode>
-        <country>Russia</country>
+        <uid>55565</uid>
+        <address1>37/122 T. Shevchenko bld</address1>
+        <city>Kyiv</city>
+        <postalCode>01032</postalCode>
+        <country>Ukraine</country>
       </address>
     </addressList>
   </sdnEntry>
@@ -17301,7 +17196,7 @@
     <uid>20003</uid>
     <lastName>LESPROMPROTSESSING, ZAO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17374,7 +17269,7 @@
     <uid>20005</uid>
     <lastName>RIELTSITI, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17459,7 +17354,7 @@
     <uid>20006</uid>
     <lastName>MEZHDUNARODNAYA UPRAVLYAYUSHCHAYA KOMPANIYA, AO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17539,7 +17434,7 @@
     <uid>20007</uid>
     <lastName>BM-DIREKTSIYA, OOO</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17610,7 +17505,7 @@
     <uid>20008</uid>
     <lastName>OPEN JOINT STOCK COMPANY CHAYKA</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
@@ -17670,7 +17565,7 @@
     <uid>20009</uid>
     <lastName>AUTOMATED BANKING TECHNOLOGIES CJSC</lastName>
     <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BANK OF MOSCOW)</remarks>
+    <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: BM BANK JSC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
     </programList>
