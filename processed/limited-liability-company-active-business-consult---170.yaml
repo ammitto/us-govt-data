@@ -1,11 +1,12 @@
 ---
 entity_type: organization
 names:
-- ACTIVEBUSINESSCOLLECTION LIMITED LIABILITY COMPANY
+- LIMITED LIABILITY COMPANY ACTIVE BUSINESS CONSULT
 - " LLC ACTIVEBUSINESSCOLLECTION"
 - " AKTIVBIZNESKOLLEKSHN, OOO"
 - " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU AKTIVBIZNESKOLLEKSHN"
 - " LIMITED LIABILITY COMPANY ACTIVEBUSINESSCOLLECTION"
+- " ABC LLC"
 source: us-govt-data
 ref_number: '18748'
 ref_type: Sdn UID
@@ -14,7 +15,7 @@ birthdate:
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)'
 address:
-- street: 'd. 19 ul. Vavilova   '
+- street: '19 Vavilova St.   '
   city: Moscow
   state: 
   country: Russia
@@ -22,6 +23,9 @@ address:
 documents:
 - type: Registration ID
   number: '1137746390572'
+  country: Russia
+- type: Tax ID No.
+  number: '7736659589'
   country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1

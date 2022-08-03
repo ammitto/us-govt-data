@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>06/28/2022</Publish_Date>
+    <Publish_Date>08/02/2022</Publish_Date>
     <Record_Count>449</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -9317,17 +9317,24 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18748</uid>
-    <lastName>ACTIVEBUSINESSCOLLECTION LIMITED LIABILITY COMPANY</lastName>
+    <lastName>LIMITED LIABILITY COMPANY ACTIVE BUSINESS CONSULT</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: PUBLIC JOINT STOCK COMPANY SBERBANK OF RUSSIA)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>10999</uid>
         <idType>Registration ID</idType>
         <idNumber>1137746390572</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>26721</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7736659589</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -9366,11 +9373,17 @@
         <category>strong</category>
         <lastName>LIMITED LIABILITY COMPANY ACTIVEBUSINESSCOLLECTION</lastName>
       </aka>
+      <aka>
+        <uid>58796</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>ABC LLC</lastName>
+      </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28501</uid>
-        <address1>d. 19 ul. Vavilova</address1>
+        <address1>19 Vavilova St.</address1>
         <city>Moscow</city>
         <postalCode>117997</postalCode>
         <country>Russia</country>
