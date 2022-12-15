@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>08/02/2022</Publish_Date>
-    <Record_Count>449</Record_Count>
+    <Publish_Date>12/12/2022</Publish_Date>
+    <Record_Count>447</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -4052,63 +4052,6 @@
         <city>Moscow</city>
         <postalCode>119991</postalCode>
         <country>Russia</country>
-      </address>
-    </addressList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>17526</uid>
-    <firstName>Halis</firstName>
-    <lastName>BEKTAS</lastName>
-    <sdnType>Individual</sdnType>
-    <programList>
-      <program>SYRIA</program>
-      <program>FSE-SY</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>9869</uid>
-        <idType>Passport</idType>
-        <idNumber>X0906223</idNumber>
-        <idCountry>Switzerland</idCountry>
-      </id>
-    </idList>
-    <citizenshipList>
-      <citizenship>
-        <uid>16500</uid>
-        <country>Switzerland</country>
-        <mainEntry>true</mainEntry>
-      </citizenship>
-    </citizenshipList>
-    <dateOfBirthList>
-      <dateOfBirthItem>
-        <uid>16499</uid>
-        <dateOfBirth>13 Feb 1966</dateOfBirth>
-        <mainEntry>true</mainEntry>
-      </dateOfBirthItem>
-    </dateOfBirthList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>17527</uid>
-    <lastName>RIXO INTERNATIONAL TRADING LTD.</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>FSE-SY</program>
-      <program>SYRIA</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>116501</uid>
-        <idType>Website</idType>
-        <idNumber>http://www.rixointernational.com</idNumber>
-      </id>
-    </idList>
-    <addressList>
-      <address>
-        <uid>26683</uid>
-        <address1>Lindenstrasse 2</address1>
-        <city>Baar</city>
-        <postalCode>6340</postalCode>
-        <country>Switzerland</country>
       </address>
     </addressList>
   </sdnEntry>
@@ -17391,14 +17334,14 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>143875</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-      <id>
         <uid>120882</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>143875</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -19848,11 +19791,6 @@
         <idNumber>2354003059</idNumber>
       </id>
       <id>
-        <uid>121259</uid>
-        <idType>Email Address</idType>
-        <idNumber>72307@mail.ru</idNumber>
-      </id>
-      <id>
         <uid>121964</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
@@ -19861,6 +19799,11 @@
         <uid>143437</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>121259</uid>
+        <idType>Email Address</idType>
+        <idNumber>72307@mail.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -20381,11 +20324,6 @@
         <idNumber>8911020768</idNumber>
       </id>
       <id>
-        <uid>121977</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 2</idNumber>
-      </id>
-      <id>
         <uid>121265</uid>
         <idType>Email Address</idType>
         <idNumber>global@tsng.novatek.ru</idNumber>
@@ -20394,6 +20332,11 @@
         <uid>143442</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>121977</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 2</idNumber>
       </id>
     </idList>
     <akaList>
@@ -20570,11 +20513,6 @@
     </programList>
     <idList>
       <id>
-        <uid>12797</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>6330024410</idNumber>
-      </id>
-      <id>
         <uid>12795</uid>
         <idType>Registration ID</idType>
         <idNumber>1036301402576</idNumber>
@@ -20583,6 +20521,11 @@
         <uid>12796</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>14563310</idNumber>
+      </id>
+      <id>
+        <uid>12797</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>6330024410</idNumber>
       </id>
       <id>
         <uid>121967</uid>
