@@ -1,36 +1,41 @@
 ---
 entity_type: organization
 names:
-- JOINT STOCK COMPANY HALS-DEVELOPMENT
-- " HALS-DEVELOPMENT JSC"
-- " OTKRYTOE AKTSIONERNOE OBSHCHESTVO GALS DEVELOPMENT"
-- " GALS-DEVELOPMENT, OAO"
-- " HALS-DEVELOPMENT, OJSC"
-- " HALS DEVELOPMENT OJSC"
-- " ZAKRYTOE AKTSIONERNOE OBSHCHESTVO SISTEMA HALS"
+- VTB REAL ESTATE LIMITED LIABILITY COMPANY
+- " VTB NEDVIZHIMOST, OOO"
+- " VTB REAL ESTATE, LLC"
 source: us-govt-data
-ref_number: '18740'
+ref_number: '18735'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
 address:
-- street: 'd. 35 str. 4 ul. Tatarskaya B   '
+- street: 'd. 10 etazh 7 (BLOK A), Naberezhnaya Presnenskaya   '
   city: Moscow
   state: 
   country: Russia
-  zip: '115184'
+  zip: '123112'
 documents:
 - type: Registration ID
-  number: '1027739002510'
+  number: '1117746272907'
   country: Russia
-- type: Website
-  number: www.hals-development.ru
-  country: 
+- type: Government Gazette Number
+  number: '91457857'
+  country: Russia
+- type: Tax ID No.
+  number: '7729679810'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Organization Established Date
+  number: '08 Apr 2011'
+  country: 
+- type: 'Organization Type:'
+  number: Real estate activities on a fee or contract basis
   country: 

@@ -1,39 +1,45 @@
 ---
 entity_type: organization
 names:
-- VTB LEASING OPEN JOINT-STOCK COMPANY
-- " VTB LIZING, OTKRYTOE AKTSIONERNOE OBSHCHESTVO"
-- " VTB-LEASING, OJSC"
-- " JSC VTB LEASING"
-- " VTB LIZING, OAO"
+- AKTSIONERNOE OBSHCHESTVO SG-DEVELOPMENT
+- " PUBLIC JOINT STOCK COMPANY HALS-DEVELOPMENT"
+- " PUBLIC JOINT STOCK COMPANY SG-DEVELOPMENT"
+- " GALS-DEVELOPMENT PAO"
+- " HAS-DEVELOPMENT JSC"
+- " JOINT STOCK COMPANY HALS-DEVELOPMENT"
+- " SG-DEVELOPMENT, AO"
 source: us-govt-data
-ref_number: '18739'
+ref_number: '18740'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
 address:
-- street: '2nd Volkonskiy pereulok 10   '
+- street: 'd. 35 str. 1 Etazh 5, Pomeshch. I, Kom. 129, Prospekt Leningradski   '
   city: Moscow
   state: 
   country: Russia
-  zip: '127473'
-- street: '43 str. 1 ul. Vorontsovskaya   '
-  city: Moscow
-  state: 
-  country: Russia
-  zip: '109147'
+  zip: '125284'
 documents:
 - type: Registration ID
-  number: '1037700259244'
+  number: '1027739002510'
+  country: Russia
+- type: Tax ID No.
+  number: '7706032060'
   country: Russia
 - type: Website
-  number: www.vtb-leasing.ru
+  number: www.hals-development.ru
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: 'Organization Type:'
+  number: Real estate activities on a fee or contract basis
+  country: 
+- type: Organization Established Date
+  number: 21 Jan 1994
   country: 
