@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>12/12/2022</Publish_Date>
+    <Publish_Date>12/15/2022</Publish_Date>
     <Record_Count>447</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -8354,12 +8354,25 @@
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>10989</uid>
         <idType>Registration ID</idType>
         <idNumber>1117746272907</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>29406</uid>
+        <idType>Government Gazette Number</idType>
+        <idNumber>91457857</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>29407</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7729679810</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -8372,14 +8385,18 @@
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
+      <id>
+        <uid>157168</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>08 Apr 2011</idNumber>
+      </id>
+      <id>
+        <uid>157169</uid>
+        <idType>Organization Type:</idType>
+        <idNumber>Real estate activities on a fee or contract basis</idNumber>
+      </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>29388</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB NEDVIZHIMOST</lastName>
-      </aka>
       <aka>
         <uid>29389</uid>
         <type>a.k.a.</type>
@@ -8395,10 +8412,10 @@
     </akaList>
     <addressList>
       <address>
-        <uid>28474</uid>
-        <address1>d. 70 ul. Mosfilmovskaya</address1>
+        <uid>59944</uid>
+        <address1>d. 10 etazh 7 (BLOK A), Naberezhnaya Presnenskaya</address1>
         <city>Moscow</city>
-        <postalCode>119590</postalCode>
+        <postalCode>123112</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -8605,17 +8622,24 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18739</uid>
-    <lastName>VTB LEASING OPEN JOINT-STOCK COMPANY</lastName>
+    <lastName>VTB LEASING JOINT STOCK COMPANY</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>10991</uid>
         <idType>Registration ID</idType>
         <idNumber>1037700259244</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>29405</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7709378229</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -8633,20 +8657,18 @@
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
+      <id>
+        <uid>157166</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>13 Jun 2002</idNumber>
+      </id>
+      <id>
+        <uid>157167</uid>
+        <idType>Organization Type:</idType>
+        <idNumber>Financial leasing</idNumber>
+      </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>29403</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>VTB LIZING, OTKRYTOE AKTSIONERNOE OBSHCHESTVO</lastName>
-      </aka>
-      <aka>
-        <uid>29404</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>VTB-LEASING, OJSC</lastName>
-      </aka>
       <aka>
         <uid>29405</uid>
         <type>a.k.a.</type>
@@ -8657,20 +8679,29 @@
         <uid>29406</uid>
         <type>a.k.a.</type>
         <category>strong</category>
-        <lastName>VTB LIZING, OAO</lastName>
+        <lastName>AO VTB LIZING</lastName>
+      </aka>
+      <aka>
+        <uid>62667</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>VTB LEASING JSC</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
         <uid>28482</uid>
-        <address1>2nd Volkonskiy pereulok 10</address1>
+        <address1>Per. 2-I Volkonskii</address1>
+        <address2>D. 10</address2>
         <city>Moscow</city>
         <postalCode>127473</postalCode>
         <country>Russia</country>
       </address>
       <address>
         <uid>28483</uid>
-        <address1>43 str. 1 ul. Vorontsovskaya</address1>
+        <address1>Ul. Vorontsovskaya</address1>
+        <address2>D. 43</address2>
+        <address3>Str.1</address3>
         <city>Moscow</city>
         <postalCode>109147</postalCode>
         <country>Russia</country>
@@ -8679,17 +8710,24 @@
   </sdnEntry>
   <sdnEntry>
     <uid>18740</uid>
-    <lastName>JOINT STOCK COMPANY HALS-DEVELOPMENT</lastName>
+    <lastName>AKTSIONERNOE OBSHCHESTVO SG-DEVELOPMENT</lastName>
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>10992</uid>
         <idType>Registration ID</idType>
         <idNumber>1027739002510</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>29404</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7706032060</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -8707,51 +8745,61 @@
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
+      <id>
+        <uid>157164</uid>
+        <idType>Organization Type:</idType>
+        <idNumber>Real estate activities on a fee or contract basis</idNumber>
+      </id>
+      <id>
+        <uid>157165</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>21 Jan 1994</idNumber>
+      </id>
     </idList>
     <akaList>
       <aka>
         <uid>29408</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>HALS-DEVELOPMENT JSC</lastName>
+        <lastName>PUBLIC JOINT STOCK COMPANY HALS-DEVELOPMENT</lastName>
       </aka>
       <aka>
         <uid>29409</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>OTKRYTOE AKTSIONERNOE OBSHCHESTVO GALS DEVELOPMENT</lastName>
+        <lastName>PUBLIC JOINT STOCK COMPANY SG-DEVELOPMENT</lastName>
       </aka>
       <aka>
         <uid>29410</uid>
-        <type>a.k.a.</type>
+        <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>GALS-DEVELOPMENT, OAO</lastName>
-      </aka>
-      <aka>
-        <uid>29411</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>HALS-DEVELOPMENT, OJSC</lastName>
+        <lastName>GALS-DEVELOPMENT PAO</lastName>
       </aka>
       <aka>
         <uid>29412</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>HALS DEVELOPMENT OJSC</lastName>
-      </aka>
-      <aka>
-        <uid>29413</uid>
         <type>f.k.a.</type>
         <category>strong</category>
-        <lastName>ZAKRYTOE AKTSIONERNOE OBSHCHESTVO SISTEMA HALS</lastName>
+        <lastName>HAS-DEVELOPMENT JSC</lastName>
+      </aka>
+      <aka>
+        <uid>62548</uid>
+        <type>f.k.a.</type>
+        <category>strong</category>
+        <lastName>JOINT STOCK COMPANY HALS-DEVELOPMENT</lastName>
+      </aka>
+      <aka>
+        <uid>62666</uid>
+        <type>a.k.a.</type>
+        <category>strong</category>
+        <lastName>SG-DEVELOPMENT, AO</lastName>
       </aka>
     </akaList>
     <addressList>
       <address>
-        <uid>28485</uid>
-        <address1>d. 35 str. 4 ul. Tatarskaya B</address1>
+        <uid>59943</uid>
+        <address1>d. 35 str. 1 Etazh 5, Pomeshch. I, Kom. 129, Prospekt Leningradski</address1>
         <city>Moscow</city>
-        <postalCode>115184</postalCode>
+        <postalCode>125284</postalCode>
         <country>Russia</country>
       </address>
     </addressList>

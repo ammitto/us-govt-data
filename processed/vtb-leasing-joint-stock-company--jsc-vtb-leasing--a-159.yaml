@@ -1,30 +1,47 @@
 ---
 entity_type: organization
 names:
-- VTB REAL ESTATE LIMITED LIABILITY COMPANY
-- " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU VTB NEDVIZHIMOST"
-- " VTB NEDVIZHIMOST, OOO"
-- " VTB REAL ESTATE, LLC"
+- VTB LEASING JOINT STOCK COMPANY
+- " JSC VTB LEASING"
+- " AO VTB LIZING"
+- " VTB LEASING JSC"
 source: us-govt-data
-ref_number: '18735'
+ref_number: '18739'
 ref_type: Sdn UID
 country: Russia
 birthdate: 
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'
 address:
-- street: 'd. 70 ul. Mosfilmovskaya   '
+- street: 'Per. 2-I Volkonskii D. 10  '
   city: Moscow
   state: 
   country: Russia
-  zip: '119590'
+  zip: '127473'
+- street: 'Ul. Vorontsovskaya D. 43 Str.1 '
+  city: Moscow
+  state: 
+  country: Russia
+  zip: '109147'
 documents:
 - type: Registration ID
-  number: '1117746272907'
+  number: '1037700259244'
   country: Russia
+- type: Tax ID No.
+  number: '7709378229'
+  country: Russia
+- type: Website
+  number: www.vtb-leasing.ru
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Organization Established Date
+  number: 13 Jun 2002
+  country: 
+- type: 'Organization Type:'
+  number: Financial leasing
   country: 
