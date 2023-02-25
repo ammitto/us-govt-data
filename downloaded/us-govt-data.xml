@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>12/15/2022</Publish_Date>
-    <Record_Count>447</Record_Count>
+    <Publish_Date>02/24/2023</Publish_Date>
+    <Record_Count>446</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -29802,96 +29802,6 @@
         <address1>Nab. Reki Moiki d.3, Lit. A</address1>
         <city>Saint Petersburg</city>
         <postalCode>191186</postalCode>
-        <country>Russia</country>
-      </address>
-    </addressList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>35163</uid>
-    <lastName>CREDIT BANK OF MOSCOW PUBLIC JOINT STOCK COMPANY</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>RUSSIA-EO14024</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>24904</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1027739555282</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>24905</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>7734202860</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>147253</uid>
-        <idType>Listing Date (EO 14024 Directive 3):</idType>
-        <idNumber>24 Feb 2022</idNumber>
-      </id>
-      <id>
-        <uid>147254</uid>
-        <idType>Effective Date (EO 14024 Directive 3):</idType>
-        <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>147251</uid>
-        <idType>Executive Order 14024 Directive Information</idType>
-        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
-      </id>
-      <id>
-        <uid>147252</uid>
-        <idType>Executive Order 14024 Directive Information -</idType>
-        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
-      </id>
-      <id>
-        <uid>147152</uid>
-        <idType>Target Type</idType>
-        <idNumber>Financial Institution</idNumber>
-      </id>
-      <id>
-        <uid>147153</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>1992</idNumber>
-      </id>
-      <id>
-        <uid>147142</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>MCRBRUMM</idNumber>
-      </id>
-      <id>
-        <uid>147145</uid>
-        <idType>BIK (RU)</idType>
-        <idNumber>044525659</idNumber>
-      </id>
-      <id>
-        <uid>147147</uid>
-        <idType>Website</idType>
-        <idNumber>www.mkb.ru</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>55284</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CREDIT BANK OF MOSCOW PJSC</lastName>
-      </aka>
-      <aka>
-        <uid>55285</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>CREDIT BANK OF MOSCOW</lastName>
-      </aka>
-    </akaList>
-    <addressList>
-      <address>
-        <uid>52808</uid>
-        <address1>Lukov pereulok 2, bldg. 1</address1>
-        <city>Moscow</city>
-        <postalCode>107045</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
