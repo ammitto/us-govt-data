@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>03/08/2023</Publish_Date>
-    <Record_Count>445</Record_Count>
+    <Publish_Date>05/12/2023</Publish_Date>
+    <Record_Count>444</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -18990,36 +18990,6 @@
         <stateOrProvince>Noord-Holland</stateOrProvince>
         <postalCode>1077</postalCode>
         <country>Netherlands</country>
-      </address>
-    </addressList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>20320</uid>
-    <lastName>SKODA JS A.S.</lastName>
-    <sdnType>Entity</sdnType>
-    <remarks>For more information on directives, please visit the following link: https://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: GAZPROMBANK JOINT STOCK COMPANY)</remarks>
-    <programList>
-      <program>UKRAINE-EO13662</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>120849</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>143896</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
-      </id>
-    </idList>
-    <addressList>
-      <address>
-        <uid>30775</uid>
-        <address1>Orlik 266</address1>
-        <address2>Plzen - mesto PSC 316 06</address2>
-        <city>Plzen</city>
-        <country>Czech Republic</country>
       </address>
     </addressList>
   </sdnEntry>
