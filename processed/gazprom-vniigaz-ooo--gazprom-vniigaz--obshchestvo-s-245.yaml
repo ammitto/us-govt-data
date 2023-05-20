@@ -5,6 +5,11 @@ names:
 - " GAZPROM VNIIGAZ"
 - " OBSHCHESTVO S OGRANICHENNOI OTVETSTVENNOSTYU 'NAUCHNO-ISSLEDOVATELSKI INSTITUT
   PRIRODNYKH GAZOV I GAZOVYKH TEKHNOLOGI - GAZPROM VNIIGAZ'"
+- " LIMITED LIABILITY COMPANY SCIENTIFIC RESEARCH INSTITUTE OF NATURAL GASES AND GAS
+  TECHNOLOGIES"
+- " ALL UNION SCIENTIFIC RESEARCH INSTITUTE OF NATURAL GASES AND GAS TECHNOLOGIES"
+- " VNIGAZ"
+- " LLC VNIIGAZ"
 source: us-govt-data
 ref_number: '19653'
 ref_type: Sdn UID
@@ -13,11 +18,16 @@ birthdate:
 remark: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: PUBLIC JOINT STOCK COMPANY GAZPROM)'
 address:
-- street: 'P Razvilka   '
+- street: '15 Gazovikov St., bld. 1 Razvilka  '
   city: Leninski Raion
   state: Moskovskaya obl.
   country: Russia
   zip: '142717'
+- street: 'Sevastopolskaya St. 1A   '
+  city: Ukhta
+  state: Komi Republic
+  country: Russia
+  zip: 
 documents:
 - type: Registration ID
   number: '1025000651598'
@@ -27,6 +37,9 @@ documents:
   country: 
 - type: Tax ID No.
   number: '5003028155'
+  country: 
+- type: Organization Established Date
+  number: 30 Jun 1999
   country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 4
