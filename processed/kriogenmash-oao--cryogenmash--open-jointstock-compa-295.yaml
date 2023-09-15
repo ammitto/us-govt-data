@@ -4,6 +4,9 @@ names:
 - KRIOGENMASH OAO
 - " CRYOGENMASH"
 - " OPEN JOINT-STOCK COMPANY KRIOGENNOGO MASHINOSTROYENIA"
+- " PUBLICHNOE AKTSIONERNOE OBSCHESTVO KRIOGENNOGO MASHINOSTROENIYA"
+- " CRYOGENMASH JOINT STOCK COMPANY"
+- " OPEN JOINT STOCK COMPANY CRYOGENMASH"
 source: us-govt-data
 ref_number: '20306'
 ref_type: Sdn UID
@@ -25,10 +28,13 @@ address:
 documents:
 - type: Tax ID No.
   number: '5001000066'
-  country: 
+  country: Russia
 - type: Registration ID
   number: '1025000513878'
-  country: 
+  country: Russia
+- type: Government Gazette Number
+  number: '05747985'
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1
   country: 
@@ -37,4 +43,7 @@ documents:
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Organization Established Date
+  number: 03 Oct 1945
   country: 
