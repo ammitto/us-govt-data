@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>09/14/2023</Publish_Date>
+    <Publish_Date>10/18/2023</Publish_Date>
     <Record_Count>444</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -10860,6 +10860,7 @@
     <sdnType>Entity</sdnType>
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
+      <program>IRAN-CON-ARMS-EO</program>
       <program>RUSSIA-EO14024</program>
       <program>SYRIA</program>
       <program>UKRAINE-EO13662</program>
