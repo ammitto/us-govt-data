@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>10/18/2023</Publish_Date>
-    <Record_Count>444</Record_Count>
+    <Publish_Date>10/31/2023</Publish_Date>
+    <Record_Count>445</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -29742,6 +29742,80 @@
         <city>Saint Petersburg</city>
         <postalCode>191186</postalCode>
         <country>Russia</country>
+      </address>
+    </addressList>
+  </sdnEntry>
+  <sdnEntry>
+    <uid>46072</uid>
+    <lastName>MYANMA OIL AND GAS ENTERPRISE</lastName>
+    <sdnType>Entity</sdnType>
+    <programList>
+      <program>BURMA-EO14014</program>
+    </programList>
+    <idList>
+      <id>
+        <uid>166734</uid>
+        <idType>Organization Type:</idType>
+        <idNumber>Extraction of crude petroleum</idNumber>
+      </id>
+      <id>
+        <uid>166737</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
+        <uid>166768</uid>
+        <idType>Executive Order 14014 Directive Information:</idType>
+        <idNumber>Subject to Directive 1 - As of the effective date, the provision, exportation, or reexportation, directly or indirectly, of financial services to or for the benefit of Myanma Oil and Gas Enterprise (MOGE) or its property or interests in property is prohibited.</idNumber>
+      </id>
+      <id>
+        <uid>166769</uid>
+        <idType>Executive Order 14014 Directive Information:</idType>
+        <idNumber>For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/burma#directives</idNumber>
+      </id>
+      <id>
+        <uid>166770</uid>
+        <idType>Listing Date (EO 14014 Directive 1):</idType>
+        <idNumber>31 Oct 2023</idNumber>
+      </id>
+      <id>
+        <uid>166771</uid>
+        <idType>Effective Date (EO 14014 Directive 1):</idType>
+        <idNumber>15 Dec 2023</idNumber>
+      </id>
+      <id>
+        <uid>166733</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>1963</idNumber>
+      </id>
+    </idList>
+    <akaList>
+      <aka>
+        <uid>71179</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>MOGE</lastName>
+      </aka>
+      <aka>
+        <uid>71180</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>M.O.G.E.</lastName>
+      </aka>
+    </akaList>
+    <addressList>
+      <address>
+        <uid>68654</uid>
+        <address1>Complex No. 44</address1>
+        <city>Nay Pyi Taw</city>
+        <stateOrProvince>Naypyidaw Union Territory</stateOrProvince>
+        <country>Burma</country>
+      </address>
+      <address>
+        <uid>68655</uid>
+        <address1>Building No. 6</address1>
+        <city>Nay Pyi Taw</city>
+        <country>Burma</country>
       </address>
     </addressList>
   </sdnEntry>

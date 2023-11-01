@@ -1,0 +1,48 @@
+---
+entity_type: organization
+names:
+- MYANMA OIL AND GAS ENTERPRISE
+- " MOGE"
+- " M.O.G.E."
+source: us-govt-data
+ref_number: '46072'
+ref_type: Sdn UID
+country: Burma
+birthdate: 
+remark: 
+address:
+- street: 'Complex No. 44   '
+  city: Nay Pyi Taw
+  state: Naypyidaw Union Territory
+  country: Burma
+  zip: 
+- street: 'Building No. 6   '
+  city: Nay Pyi Taw
+  state: 
+  country: Burma
+  zip: 
+documents:
+- type: 'Organization Type:'
+  number: Extraction of crude petroleum
+  country: 
+- type: Target Type
+  number: State-Owned Enterprise
+  country: 
+- type: 'Executive Order 14014 Directive Information:'
+  number: Subject to Directive 1 - As of the effective date, the provision, exportation,
+    or reexportation, directly or indirectly, of financial services to or for the
+    benefit of Myanma Oil and Gas Enterprise (MOGE) or its property or interests in
+    property is prohibited.
+  country: 
+- type: 'Executive Order 14014 Directive Information:'
+  number: 'For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/burma#directives'
+  country: 
+- type: 'Listing Date (EO 14014 Directive 1):'
+  number: 31 Oct 2023
+  country: 
+- type: 'Effective Date (EO 14014 Directive 1):'
+  number: 15 Dec 2023
+  country: 
+- type: Organization Established Date
+  number: '1963'
+  country: 
