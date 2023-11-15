@@ -1,7 +1,7 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>10/31/2023</Publish_Date>
+    <Publish_Date>11/14/2023</Publish_Date>
     <Record_Count>445</Record_Count>
   </publshInformation>
   <sdnEntry>
@@ -277,9 +277,23 @@
     <firstName>Mahmoud Khaled</firstName>
     <lastName>ZAHHAR</lastName>
     <sdnType>Individual</sdnType>
+    <remarks>(Linked To: HAMAS)</remarks>
     <programList>
       <program>NS-PLC</program>
+      <program>SDGT</program>
     </programList>
+    <idList>
+      <id>
+        <uid>166816</uid>
+        <idType>Gender</idType>
+        <idNumber>Male</idNumber>
+      </id>
+      <id>
+        <uid>166818</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>section 1(b) of Executive Order 13224, as amended by Executive Order 13886</idNumber>
+      </id>
+    </idList>
     <akaList>
       <aka>
         <uid>9160</uid>
@@ -288,7 +302,32 @@
         <lastName>AL ZAHAR</lastName>
         <firstName>Mahmoud Khaled</firstName>
       </aka>
+      <aka>
+        <uid>71276</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>ZAHAR, Mahmoud</lastName>
+      </aka>
+      <aka>
+        <uid>71277</uid>
+        <type>a.k.a.</type>
+        <category>weak</category>
+        <lastName>AL-ZAHAR, Mahmoud</lastName>
+      </aka>
     </akaList>
+    <addressList>
+      <address>
+        <uid>68713</uid>
+        <country>Region: Gaza</country>
+      </address>
+    </addressList>
+    <nationalityList>
+      <nationality>
+        <uid>66817</uid>
+        <country>Palestinian</country>
+        <mainEntry>true</mainEntry>
+      </nationality>
+    </nationalityList>
     <dateOfBirthList>
       <dateOfBirthItem>
         <uid>4708</uid>
@@ -296,6 +335,13 @@
         <mainEntry>true</mainEntry>
       </dateOfBirthItem>
     </dateOfBirthList>
+    <placeOfBirthList>
+      <placeOfBirthItem>
+        <uid>66815</uid>
+        <placeOfBirth>Gaza Strip</placeOfBirth>
+        <mainEntry>true</mainEntry>
+      </placeOfBirthItem>
+    </placeOfBirthList>
   </sdnEntry>
   <sdnEntry>
     <uid>9648</uid>
