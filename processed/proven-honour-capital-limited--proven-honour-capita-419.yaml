@@ -17,15 +17,6 @@ address:
   country: Virgin Islands, British
   zip: VG1110
 documents:
-- type: Issuer Name
-  number: Proven Honour Capital Ltd
-  country: 
-- type: Issuer Name
-  number: Proven Honour Capital Limited
-  country: 
-- type: ISIN
-  number: XS1233275194
-  country: 
 - type: ISIN
   number: HK0000216777
   country: 
@@ -46,4 +37,13 @@ documents:
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
+  country: 
+- type: Issuer Name
+  number: Proven Honour Capital Ltd
+  country: 
+- type: Issuer Name
+  number: Proven Honour Capital Limited
+  country: 
+- type: ISIN
+  number: XS1233275194
   country: 

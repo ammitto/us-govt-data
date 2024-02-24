@@ -25,9 +25,6 @@ documents:
 - type: Registration ID
   number: '1092724004581'
   country: Russia
-- type: Email Address
-  number: dsd-it@dsd.transneft.ru
-  country: 
 - type: Website
   number: dsdvsto.ru
   country: 
@@ -36,4 +33,7 @@ documents:
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Email Address
+  number: dsd-it@dsd.transneft.ru
   country: 

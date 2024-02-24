@@ -20,6 +20,30 @@ documents:
 - type: Unified Social Credit Code (USCC)
   number: 91110000100009563N
   country: China
+- type: ISIN
+  number: CND100005B20
+  country: 
+- type: ISIN
+  number: CND100025BB0
+  country: 
+- type: ISIN
+  number: CND10003VCD9
+  country: 
+- type: ISIN
+  number: CND10003RXB7
+  country: 
+- type: ISIN
+  number: CND10001ZPR6
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
+  country: 
 - type: Issuer Name
   number: China National Nuclear Corporation
   country: 
@@ -46,28 +70,4 @@ documents:
   country: 
 - type: ISIN
   number: CND10002J9V2
-  country: 
-- type: ISIN
-  number: CND100005B20
-  country: 
-- type: ISIN
-  number: CND100025BB0
-  country: 
-- type: ISIN
-  number: CND10003VCD9
-  country: 
-- type: ISIN
-  number: CND10003RXB7
-  country: 
-- type: ISIN
-  number: CND10001ZPR6
-  country: 
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
-  country: 
-- type: Effective Date (CMIC)
-  number: 02 Aug 2021
-  country: 
-- type: Purchase/Sales For Divestment Date (CMIC)
-  number: 03 Jun 2022
   country: 

@@ -30,12 +30,12 @@ documents:
 - type: Tax ID No.
   number: '7704759968'
   country: 
+- type: 'Secondary sanctions risk:'
+  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
 - type: Website
   number: http://rtguard.ru/
-  country: 
-- type: 'Secondary sanctions risk:'
-  number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
   country: 

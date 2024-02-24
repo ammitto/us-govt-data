@@ -1,8 +1,8 @@
 <?xml version="1.0" standalone="yes"?>
 <sdnList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://tempuri.org/sdnList.xsd">
   <publshInformation>
-    <Publish_Date>11/14/2023</Publish_Date>
-    <Record_Count>445</Record_Count>
+    <Publish_Date>02/23/2024</Publish_Date>
+    <Record_Count>444</Record_Count>
   </publshInformation>
   <sdnEntry>
     <uid>9639</uid>
@@ -6586,6 +6586,16 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>146856</uid>
+        <idType>Effective Date (EO 14024 Directive 2):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
+        <uid>151165</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>118418</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 1</idNumber>
@@ -6604,16 +6614,6 @@
         <uid>146855</uid>
         <idType>Listing Date (EO 14024 Directive 2):</idType>
         <idNumber>24 Feb 2022</idNumber>
-      </id>
-      <id>
-        <uid>146856</uid>
-        <idType>Effective Date (EO 14024 Directive 2):</idType>
-        <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>151165</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -6689,21 +6689,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>118419</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
-        <uid>118151</uid>
-        <idType>Website</idType>
-        <idNumber>www.cetelem.ru</idNumber>
-      </id>
-      <id>
-        <uid>118819</uid>
-        <idType>SWIFT/BIC</idType>
-        <idNumber>CETBRUMM</idNumber>
-      </id>
-      <id>
         <uid>146929</uid>
         <idType>Listing Date (EO 14024 Directive 2):</idType>
         <idNumber>24 Feb 2022</idNumber>
@@ -6722,6 +6707,21 @@
         <uid>151194</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>118419</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
+      </id>
+      <id>
+        <uid>118151</uid>
+        <idType>Website</idType>
+        <idNumber>www.cetelem.ru</idNumber>
+      </id>
+      <id>
+        <uid>118819</uid>
+        <idType>SWIFT/BIC</idType>
+        <idNumber>CETBRUMM</idNumber>
       </id>
     </idList>
     <akaList>
@@ -9003,15 +9003,15 @@
     </programList>
     <idList>
       <id>
-        <uid>24687</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>7736617998</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
         <uid>10996</uid>
         <idType>Registration ID</idType>
         <idNumber>1107746399903</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
+        <uid>24687</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>7736617998</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -10608,11 +10608,6 @@
     </programList>
     <idList>
       <id>
-        <uid>11044</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1107746247850</idNumber>
-      </id>
-      <id>
         <uid>11045</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>66310966</idNumber>
@@ -10621,6 +10616,11 @@
         <uid>11046</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7709851082</idNumber>
+      </id>
+      <id>
+        <uid>11044</uid>
+        <idType>Registration ID</idType>
+        <idNumber>1107746247850</idNumber>
       </id>
       <id>
         <uid>118254</uid>
@@ -11163,6 +11163,11 @@
         <idNumber>7704759968</idNumber>
       </id>
       <id>
+        <uid>143647</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
         <uid>118274</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
@@ -11171,11 +11176,6 @@
         <uid>118275</uid>
         <idType>Website</idType>
         <idNumber>http://rtguard.ru/</idNumber>
-      </id>
-      <id>
-        <uid>143647</uid>
-        <idType>Secondary sanctions risk:</idType>
-        <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11369,6 +11369,11 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>152856</uid>
+        <idType>Organization Established Date</idType>
+        <idNumber>28 Jun 2012</idNumber>
+      </id>
+      <id>
         <uid>118280</uid>
         <idType>Executive Order 13662 Directive Determination -</idType>
         <idNumber>Subject to Directive 3</idNumber>
@@ -11382,11 +11387,6 @@
         <uid>152857</uid>
         <idType>Target Type</idType>
         <idNumber>State-Owned Enterprise</idNumber>
-      </id>
-      <id>
-        <uid>152856</uid>
-        <idType>Organization Established Date</idType>
-        <idNumber>28 Jun 2012</idNumber>
       </id>
     </idList>
     <akaList>
@@ -11818,22 +11818,20 @@
     <remarks>For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives; (Linked To: STATE CORPORATION ROSTEC)</remarks>
     <programList>
       <program>UKRAINE-EO13662</program>
+      <program>RUSSIA-EO14024</program>
     </programList>
     <idList>
       <id>
         <uid>11083</uid>
-        <idType>Registration ID</idType>
+        <idType>Registration Number</idType>
         <idNumber>1034316578680</idNumber>
-      </id>
-      <id>
-        <uid>11084</uid>
-        <idType>Government Gazette Number</idType>
-        <idNumber>49616818</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>11085</uid>
         <idType>Tax ID No.</idType>
         <idNumber>4345029946</idNumber>
+        <idCountry>Russia</idCountry>
       </id>
       <id>
         <uid>118294</uid>
@@ -11841,34 +11839,17 @@
         <idNumber>Subject to Directive 3</idNumber>
       </id>
       <id>
-        <uid>118295</uid>
-        <idType>Email Address</idType>
-        <idNumber>nmz@nmz.kirov.ru</idNumber>
-      </id>
-      <id>
-        <uid>118296</uid>
-        <idType>Website</idType>
-        <idNumber>http://www.nmz.ru</idNumber>
-      </id>
-      <id>
         <uid>143560</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
       </id>
+      <id>
+        <uid>169657</uid>
+        <idType>Secondary sanctions risk:</idType>
+        <idNumber>this person is designated for operating or having operated in a sector of the Russian Federation economy determined to support Russia's military-industrial base pursuant to section 11 of Executive Order 14024, as amended by Executive Order 14114.</idNumber>
+      </id>
     </idList>
     <akaList>
-      <aka>
-        <uid>29633</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>NOVO-VYATKA, OAO</lastName>
-      </aka>
-      <aka>
-        <uid>29634</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>OPEN JOINT STOCK COMPANY NOVO-VYATKA</lastName>
-      </aka>
       <aka>
         <uid>29635</uid>
         <type>a.k.a.</type>
@@ -11883,13 +11864,6 @@
         <city>Kirov</city>
         <stateOrProvince>Kirovskaya obl.</stateOrProvince>
         <postalCode>610008</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>28593</uid>
-        <address1>Street Sovetskaya, d. 51, Bldg. 2</address1>
-        <city>Kirov</city>
-        <postalCode>61008</postalCode>
         <country>Russia</country>
       </address>
     </addressList>
@@ -13515,6 +13489,11 @@
     </programList>
     <idList>
       <id>
+        <uid>11861</uid>
+        <idType>Tax ID No.</idType>
+        <idNumber>5003021311</idNumber>
+      </id>
+      <id>
         <uid>11859</uid>
         <idType>Registration ID</idType>
         <idNumber>1025000653930</idNumber>
@@ -13523,11 +13502,6 @@
         <uid>11860</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>45138919</idNumber>
-      </id>
-      <id>
-        <uid>11861</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>5003021311</idNumber>
       </id>
       <id>
         <uid>119791</uid>
@@ -14711,6 +14685,11 @@
     </programList>
     <idList>
       <id>
+        <uid>11982</uid>
+        <idType>Registration ID</idType>
+        <idNumber>1027000862954</idNumber>
+      </id>
+      <id>
         <uid>11983</uid>
         <idType>Tax ID No.</idType>
         <idNumber>7017005289</idNumber>
@@ -14719,11 +14698,6 @@
         <uid>11984</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>04634954</idNumber>
-      </id>
-      <id>
-        <uid>11982</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1027000862954</idNumber>
       </id>
       <id>
         <uid>119951</uid>
@@ -15483,11 +15457,6 @@
         <idNumber>6315000291</idNumber>
       </id>
       <id>
-        <uid>120003</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 4</idNumber>
-      </id>
-      <id>
         <uid>120004</uid>
         <idType>Website</idType>
         <idNumber>samara-tr.gazprom.ru</idNumber>
@@ -15501,6 +15470,11 @@
         <uid>143772</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>120003</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 4</idNumber>
       </id>
     </idList>
     <akaList>
@@ -16403,11 +16377,6 @@
     </programList>
     <idList>
       <id>
-        <uid>12086</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1022401804820</idNumber>
-      </id>
-      <id>
         <uid>12087</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>52290094</idNumber>
@@ -16416,6 +16385,11 @@
         <uid>12088</uid>
         <idType>Tax ID No.</idType>
         <idNumber>2460040655</idNumber>
+      </id>
+      <id>
+        <uid>12086</uid>
+        <idType>Registration ID</idType>
+        <idNumber>1022401804820</idNumber>
       </id>
       <id>
         <uid>120071</uid>
@@ -19902,11 +19876,6 @@
         <idNumber>2338003767</idNumber>
       </id>
       <id>
-        <uid>121954</uid>
-        <idType>Executive Order 13662 Directive Determination -</idType>
-        <idNumber>Subject to Directive 1</idNumber>
-      </id>
-      <id>
         <uid>121260</uid>
         <idType>Email Address</idType>
         <idNumber>klv_el@ibox.ru</idNumber>
@@ -19915,6 +19884,11 @@
         <uid>143794</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>121954</uid>
+        <idType>Executive Order 13662 Directive Determination -</idType>
+        <idNumber>Subject to Directive 1</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21327,11 +21301,6 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
-        <uid>123799</uid>
-        <idType>Email Address</idType>
-        <idNumber>dsd-it@dsd.transneft.ru</idNumber>
-      </id>
-      <id>
         <uid>123800</uid>
         <idType>Website</idType>
         <idNumber>dsdvsto.ru</idNumber>
@@ -21345,6 +21314,11 @@
         <uid>143814</uid>
         <idType>Secondary sanctions risk:</idType>
         <idNumber>Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209</idNumber>
+      </id>
+      <id>
+        <uid>123799</uid>
+        <idType>Email Address</idType>
+        <idNumber>dsd-it@dsd.transneft.ru</idNumber>
       </id>
     </idList>
     <akaList>
@@ -21782,6 +21756,12 @@
     </programList>
     <idList>
       <id>
+        <uid>14126</uid>
+        <idType>Registration ID</idType>
+        <idNumber>1022302384136</idNumber>
+        <idCountry>Russia</idCountry>
+      </id>
+      <id>
         <uid>14124</uid>
         <idType>Government Gazette Number</idType>
         <idNumber>00139011</idNumber>
@@ -21791,12 +21771,6 @@
         <uid>14125</uid>
         <idType>Tax ID No.</idType>
         <idNumber>2315072242</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>14126</uid>
-        <idType>Registration ID</idType>
-        <idNumber>1022302384136</idNumber>
         <idCountry>Russia</idCountry>
       </id>
       <id>
@@ -23567,31 +23541,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>139431</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Telecom Corporation Limited</idNumber>
-      </id>
-      <id>
-        <uid>141354</uid>
-        <idType>Target Type</idType>
-        <idNumber>Public Company</idNumber>
-      </id>
-      <id>
-        <uid>141355</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CHA US</idNumber>
-      </id>
-      <id>
-        <uid>141356</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>CHA RU</idNumber>
-      </id>
-      <id>
-        <uid>141370</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
         <uid>141372</uid>
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
@@ -23665,6 +23614,31 @@
         <uid>141516</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>139431</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Telecom Corporation Limited</idNumber>
+      </id>
+      <id>
+        <uid>141354</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
+        <uid>141355</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CHA US</idNumber>
+      </id>
+      <id>
+        <uid>141356</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>CHA RU</idNumber>
+      </id>
+      <id>
+        <uid>141370</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -23823,11 +23797,6 @@
         <idNumber>ARDEUT111812</idNumber>
       </id>
       <id>
-        <uid>141609</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
         <uid>141610</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
@@ -23851,6 +23820,11 @@
         <uid>141604</uid>
         <idType>ISIN</idType>
         <idNumber>HK0941009539</idNumber>
+      </id>
+      <id>
+        <uid>141609</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
       </id>
       <id>
         <uid>141606</uid>
@@ -24182,16 +24156,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141167</uid>
-        <idType>Target Type</idType>
-        <idNumber>State-Owned Enterprise</idNumber>
-      </id>
-      <id>
-        <uid>141334</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
         <uid>141336</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -24200,6 +24164,16 @@
         <uid>141337</uid>
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141167</uid>
+        <idType>Target Type</idType>
+        <idNumber>State-Owned Enterprise</idNumber>
+      </id>
+      <id>
+        <uid>141334</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24311,6 +24285,11 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141168</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND1000090Q8</idNumber>
+      </id>
+      <id>
         <uid>141169</uid>
         <idType>ISIN</idType>
         <idNumber>CND100006HP7</idNumber>
@@ -24339,11 +24318,6 @@
         <uid>141324</uid>
         <idType>Listing Date (CMIC)</idType>
         <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
-        <uid>141168</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND1000090Q8</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24494,6 +24468,21 @@
         <idNumber>CND10002GB71</idNumber>
       </id>
       <id>
+        <uid>139001</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>601800 CN</idNumber>
+      </id>
+      <id>
+        <uid>139002</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>01800 HK</idNumber>
+      </id>
+      <id>
+        <uid>141495</uid>
+        <idType>Target Type</idType>
+        <idNumber>Public Company</idNumber>
+      </id>
+      <id>
         <uid>141281</uid>
         <idType>ISIN</idType>
         <idNumber>CNE100001FN5</idNumber>
@@ -24517,21 +24506,6 @@
         <uid>139000</uid>
         <idType>Issuer Name</idType>
         <idNumber>China Communications Construction Co. Ltd</idNumber>
-      </id>
-      <id>
-        <uid>139001</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>601800 CN</idNumber>
-      </id>
-      <id>
-        <uid>139002</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>01800 HK</idNumber>
-      </id>
-      <id>
-        <uid>141495</uid>
-        <idType>Target Type</idType>
-        <idNumber>Public Company</idNumber>
       </id>
     </idList>
     <akaList>
@@ -24660,11 +24634,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141212</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
         <uid>141213</uid>
         <idType>Effective Date (CMIC)</idType>
         <idNumber>02 Aug 2021</idNumber>
@@ -24738,6 +24707,11 @@
         <uid>141236</uid>
         <idType>Issuer Name</idType>
         <idNumber>China South Industries Group Corporation</idNumber>
+      </id>
+      <id>
+        <uid>141212</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -25009,6 +24983,16 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141218</uid>
+        <idType>Target Type</idType>
+        <idNumber>Private Company</idNumber>
+      </id>
+      <id>
+        <uid>141237</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
         <uid>141221</uid>
         <idType>ISIN</idType>
         <idNumber>CND100005C60</idNumber>
@@ -25062,16 +25046,6 @@
         <uid>141220</uid>
         <idType>Issuer Name</idType>
         <idNumber>China State Shipbuilding Corporation Co. Ltd</idNumber>
-      </id>
-      <id>
-        <uid>141218</uid>
-        <idType>Target Type</idType>
-        <idNumber>Private Company</idNumber>
-      </id>
-      <id>
-        <uid>141237</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
       </id>
     </idList>
     <akaList>
@@ -25704,6 +25678,46 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>141396</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100005B20</idNumber>
+      </id>
+      <id>
+        <uid>141397</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND100025BB0</idNumber>
+      </id>
+      <id>
+        <uid>141398</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003VCD9</idNumber>
+      </id>
+      <id>
+        <uid>141399</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003RXB7</idNumber>
+      </id>
+      <id>
+        <uid>141400</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10001ZPR6</idNumber>
+      </id>
+      <id>
+        <uid>141404</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141405</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141406</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
         <uid>139060</uid>
         <idType>Issuer Name</idType>
         <idNumber>China National Nuclear Corporation</idNumber>
@@ -25747,46 +25761,6 @@
         <uid>141395</uid>
         <idType>ISIN</idType>
         <idNumber>CND10002J9V2</idNumber>
-      </id>
-      <id>
-        <uid>141396</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND100005B20</idNumber>
-      </id>
-      <id>
-        <uid>141397</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND100025BB0</idNumber>
-      </id>
-      <id>
-        <uid>141398</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND10003VCD9</idNumber>
-      </id>
-      <id>
-        <uid>141399</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND10003RXB7</idNumber>
-      </id>
-      <id>
-        <uid>141400</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND10001ZPR6</idNumber>
-      </id>
-      <id>
-        <uid>141404</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
-        <uid>141405</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141406</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -25892,21 +25866,6 @@
         <idCountry>China</idCountry>
       </id>
       <id>
-        <uid>141215</uid>
-        <idType>Listing Date (CMIC)</idType>
-        <idNumber>03 Jun 2021</idNumber>
-      </id>
-      <id>
-        <uid>141216</uid>
-        <idType>Effective Date (CMIC)</idType>
-        <idNumber>02 Aug 2021</idNumber>
-      </id>
-      <id>
-        <uid>141217</uid>
-        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
-        <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
         <uid>141228</uid>
         <idType>Issuer Name</idType>
         <idNumber>China North Industries Group Corporation Limited</idNumber>
@@ -25940,6 +25899,21 @@
         <uid>141182</uid>
         <idType>ISIN</idType>
         <idNumber>CND1000133M5</idNumber>
+      </id>
+      <id>
+        <uid>141215</uid>
+        <idType>Listing Date (CMIC)</idType>
+        <idNumber>03 Jun 2021</idNumber>
+      </id>
+      <id>
+        <uid>141216</uid>
+        <idType>Effective Date (CMIC)</idType>
+        <idNumber>02 Aug 2021</idNumber>
+      </id>
+      <id>
+        <uid>141217</uid>
+        <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
+        <idNumber>03 Jun 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -26868,6 +26842,16 @@
         <idCountry>China</idCountry>
       </id>
       <id>
+        <uid>140917</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>China Communications Group Company Limited</idNumber>
+      </id>
+      <id>
+        <uid>140918</uid>
+        <idType>ISIN</idType>
+        <idNumber>CND10003RDS3</idNumber>
+      </id>
+      <id>
         <uid>140919</uid>
         <idType>ISIN</idType>
         <idNumber>CND100041XX5</idNumber>
@@ -26916,16 +26900,6 @@
         <uid>141287</uid>
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
-      </id>
-      <id>
-        <uid>140917</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>China Communications Group Company Limited</idNumber>
-      </id>
-      <id>
-        <uid>140918</uid>
-        <idType>ISIN</idType>
-        <idNumber>CND10003RDS3</idNumber>
       </id>
     </idList>
     <akaList>
@@ -27902,21 +27876,6 @@
     </programList>
     <idList>
       <id>
-        <uid>141019</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Proven Honour Capital Ltd</idNumber>
-      </id>
-      <id>
-        <uid>141020</uid>
-        <idType>Issuer Name</idType>
-        <idNumber>Proven Honour Capital Limited</idNumber>
-      </id>
-      <id>
-        <uid>141022</uid>
-        <idType>ISIN</idType>
-        <idNumber>XS1233275194</idNumber>
-      </id>
-      <id>
         <uid>141023</uid>
         <idType>ISIN</idType>
         <idNumber>HK0000216777</idNumber>
@@ -27950,6 +27909,21 @@
         <uid>141300</uid>
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141019</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Honour Capital Ltd</idNumber>
+      </id>
+      <id>
+        <uid>141020</uid>
+        <idType>Issuer Name</idType>
+        <idNumber>Proven Honour Capital Limited</idNumber>
+      </id>
+      <id>
+        <uid>141022</uid>
+        <idType>ISIN</idType>
+        <idNumber>XS1233275194</idNumber>
       </id>
     </idList>
     <akaList>
@@ -28470,36 +28444,6 @@
         <idNumber>CN0009003921</idNumber>
       </id>
       <id>
-        <uid>141158</uid>
-        <idType>ISIN</idType>
-        <idNumber>CNE1000003T4</idNumber>
-      </id>
-      <id>
-        <uid>141159</uid>
-        <idType>ISIN</idType>
-        <idNumber>CNE000000NB7</idNumber>
-      </id>
-      <id>
-        <uid>141160</uid>
-        <idType>ISIN</idType>
-        <idNumber>CN0005815195</idNumber>
-      </id>
-      <id>
-        <uid>141161</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>600775 CN</idNumber>
-      </id>
-      <id>
-        <uid>141162</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>00553 HK</idNumber>
-      </id>
-      <id>
-        <uid>141163</uid>
-        <idType>Equity Ticker</idType>
-        <idNumber>NNJ DE</idNumber>
-      </id>
-      <id>
         <uid>141164</uid>
         <idType>Issuer Name</idType>
         <idNumber>Nanjing Panda Electr. Co. Ltd.</idNumber>
@@ -28533,6 +28477,36 @@
         <uid>141433</uid>
         <idType>Purchase/Sales For Divestment Date (CMIC)</idType>
         <idNumber>03 Jun 2022</idNumber>
+      </id>
+      <id>
+        <uid>141158</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE1000003T4</idNumber>
+      </id>
+      <id>
+        <uid>141159</uid>
+        <idType>ISIN</idType>
+        <idNumber>CNE000000NB7</idNumber>
+      </id>
+      <id>
+        <uid>141160</uid>
+        <idType>ISIN</idType>
+        <idNumber>CN0005815195</idNumber>
+      </id>
+      <id>
+        <uid>141161</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>600775 CN</idNumber>
+      </id>
+      <id>
+        <uid>141162</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>00553 HK</idNumber>
+      </id>
+      <id>
+        <uid>141163</uid>
+        <idType>Equity Ticker</idType>
+        <idNumber>NNJ DE</idNumber>
       </id>
     </idList>
     <akaList>
@@ -29379,6 +29353,16 @@
         <idCountry>Russia</idCountry>
       </id>
       <id>
+        <uid>146676</uid>
+        <idType>Executive Order 14024 Directive Information -</idType>
+        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
+      </id>
+      <id>
+        <uid>146820</uid>
+        <idType>Effective Date (EO 14024 Directive 3):</idType>
+        <idNumber>26 Mar 2022</idNumber>
+      </id>
+      <id>
         <uid>146819</uid>
         <idType>Listing Date (EO 14024 Directive 3):</idType>
         <idNumber>24 Feb 2022</idNumber>
@@ -29392,16 +29376,6 @@
         <uid>146675</uid>
         <idType>Executive Order 14024 Directive Information</idType>
         <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
-      </id>
-      <id>
-        <uid>146676</uid>
-        <idType>Executive Order 14024 Directive Information -</idType>
-        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
-      </id>
-      <id>
-        <uid>146820</uid>
-        <idType>Effective Date (EO 14024 Directive 3):</idType>
-        <idNumber>26 Mar 2022</idNumber>
       </id>
     </idList>
     <akaList>
@@ -29699,94 +29673,6 @@
         <address1>Novaya Basmannaya Street, 2</address1>
         <city>Moscow</city>
         <postalCode>107174</postalCode>
-        <country>Russia</country>
-      </address>
-    </addressList>
-  </sdnEntry>
-  <sdnEntry>
-    <uid>34741</uid>
-    <lastName>JOINT STOCK COMPANY SOVCOMFLOT</lastName>
-    <sdnType>Entity</sdnType>
-    <programList>
-      <program>RUSSIA-EO14024</program>
-    </programList>
-    <idList>
-      <id>
-        <uid>24409</uid>
-        <idType>Tax ID No.</idType>
-        <idNumber>7702060116</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>24410</uid>
-        <idType>Registration Number</idType>
-        <idNumber>1027739028712</idNumber>
-        <idCountry>Russia</idCountry>
-      </id>
-      <id>
-        <uid>146684</uid>
-        <idType>Executive Order 14024 Directive Information</idType>
-        <idNumber>Subject to Directive 3 - All transactions in, provision of financing for, and other dealings in new debt of longer than 14 days maturity or new equity where such new debt or new equity is issued on or after the 'Effective Date (EO 14024 Directive)' associated with this name are prohibited.</idNumber>
-      </id>
-      <id>
-        <uid>146174</uid>
-        <idType>Website</idType>
-        <idNumber>sovcomflot.ru</idNumber>
-      </id>
-      <id>
-        <uid>146175</uid>
-        <idType>Website</idType>
-        <idNumber>www.scf-group.com</idNumber>
-      </id>
-      <id>
-        <uid>146834</uid>
-        <idType>Listing Date (EO 14024 Directive 3):</idType>
-        <idNumber>24 Feb 2022</idNumber>
-      </id>
-      <id>
-        <uid>146835</uid>
-        <idType>Effective Date (EO 14024 Directive 3):</idType>
-        <idNumber>26 Mar 2022</idNumber>
-      </id>
-      <id>
-        <uid>146712</uid>
-        <idType>Executive Order 14024 Directive Information -</idType>
-        <idNumber>For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives</idNumber>
-      </id>
-    </idList>
-    <akaList>
-      <aka>
-        <uid>54480</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>PAO SOVCOMFLOT</lastName>
-      </aka>
-      <aka>
-        <uid>54481</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>PUBLICHNOE AKTSIONERNOE OBSCHESTVO SOVREMENNYY KOMMERCHESKIY FLOT</lastName>
-      </aka>
-      <aka>
-        <uid>54812</uid>
-        <type>a.k.a.</type>
-        <category>strong</category>
-        <lastName>JSC SOVCOMFLOT</lastName>
-      </aka>
-    </akaList>
-    <addressList>
-      <address>
-        <uid>52059</uid>
-        <address1>Ul. Gasheka D. 6</address1>
-        <city>Moscow</city>
-        <postalCode>125047</postalCode>
-        <country>Russia</country>
-      </address>
-      <address>
-        <uid>52060</uid>
-        <address1>Nab. Reki Moiki d.3, Lit. A</address1>
-        <city>Saint Petersburg</city>
-        <postalCode>191186</postalCode>
         <country>Russia</country>
       </address>
     </addressList>

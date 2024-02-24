@@ -27,9 +27,6 @@ documents:
 - type: Tax ID No.
   number: '6315000291'
   country: 
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 4
-  country: 
 - type: Website
   number: samara-tr.gazprom.ru
   country: 
@@ -38,4 +35,7 @@ documents:
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 4
   country: 

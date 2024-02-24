@@ -23,6 +23,12 @@ documents:
 - type: Unified Social Credit Code (USCC)
   number: 91310000710924478P
   country: China
+- type: Target Type
+  number: Private Company
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
 - type: ISIN
   number: CND100005C60
   country: 
@@ -55,10 +61,4 @@ documents:
   country: 
 - type: Issuer Name
   number: China State Shipbuilding Corporation Co. Ltd
-  country: 
-- type: Target Type
-  number: Private Company
-  country: 
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
   country: 

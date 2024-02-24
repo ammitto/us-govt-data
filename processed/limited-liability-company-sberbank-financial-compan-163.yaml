@@ -22,11 +22,11 @@ address:
   country: Russia
   zip: '119002'
 documents:
-- type: Tax ID No.
-  number: '7736617998'
-  country: Russia
 - type: Registration ID
   number: '1107746399903'
+  country: Russia
+- type: Tax ID No.
+  number: '7736617998'
   country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 1

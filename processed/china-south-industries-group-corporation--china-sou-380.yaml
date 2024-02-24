@@ -26,9 +26,6 @@ documents:
 - type: Unified Social Credit Code (USCC)
   number: 91110000710924929L
   country: China
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
-  country: 
 - type: Effective Date (CMIC)
   number: 02 Aug 2021
   country: 
@@ -73,4 +70,7 @@ documents:
   country: 
 - type: Issuer Name
   number: China South Industries Group Corporation
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
   country: 

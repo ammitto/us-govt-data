@@ -19,14 +19,14 @@ address:
   country: Russia
   zip: '353911'
 documents:
+- type: Registration ID
+  number: '1022302384136'
+  country: Russia
 - type: Government Gazette Number
   number: '00139011'
   country: Russia
 - type: Tax ID No.
   number: '2315072242'
-  country: Russia
-- type: Registration ID
-  number: '1022302384136'
   country: Russia
 - type: Email Address
   number: fogela@nvr.transneft.ru

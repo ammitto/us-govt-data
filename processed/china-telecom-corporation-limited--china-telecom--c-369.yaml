@@ -21,21 +21,6 @@ documents:
 - type: Unified Social Credit Code (USCC)
   number: 9111000071093019X7
   country: China
-- type: Issuer Name
-  number: China Telecom Corporation Limited
-  country: 
-- type: Target Type
-  number: Public Company
-  country: 
-- type: Equity Ticker
-  number: CHA US
-  country: 
-- type: Equity Ticker
-  number: CHA RU
-  country: 
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
-  country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
   country: 
@@ -80,4 +65,19 @@ documents:
   country: 
 - type: Effective Date (CMIC)
   number: 02 Aug 2021
+  country: 
+- type: Issuer Name
+  number: China Telecom Corporation Limited
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
+- type: Equity Ticker
+  number: CHA US
+  country: 
+- type: Equity Ticker
+  number: CHA RU
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
   country: 

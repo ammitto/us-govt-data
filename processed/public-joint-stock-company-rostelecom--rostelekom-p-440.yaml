@@ -40,6 +40,12 @@ documents:
 - type: Legal Entity Number
   number: 2534001D752JPNM0H170
   country: Russia
+- type: Executive Order 14024 Directive Information -
+  number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
+  country: 
+- type: 'Effective Date (EO 14024 Directive 3):'
+  number: 26 Mar 2022
+  country: 
 - type: 'Listing Date (EO 14024 Directive 3):'
   number: 24 Feb 2022
   country: 
@@ -51,10 +57,4 @@ documents:
     and other dealings in new debt of longer than 14 days maturity or new equity where
     such new debt or new equity is issued on or after the 'Effective Date (EO 14024
     Directive)' associated with this name are prohibited.
-  country: 
-- type: Executive Order 14024 Directive Information -
-  number: 'For more information on directives, please visit the following link: https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information/russian-harmful-foreign-activities-sanctions#directives'
-  country: 
-- type: 'Effective Date (EO 14024 Directive 3):'
-  number: 26 Mar 2022
   country: 
