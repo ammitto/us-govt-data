@@ -24,15 +24,15 @@ documents:
 - type: Business Registration Number
   number: '100000108000042'
   country: China
-- type: Target Type
-  number: State-Owned Enterprise
-  country: 
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
-  country: 
 - type: Effective Date (CMIC)
   number: 02 Aug 2021
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
+  country: 
+- type: Target Type
+  number: State-Owned Enterprise
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
   country: 

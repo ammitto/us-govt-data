@@ -21,14 +21,14 @@ address:
   country: Russia
   zip: '109240'
 documents:
-- type: Registration ID
-  number: '1107746247850'
-  country: 
 - type: Government Gazette Number
   number: '66310966'
   country: 
 - type: Tax ID No.
   number: '7709851082'
+  country: 
+- type: Registration ID
+  number: '1107746247850'
   country: 
 - type: Website
   number: http://rostec.ru

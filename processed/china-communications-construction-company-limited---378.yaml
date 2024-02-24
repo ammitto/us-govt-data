@@ -91,6 +91,15 @@ documents:
 - type: ISIN
   number: CND10002GB71
   country: 
+- type: Equity Ticker
+  number: 601800 CN
+  country: 
+- type: Equity Ticker
+  number: '01800 HK'
+  country: 
+- type: Target Type
+  number: Public Company
+  country: 
 - type: ISIN
   number: CNE100001FN5
   country: 
@@ -105,13 +114,4 @@ documents:
   country: 
 - type: Issuer Name
   number: China Communications Construction Co. Ltd
-  country: 
-- type: Equity Ticker
-  number: 601800 CN
-  country: 
-- type: Equity Ticker
-  number: '01800 HK'
-  country: 
-- type: Target Type
-  number: Public Company
   country: 

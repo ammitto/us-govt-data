@@ -23,15 +23,6 @@ documents:
 - type: Unified Social Credit Code (USCC)
   number: 91110000710924910P
   country: China
-- type: Listing Date (CMIC)
-  number: 03 Jun 2021
-  country: 
-- type: Effective Date (CMIC)
-  number: 02 Aug 2021
-  country: 
-- type: Purchase/Sales For Divestment Date (CMIC)
-  number: 03 Jun 2022
-  country: 
 - type: Issuer Name
   number: China North Industries Group Corporation Limited
   country: 
@@ -52,4 +43,13 @@ documents:
   country: 
 - type: ISIN
   number: CND1000133M5
+  country: 
+- type: Listing Date (CMIC)
+  number: 03 Jun 2021
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
+  country: 
+- type: Purchase/Sales For Divestment Date (CMIC)
+  number: 03 Jun 2022
   country: 

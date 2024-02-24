@@ -24,24 +24,6 @@ documents:
 - type: ISIN
   number: CN0009003921
   country: 
-- type: ISIN
-  number: CNE1000003T4
-  country: 
-- type: ISIN
-  number: CNE000000NB7
-  country: 
-- type: ISIN
-  number: CN0005815195
-  country: 
-- type: Equity Ticker
-  number: 600775 CN
-  country: 
-- type: Equity Ticker
-  number: 00553 HK
-  country: 
-- type: Equity Ticker
-  number: NNJ DE
-  country: 
 - type: Issuer Name
   number: Nanjing Panda Electr. Co. Ltd.
   country: 
@@ -62,4 +44,22 @@ documents:
   country: 
 - type: Purchase/Sales For Divestment Date (CMIC)
   number: 03 Jun 2022
+  country: 
+- type: ISIN
+  number: CNE1000003T4
+  country: 
+- type: ISIN
+  number: CNE000000NB7
+  country: 
+- type: ISIN
+  number: CN0005815195
+  country: 
+- type: Equity Ticker
+  number: 600775 CN
+  country: 
+- type: Equity Ticker
+  number: 00553 HK
+  country: 
+- type: Equity Ticker
+  number: NNJ DE
   country: 

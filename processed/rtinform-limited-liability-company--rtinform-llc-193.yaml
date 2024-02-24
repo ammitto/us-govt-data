@@ -23,6 +23,9 @@ documents:
 - type: Tax ID No.
   number: '7704810710'
   country: Russia
+- type: Organization Established Date
+  number: 28 Jun 2012
+  country: 
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
@@ -31,7 +34,4 @@ documents:
   country: 
 - type: Target Type
   number: State-Owned Enterprise
-  country: 
-- type: Organization Established Date
-  number: 28 Jun 2012
   country: 

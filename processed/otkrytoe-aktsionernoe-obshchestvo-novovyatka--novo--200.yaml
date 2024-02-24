@@ -2,8 +2,6 @@
 entity_type: organization
 names:
 - OTKRYTOE AKTSIONERNOE OBSHCHESTVO NOVO-VYATKA
-- " NOVO-VYATKA, OAO"
-- " OPEN JOINT STOCK COMPANY NOVO-VYATKA"
 - " NOVO VYATKA OPEN JOINT STOCK COMPANY"
 source: us-govt-data
 ref_number: '18795'
@@ -18,30 +16,22 @@ address:
   state: Kirovskaya obl.
   country: Russia
   zip: '610008'
-- street: 'Street Sovetskaya, d. 51, Bldg. 2   '
-  city: Kirov
-  state: 
-  country: Russia
-  zip: '61008'
 documents:
-- type: Registration ID
+- type: Registration Number
   number: '1034316578680'
-  country: 
-- type: Government Gazette Number
-  number: '49616818'
-  country: 
+  country: Russia
 - type: Tax ID No.
   number: '4345029946'
-  country: 
+  country: Russia
 - type: Executive Order 13662 Directive Determination -
   number: Subject to Directive 3
   country: 
-- type: Email Address
-  number: nmz@nmz.kirov.ru
-  country: 
-- type: Website
-  number: http://www.nmz.ru
-  country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: 'Secondary sanctions risk:'
+  number: this person is designated for operating or having operated in a sector of
+    the Russian Federation economy determined to support Russia's military-industrial
+    base pursuant to section 11 of Executive Order 14024, as amended by Executive
+    Order 14114.
   country: 

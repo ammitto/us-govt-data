@@ -27,15 +27,6 @@ documents:
 - type: Tax ID No.
   number: '6452010742'
   country: Russia
-- type: Executive Order 13662 Directive Determination -
-  number: Subject to Directive 1
-  country: 
-- type: Website
-  number: www.cetelem.ru
-  country: 
-- type: SWIFT/BIC
-  number: CETBRUMM
-  country: 
 - type: 'Listing Date (EO 14024 Directive 2):'
   number: 24 Feb 2022
   country: 
@@ -47,4 +38,13 @@ documents:
   country: 
 - type: 'Secondary sanctions risk:'
   number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or 589.209
+  country: 
+- type: Executive Order 13662 Directive Determination -
+  number: Subject to Directive 1
+  country: 
+- type: Website
+  number: www.cetelem.ru
+  country: 
+- type: SWIFT/BIC
+  number: CETBRUMM
   country: 

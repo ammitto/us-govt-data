@@ -46,9 +46,6 @@ documents:
 - type: ISIN
   number: ARDEUT111812
   country: 
-- type: Effective Date (CMIC)
-  number: 02 Aug 2021
-  country: 
 - type: Listing Date (CMIC)
   number: 03 Jun 2021
   country: 
@@ -63,6 +60,9 @@ documents:
   country: 
 - type: ISIN
   number: HK0941009539
+  country: 
+- type: Effective Date (CMIC)
+  number: 02 Aug 2021
   country: 
 - type: ISIN
   number: BRC1HLBDR003
