@@ -1,0 +1,88 @@
+= United States OFAC Sanctions Lists
+
+image:https://img.shields.io/github/license/ammitto/data-us.svg[License]
+image:https://github.com/ammitto/data-us/actions/workflows/update.yml/badge.svg["Update Status", link="https://github.com/ammitto/data-us/actions/workflows/update.yml"]
+
+== Purpose
+
+This repository contains sanctioned individuals, entities, and vessels from the
+United States Office of Foreign Assets Control (OFAC) sanctions lists.
+
+== Source
+
+* **Authority**: United States Department of the Treasury, OFAC
+* **URL**: https://ofac.treasury.gov/sanctions-lists
+* **SDN List**: https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/SDN_ADVANCED.ZIP
+* **Consolidated (Non-SDN)**: https://sanctionslistservice.ofac.treas.gov/api/PublicationPreview/exports/CONS_ADVANCED.ZIP
+* **Format**: XML (in ZIP archives)
+* **Update Frequency**: As updated by OFAC
+* **Country Code**: US
+
+== Legal Basis
+
+OFAC administers sanctions under multiple legal authorities:
+
+* *International Emergency Economic Powers Act (IEEPA)*
+* *Trading with the Enemy Act (TWEA)*
+* *Foreign Assistance Act*
+* Various Executive Orders
+* Specific legislation (e.g., CAATSA)
+
+== Lists Included
+
+* **SDN (Specially Designated Nationals)**: Entities whose assets are blocked
+* **Consolidated Sanctions List**: Non-SDN lists including:
+  * FSE (Foreign Sanctions Evaders)
+  * NS-PLC (Non-SDN Palestinian Legislative Council)
+  * SSI (Sectoral Sanctions Identifications)
+  * etc.
+
+== Directory Structure
+
+```
+data-us/
+├── downloaded/        # Raw downloaded ZIP/XML files
+├── processed/         # Processed YAML files (one per entity)
+└── README.adoc        # This file
+```
+
+== Data Contents
+
+* **Individuals**: Natural persons (sdnType = "Individual")
+* **Entities**: Organizations (sdnType = "Entity")
+* **Vessels**: Ships (sdnType = "Vessel")
+
+== Data Format
+
+[source,yaml]
+----
+uid: '12345'
+sdn_type: Individual
+programs:
+  - SDGT
+  - IRAQ2
+primary_name:
+  first: John
+  last: Doe
+aliases:
+  - name: J. Doe
+    type: weak
+identifications:
+  - type: Passport
+    number: A12345678
+    country: XX
+addresses:
+  - street: 123 Main St
+    city: City
+    country: XX
+----
+
+== Usage
+
+This data is part of the https://github.com/ammitto/ammitto[Ammitto] sanctions
+screening system.
+
+== License
+
+Data is sourced from official U.S. government publications (public domain).
+Repository structure and processing code are under the MIT License.
