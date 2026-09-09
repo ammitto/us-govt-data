@@ -23,13 +23,13 @@ id_list:
     id_type: Registration Number
     id_number: C-0255/2020
     id_country: Maldives
+  - uid: '164289'
+    id_type: 'Organization Type:'
+    id_number: Sports and recreation education
   - uid: '164364'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '164289'
-    id_type: 'Organization Type:'
-    id_number: Sports and recreation education
   - uid: '164288'
     id_type: Organization Established Date
     id_number: 04 Mar 2020

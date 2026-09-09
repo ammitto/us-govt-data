@@ -33,12 +33,12 @@ id_list:
     id_type: National ID No.
     id_number: '370724198109101905'
     id_country: China
-  - uid: '124134'
-    id_type: Gender
-    id_number: Female
   - uid: '124135'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '124134'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '24131'

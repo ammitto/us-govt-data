@@ -29,6 +29,10 @@ id_list:
   - uid: '180102'
     id_type: 'Organization Type:'
     id_number: Non-specialized wholesale trade
+  - uid: '180099'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
   - uid: '180100'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -36,8 +40,4 @@ id_list:
   - uid: '180056'
     id_type: Website
     id_number: gmfarmco.com
-  - uid: '180099'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
 remarks: "(Linked To: ATWI, Silvana)"

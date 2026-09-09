@@ -32,9 +32,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '5904112229'
     id_country: Russia
-  - uid: '166071'
-    id_type: Organization Established Date
-    id_number: 20 May 2004
   - uid: '175976'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '166071'
+    id_type: Organization Established Date
+    id_number: 20 May 2004

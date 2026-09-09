@@ -34,13 +34,13 @@ id_list:
     id_type: Government Gazette Number
     id_number: '41610288'
     id_country: Russia
+  - uid: '171708'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '171380'
     id_type: Organization Established Date
     id_number: 25 Sep 2019
   - uid: '171382'
     id_type: 'Organization Type:'
     id_number: Wholesale of other machinery and equipment
-  - uid: '171708'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: AKTSIONERNOE OBSHCHESTVO RAU FARM)"

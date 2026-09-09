@@ -23,17 +23,17 @@ id_list:
     id_type: Registration Number
     id_number: '4218020'
     id_country: United Kingdom
-  - uid: '186830'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
+  - uid: '129646'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '129647'
     id_type: SWIFT/BIC
     id_number: PIBPGB2L
   - uid: '129648'
     id_type: Website
     id_number: www.persiabank.co.uk
-  - uid: '129646'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
+  - uid: '186830'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: 'All Offices Worldwide; (Linked To: BANK MELLAT)'

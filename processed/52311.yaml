@@ -24,11 +24,11 @@ id_list:
     id_type: Registration Number
     id_number: '201901034367'
     id_country: Malaysia
-  - uid: '183726'
-    id_type: Organization Established Date
-    id_number: 24 Sep 2019
   - uid: '183727'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '183726'
+    id_type: Organization Established Date
+    id_number: 24 Sep 2019
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

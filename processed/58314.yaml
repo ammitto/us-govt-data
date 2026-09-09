@@ -15,6 +15,12 @@ address_list:
     country: Italy
 id_list:
   items:
+  - uid: '200469'
+    id_type: Website
+    id_number: www.autistici.org
+  - uid: '200784'
+    id_type: Email Address
+    id_number: www.associazione@ai-odv.org
   - uid: '200468'
     id_type: Organization Established Date
     id_number: '2001'
@@ -25,9 +31,3 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '200469'
-    id_type: Website
-    id_number: www.autistici.org
-  - uid: '200784'
-    id_type: Email Address
-    id_number: www.associazione@ai-odv.org

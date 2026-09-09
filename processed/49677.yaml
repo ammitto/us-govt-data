@@ -25,11 +25,11 @@ id_list:
     id_type: Company Number
     id_number: '1531597'
     id_country: United Arab Emirates
-  - uid: '172999'
-    id_type: Organization Established Date
-    id_number: 23 Dec 2020
   - uid: '172998'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '172999'
+    id_type: Organization Established Date
+    id_number: 23 Dec 2020
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

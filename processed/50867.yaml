@@ -19,18 +19,18 @@ id_list:
     id_type: National ID No.
     id_number: '441581198811282748'
     id_country: China
-  - uid: '179614'
-    id_type: Phone Number
-    id_number: '8615113505076'
-  - uid: '179615'
-    id_type: Phone Number
-    id_number: '8618826483838'
   - uid: '179613'
     id_type: Gender
     id_number: Female
   - uid: '179616'
     id_type: Digital Currency Address - XBT
     id_number: 3NEcQKZ8RwL2eDNhmMPpZ4td9vPsQh9JwM
+  - uid: '179614'
+    id_type: Phone Number
+    id_number: '8615113505076'
+  - uid: '179615'
+    id_type: Phone Number
+    id_number: '8618826483838'
 date_of_birth_list:
   items:
   - uid: '79611'

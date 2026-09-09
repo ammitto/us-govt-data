@@ -13,9 +13,9 @@ address_list:
     country: Mexico
 id_list:
   items:
-  - uid: '166906'
-    id_type: 'Organization Type:'
-    id_number: Real estate activities with own or leased property
   - uid: '166905'
     id_type: Organization Established Date
     id_number: 16 Feb 2018
+  - uid: '166906'
+    id_type: 'Organization Type:'
+    id_number: Real estate activities with own or leased property

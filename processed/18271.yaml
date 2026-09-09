@@ -42,12 +42,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '3808079367'
     id_country: Russia
-  - uid: '117584'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 2
-  - uid: '117644'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 4
+  - uid: '117522'
+    id_type: Email Address
+    id_number: vcng@rosneft.ru
   - uid: '188535'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -55,8 +52,11 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '117522'
-    id_type: Email Address
-    id_number: vcng@rosneft.ru
+  - uid: '117584'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 2
+  - uid: '117644'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
   (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

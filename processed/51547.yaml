@@ -26,9 +26,6 @@ id_list:
   - uid: '194809'
     id_type: Organization Established Date
     id_number: '2020'
-  - uid: '194808'
-    id_type: 'Executive Order 13846 information:'
-    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)
   - uid: '181207'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -36,3 +33,6 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '194808'
+    id_type: 'Executive Order 13846 information:'
+    id_number: BLOCKING PROPERTY AND INTERESTS IN PROPERTY.  Sec. 5(a)(iv)

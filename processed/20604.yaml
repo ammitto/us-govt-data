@@ -16,13 +16,13 @@ id_list:
     id_type: Passport
     id_number: '563120238'
     id_country: Korea, North
+  - uid: '127658'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135026'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127658'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 date_of_birth_list:
   items:
   - uid: '21181'

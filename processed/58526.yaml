@@ -1,0 +1,27 @@
+---
+uid: '58526'
+last_name: AVA AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90068'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '200915'
+    id_type: Organization Established Date
+    id_number: '2024'
+  - uid: '200918'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200916'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200917'
+    id_type: Website
+    id_number: https://avaair.ir

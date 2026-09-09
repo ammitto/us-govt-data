@@ -42,9 +42,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '7718852163'
     id_country: Russia
-  - uid: '118266'
-    id_type: Website
-    id_number: www.roe.ru
   - uid: '151207'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -52,6 +49,9 @@ id_list:
   - uid: '118265'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 3
+  - uid: '118266'
+    id_type: Website
+    id_number: www.roe.ru
   - uid: '173910'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,55 @@
+---
+uid: '58495'
+last_name: IRAN AIR TOUR
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90499'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN AIRTOUR AIRLINE
+  - uid: '90500'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN AIRTOUR AIRLINES
+  - uid: '90501'
+    type: a.k.a.
+    category: strong
+    last_name: IRAN AIR TOURS COMPANY
+address_list:
+  items:
+  - uid: '89999'
+    city: Tehran
+    country: Iran
+  - uid: '90000'
+    city: Mashhad
+    country: Iran
+  - uid: '90001'
+    city: Tabriz
+    country: Iran
+id_list:
+  items:
+  - uid: '53261'
+    id_type: Registration Number
+    id_number: '16691'
+    id_country: Iran
+  - uid: '53262'
+    id_type: National ID No.
+    id_number: '10100596646'
+    id_country: Iran
+  - uid: '200976'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200833'
+    id_type: Website
+    id_number: www.iranairtour.ir
+  - uid: '200832'
+    id_type: Organization Established Date
+    id_number: '1972'
+  - uid: '200831'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport

@@ -21,10 +21,10 @@ id_list:
     id_type: Registration Number
     id_number: 201432465N
     id_country: Singapore
-  - uid: '164787'
-    id_type: 'Organization Type:'
-    id_number: Activities of holding companies
   - uid: '164788'
     id_type: Organization Established Date
     id_number: 30 Oct 2014
+  - uid: '164787'
+    id_type: 'Organization Type:'
+    id_number: Activities of holding companies
 remarks: "(Linked To: WIN, Khin Phyu)"

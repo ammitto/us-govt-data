@@ -22,15 +22,15 @@ id_list:
   - uid: '166051'
     id_type: Website
     id_number: www.valerianlabs.com
-  - uid: '165750'
-    id_type: Digital Currency Address - XBT
-    id_number: bc1qardcxz845jw83vgfvcmewhuxa0ag9gchjwmcfd
-  - uid: '165751'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x983a81ca6FB1e441266D2FbcB7D8E530AC2E05A2'
   - uid: '165752'
     id_type: Digital Currency Address - USDT
     id_number: '0x983a81ca6FB1e441266D2FbcB7D8E530AC2E05A2'
   - uid: '165753'
     id_type: Digital Currency Address - USDC
+    id_number: '0x983a81ca6FB1e441266D2FbcB7D8E530AC2E05A2'
+  - uid: '165750'
+    id_type: Digital Currency Address - XBT
+    id_number: bc1qardcxz845jw83vgfvcmewhuxa0ag9gchjwmcfd
+  - uid: '165751'
+    id_type: Digital Currency Address - ETH
     id_number: '0x983a81ca6FB1e441266D2FbcB7D8E530AC2E05A2'

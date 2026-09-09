@@ -15,12 +15,12 @@ id_list:
   - uid: '16869'
     id_type: Passport
     id_number: '100135555'
-  - uid: '130587'
-    id_type: Gender
-    id_number: Male
   - uid: '153820'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '130587'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '30586'

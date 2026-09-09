@@ -38,19 +38,19 @@ id_list:
     id_type: Registration Number
     id_number: '1097746831709'
     id_country: Russia
-  - uid: '117543'
-    id_type: Website
-    id_number: vebcapital.ru
   - uid: '151170'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '146608'
-    id_type: Organization Established Date
-    id_number: 24 Dec 2009
   - uid: '117560'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
+  - uid: '146608'
+    id_type: Organization Established Date
+    id_number: 24 Dec 2009
+  - uid: '117543'
+    id_type: Website
+    id_number: vebcapital.ru
   - uid: '173870'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

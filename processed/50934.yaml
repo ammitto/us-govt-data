@@ -18,9 +18,9 @@ id_list:
     id_type: Business Number
     id_number: '110340017087'
     id_country: Kazakhstan
-  - uid: '179740'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '179741'
     id_type: Organization Established Date
     id_number: 25 Mar 2011
+  - uid: '179740'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -41,18 +41,18 @@ id_list:
     id_type: Tax ID No.
     id_number: '7717671799'
     id_country: Russia
+  - uid: '143549'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '173909'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '118258'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 3
   - uid: '152758'
     id_type: Target Type
     id_number: State-Owned Enterprise
-  - uid: '173909'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '143549'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: STATE CORPORATION ROSTEC)'

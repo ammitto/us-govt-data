@@ -16,13 +16,13 @@ id_list:
     id_type: Trade License No.
     id_number: 201432806G
     id_country: Singapore
+  - uid: '167312'
+    id_type: Organization Established Date
+    id_number: 03 Nov 2014
   - uid: '167397'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '167312'
-    id_type: Organization Established Date
-    id_number: 03 Nov 2014
   - uid: '167313'
     id_type: Website
     id_number: www.mse-overseas.com

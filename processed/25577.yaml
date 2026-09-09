@@ -28,11 +28,11 @@ id_list:
   - uid: '129470'
     id_type: Website
     id_number: www.futurebank.com.bh
+  - uid: '129469'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '186805'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '129469'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: 'All Offices Worldwide; (Linked To: BANK MELLI IRAN)'

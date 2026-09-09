@@ -13,14 +13,14 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '121159'
-    id_type: SWIFT/BIC
-    id_number: KORBKPPY
+  - uid: '127198'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '134896'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127198'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '121159'
+    id_type: SWIFT/BIC
+    id_number: KORBKPPY
 remarks: all offices worldwide

@@ -34,13 +34,13 @@ id_list:
     id_country: Brazil
     issue_date: 28 May 2011
     expiration_date: 27 May 2016
-  - uid: '184133'
-    id_type: Gender
-    id_number: Male
   - uid: '184134'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '184133'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '84129'

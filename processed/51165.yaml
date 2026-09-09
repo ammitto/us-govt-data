@@ -34,9 +34,9 @@ id_list:
     id_type: Company Number
     id_number: '3175538'
     id_country: Hong Kong
-  - uid: '180262'
-    id_type: Organization Established Date
-    id_number: 26 Jul 2022
   - uid: '180264'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '180262'
+    id_type: Organization Established Date
+    id_number: 26 Jul 2022

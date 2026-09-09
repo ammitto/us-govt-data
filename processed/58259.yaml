@@ -26,13 +26,13 @@ id_list:
     id_type: License
     id_number: DMCC-846344
     id_country: United Arab Emirates
-  - uid: '200120'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '199989'
     id_type: Organization Established Date
     id_number: 19 May 2022
   - uid: '199993'
     id_type: 'Organization Type:'
     id_number: Wholesale and retail trade
+  - uid: '200120'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

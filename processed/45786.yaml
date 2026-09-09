@@ -16,12 +16,12 @@ id_list:
     id_type: Passport
     id_number: '716622064'
     id_country: Russia
-  - uid: '166367'
-    id_type: Gender
-    id_number: Male
   - uid: '176057'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '166367'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '66365'

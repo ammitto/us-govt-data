@@ -27,9 +27,9 @@ id_list:
     id_type: Central Registration System Number
     id_number: 0631-1609-4070-0001
     id_country: Turkey
-  - uid: '179870'
-    id_type: Organization Established Date
-    id_number: 25 Oct 2021
   - uid: '179872'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '179870'
+    id_type: Organization Established Date
+    id_number: 25 Oct 2021

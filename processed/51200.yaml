@@ -19,10 +19,10 @@ id_list:
     id_type: License
     id_number: '501249'
     id_country: United Arab Emirates
-  - uid: '180307'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '180310'
     id_type: Organization Established Date
     id_number: 16 Sep 1997
+  - uid: '180307'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: S 7 ENGINEERING LLC)"

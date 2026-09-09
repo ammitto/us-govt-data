@@ -26,15 +26,6 @@ address_list:
     country: Ukraine
 id_list:
   items:
-  - uid: '198857'
-    id_type: Digital Currency Address - XBT
-    id_number: bc1qdnr88f4d2yqunnc4mjsguezm6g3mlwe44z5dw8
-  - uid: '198858'
-    id_type: Digital Currency Address - XBT
-    id_number: bc1qr4ankqmvmrhce3ydvzse86dfx5s3zhehfr9tg9
-  - uid: '198859'
-    id_type: Digital Currency Address - ETH
-    id_number: '0x2711d73d559f62f4f855ee21f38378f528e07985'
   - uid: '198860'
     id_type: Digital Currency Address - LTC
     id_number: ltc1qr8ntsedq8tv0svmxqhzvdcdl5k7kntdmnhwep7
@@ -65,3 +56,12 @@ id_list:
   - uid: '198853'
     id_type: Email Address
     id_number: support@1vpns.com
+  - uid: '198857'
+    id_type: Digital Currency Address - XBT
+    id_number: bc1qdnr88f4d2yqunnc4mjsguezm6g3mlwe44z5dw8
+  - uid: '198858'
+    id_type: Digital Currency Address - XBT
+    id_number: bc1qr4ankqmvmrhce3ydvzse86dfx5s3zhehfr9tg9
+  - uid: '198859'
+    id_type: Digital Currency Address - ETH
+    id_number: '0x2711d73d559f62f4f855ee21f38378f528e07985'

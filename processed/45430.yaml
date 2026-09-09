@@ -41,6 +41,13 @@ address_list:
     country: Korea, North
 id_list:
   items:
+  - uid: '166052'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '166053'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '166031'
     id_type: Website
     id_number: onerearth.xyz
@@ -116,10 +123,3 @@ id_list:
   - uid: '165996'
     id_type: Email Address
     id_number: syshim10@mofa.lat
-  - uid: '166053'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '166052'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

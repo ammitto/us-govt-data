@@ -30,11 +30,11 @@ id_list:
     id_type: Company Number
     id_number: '2953975'
     id_country: Hong Kong
-  - uid: '173034'
-    id_type: Organization Established Date
-    id_number: 22 Jun 2020
   - uid: '173035'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '173034'
+    id_type: Organization Established Date
+    id_number: 22 Jun 2020
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

@@ -19,9 +19,6 @@ id_list:
     id_type: Registration Number
     id_number: HE402876
     id_country: Cyprus
-  - uid: '183659'
-    id_type: Organization Established Date
-    id_number: '09 Oct 2019'
   - uid: '183657'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -29,3 +26,6 @@ id_list:
   - uid: '183658'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '183659'
+    id_type: Organization Established Date
+    id_number: '09 Oct 2019'

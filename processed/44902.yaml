@@ -27,12 +27,6 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '165162'
-    id_type: Gender
-    id_number: Male
-  - uid: '165274'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '165157'
     id_type: Email Address
     id_number: volhvb@mail.ru
@@ -45,6 +39,12 @@ id_list:
   - uid: '165160'
     id_type: Email Address
     id_number: volhvb@gmail.com
+  - uid: '165162'
+    id_type: Gender
+    id_number: Male
+  - uid: '165274'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 date_of_birth_list:
   items:
   - uid: '65161'

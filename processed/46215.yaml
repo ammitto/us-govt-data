@@ -17,9 +17,9 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: '14080'
     id_country: Mexico
-  - uid: '166907'
-    id_type: Organization Established Date
-    id_number: '09 May 2007'
   - uid: '166908'
     id_type: 'Organization Type:'
     id_number: Real estate activities with own or leased property
+  - uid: '166907'
+    id_type: Organization Established Date
+    id_number: '09 May 2007'

@@ -32,9 +32,6 @@ address_list:
     country: Armenia
 id_list:
   items:
-  - uid: '129649'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '186831'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -45,4 +42,7 @@ id_list:
   - uid: '129651'
     id_type: Website
     id_number: www.mellatbank.am
+  - uid: '129649'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: 'All Offices Worldwide; (Linked To: BANK MELLAT)'

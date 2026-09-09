@@ -39,14 +39,14 @@ id_list:
   - uid: '146665'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '118225'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
   - uid: '118827'
     id_type: SWIFT/BIC
     id_number: VTBAKZKZ
   - uid: '118164'
     id_type: Website
     id_number: http://en.vtb-bank.kz/
-  - uid: '118225'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

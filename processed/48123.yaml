@@ -60,9 +60,6 @@ id_list:
   - uid: '170086'
     id_type: Organization Established Date
     id_number: 28 Feb 2014
-  - uid: '176607'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '170087'
     id_type: Website
     id_number: https://www.netex24.net
@@ -75,3 +72,6 @@ id_list:
   - uid: '170090'
     id_type: Website
     id_number: https://www.netexchange.ru
+  - uid: '176607'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

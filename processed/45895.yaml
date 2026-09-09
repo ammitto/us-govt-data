@@ -32,9 +32,6 @@ id_list:
   - uid: '176081'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '166542'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '166543'
     id_type: SWIFT/BIC
     id_number: ABSLRUMM
@@ -44,3 +41,6 @@ id_list:
   - uid: '166545'
     id_type: Website
     id_number: www.absolutbank.com
+  - uid: '166542'
+    id_type: Target Type
+    id_number: Financial Institution

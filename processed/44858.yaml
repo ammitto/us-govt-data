@@ -25,10 +25,10 @@ id_list:
     id_type: Tax ID No.
     id_number: 2725693-8
     id_country: Finland
-  - uid: '165085'
-    id_type: Organization Established Date
-    id_number: 01 Dec 2015
   - uid: '173818'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '165085'
+    id_type: Organization Established Date
+    id_number: 01 Dec 2015
 remarks: "(Linked To: TEMIN, Gabriel)"

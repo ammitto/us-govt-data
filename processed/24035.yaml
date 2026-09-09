@@ -22,12 +22,12 @@ id_list:
   - uid: '15411'
     id_type: National ID No.
     id_number: 041-023144-4
-  - uid: '126151'
-    id_type: Gender
-    id_number: Male
   - uid: '126178'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '126151'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '26148'

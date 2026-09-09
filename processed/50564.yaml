@@ -12,12 +12,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '178808'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '178768'
     id_type: Gender
     id_number: Male
+  - uid: '178808'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '78766'

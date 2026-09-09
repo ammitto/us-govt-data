@@ -31,13 +31,13 @@ id_list:
     id_type: Registration Number
     id_number: '1027739806940'
     id_country: Russia
-  - uid: '184018'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '180972'
     id_type: Organization Established Date
     id_number: 13 Dec 2000
   - uid: '180971'
     id_type: Target Type
     id_number: Charity or Nonprofit Organization
+  - uid: '184018'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: MAIN INTELLIGENCE DIRECTORATE)"

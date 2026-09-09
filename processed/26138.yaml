@@ -39,15 +39,15 @@ id_list:
     id_type: Identification Number
     id_number: '008-046347-9'
     id_country: Iran
+  - uid: '130476'
+    id_type: Digital Currency Address - XBT
+    id_number: 1AjZPMsnmpdK2Rv9KQNfMurTXinscVro9V
   - uid: '130509'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
   - uid: '130474'
     id_type: Gender
     id_number: Male
-  - uid: '130476'
-    id_type: Digital Currency Address - XBT
-    id_number: 1AjZPMsnmpdK2Rv9KQNfMurTXinscVro9V
   - uid: '130475'
     id_type: Website
     id_number: www.enexchanger.com

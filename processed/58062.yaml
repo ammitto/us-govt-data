@@ -22,14 +22,14 @@ id_list:
     id_type: R.F.C.
     id_number: PET160218N40
     id_country: Mexico
+  - uid: '199364'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '199362'
     id_type: Organization Established Date
     id_number: 18 Feb 2016
   - uid: '199363'
     id_type: 'Organization Type:'
     id_number: Retail sale of automotive fuel in specialized stores
-  - uid: '199364'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: FLORES SILVA, Audias)"

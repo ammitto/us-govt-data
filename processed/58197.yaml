@@ -50,14 +50,14 @@ id_list:
     id_type: Trade License No.
     id_number: 197146-5
     id_country: Turkey
-  - uid: '199791'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '199789'
     id_type: Organization Established Date
     id_number: 25 Jun 2019
   - uid: '199790'
     id_type: Organization Established Date
     id_number: '2022'
+  - uid: '199791'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: HAMAS)"

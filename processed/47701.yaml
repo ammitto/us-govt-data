@@ -32,16 +32,16 @@ id_list:
     id_number: PS927320340
     issue_date: 02 Sep 2017
     expiration_date: 02 Sep 2022
-  - uid: '170488'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '169193'
     id_type: Gender
     id_number: Male
   - uid: '170487'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '170488'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '69192'

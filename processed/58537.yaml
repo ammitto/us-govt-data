@@ -1,0 +1,44 @@
+---
+uid: '58537'
+last_name: PARS OGHYANOUS KISH COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90584'
+    type: a.k.a.
+    category: strong
+    last_name: PARS AIRLINES
+  - uid: '90585'
+    type: a.k.a.
+    category: strong
+    last_name: PARS AIR
+address_list:
+  items:
+  - uid: '90091'
+    address1: Meraj Education Center Building, Azadi Square
+    address2: Karaj Special Road, Corner of Philosophical Street
+    city: Tehran
+    postal_code: '557111397'
+    country: Iran
+id_list:
+  items:
+  - uid: '53305'
+    id_type: Registration Number
+    id_number: '12386'
+    id_country: Iran
+  - uid: '200958'
+    id_type: Website
+    id_number: www.parsair.ir
+  - uid: '200956'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200957'
+    id_type: Organization Established Date
+    id_number: '2017'
+  - uid: '200959'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport

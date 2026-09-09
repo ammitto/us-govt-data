@@ -29,12 +29,12 @@ id_list:
     id_type: Passport
     id_number: G9311208
     id_country: Iran
-  - uid: '118918'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '137138'
     id_type: Gender
     id_number: Male
+  - uid: '118918'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '18850'

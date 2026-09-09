@@ -1,0 +1,44 @@
+---
+uid: '58494'
+last_name: ATA AIRLINES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '89995'
+    address1: No. 8, Corner of Yas Alley
+    address2: Shahid Nafisi Boulevard, Ekbatan
+    address3: Shahrak
+    city: Tehran
+    country: Iran
+  - uid: '89996'
+    address1: Armin Building, Uphill from Negin Park
+    address2: Golpark Square
+    address3: North Tavanir Street
+    city: Tabriz
+    country: Iran
+id_list:
+  items:
+  - uid: '53259'
+    id_type: Registration Number
+    id_number: '25533'
+    id_country: Iran
+  - uid: '53260'
+    id_type: National ID No.
+    id_number: '10200336102'
+    id_country: Iran
+  - uid: '200829'
+    id_type: Organization Established Date
+    id_number: 17 Dec 2008
+  - uid: '200830'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200828'
+    id_type: Website
+    id_number: www.ataair.ir
+  - uid: '200975'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

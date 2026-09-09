@@ -1,0 +1,46 @@
+---
+uid: '58497'
+last_name: IRAN ASEMAN AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90505'
+    type: a.k.a.
+    category: strong
+    last_name: ASEMAN AIR SERVICES
+address_list:
+  items:
+  - uid: '90005'
+    address1: Ground Floor, No. 0, Airport Road
+    address2: Amir Sarlashghar Shahid Hossein Lashgari Highway
+    address3: Airport, Central District
+    city: Tehran
+    state_or_province: Tehran
+    postal_code: '1387833731'
+    country: Iran
+id_list:
+  items:
+  - uid: '53264'
+    id_type: Registration ID
+    id_number: '41798'
+    id_country: Iran
+  - uid: '53265'
+    id_type: National ID No.
+    id_number: '10100871720'
+    id_country: Iran
+  - uid: '200837'
+    id_type: Organization Established Date
+    id_number: 10 Apr 1980
+  - uid: '200836'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200838'
+    id_type: Website
+    id_number: www.iaa.ir
+  - uid: '200977'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

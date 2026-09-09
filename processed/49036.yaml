@@ -74,13 +74,6 @@ id_list:
     id_type: Commercial Registry Number
     id_number: '1521379'
     id_country: Oman
-  - uid: '171866'
-    id_type: Website
-    id_number: https://www.shark-intl.com
-  - uid: '171910'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '171862'
     id_type: Organization Established Date
     id_number: 03 Feb 2022
@@ -93,4 +86,11 @@ id_list:
   - uid: '171865'
     id_type: Organization Established Date
     id_number: 07 Dec 2023
+  - uid: '171910'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '171866'
+    id_type: Website
+    id_number: https://www.shark-intl.com
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

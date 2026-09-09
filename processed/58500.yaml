@@ -1,0 +1,46 @@
+---
+uid: '58500'
+last_name: MES CARGO TRANSPORTATION TOURISM AND FOREIGN TRADE LIMITED COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90513'
+    type: a.k.a.
+    category: strong
+    last_name: MES KARGO TASIMACILIK TURIZM VE DIS TICARET LIMITED SIRKETI
+  - uid: '90514'
+    type: a.k.a.
+    category: strong
+    last_name: MEHMET SARP CARGO
+address_list:
+  items:
+  - uid: '90012'
+    address1: Hera Clup A Blok K:3
+    address2: Ozdemir Sokak No:45-46
+    address3: Ataturk Mahallesi
+    city: Esenyurt
+    state_or_province: Istanbul
+    postal_code: '34522'
+    country: Turkey
+id_list:
+  items:
+  - uid: '53270'
+    id_type: Central Registration System Number
+    id_number: '0619038513700014'
+    id_country: Turkey
+  - uid: '53271'
+    id_type: Chamber of Commerce Number
+    id_number: '503896'
+    id_country: Turkey
+  - uid: '200846'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200845'
+    id_type: Organization Established Date
+    id_number: 25 Aug 2003
+remarks: "(Linked To: MAHAN AIR)"

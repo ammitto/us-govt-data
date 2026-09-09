@@ -1,0 +1,49 @@
+---
+uid: '58529'
+last_name: CHABAHAR AIRLINES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90567'
+    type: a.k.a.
+    category: strong
+    last_name: CHABAHAR AVIATION COMPANY
+  - uid: '90568'
+    type: a.k.a.
+    category: strong
+    last_name: CHABAHAR AIR
+  - uid: '90569'
+    type: a.k.a.
+    category: strong
+    last_name: CHABAHAR AIRLINES
+address_list:
+  items:
+  - uid: '90075'
+    address1: Tis Complex Booth 214
+    address2: Vahdat Street, North Vahdt Street
+    address3: Azad Zone Neighborhood
+    city: Chabahar
+    postal_code: '9971766162'
+    country: Iran
+id_list:
+  items:
+  - uid: '53303'
+    id_type: Registration Number
+    id_number: '478'
+    id_country: Iran
+  - uid: '200931'
+    id_type: Website
+    id_number: www.chabaharairlines.com
+  - uid: '200930'
+    id_type: Organization Established Date
+    id_number: '1999'
+  - uid: '200932'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200929'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

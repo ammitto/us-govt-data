@@ -26,18 +26,15 @@ id_list:
     id_type: National ID No.
     id_number: '320831198505045212'
     id_country: China
-  - uid: '165745'
-    id_type: Digital Currency Address - USDT
-    id_number: TEAqwfMhXLaomXhZ8KeMhx3njGmQEDnsUR
-  - uid: '165739'
-    id_type: Email Address
-    id_number: 183322875@qq.com
   - uid: '165740'
     id_type: Phone Number
     id_number: '8613337963690'
   - uid: '165741'
     id_type: Phone Number
     id_number: '8615189626230'
+  - uid: '165739'
+    id_type: Email Address
+    id_number: 183322875@qq.com
   - uid: '165738'
     id_type: Gender
     id_number: Male
@@ -47,6 +44,9 @@ id_list:
   - uid: '165744'
     id_type: Digital Currency Address - ETH
     id_number: '0x530a64c0ce595026a4a556b703644228179e2d57'
+  - uid: '165745'
+    id_type: Digital Currency Address - USDT
+    id_number: TEAqwfMhXLaomXhZ8KeMhx3njGmQEDnsUR
 date_of_birth_list:
   items:
   - uid: '65735'

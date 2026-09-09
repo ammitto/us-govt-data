@@ -57,16 +57,16 @@ address_list:
     country: Ukraine
 id_list:
   items:
-  - uid: '123949'
-    id_type: SWIFT/BIC
-    id_number: YARORU21
-  - uid: '144038'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '124019'
     id_type: BIK (RU)
     id_number: '046711106'
   - uid: '124020'
     id_type: BIK (RU)
     id_number: '043510133'
+  - uid: '144038'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '123949'
+    id_type: SWIFT/BIC
+    id_number: YARORU21

@@ -20,14 +20,14 @@ address_list:
     country: Iran
 id_list:
   items:
+  - uid: '187221'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '128241'
     id_type: Website
     id_number: www.gzsc.ir
   - uid: '128240'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '187221'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: CALCIMIN)"

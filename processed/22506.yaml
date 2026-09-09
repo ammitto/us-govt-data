@@ -48,10 +48,10 @@ id_list:
   - uid: '123947'
     id_type: SWIFT/BIC
     id_number: NOCRRU21
+  - uid: '124017'
+    id_type: BIK (RU)
+    id_number: '041909769'
   - uid: '144036'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '124017'
-    id_type: BIK (RU)
-    id_number: '041909769'

@@ -27,13 +27,13 @@ address_list:
     country: Ukraine
 id_list:
   items:
+  - uid: '125385'
+    id_type: Gender
+    id_number: Female
   - uid: '143997'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '125385'
-    id_type: Gender
-    id_number: Female
 date_of_birth_list:
   items:
   - uid: '25384'

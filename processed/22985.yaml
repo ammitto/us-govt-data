@@ -33,16 +33,6 @@ address_list:
     country: China
 id_list:
   items:
-  - uid: '135149'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127945'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '124511'
-    id_type: SWIFT/BIC
-    id_number: KYCBKPPY
   - uid: '194323'
     id_type: Target Type
     id_number: Financial Institution
@@ -205,3 +195,13 @@ id_list:
   - uid: '193812'
     id_type: Digital Currency Address - USDT
     id_number: TYxwUhoLPF7AgfG9GaXFEp8CQi8K8KG1m3
+  - uid: '135149'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127945'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '124511'
+    id_type: SWIFT/BIC
+    id_number: KYCBKPPY

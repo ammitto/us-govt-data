@@ -38,13 +38,13 @@ id_list:
     id_type: Registration ID
     id_number: '1149102007933'
     id_country: Russia
-  - uid: '143830'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '123852'
     id_type: Website
     id_number: kpsk-ins.ru
   - uid: '123851'
     id_type: Email Address
     id_number: kpsk-ins@yandex.ru
+  - uid: '143830'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209

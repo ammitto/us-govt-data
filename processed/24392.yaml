@@ -16,12 +16,12 @@ id_list:
     id_type: Commercial Registry Number
     id_number: '1901011'
     id_country: Lebanon
-  - uid: '126701'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
   - uid: '187128'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '126701'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
 remarks: "(Linked To: BAZZI, Mohammad Ibrahim)"

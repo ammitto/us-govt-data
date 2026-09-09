@@ -21,13 +21,13 @@ id_list:
     id_type: Passport
     id_number: A23472357
     id_country: Malaysia
-  - uid: '183882'
-    id_type: Gender
-    id_number: Male
   - uid: '183739'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '183882'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '83723'

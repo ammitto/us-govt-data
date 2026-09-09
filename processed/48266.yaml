@@ -28,10 +28,10 @@ id_list:
     id_type: Central Registration System Number
     id_number: 0302-1277-4740-0001
     id_country: Turkey
-  - uid: '170352'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '170354'
     id_type: Organization Established Date
     id_number: 14 Dec 2022
+  - uid: '170352'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: GOK, Mahmut)"

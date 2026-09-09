@@ -17,11 +17,11 @@ id_list:
   - uid: '181327'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '181323'
+    id_type: Vessel Year of Build
+    id_number: '2004'
   - uid: '183579'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '181323'
-    id_type: Vessel Year of Build
-    id_number: '2004'
 remarks: "(Linked To: JOINT STOCK COMPANY SOVCOMFLOT)"

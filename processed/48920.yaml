@@ -34,13 +34,13 @@ id_list:
     id_type: 'Organization Type:'
     id_number: Retail sale of pharmaceutical and medical goods, cosmetic and toilet
       articles in specialized stores
-  - uid: '171659'
-    id_type: Email Address
-    id_number: farmaciatrinidadnogales@gmail.com
   - uid: '171660'
     id_type: Phone Number
     id_number: "+52 631 104 2274"
   - uid: '178996'
     id_type: Phone Number
     id_number: "+52 631 172 1037"
+  - uid: '171659'
+    id_type: Email Address
+    id_number: farmaciatrinidadnogales@gmail.com
 remarks: "(Linked To: MORGAN HUERTA, Jose Arnoldo)"

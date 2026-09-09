@@ -1,0 +1,47 @@
+---
+uid: '58492'
+last_name: S SISTEM LOJISTIK HIZMETLER ANONIM SIRKETI
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90495'
+    type: a.k.a.
+    category: strong
+    last_name: S SISTEM LOGISTICS SERVICES JOINT STOCK COMPANY
+address_list:
+  items:
+  - uid: '89993'
+    address1: Nuri Demirag Caddesi No 49
+    address2: Yenikoy Mahallesi
+    city: Turkoba
+    state_or_province: Istanbul
+    postal_code: '34277'
+    country: Turkey
+id_list:
+  items:
+  - uid: '53257'
+    id_type: Tax ID No.
+    id_number: '7730026303'
+    id_country: Turkey
+  - uid: '53258'
+    id_type: Registration Number
+    id_number: 203409-0
+    id_country: Turkey
+  - uid: '200824'
+    id_type: Organization Established Date
+    id_number: '1984'
+  - uid: '200826'
+    id_type: Website
+    id_number: https://www.ssistem.com
+  - uid: '200827'
+    id_type: Website
+    id_number: www.ssistem.com.tr
+  - uid: '200825'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

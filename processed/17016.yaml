@@ -62,12 +62,9 @@ id_list:
   - uid: '44704'
     id_type: Legal Entity Number
     id_number: 253400WSS48YWMBUA688
-  - uid: '115749'
-    id_type: SWIFT/BIC
-    id_number: GAZPRUMM
-  - uid: '115751'
-    id_type: Website
-    id_number: www.gazprombank.ru
+  - uid: '146534'
+    id_type: Organization Established Date
+    id_number: 31 Jul 1990
   - uid: '182493'
     id_type: Organization Established Date
     id_number: 31 Jul 1990
@@ -93,17 +90,20 @@ id_list:
   - uid: '146850'
     id_type: 'Effective Date (EO 14024 Directive 3):'
     id_number: 26 Mar 2022
-  - uid: '151146'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+  - uid: '115749'
+    id_type: SWIFT/BIC
+    id_number: GAZPRUMM
+  - uid: '115751'
+    id_type: Website
+    id_number: www.gazprombank.ru
   - uid: '182491'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '116139'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
-  - uid: '146534'
-    id_type: Organization Established Date
-    id_number: 31 Jul 1990
+  - uid: '151146'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: 'For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions#directives'

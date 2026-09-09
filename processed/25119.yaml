@@ -50,10 +50,10 @@ id_list:
     id_type: Government Gazette Number
     id_number: '00742767'
     id_country: Russia
-  - uid: '128371'
-    id_type: Email Address
-    id_number: fnatali@mail.ru
   - uid: '143987'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '128371'
+    id_type: Email Address
+    id_number: fnatali@mail.ru

@@ -1,0 +1,43 @@
+---
+uid: '58511'
+last_name: TOOS AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IFSR
+aka_list:
+  items:
+  - uid: '90536'
+    type: a.k.a.
+    category: strong
+    last_name: TOOS PARSIAN KISH AIRLINES COMPANY
+  - uid: '90537'
+    type: a.k.a.
+    category: strong
+    last_name: TOOS AIRLINE
+address_list:
+  items:
+  - uid: '90036'
+    city: Mashhad
+    country: Iran
+  - uid: '90037'
+    city: Kish
+    country: Iran
+  - uid: '90038'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '200968'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200876'
+    id_type: Website
+    id_number: toosairline.com
+  - uid: '200874'
+    id_type: Organization Established Date
+    id_number: '2020'
+  - uid: '200878'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport

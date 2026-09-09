@@ -20,13 +20,13 @@ id_list:
     id_type: Registration Number
     id_number: HE433232
     id_country: Cyprus
+  - uid: '167599'
+    id_type: Organization Established Date
+    id_number: 13 Apr 2022
   - uid: '176310'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '167600'
     id_type: Target Type
     id_number: Private Company
-  - uid: '167599'
-    id_type: Organization Established Date
-    id_number: 13 Apr 2022
 remarks: "(Linked To: DE GEETERE, Hans)"

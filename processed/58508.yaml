@@ -1,0 +1,30 @@
+---
+uid: '58508'
+last_name: VARESH AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IFSR
+address_list:
+  items:
+  - uid: '90026'
+    city: Sari
+    country: Iran
+  - uid: '90027'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '200861'
+    id_type: Organization Established Date
+    id_number: '2018'
+  - uid: '200864'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200862'
+    id_type: Website
+    id_number: vareshairline.com
+  - uid: '200969'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

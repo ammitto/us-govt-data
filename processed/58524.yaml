@@ -1,0 +1,35 @@
+---
+uid: '58524'
+last_name: AEROBRAVO AIRPLANE MANAGEMENT AND OPERATION LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '90065'
+    city: Dubai
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '53298'
+    id_type: License
+    id_number: '1108996'
+    id_country: United Arab Emirates
+  - uid: '53299'
+    id_type: Commercial Registry Number
+    id_number: '1879178'
+    id_country: United Arab Emirates
+  - uid: '53300'
+    id_type: Chamber of Commerce Number
+    id_number: '430703'
+    id_country: United Arab Emirates
+  - uid: '200914'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200913'
+    id_type: Organization Established Date
+    id_number: 22 Nov 2022
+remarks: "(Linked To: ECT AVIATION SUPPORT LLC)"

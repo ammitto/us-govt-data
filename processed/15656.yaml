@@ -30,12 +30,12 @@ address_list:
     country: China
 id_list:
   items:
+  - uid: '127649'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '134947'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127649'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: TANCHON COMMERCIAL BANK)"
 title: Tanchon Commercial Bank Representative to Beijing, China

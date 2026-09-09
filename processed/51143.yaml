@@ -32,9 +32,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '2122006437'
     id_country: Russia
-  - uid: '180200'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '180201'
     id_type: Target Type
     id_number: State-Owned Enterprise
+  - uid: '180200'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -72,6 +72,12 @@ id_list:
     id_type: Registration Number
     id_number: '425353'
     id_country: Iran
+  - uid: '200290'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200291'
+    id_type: Organization Established Date
+    id_number: 14 May 2012
   - uid: '200292'
     id_type: Website
     id_number: www.bre-line.com
@@ -81,10 +87,4 @@ id_list:
   - uid: '200294'
     id_type: Website
     id_number: www.bre-line.org
-  - uid: '200290'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
-  - uid: '200291'
-    id_type: Organization Established Date
-    id_number: 14 May 2012
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

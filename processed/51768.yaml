@@ -31,12 +31,12 @@ id_list:
   - uid: '181961'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '181964'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '181963'
     id_type: SWIFT/BIC
     id_number: ROCERU33
   - uid: '181962'
     id_type: Website
     id_number: www.royal-bank.ru
-  - uid: '181964'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

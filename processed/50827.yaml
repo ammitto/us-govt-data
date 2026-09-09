@@ -38,9 +38,6 @@ id_list:
   - uid: '179469'
     id_type: Registration Country
     id_number: Iran
-  - uid: '194805'
-    id_type: Website
-    id_number: https://yazdairways.com
   - uid: '194624'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -48,4 +45,7 @@ id_list:
   - uid: '179470'
     id_type: Organization Established Date
     id_number: 10 May 2022
+  - uid: '194805'
+    id_type: Website
+    id_number: https://yazdairways.com
 remarks: "(Linked To: MAHAN AIR)"

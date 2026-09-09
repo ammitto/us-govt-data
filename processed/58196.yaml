@@ -41,17 +41,17 @@ id_list:
     id_type: Chamber of Commerce Number
     id_number: '8441'
     id_country: Palestinian
+  - uid: '199812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199786'
+    id_type: Website
+    id_number: https://midad-alkhair.com
   - uid: '199787'
     id_type: Organization Established Date
     id_number: '2014'
   - uid: '199788'
     id_type: Target Type
     id_number: Charity or Nonprofit Organization
-  - uid: '199786'
-    id_type: Website
-    id_number: https://midad-alkhair.com
-  - uid: '199812'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: HAMAS)"

@@ -16,11 +16,11 @@ id_list:
     id_type: Business Registration Number
     id_number: '239978'
     id_country: Yemen
-  - uid: '168605'
-    id_type: 'Organization Type:'
-    id_number: Other business support service activities n.e.c.
   - uid: '168613'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '168605'
+    id_type: 'Organization Type:'
+    id_number: Other business support service activities n.e.c.
 remarks: "(Linked To: AL AHMAR, Hamid Abdullah Hussein)"

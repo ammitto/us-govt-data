@@ -25,12 +25,12 @@ id_list:
     id_number: J43303959
     id_country: Iran
     expiration_date: 16 Oct 2022
-  - uid: '165351'
-    id_type: Gender
-    id_number: Male
   - uid: '165510'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '165351'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '65353'

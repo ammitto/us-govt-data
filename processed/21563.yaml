@@ -27,9 +27,6 @@ id_list:
     id_number: RL 2325452
     id_country: Lebanon
     expiration_date: 31 Jul 2017
-  - uid: '122478'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '186609'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -37,6 +34,9 @@ id_list:
   - uid: '122448'
     id_type: Gender
     id_number: Male
+  - uid: '122478'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '22446'

@@ -39,10 +39,6 @@ address_list:
     country: Iraq
 id_list:
   items:
-  - uid: '186455'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '117426'
     id_type: Website
     id_number: www.alinmaa.com.lb
@@ -50,5 +46,9 @@ id_list:
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '186455'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: TABAJA, Adham Husayn; Linked To: AL-INMAA GROUP FOR TOURISM
   WORKS, LLC)"

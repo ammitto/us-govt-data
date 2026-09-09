@@ -25,13 +25,13 @@ id_list:
   - uid: '180666'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '180664'
-    id_type: Gender
-    id_number: Male
   - uid: '180668'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '180664'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '80665'

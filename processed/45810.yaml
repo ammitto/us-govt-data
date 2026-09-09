@@ -39,12 +39,12 @@ id_list:
     id_type: Identification Number
     id_number: XC6QLI.00000.LE.643
     id_country: Russia
-  - uid: '166766'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '176064'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '166413'
     id_type: SWIFT/BIC
     id_number: RRDBRUMM
+  - uid: '166766'
+    id_type: Target Type
+    id_number: Financial Institution

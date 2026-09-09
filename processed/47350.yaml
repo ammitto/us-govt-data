@@ -21,14 +21,14 @@ address_list:
     country: 'Region: Gaza'
 id_list:
   items:
+  - uid: '179919'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '180059'
     id_type: Organization Established Date
     id_number: 19 May 2013 to 31 May 2013
   - uid: '180058'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '179919'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: HAMAS)"

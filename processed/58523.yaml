@@ -1,0 +1,48 @@
+---
+uid: '58523'
+last_name: ZAGROS AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90558'
+    type: a.k.a.
+    category: strong
+    last_name: ZAGROS AIRLINE CO
+address_list:
+  items:
+  - uid: '90062'
+    address1: No. 1, Zagros Airlines Building
+    address2: Third Alley, Riahi St
+    address3: Karaj Special Road
+    city: Tehran
+    postal_code: '1391713415'
+    country: Iran
+  - uid: '90063'
+    city: Abadan
+    country: Iran
+id_list:
+  items:
+  - uid: '53296'
+    id_type: Registration Number
+    id_number: '1008'
+    id_country: Iran
+  - uid: '53297'
+    id_type: National ID No.
+    id_number: '10861921581'
+    id_country: Iran
+  - uid: '200911'
+    id_type: Website
+    id_number: www.zagrosairlines.com
+  - uid: '200910'
+    id_type: Organization Established Date
+    id_number: 28 Aug 2005
+  - uid: '200909'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200986'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

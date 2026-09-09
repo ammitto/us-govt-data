@@ -21,10 +21,10 @@ id_list:
     id_type: Business Registration Number
     id_number: '39473717'
     id_country: Hong Kong
-  - uid: '172029'
-    id_type: Organization Established Date
-    id_number: 19 Jun 2008
   - uid: '172689'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '172029'
+    id_type: Organization Established Date
+    id_number: 19 Jun 2008
 remarks: "(Linked To: CHICHENEV, Alexey)"

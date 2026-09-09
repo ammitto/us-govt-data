@@ -38,12 +38,12 @@ id_list:
     id_type: Registration Number
     id_number: '1760978321'
     id_country: Turkey
-  - uid: '172811'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '172272'
     id_type: Organization Established Date
     id_number: 20 Apr 2022
+  - uid: '172811'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '172274'
     id_type: Website
     id_number: biopharmist.com

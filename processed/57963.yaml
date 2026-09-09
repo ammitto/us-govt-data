@@ -35,14 +35,14 @@ address_list:
     country: Syria
 id_list:
   items:
-  - uid: '198800'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '198798'
     id_type: Organization Established Date
     id_number: '2020'
   - uid: '198796'
     id_type: 'Organization Type:'
     id_number: Financial and Insurance Activities
+  - uid: '198800'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

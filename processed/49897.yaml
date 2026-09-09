@@ -26,9 +26,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '100500504400003'
     id_country: United Arab Emirates
-  - uid: '178100'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '177371'
     id_type: Organization Established Date
     id_number: '09 Sep 2021'
+  - uid: '178100'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

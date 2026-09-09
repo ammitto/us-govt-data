@@ -35,11 +35,11 @@ id_list:
     id_type: Registration Number
     id_number: '113186'
     id_country: Marshall Islands
-  - uid: '170112'
-    id_type: Organization Established Date
-    id_number: 18 Feb 2022
   - uid: '170118'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '170112'
+    id_type: Organization Established Date
+    id_number: 18 Feb 2022
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

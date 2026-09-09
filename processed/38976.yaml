@@ -23,12 +23,12 @@ id_list:
     id_type: Registration Number
     id_number: '16039'
     id_country: United Arab Emirates
-  - uid: '154667'
-    id_type: Organization Established Date
-    id_number: 17 Nov 2015
   - uid: '154668'
     id_type: 'Organization Type:'
     id_number: Service activities incidental to air transportation
   - uid: '176902'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '154667'
+    id_type: Organization Established Date
+    id_number: 17 Nov 2015

@@ -10,11 +10,11 @@ id_list:
   - uid: '11894'
     id_type: Vessel Registration Identification
     id_number: IMO 8312227
-  - uid: '127146'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135010'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127146'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: KOREAN BUYON SHIPPING CO. LTD.)"

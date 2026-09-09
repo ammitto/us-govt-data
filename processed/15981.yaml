@@ -25,10 +25,10 @@ address_list:
     country: Kyrgyzstan
 id_list:
   items:
-  - uid: '114272'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '186700'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '114272'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

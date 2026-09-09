@@ -15,12 +15,12 @@ id_list:
   - uid: '14518'
     id_type: Passport
     id_number: '563310172'
-  - uid: '127291'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '124707'
     id_type: Gender
     id_number: Male
+  - uid: '127291'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135093'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'

@@ -25,15 +25,6 @@ id_list:
   - uid: '35644'
     id_type: Legal Entity Number
     id_number: 549300F4ZEG3A9JDGZ08
-  - uid: '166549'
-    id_type: SWIFT/BIC
-    id_number: RSJSRUMM
-  - uid: '166546'
-    id_type: Website
-    id_number: www.rsb.ru
-  - uid: '166547'
-    id_type: Website
-    id_number: russianstandard.com
   - uid: '166548'
     id_type: Target Type
     id_number: Financial Institution
@@ -43,3 +34,12 @@ id_list:
   - uid: '166550'
     id_type: Organization Established Date
     id_number: 01 Jan 1992
+  - uid: '166549'
+    id_type: SWIFT/BIC
+    id_number: RSJSRUMM
+  - uid: '166546'
+    id_type: Website
+    id_number: www.rsb.ru
+  - uid: '166547'
+    id_type: Website
+    id_number: russianstandard.com

@@ -14,10 +14,10 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '129869'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '129870'
     id_type: SWIFT/BIC
     id_number: AYBKIRTH
+  - uid: '129869'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: 'All Offices Worldwide; (Linked To: ISLAMIC REPUBLIC OF IRAN BROADCASTING)'

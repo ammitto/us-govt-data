@@ -16,10 +16,10 @@ id_list:
   - uid: '11889'
     id_type: Vessel Registration Identification
     id_number: IMO 1991835
+  - uid: '127139'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '134986'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127139'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

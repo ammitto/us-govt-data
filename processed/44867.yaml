@@ -18,9 +18,9 @@ id_list:
     id_type: Identification Number
     id_number: '0282075065700001'
     id_country: Turkey
-  - uid: '175825'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '165122'
     id_type: Organization Established Date
     id_number: 17 Mar 2022
+  - uid: '175825'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

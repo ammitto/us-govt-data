@@ -8,10 +8,6 @@ program_list:
   - IFSR
 id_list:
   items:
-  - uid: '194847'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '179175'
     id_type: Aircraft Manufacture Date
     id_number: '2000'
@@ -27,4 +23,8 @@ id_list:
   - uid: '194846'
     id_type: Aircraft Tail Number
     id_number: EP-MJF
+  - uid: '194847'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: MAHAN AIR)"

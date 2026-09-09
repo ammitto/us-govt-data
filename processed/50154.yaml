@@ -33,12 +33,12 @@ id_list:
     id_type: National ID No.
     id_number: '0076135462'
     id_country: Iran
-  - uid: '179073'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '177726'
     id_type: Gender
     id_number: Male
+  - uid: '179073'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '77724'

@@ -17,12 +17,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '781699698096'
     id_country: Russia
-  - uid: '199639'
-    id_type: Gender
-    id_number: Male
   - uid: '199640'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '199639'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '99599'

@@ -23,10 +23,10 @@ id_list:
     id_type: Tax ID No.
     id_number: M364135L001
     id_country: Central African Republic
-  - uid: '176680'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '171979'
     id_type: 'Organization Type:'
     id_number: Mining of other non-ferrous metal ores
+  - uid: '176680'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

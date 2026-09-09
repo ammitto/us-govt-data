@@ -56,6 +56,10 @@ id_list:
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
       activities, n.e.c.
+  - uid: '166840'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '166837'
     id_type: Organization Established Date
     id_number: 13 Mar 1989
@@ -65,8 +69,4 @@ id_list:
   - uid: '166836'
     id_type: Website
     id_number: shuman-exchange.business.site
-  - uid: '166840'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: HAMAS)"

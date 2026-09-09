@@ -27,9 +27,9 @@ id_list:
     id_type: Commercial Registry Number
     id_number: '2697983'
     id_country: Hong Kong
-  - uid: '175023'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '167488'
     id_type: Organization Established Date
     id_number: 21 May 2018
+  - uid: '175023'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

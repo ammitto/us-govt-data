@@ -18,11 +18,11 @@ id_list:
   - uid: '44694'
     id_type: Identification Number
     id_number: IMO 6224770
+  - uid: '182476'
+    id_type: Organization Established Date
+    id_number: '2021'
   - uid: '182762'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '182476'
-    id_type: Organization Established Date
-    id_number: '2021'
 remarks: "(Linked To: AL-QATIRJI COMPANY)"

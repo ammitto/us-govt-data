@@ -19,10 +19,10 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: '75487'
     id_country: Mexico
-  - uid: '167722'
-    id_type: Organization Established Date
-    id_number: 25 Feb 2006
   - uid: '167571'
     id_type: 'Organization Type:'
     id_number: Retail sale of pharmaceutical and medical goods, cosmetic and toilet
       articles in specialized stores
+  - uid: '167722'
+    id_type: Organization Established Date
+    id_number: 25 Feb 2006

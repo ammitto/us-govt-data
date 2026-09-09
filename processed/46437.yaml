@@ -40,10 +40,10 @@ id_list:
   - uid: '174957'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '167214'
-    id_type: 'Organization Type:'
-    id_number: Manufacture of air and spacecraft and related machinery
   - uid: '167215'
     id_type: Organization Established Date
     id_number: 11 Dec 2022
+  - uid: '167214'
+    id_type: 'Organization Type:'
+    id_number: Manufacture of air and spacecraft and related machinery
 remarks: "(Linked To: JOINT STOCK COMPANY IZHEVSK ELECTROMECHANICAL PLANT KUPOL)"

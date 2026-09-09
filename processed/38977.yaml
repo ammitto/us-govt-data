@@ -47,12 +47,12 @@ id_list:
     id_type: Registration Number
     id_number: DMCC19501
     id_country: United Arab Emirates
+  - uid: '154670'
+    id_type: Organization Established Date
+    id_number: 13 Oct 2014
   - uid: '174724'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '154669'
     id_type: 'Organization Type:'
     id_number: Service activities incidental to air transportation
-  - uid: '154670'
-    id_type: Organization Established Date
-    id_number: 13 Oct 2014

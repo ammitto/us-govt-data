@@ -35,6 +35,9 @@ id_list:
     id_type: License
     id_number: '947727'
     id_country: United Arab Emirates
+  - uid: '172045'
+    id_type: Website
+    id_number: www.capitaltap.com
   - uid: '172043'
     id_type: Organization Established Date
     id_number: 12 Apr 2021
@@ -44,6 +47,3 @@ id_list:
   - uid: '184195'
     id_type: 'Organization Type:'
     id_number: Trusts, funds and similar financial entities
-  - uid: '172045'
-    id_type: Website
-    id_number: www.capitaltap.com

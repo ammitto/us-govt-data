@@ -28,9 +28,9 @@ id_list:
   - uid: '180420'
     id_type: Organization Established Date
     id_number: 03 Apr 2014
-  - uid: '180423'
-    id_type: Website
-    id_number: https://midas-lighting.cn/
   - uid: '180485'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '180423'
+    id_type: Website
+    id_number: https://midas-lighting.cn/

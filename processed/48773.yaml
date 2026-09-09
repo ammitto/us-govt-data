@@ -17,9 +17,9 @@ id_list:
     id_type: License
     id_number: '18050'
     id_country: United Arab Emirates
-  - uid: '171410'
-    id_type: Organization Established Date
-    id_number: 13 Apr 2017
   - uid: '171412'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '171410'
+    id_type: Organization Established Date
+    id_number: 13 Apr 2017

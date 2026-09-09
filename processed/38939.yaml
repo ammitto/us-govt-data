@@ -16,10 +16,10 @@ id_list:
     id_type: 'NIT #'
     id_number: '59536969'
     id_country: Guatemala
-  - uid: '170050'
-    id_type: 'Organization Type:'
-    id_number: Sale of motor vehicles
   - uid: '170049'
     id_type: Organization Established Date
     id_number: '08 Sep 2017'
+  - uid: '170050'
+    id_type: 'Organization Type:'
+    id_number: Sale of motor vehicles
 remarks: "(Linked To: MORALES CIFUENTES, Juan Jose)"

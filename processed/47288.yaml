@@ -39,10 +39,10 @@ address_list:
     country: Nicaragua
 id_list:
   items:
-  - uid: '169034'
-    id_type: Target Type
-    id_number: Government Entity
   - uid: '169032'
     id_type: Organization Established Date
     id_number: 01 Oct 2017
+  - uid: '169034'
+    id_type: Target Type
+    id_number: Government Entity
 remarks: "(Linked To: NICARAGUAN NATIONAL POLICE)"

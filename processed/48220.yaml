@@ -24,16 +24,16 @@ id_list:
     id_type: Passport
     id_number: '745336612'
     id_country: Korea, North
-  - uid: '170249'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '170251'
     id_type: Gender
     id_number: Male
   - uid: '170250'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '170249'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '70252'

@@ -21,12 +21,12 @@ id_list:
     id_type: Passport
     id_number: '766355168'
     id_country: Russia
-  - uid: '199647'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '199596'
     id_type: Gender
     id_number: Female
+  - uid: '199647'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '99597'

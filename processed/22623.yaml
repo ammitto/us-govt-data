@@ -28,16 +28,16 @@ id_list:
     id_number: '210521198207010412'
     id_country: China
     expiration_date: 13 Aug 2029
+  - uid: '135154'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '127684'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '124085'
     id_type: Gender
     id_number: Male
-  - uid: '135154'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '24084'

@@ -50,14 +50,14 @@ id_list:
   - uid: '15423'
     id_type: Tax ID No.
     id_number: '7707587805'
+  - uid: '143977'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '126354'
     id_type: Website
     id_number: www.npve.narod.ru
   - uid: '126353'
     id_type: Email Address
     id_number: npw@npv.su
-  - uid: '143977'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
 remarks: "(Linked To: ROTENBERG, Igor Arkadyevich)"

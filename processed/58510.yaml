@@ -1,0 +1,49 @@
+---
+uid: '58510'
+last_name: KISH AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90530'
+    type: a.k.a.
+    category: strong
+    last_name: KISH AIR
+address_list:
+  items:
+  - uid: '90033'
+    address1: Kish Air Central Building, First Floor
+    address2: Ekbatan Town, Phase I
+    address3: Shahid Nafisi Boulevard
+    city: Tehran
+    postal_code: '1393853113'
+    country: Iran
+  - uid: '90034'
+    city: Kish Island
+    state_or_province: Hormozgan
+    country: Iran
+id_list:
+  items:
+  - uid: '53284'
+    id_type: Registration Number
+    id_number: '854'
+    id_country: Iran
+  - uid: '53285'
+    id_type: National ID No.
+    id_number: '10861524973'
+    id_country: Iran
+  - uid: '200873'
+    id_type: Organization Established Date
+    id_number: '1989'
+  - uid: '200875'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200872'
+    id_type: Website
+    id_number: www.kishairlines.ir
+  - uid: '200983'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

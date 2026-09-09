@@ -50,9 +50,9 @@ id_list:
   - uid: '170023'
     id_type: Website
     id_number: https://www.bitpapa.org
-  - uid: '176594'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '170021'
     id_type: Organization Established Date
     id_number: 29 Apr 2022
+  - uid: '176594'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

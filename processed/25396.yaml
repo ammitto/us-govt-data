@@ -53,9 +53,6 @@ id_list:
   - uid: '129929'
     id_type: IFCA Determination -
     id_number: Involved in the Shipping Sector
-  - uid: '128962'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '139138'
     id_type: 'Executive Order 13846 information:'
     id_number: LOANS FROM UNITED STATES FINANCIAL INSTITUTIONS.  Sec. 5(a)(i)
@@ -74,4 +71,7 @@ id_list:
   - uid: '139188'
     id_type: 'Executive Order 13846 information:'
     id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec. 5(a)(vii)
+  - uid: '128962'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: All Offices Worldwide

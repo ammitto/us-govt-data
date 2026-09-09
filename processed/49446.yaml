@@ -33,12 +33,12 @@ id_list:
     id_type: Registration Number
     id_number: '100000000001523'
     id_country: China
-  - uid: '172750'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '172516'
     id_type: Organization Established Date
     id_number: 28 Dec 1983
   - uid: '172517'
     id_type: Target Type
     id_number: State-Owned Enterprise
+  - uid: '172750'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

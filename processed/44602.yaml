@@ -23,13 +23,13 @@ address_list:
     country: Congo, Democratic Republic of the
 id_list:
   items:
+  - uid: '164644'
+    id_type: Gender
+    id_number: Male
   - uid: '164647'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '164644'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '64638'

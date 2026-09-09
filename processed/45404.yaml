@@ -21,6 +21,9 @@ id_list:
     id_type: National ID No.
     id_number: '130531198903120212'
     id_country: China
+  - uid: '165925'
+    id_type: Digital Currency Address - USDT
+    id_number: '0xfac583c0cf07ea434052c49115a4682172ab6b4f'
   - uid: '165919'
     id_type: Gender
     id_number: Male
@@ -33,9 +36,6 @@ id_list:
   - uid: '165924'
     id_type: Digital Currency Address - XBT
     id_number: TUCsTq7TofTCJRRoHk6RvhMoS2mJLm5Yzq
-  - uid: '165925'
-    id_type: Digital Currency Address - USDT
-    id_number: '0xfac583c0cf07ea434052c49115a4682172ab6b4f'
 date_of_birth_list:
   items:
   - uid: '65910'

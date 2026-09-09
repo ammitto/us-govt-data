@@ -24,10 +24,10 @@ id_list:
     id_type: Chamber of Commerce Number
     id_number: '1167239'
     id_country: Turkey
-  - uid: '170351'
-    id_type: Organization Established Date
-    id_number: 29 Jan 2019
   - uid: '170350'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '170351'
+    id_type: Organization Established Date
+    id_number: 29 Jan 2019
 remarks: "(Linked To: GOK, Mahmut)"

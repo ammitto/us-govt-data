@@ -31,15 +31,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '7708018456'
     id_country: Russia
-  - uid: '182163'
-    id_type: SWIFT/BIC
-    id_number: NADORUMM
-  - uid: '182164'
-    id_type: Website
-    id_number: www.ndb24.ru
   - uid: '182166'
     id_type: Target Type
     id_number: Financial Institution
   - uid: '182165'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '182163'
+    id_type: SWIFT/BIC
+    id_number: NADORUMM
+  - uid: '182164'
+    id_type: Website
+    id_number: www.ndb24.ru

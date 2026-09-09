@@ -69,16 +69,16 @@ id_list:
   - uid: '179192'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '178992'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '178954'
     id_type: SWIFT/BIC
     id_number: TIMERU2K
   - uid: '178953'
     id_type: Website
     id_number: timerbank.ru
+  - uid: '178992'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '178956'
     id_type: Organization Established Date
     id_number: 03 Oct 1991

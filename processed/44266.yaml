@@ -35,6 +35,9 @@ id_list:
   - uid: '163931'
     id_type: Organization Established Date
     id_number: 31 May 2006
+  - uid: '175820'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '163933'
     id_type: SWIFT/BIC
     id_number: UMTNRUMM
@@ -44,6 +47,3 @@ id_list:
   - uid: '163935'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '175820'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

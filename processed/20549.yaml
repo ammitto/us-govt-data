@@ -7,6 +7,9 @@ program_list:
   - DPRK3
 id_list:
   items:
+  - uid: '127187'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '121110'
     id_type: Aircraft Manufacture Date
     id_number: '1983'
@@ -20,6 +23,3 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127187'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210

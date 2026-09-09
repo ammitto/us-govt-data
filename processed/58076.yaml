@@ -18,15 +18,15 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: N-2021076329
     id_country: Mexico
+  - uid: '199423'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '199421'
     id_type: Organization Established Date
     id_number: 26 Aug 2021
   - uid: '199422'
     id_type: 'Organization Type:'
     id_number: Support activities for crop production
-  - uid: '199423'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: JIMENEZ ARIAS, Roberto; Linked To: ALVARADO RODRIGUEZ, Martha
   Alicia)"

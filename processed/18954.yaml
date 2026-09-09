@@ -25,13 +25,13 @@ id_list:
   - uid: '11284'
     id_type: Identification Number
     id_number: IMO 5820255
-  - uid: '127112'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '134937'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127112'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '118512'
     id_type: Email Address
     id_number: yonmgjinsm@silibank.net.kp

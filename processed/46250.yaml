@@ -30,12 +30,12 @@ id_list:
     id_number: T36369585
     id_country: Iran
     expiration_date: 01 Jan 2021
-  - uid: '167938'
-    id_type: Gender
-    id_number: Male
   - uid: '167208'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '167938'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '67046'

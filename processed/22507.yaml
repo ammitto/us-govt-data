@@ -63,9 +63,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '7744001673'
     id_country: Russia
-  - uid: '124018'
-    id_type: BIK (RU)
-    id_number: '044525349'
   - uid: '144037'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -73,3 +70,6 @@ id_list:
   - uid: '123948'
     id_type: SWIFT/BIC
     id_number: RISBRUMM
+  - uid: '124018'
+    id_type: BIK (RU)
+    id_number: '044525349'

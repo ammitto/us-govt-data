@@ -42,28 +42,28 @@ id_list:
     id_type: Legal Entity Number
     id_number: 25340038P8SYW80B9W34
     id_country: Russia
-  - uid: '151130'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
+  - uid: '146600'
+    id_type: Organization Established Date
+    id_number: 23 Dec 1991
   - uid: '117548'
     id_type: SWIFT/BIC
     id_number: BELBBY2X
   - uid: '117549'
     id_type: Website
     id_number: bveb.by
-  - uid: '146793'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '117575'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
-  - uid: '146600'
-    id_type: Organization Established Date
-    id_number: 23 Dec 1991
   - uid: '173873'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '151130'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '117575'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '146793'
+    id_type: Target Type
+    id_number: Financial Institution
 remarks: 'All offices worldwide; for more information on directives, please visit
   the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
   (Linked To: STATE CORPORATION BANK FOR DEVELOPMENT AND FOREIGN ECONOMIC AFFAIRS

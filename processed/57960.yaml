@@ -23,14 +23,14 @@ id_list:
     id_type: Registration Number
     id_number: C39335
     id_country: Saint Kitts and Nevis
-  - uid: '199492'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '198778'
     id_type: Organization Established Date
     id_number: 20 Oct 2011
   - uid: '199509'
     id_type: 'Organization Type:'
     id_number: Activities of holding companies
+  - uid: '199492'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: ANSARI, Ali)"

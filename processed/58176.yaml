@@ -57,13 +57,13 @@ id_list:
   - uid: '199737'
     id_type: Website
     id_number: https://dotone.ir
+  - uid: '199822'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '199735'
     id_type: Organization Established Date
     id_number: 17 Nov 2024
   - uid: '199748'
     id_type: 'Organization Type:'
     id_number: Activities of holding companies
-  - uid: '199822'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: ZANJANI, Babak Morteza)"

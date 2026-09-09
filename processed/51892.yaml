@@ -19,6 +19,9 @@ id_list:
     id_type: Business Registration Number
     id_number: '74194354'
     id_country: Hong Kong
+  - uid: '182366'
+    id_type: Organization Established Date
+    id_number: 30 Jun 2022
   - uid: '182364'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -26,6 +29,3 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '182366'
-    id_type: Organization Established Date
-    id_number: 30 Jun 2022

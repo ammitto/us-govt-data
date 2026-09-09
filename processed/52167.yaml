@@ -21,6 +21,9 @@ id_list:
     id_type: Registration Number
     id_number: DMCC-874218
     id_country: United Arab Emirates
+  - uid: '183082'
+    id_type: Organization Established Date
+    id_number: 23 Jan 2023
   - uid: '183081'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -28,7 +31,4 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '183082'
-    id_type: Organization Established Date
-    id_number: 23 Jan 2023
 remarks: "(Linked To: BLACK PEARL ENERGY TRADING LLC)"

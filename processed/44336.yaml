@@ -48,6 +48,9 @@ id_list:
   - uid: '164054'
     id_type: Organization Established Date
     id_number: 29 Oct 1993
+  - uid: '164057'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '164055'
     id_type: SWIFT/BIC
     id_number: PSOCRU2P
@@ -57,6 +60,3 @@ id_list:
   - uid: '164058'
     id_type: Website
     id_number: http://www.pscb.ru
-  - uid: '164057'
-    id_type: Target Type
-    id_number: Financial Institution

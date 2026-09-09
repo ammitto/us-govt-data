@@ -39,10 +39,10 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '169068'
-    id_type: Organization Established Date
-    id_number: 15 Dec 1993
   - uid: '169069'
     id_type: Website
     id_number: www.isc.co.ir
+  - uid: '169068'
+    id_type: Organization Established Date
+    id_number: 15 Dec 1993
 remarks: "(Linked To: BANK MARKAZI JOMHOURI ISLAMI IRAN)"

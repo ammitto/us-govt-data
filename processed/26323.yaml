@@ -27,6 +27,12 @@ id_list:
   - uid: '131739'
     id_type: Digital Currency Address - LTC
     id_number: LaizKtS5DUhPuP1nTQcc83MS7HwK6vk85z
+  - uid: '131742'
+    id_type: Email Address
+    id_number: zhenguanghua1955@outlook.com
+  - uid: '131743'
+    id_type: Email Address
+    id_number: zhenguanghua1955@gmail.com
   - uid: '131736'
     id_type: Digital Currency Address - XBT
     id_number: 33Kja69SQVc8kozpoP7Qw6HFtGxHkiWzTz
@@ -36,12 +42,6 @@ id_list:
   - uid: '131797'
     id_type: Digital Currency Address - XBT
     id_number: 18uKfaUjgG52rVeXEi3wxnveww7zZuECtE
-  - uid: '131742'
-    id_type: Email Address
-    id_number: zhenguanghua1955@outlook.com
-  - uid: '131743'
-    id_type: Email Address
-    id_number: zhenguanghua1955@gmail.com
 date_of_birth_list:
   items:
   - uid: '30728'

@@ -26,9 +26,9 @@ id_list:
     id_type: Company Number
     id_number: '665443'
     id_country: Ireland
-  - uid: '169930'
-    id_type: 'Organization Type:'
-    id_number: Other information technology and computer service activities
   - uid: '169929'
     id_type: Organization Established Date
     id_number: 30 Jan 2020
+  - uid: '169930'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

@@ -18,6 +18,9 @@ address_list:
     country: 'Region: Gaza'
 id_list:
   items:
+  - uid: '166261'
+    id_type: 'Organization Type:'
+    id_number: Other monetary intermediation
   - uid: '166233'
     id_type: Digital Currency Address - XBT
     id_number: 19D1iGzDr7FyAdiy3ZZdxMd6ttHj1kj6WW
@@ -25,7 +28,4 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '166261'
-    id_type: 'Organization Type:'
-    id_number: Other monetary intermediation
 remarks: "(Linked To: HAMAS)"

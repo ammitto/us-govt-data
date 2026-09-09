@@ -17,11 +17,11 @@ id_list:
     id_type: Registration Number
     id_number: P-0057/2017
     id_country: Maldives
+  - uid: '164280'
+    id_type: Organization Established Date
+    id_number: 25 May 2017
   - uid: '164343'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '164280'
-    id_type: Organization Established Date
-    id_number: 25 May 2017
 remarks: "(Linked To: SHAMIL, Hussain; Linked To: SHAFIU, Ali)"

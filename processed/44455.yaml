@@ -29,14 +29,14 @@ id_list:
     id_number: IG0218T102018
     id_country: Maldives
     issue_date: 11 Feb 2018
+  - uid: '164420'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '164278'
     id_type: Organization Established Date
     id_number: 30 Jan 2018
   - uid: '164279'
     id_type: 'Organization Type:'
     id_number: Wholesale of food, beverages and tobacco
-  - uid: '164420'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: AFRAAH, Ahmed)"

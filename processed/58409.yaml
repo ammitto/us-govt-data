@@ -23,12 +23,12 @@ id_list:
     id_type: Passport
     id_number: AK205981
     id_country: Greece
-  - uid: '200467'
-    id_type: Gender
-    id_number: Male
   - uid: '200595'
     id_type: Digital Currency Address - USDT
     id_number: TJCBpxZ3yC7C7oegSRZMFxBcscmUVeSA36
+  - uid: '200467'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '100466'

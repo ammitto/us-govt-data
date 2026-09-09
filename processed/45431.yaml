@@ -17,12 +17,12 @@ id_list:
     id_type: Passport
     id_number: D10009455
     id_country: Iran
-  - uid: '165988'
-    id_type: Gender
-    id_number: Male
   - uid: '166075'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '165988'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '65986'

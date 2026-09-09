@@ -22,11 +22,11 @@ id_list:
   - uid: '177057'
     id_type: Organization Established Date
     id_number: 30 Jan 2018
+  - uid: '177338'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '177337'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '177338'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: HAN, Dejian)"

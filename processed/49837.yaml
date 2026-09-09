@@ -20,11 +20,11 @@ id_list:
     id_type: Economic Register Number (CBLS)
     id_number: '12166455'
     id_country: United Arab Emirates
-  - uid: '177254'
-    id_type: Organization Established Date
-    id_number: 07 Sep 2023
   - uid: '177255'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '177254'
+    id_type: Organization Established Date
+    id_number: 07 Sep 2023
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

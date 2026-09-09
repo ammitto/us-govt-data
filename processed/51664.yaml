@@ -25,15 +25,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '5460000016'
     id_country: Russia
-  - uid: '181613'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '181614'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '181616'
     id_type: SWIFT/BIC
     id_number: BCSBRU55
   - uid: '181615'
     id_type: Website
     id_number: bank.bcs.ru
+  - uid: '181614'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181613'
+    id_type: Target Type
+    id_number: Financial Institution

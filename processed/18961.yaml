@@ -54,13 +54,13 @@ id_list:
   - uid: '11299'
     id_type: Tax ID No.
     id_number: '9103006321'
+  - uid: '143620'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '118530'
     id_type: Website
     id_number: http://www.oreanda.biz
   - uid: '118529'
     id_type: Email Address
     id_number: info@oreanda.biz
-  - uid: '143620'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209

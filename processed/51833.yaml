@@ -31,15 +31,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '3525023780'
     id_country: Russia
-  - uid: '182171'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '182172'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '182170'
     id_type: SWIFT/BIC
     id_number: SGAZRU22
   - uid: '182168'
     id_type: Website
     id_number: www.severgazbank.ru
+  - uid: '182172'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '182171'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

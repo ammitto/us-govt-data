@@ -34,9 +34,9 @@ id_list:
   - uid: '199931'
     id_type: 'Organization Type:'
     id_number: Financial and Insurance Activities
-  - uid: '200114'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '199932'
     id_type: Website
     id_number: abantether.com
+  - uid: '200114'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

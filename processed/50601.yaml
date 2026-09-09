@@ -27,16 +27,16 @@ address_list:
     country: Cambodia
 id_list:
   items:
-  - uid: '178929'
-    id_type: Phone Number
-    id_number: 85 51 155 5706
-  - uid: '178930'
-    id_type: Email Address
-    id_number: info@kohkongresort.com
   - uid: '178926'
     id_type: Organization Established Date
     id_number: '1998'
   - uid: '179173'
     id_type: 'Organization Type:'
     id_number: Short term accommodation activities
+  - uid: '178929'
+    id_type: Phone Number
+    id_number: 85 51 155 5706
+  - uid: '178930'
+    id_type: Email Address
+    id_number: info@kohkongresort.com
 remarks: "(Linked To: LY, Yong Phat)"

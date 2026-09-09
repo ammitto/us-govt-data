@@ -21,12 +21,12 @@ address_list:
     country: Russia
 id_list:
   items:
-  - uid: '130576'
-    id_type: Gender
-    id_number: Male
   - uid: '153793'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
+  - uid: '130576'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '30578'

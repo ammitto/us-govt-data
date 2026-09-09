@@ -43,12 +43,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '2437261631'
     id_country: Russia
-  - uid: '117525'
-    id_type: Email Address
-    id_number: info@vankoroil.ru
-  - uid: '188592'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '143727'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -59,5 +53,11 @@ id_list:
   - uid: '117637'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 4
+  - uid: '188592'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '117525'
+    id_type: Email Address
+    id_number: info@vankoroil.ru
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.;
   (Linked To: OPEN JOINT-STOCK COMPANY ROSNEFT OIL COMPANY)'

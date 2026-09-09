@@ -23,9 +23,6 @@ id_list:
     id_type: Passport
     id_number: '381420089'
     expiration_date: 11 Oct 2016
-  - uid: '125291'
-    id_type: Gender
-    id_number: Male
   - uid: '135101'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -33,6 +30,9 @@ id_list:
   - uid: '127330'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '125291'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '24935'

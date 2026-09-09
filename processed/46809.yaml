@@ -17,13 +17,13 @@ id_list:
     id_type: Registration Number
     id_number: '67226205'
     id_country: Netherlands
+  - uid: '176312'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '167614'
     id_type: Target Type
     id_number: Private Company
   - uid: '167615'
     id_type: Organization Established Date
     id_number: 04 Nov 2016
-  - uid: '176312'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: DE GEETERE, Hans)"

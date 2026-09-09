@@ -24,12 +24,12 @@ id_list:
   - uid: '15626'
     id_type: Passport
     id_number: '32371002'
-  - uid: '126791'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '127426'
     id_type: Gender
     id_number: Male
+  - uid: '126791'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '26792'

@@ -42,13 +42,13 @@ id_list:
     id_type: Government Gazette Number
     id_number: '42935911'
     id_country: Russia
+  - uid: '180737'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '180735'
     id_type: Organization Established Date
     id_number: 11 Jul 1996
   - uid: '180736'
     id_type: Organization Established Date
     id_number: 22 Oct 2002
-  - uid: '180737'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: CJSC PERSPECTIVE TECHNOLOGIES AGENCY)"

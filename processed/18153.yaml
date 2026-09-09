@@ -9,6 +9,10 @@ program_list:
   - NPWMD
 id_list:
   items:
+  - uid: '186447'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '117326'
     id_type: Aircraft Manufacture Date
     id_number: '2001'
@@ -24,8 +28,4 @@ id_list:
   - uid: '117356'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '186447'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: MAHAN AIR)"

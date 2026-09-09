@@ -28,12 +28,12 @@ id_list:
   - uid: '182015'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '182013'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '182018'
     id_type: SWIFT/BIC
     id_number: JSCORU4P
   - uid: '182017'
     id_type: Website
     id_number: www.uralfd.ru
-  - uid: '182013'
-    id_type: Target Type
-    id_number: Financial Institution

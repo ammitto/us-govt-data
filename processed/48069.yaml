@@ -28,12 +28,12 @@ id_list:
     id_type: V.A.T. Number
     id_number: '25986792241'
     id_country: Hungary
+  - uid: '169940'
+    id_type: Organization Established Date
+    id_number: 16 Jun 2017
   - uid: '169945'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
   - uid: '169941'
     id_type: Website
     id_number: www.cytrox.com
-  - uid: '169940'
-    id_type: Organization Established Date
-    id_number: 16 Jun 2017

@@ -46,13 +46,13 @@ address_list:
     country: Venezuela
 id_list:
   items:
-  - uid: '186086'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '110237'
     id_type: Website
     id_number: www.sadra.ir
   - uid: '114138'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '186086'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

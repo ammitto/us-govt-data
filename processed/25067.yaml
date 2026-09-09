@@ -80,6 +80,10 @@ id_list:
     id_type: National ID No.
     id_number: '10860246171'
     id_country: Iran
+  - uid: '187233'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '128342'
     id_type: SWIFT/BIC
     id_number: SINAIRTH
@@ -89,9 +93,5 @@ id_list:
   - uid: '128281'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '187233'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: ANDISHEH MEHVARAN INVESTMENT COMPANY; Linked To: ISLAMIC REVOLUTION
   MOSTAZAFAN FOUNDATION)"

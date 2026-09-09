@@ -34,9 +34,9 @@ id_list:
     id_type: Registration Number
     id_number: '1087799033519'
     id_country: Russia
-  - uid: '176546'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '169469'
     id_type: Organization Established Date
     id_number: 23 Oct 2008
+  - uid: '176546'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

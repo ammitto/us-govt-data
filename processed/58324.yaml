@@ -37,13 +37,13 @@ id_list:
     id_type: Citizen's Card Number
     id_number: '141059717'
     id_country: United Arab Emirates
+  - uid: '200242'
+    id_type: Gender
+    id_number: Male
   - uid: '200620'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '200242'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '100240'

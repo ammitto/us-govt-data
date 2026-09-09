@@ -39,18 +39,18 @@ id_list:
     id_type: Passport
     id_number: '756410352'
     id_country: Russia
-  - uid: '175952'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '165618'
-    id_type: Gender
-    id_number: Male
   - uid: '170364'
     id_type: Digital Currency Address - USDT
     id_number: TEFph7dZoUN5233cGEzF6XFwRpjPF8fQDS
   - uid: '170365'
     id_type: Digital Currency Address - USDT
     id_number: TMGLqRQ4twjW8wJhVH1mQR7nUThpGHUsN3
+  - uid: '165618'
+    id_type: Gender
+    id_number: Male
+  - uid: '175952'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '65615'

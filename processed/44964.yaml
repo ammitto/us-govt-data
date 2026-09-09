@@ -49,15 +49,15 @@ id_list:
     id_type: Registration Number
     id_number: '1077847481535'
     id_country: Russia
-  - uid: '165293'
-    id_type: Organization Established Date
-    id_number: 06 Jul 2007
   - uid: '175848'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '165294'
-    id_type: 'Organization Type:'
-    id_number: Other information technology and computer service activities
+  - uid: '165293'
+    id_type: Organization Established Date
+    id_number: 06 Jul 2007
   - uid: '165300'
     id_type: Website
     id_number: www.baltinfocom.ru
+  - uid: '165294'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

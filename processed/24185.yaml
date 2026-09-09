@@ -46,14 +46,14 @@ id_list:
   - uid: '15417'
     id_type: Government Gazette Number
     id_number: '00156251'
-  - uid: '143976'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '126342'
     id_type: Website
     id_number: www.burgaz.ru
   - uid: '126341'
     id_type: Email Address
     id_number: mail@burgaz.gazprom.ru
+  - uid: '143976'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: "(Linked To: ROTENBERG, Igor Arkadyevich)"

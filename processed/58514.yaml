@@ -1,0 +1,27 @@
+---
+uid: '58514'
+last_name: SOROUSH AIR
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IFSR
+address_list:
+  items:
+  - uid: '90042'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '200881'
+    id_type: Organization Established Date
+    id_number: '2025'
+  - uid: '200882'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200967'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200883'
+    id_type: Website
+    id_number: soroushair.com

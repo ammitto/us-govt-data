@@ -14,6 +14,18 @@ aka_list:
     last_name: SINBAD.IO
 id_list:
   items:
+  - uid: '164247'
+    id_type: Website
+    id_number: https://sinbad.io
+  - uid: '164248'
+    id_type: Website
+    id_number: http://sinbadiovklgdbafpqvwfwjh2tfrisahtxmrskiovt62nirragcnkcad.onion
+  - uid: '164250'
+    id_type: Email Address
+    id_number: support@sinbad.io
+  - uid: '164251'
+    id_type: Email Address
+    id_number: adv@sinbad.io
   - uid: '164478'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -30,15 +42,3 @@ id_list:
   - uid: '164477'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '164247'
-    id_type: Website
-    id_number: https://sinbad.io
-  - uid: '164248'
-    id_type: Website
-    id_number: http://sinbadiovklgdbafpqvwfwjh2tfrisahtxmrskiovt62nirragcnkcad.onion
-  - uid: '164250'
-    id_type: Email Address
-    id_number: support@sinbad.io
-  - uid: '164251'
-    id_type: Email Address
-    id_number: adv@sinbad.io

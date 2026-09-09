@@ -34,18 +34,18 @@ id_list:
     id_type: Tax ID No.
     id_number: '7718676447'
     id_country: Russia
-  - uid: '175850'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '165296'
     id_type: Organization Established Date
     id_number: 22 Nov 2007
-  - uid: '165297'
-    id_type: 'Organization Type:'
-    id_number: Other information technology and computer service activities
+  - uid: '175850'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '165298'
     id_type: Website
     id_number: www.npo.echelon.ru
   - uid: '165299'
     id_type: Website
     id_number: cnpo.ru
+  - uid: '165297'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

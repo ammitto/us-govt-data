@@ -29,13 +29,13 @@ id_list:
     id_type: Passport
     id_number: PS654320421
     expiration_date: 11 Mar 2019
-  - uid: '127897'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135296'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127897'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 date_of_birth_list:
   items:
   - uid: '27482'

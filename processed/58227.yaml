@@ -19,10 +19,10 @@ id_list:
   - uid: '52871'
     id_type: MMSI
     id_number: '353502000'
-  - uid: '199901'
-    id_type: Vessel Year of Build
-    id_number: '2005'
   - uid: '199952'
     id_type: Former Vessel Flag
     id_number: Panama
+  - uid: '199901'
+    id_type: Vessel Year of Build
+    id_number: '2005'
 remarks: "(Linked To: CONFIDENT APEX LIMITED)"

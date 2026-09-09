@@ -1,0 +1,46 @@
+---
+uid: '58496'
+last_name: ICARGO SDN BHD
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90503'
+    type: a.k.a.
+    category: strong
+    last_name: SCHEDULE FEEDERS SDN BHD
+address_list:
+  items:
+  - uid: '90002'
+    address1: 9-7 Level 7
+    address2: Jalan USJ 9/5Q
+    address3: Subang Business Centre
+    city: Subang Jaya
+    state_or_province: Selangor
+    postal_code: '47620'
+    country: Malaysia
+  - uid: '90003'
+    address1: Lot 202-3, 2nd Floor
+    address2: Customer Services Centre
+    address3: Klas Cargo Complex, Kuala Lumpur International Airport
+    city: Kampung Kota Klias
+    state_or_province: Selangor
+    postal_code: '64000'
+    country: Malaysia
+id_list:
+  items:
+  - uid: '53263'
+    id_type: Registration Number
+    id_number: '201101006881'
+    id_country: Malaysia
+  - uid: '200834'
+    id_type: Organization Established Date
+    id_number: 04 Mar 2011
+  - uid: '200835'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

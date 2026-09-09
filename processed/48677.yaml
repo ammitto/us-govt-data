@@ -29,13 +29,13 @@ id_list:
   - uid: '171046'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '171024'
+    id_type: Gender
+    id_number: Male
   - uid: '187256'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '171024'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '71020'

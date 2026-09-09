@@ -24,12 +24,12 @@ id_list:
     id_type: Commercial Registry Number
     id_number: '1804869'
     id_country: Lebanon
-  - uid: '187241'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '128409'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '187241'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: AL-AMIN, Muhammad 'Abdallah)"

@@ -1,0 +1,36 @@
+---
+uid: '58532'
+last_name: JSKY AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IFSR
+aka_list:
+  items:
+  - uid: '90577'
+    type: a.k.a.
+    category: weak
+    last_name: J SKY
+address_list:
+  items:
+  - uid: '90081'
+    city: Tehran
+    country: Iran
+  - uid: '90082'
+    city: Isfahan
+    country: Iran
+id_list:
+  items:
+  - uid: '200941'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200940'
+    id_type: Organization Established Date
+    id_number: '2019'
+  - uid: '200942'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200943'
+    id_type: Website
+    id_number: jskyair.com

@@ -33,27 +33,27 @@ id_list:
   - uid: '44897'
     id_type: Legal Entity Number
     id_number: 529900I9DRT12XN43G84
-  - uid: '120859'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
-  - uid: '120802'
-    id_type: SWIFT/BIC
-    id_number: RKBZCHZZ
-  - uid: '120803'
-    id_type: Website
-    id_number: www.gazprombank.ch
-  - uid: '182494'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '143888'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '182494'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '182495'
     id_type: Target Type
     id_number: Financial Institution
   - uid: '182496'
     id_type: Target Type
     id_number: State-Owned Enterprise
+  - uid: '120802'
+    id_type: SWIFT/BIC
+    id_number: RKBZCHZZ
+  - uid: '120803'
+    id_type: Website
+    id_number: www.gazprombank.ch
+  - uid: '120859'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
 remarks: 'For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions#directives;
   (Linked To: GAZPROMBANK JOINT STOCK COMPANY)'

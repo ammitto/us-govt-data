@@ -32,6 +32,12 @@ id_list:
   - uid: '44711'
     id_type: Legal Entity Number
     id_number: 2138004OMEVX71IU7E09
+  - uid: '120874'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
+  - uid: '182505'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '143890'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -39,11 +45,5 @@ id_list:
   - uid: '182506'
     id_type: Target Type
     id_number: State-Owned Enterprise
-  - uid: '120874'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
-  - uid: '182505'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: 'For more information on directives, please visit the following link: https://ofac.treasury.gov/sanctions-programs-and-country-information/ukraine-russia-related-sanctions#directives;
   (Linked To: GAZPROMBANK JOINT STOCK COMPANY)'

@@ -29,10 +29,10 @@ id_list:
     id_type: Registration Number
     id_number: 201220511D
     id_country: Burma
-  - uid: '164786'
-    id_type: Organization Established Date
-    id_number: 17 Aug 2012
   - uid: '164785'
     id_type: 'Organization Type:'
     id_number: Activities of holding companies
+  - uid: '164786'
+    id_type: Organization Established Date
+    id_number: 17 Aug 2012
 remarks: "(Linked To: WIN, Khin Phyu)"

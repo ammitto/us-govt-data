@@ -1,0 +1,48 @@
+---
+uid: '58499'
+last_name: TOUR INVEST LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90509'
+    type: a.k.a.
+    category: strong
+    last_name: LIMITED LIABILITY COMPANY TOUR INVEST
+  - uid: '90510'
+    type: a.k.a.
+    category: strong
+    last_name: TOUR INVEST TOO
+  - uid: '90511'
+    type: a.k.a.
+    category: strong
+    last_name: TUR INVEST TOO
+address_list:
+  items:
+  - uid: '90010'
+    address1: 128, Kv. 1
+    address2: Ulitsa Makataeva
+    city: Almaty
+    state_or_province: Almaty
+    country: Kazakhstan
+id_list:
+  items:
+  - uid: '53268'
+    id_type: Business Number
+    id_number: '140340016400'
+    id_country: Kazakhstan
+  - uid: '53269'
+    id_type: Government Gazette Number
+    id_number: '52557574'
+    id_country: Kazakhstan
+  - uid: '200842'
+    id_type: Organization Established Date
+    id_number: 18 Mar 2014
+  - uid: '200843'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

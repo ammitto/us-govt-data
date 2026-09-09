@@ -118,11 +118,11 @@ address_list:
     country: Palestinian
 id_list:
   items:
-  - uid: '128273'
-    id_type: Website
-    id_number: www.arabisc-haram.com
   - uid: '187229'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '128273'
+    id_type: Website
+    id_number: www.arabisc-haram.com
 remarks: "(Linked To: ISLAMIC STATE OF IRAQ AND THE LEVANT)"

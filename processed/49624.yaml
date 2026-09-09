@@ -24,11 +24,11 @@ id_list:
   - uid: '41034'
     id_type: Identification Number
     id_number: IMO 6355082
-  - uid: '172939'
-    id_type: Organization Established Date
-    id_number: 07 Oct 2022
   - uid: '172938'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '172939'
+    id_type: Organization Established Date
+    id_number: 07 Oct 2022
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

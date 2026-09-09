@@ -72,14 +72,14 @@ id_list:
   - uid: '129636'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '186828'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '129638'
     id_type: SWIFT/BIC
     id_number: BTEJIRTH
   - uid: '129637'
     id_type: Website
     id_number: www.tejaratbank.ir
+  - uid: '186828'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: 'All Offices Worldwide; (Linked To: MAHAN AIR; Linked To: BANK SEPAH)'

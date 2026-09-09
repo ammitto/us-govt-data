@@ -17,9 +17,9 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: N-2021024215
     id_country: Mexico
-  - uid: '166259'
-    id_type: 'Organization Type:'
-    id_number: Mining and Quarrying
   - uid: '166260'
     id_type: Organization Established Date
     id_number: '08 Feb 2021'
+  - uid: '166259'
+    id_type: 'Organization Type:'
+    id_number: Mining and Quarrying

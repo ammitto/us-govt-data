@@ -18,12 +18,12 @@ id_list:
     id_type: Passport
     id_number: HA0872080
     id_country: Hong Kong
-  - uid: '177448'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '177290'
     id_type: Gender
     id_number: Male
+  - uid: '177448'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '77287'

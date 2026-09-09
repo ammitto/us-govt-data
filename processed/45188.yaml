@@ -58,12 +58,12 @@ id_list:
   - uid: '165599'
     id_type: Digital Currency Address - XBT
     id_number: 39p8qWp1bkBNhi4vPpFTetKPtH7goqNDZf
-  - uid: '165596'
-    id_type: Email Address
-    id_number: 2203390@gmail.com
   - uid: '175951'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '165596'
+    id_type: Email Address
+    id_number: 2203390@gmail.com
 date_of_birth_list:
   items:
   - uid: '65592'

@@ -1,0 +1,42 @@
+---
+uid: '58516'
+last_name: SEPEHRAN AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IFSR
+aka_list:
+  items:
+  - uid: '90547'
+    type: a.k.a.
+    category: strong
+    last_name: FLYSEPEHRAN
+address_list:
+  items:
+  - uid: '90049'
+    city: Shiraz
+    country: Iran
+  - uid: '90050'
+    address1: No. 71, Corner of Shahid Khadem Alley, Nafisi Blvd
+    address2: Ekbatan
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53290'
+    id_type: National ID No.
+    id_number: '10320623230'
+    id_country: Iran
+  - uid: '200892'
+    id_type: Organization Established Date
+    id_number: '2015'
+  - uid: '200893'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200966'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200895'
+    id_type: Website
+    id_number: www.sepehranairlines.com

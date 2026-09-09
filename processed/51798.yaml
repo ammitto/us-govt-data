@@ -25,12 +25,12 @@ id_list:
   - uid: '182059'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '182058'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '182057'
     id_type: SWIFT/BIC
     id_number: ITRORU8Y
   - uid: '182056'
     id_type: Website
     id_number: www.iturupbank.ru
-  - uid: '182058'
-    id_type: Target Type
-    id_number: Financial Institution

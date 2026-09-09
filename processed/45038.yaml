@@ -46,12 +46,12 @@ id_list:
     id_type: Registration Number
     id_number: '1027700300693'
     id_country: Russia
-  - uid: '165374'
-    id_type: Website
-    id_number: quarta.su
   - uid: '165373'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
+  - uid: '165374'
+    id_type: Website
+    id_number: quarta.su
   - uid: '175914'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

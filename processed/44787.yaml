@@ -17,10 +17,10 @@ id_list:
   - uid: '165026'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '165027'
-    id_type: Target Type
-    id_number: Private Company
   - uid: '165754'
     id_type: Website
     id_number: www.ankaport-tr.com
+  - uid: '165027'
+    id_type: Target Type
+    id_number: Private Company
 remarks: "(Linked To: PISHGAM ELECTRONIC SAFEH COMPANY)"

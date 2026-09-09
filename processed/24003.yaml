@@ -19,6 +19,9 @@ address_list:
     country: Iran
 id_list:
   items:
+  - uid: '126094'
+    id_type: Gender
+    id_number: Male
   - uid: '196506'
     id_type: Email Address
     id_number: skote.vahshat@gmail.com
@@ -49,9 +52,6 @@ id_list:
   - uid: '196558'
     id_type: Digital Currency Address - TRX
     id_number: TEsxMcVocweTM82Mdmc5diKC6qyCWqSpPv
-  - uid: '126094'
-    id_type: Gender
-    id_number: Male
   - uid: '196516'
     id_type: Digital Currency Address - XBT
     id_number: 12aNKp2iDKuhEde2YfPdd4DFGenRUTKupL

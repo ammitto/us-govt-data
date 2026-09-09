@@ -63,12 +63,12 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '152962'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '115752'
     id_type: SWIFT/BIC
     id_number: MOSWRUMM
+  - uid: '152962'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '115819'
     id_type: BIK (RU)
     id_number: '044525219'

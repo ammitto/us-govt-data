@@ -36,15 +36,15 @@ id_list:
   - uid: '146674'
     id_type: 'Organization Type:'
     id_number: Activities of holding companies
-  - uid: '118228'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
-  - uid: '173888'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '151137'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '173888'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '118228'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

@@ -16,11 +16,11 @@ id_list:
     id_type: Company Number
     id_number: '1976604'
     id_country: Hong Kong
+  - uid: '172434'
+    id_type: Organization Established Date
+    id_number: 07 Oct 2013
   - uid: '172932'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '172434'
-    id_type: Organization Established Date
-    id_number: 07 Oct 2013
 remarks: "(Linked To: GUANGZHOU TASNEEM TRADING COMPANY LIMITED)"

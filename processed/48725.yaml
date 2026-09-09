@@ -36,6 +36,9 @@ id_list:
     id_number: V52950311
     id_country: Iran
     expiration_date: 29 Jul 2025
+  - uid: '176632'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '171384'
     id_type: Gender
     id_number: Male
@@ -43,9 +46,6 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '176632'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '71455'

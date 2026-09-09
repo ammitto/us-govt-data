@@ -35,12 +35,12 @@ id_list:
     id_number: M51374090
     id_country: Iran
     issue_date: 03 Nov 2024
-  - uid: '165508'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '165347'
     id_type: Gender
     id_number: Male
+  - uid: '165508'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '65350'

@@ -35,16 +35,16 @@ id_list:
     id_type: Passport
     id_number: M51368656
     id_country: Iran
+  - uid: '171055'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '171022'
+    id_type: Gender
+    id_number: Male
   - uid: '187250'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '171022'
-    id_type: Gender
-    id_number: Male
-  - uid: '171055'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '71006'

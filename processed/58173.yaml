@@ -41,13 +41,13 @@ id_list:
   - uid: '199731'
     id_type: Email Address
     id_number: dn.bi.api@gmail.com
-  - uid: '199899'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '199726'
     id_type: Organization Established Date
     id_number: '2021'
   - uid: '199727'
     id_type: 'Organization Type:'
     id_number: Computer programming activities
+  - uid: '199899'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

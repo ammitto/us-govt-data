@@ -26,9 +26,9 @@ address_list:
     country: North Macedonia, The Republic of
 id_list:
   items:
-  - uid: '169935'
-    id_type: 'Organization Type:'
-    id_number: Other information technology and computer service activities
   - uid: '170131'
     id_type: Organization Established Date
     id_number: '2017'
+  - uid: '169935'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

@@ -31,15 +31,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '773312065789'
     id_country: Russia
-  - uid: '170096'
-    id_type: Email Address
-    id_number: timur.bukanov@gmail.com
-  - uid: '170514'
-    id_type: Gender
-    id_number: Male
   - uid: '176608'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '170514'
+    id_type: Gender
+    id_number: Male
+  - uid: '170096'
+    id_type: Email Address
+    id_number: timur.bukanov@gmail.com
 date_of_birth_list:
   items:
   - uid: '70093'

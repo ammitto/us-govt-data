@@ -26,6 +26,12 @@ id_list:
     id_type: License
     id_number: DMCC-839525
     id_country: United Arab Emirates
+  - uid: '199985'
+    id_type: Digital Currency Address - XBT
+    id_number: 1G1V1b9s9uPsFCNL15ibZk44xsVygKsP2u
+  - uid: '199984'
+    id_type: Digital Currency Address - ETH
+    id_number: '0xbb69e01921b17cd22080968bcc96ba6115da6062'
   - uid: '200119'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -42,9 +48,3 @@ id_list:
   - uid: '199983'
     id_type: Digital Currency Address - TRX
     id_number: TTVJuXWCusAURrpNShiypauagEH1N4CrxV
-  - uid: '199985'
-    id_type: Digital Currency Address - XBT
-    id_number: 1G1V1b9s9uPsFCNL15ibZk44xsVygKsP2u
-  - uid: '199984'
-    id_type: Digital Currency Address - ETH
-    id_number: '0xbb69e01921b17cd22080968bcc96ba6115da6062'

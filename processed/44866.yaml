@@ -40,15 +40,6 @@ id_list:
     id_type: Identification Number
     id_number: ZDFUFB.00000.LE.643
     id_country: Russia
-  - uid: '165120'
-    id_type: SWIFT/BIC
-    id_number: ARRSRU2K
-  - uid: '165121'
-    id_type: Website
-    id_number: www.akbars.ru
-  - uid: '165470'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '184269'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -56,6 +47,15 @@ id_list:
   - uid: '165119'
     id_type: Organization Established Date
     id_number: 26 Jul 2002
+  - uid: '165470'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '175824'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '165120'
+    id_type: SWIFT/BIC
+    id_number: ARRSRU2K
+  - uid: '165121'
+    id_type: Website
+    id_number: www.akbars.ru

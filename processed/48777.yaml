@@ -34,10 +34,10 @@ id_list:
     id_type: Tax ID No.
     id_number: '9703036085'
     id_country: Russia
-  - uid: '171420'
-    id_type: Organization Established Date
-    id_number: 31 May 2021
   - uid: '176640'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '171420'
+    id_type: Organization Established Date
+    id_number: 31 May 2021
 remarks: "(Linked To: GAVRYUCHENKOV, Andrei Viktorovich)"

@@ -55,10 +55,6 @@ id_list:
   - uid: '118271'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 3
-  - uid: '151159'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '173911'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -71,6 +67,10 @@ id_list:
   - uid: '118270'
     id_type: Website
     id_number: http://www.novikom.ru
+  - uid: '151159'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
 remarks: 'All offices worldwide. For more information on directives, please visit
   the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: STATE CORPORATION ROSTEC)'

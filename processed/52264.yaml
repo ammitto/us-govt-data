@@ -25,11 +25,11 @@ id_list:
   - uid: '183233'
     id_type: Organization Established Date
     id_number: 21 Jun 2019
+  - uid: '183632'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '183633'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '183632'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: DEPARTMENT 53 OF THE MINISTRY OF THE PEOPLE'S ARMED FORCES)"

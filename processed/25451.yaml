@@ -69,6 +69,9 @@ id_list:
     id_type: Registration Number
     id_number: '341417'
     id_country: Iran
+  - uid: '129060'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '129062'
     id_type: Website
     id_number: www.hdasco.com
@@ -90,6 +93,3 @@ id_list:
   - uid: '138757'
     id_type: 'Executive Order 13846 information:'
     id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec. 5(a)(vii)
-  - uid: '129060'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions

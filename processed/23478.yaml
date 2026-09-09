@@ -25,13 +25,13 @@ id_list:
     id_number: '745120209'
     id_country: Korea, North
     expiration_date: 26 Feb 2020
+  - uid: '127334'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135176'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127334'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 date_of_birth_list:
   items:
   - uid: '25302'

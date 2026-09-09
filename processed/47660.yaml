@@ -30,10 +30,10 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '169117'
-    id_type: 'Organization Type:'
-    id_number: Sea and coastal freight water transport
   - uid: '169116'
     id_type: Organization Established Date
     id_number: 04 Mar 2021
+  - uid: '169117'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

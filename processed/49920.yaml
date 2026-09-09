@@ -31,12 +31,12 @@ id_list:
     id_type: National ID No.
     id_number: '0452521629'
     id_country: Iran
-  - uid: '177400'
-    id_type: Gender
-    id_number: Male
   - uid: '177402'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '177400'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '77399'

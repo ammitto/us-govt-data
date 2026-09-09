@@ -36,9 +36,9 @@ id_list:
   - uid: '180327'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '180325'
-    id_type: Organization Established Date
-    id_number: 05 Jul 2021
   - uid: '180326'
     id_type: Website
     id_number: www.mega-chips.cn
+  - uid: '180325'
+    id_type: Organization Established Date
+    id_number: 05 Jul 2021

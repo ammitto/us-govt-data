@@ -32,15 +32,15 @@ id_list:
   - uid: '53318'
     id_type: Legal Entity Number
     id_number: 789000LV7F75LALJ3F52
-  - uid: '201002'
-    id_type: Organization Established Date
-    id_number: 15 Oct 2019
-  - uid: '201018'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '201023'
     id_type: SWIFT/BIC
     id_number: GOGYTRIS
   - uid: '201001'
     id_type: Website
     id_number: www.goldenglobalbank.com.tr
+  - uid: '201002'
+    id_type: Organization Established Date
+    id_number: 15 Oct 2019
+  - uid: '201018'
+    id_type: Target Type
+    id_number: Financial Institution

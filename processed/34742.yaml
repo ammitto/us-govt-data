@@ -23,10 +23,10 @@ id_list:
     id_type: Registration Number
     id_number: '1127847218674'
     id_country: Russia
-  - uid: '175194'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '146173'
     id_type: Website
     id_number: best2pay.net
+  - uid: '175194'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: SOVCOMBANK OPEN JOINT STOCK COMPANY)"

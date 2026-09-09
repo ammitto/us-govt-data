@@ -25,12 +25,12 @@ id_list:
     id_type: National ID No.
     id_number: '0065911601'
     id_country: Iran
-  - uid: '166313'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '166297'
     id_type: Gender
     id_number: Male
+  - uid: '166313'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '66295'

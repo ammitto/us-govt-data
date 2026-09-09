@@ -17,9 +17,9 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: '28481'
     id_country: Mexico
-  - uid: '167720'
-    id_type: 'Organization Type:'
-    id_number: Publishing of newspapers, journals and periodicals
   - uid: '167719'
     id_type: Organization Established Date
     id_number: 11 Jan 2005
+  - uid: '167720'
+    id_type: 'Organization Type:'
+    id_number: Publishing of newspapers, journals and periodicals

@@ -18,11 +18,11 @@ id_list:
     id_type: Registration Number
     id_number: P-0156/2016
     id_country: Maldives
+  - uid: '164277'
+    id_type: Organization Established Date
+    id_number: 31 Oct 2016
   - uid: '164416'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '164277'
-    id_type: Organization Established Date
-    id_number: 31 Oct 2016
 remarks: "(Linked To: AMEEN, Mohamad; Linked To: AFRAAH, Ahmed)"

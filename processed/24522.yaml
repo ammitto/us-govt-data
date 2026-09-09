@@ -34,11 +34,11 @@ id_list:
     id_type: 'Business Registration Document #'
     id_number: '846711'
     id_country: Turkey
+  - uid: '127044'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '187173'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '127044'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: MAHAN AIR; Linked To: YEGANE, Gulnihal)"

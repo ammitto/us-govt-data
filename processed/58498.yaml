@@ -1,0 +1,50 @@
+---
+uid: '58498'
+last_name: KARUN AIRLINES COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90507'
+    type: a.k.a.
+    category: strong
+    last_name: KAROON AIRLINES
+address_list:
+  items:
+  - uid: '90007'
+    address1: Shahid Nafisi Boulevard, No. 11
+    address2: Shahrak, Ekbatan Phase 1
+    city: Tehran
+    country: Iran
+  - uid: '90008'
+    address1: Unit 1, First Floor, No. 11, Abdolrahman Nafisi Street
+    address2: Second Alley
+    address3: Bimeh
+    city: Tehran
+    postal_code: '1393784181'
+    country: Iran
+id_list:
+  items:
+  - uid: '53266'
+    id_type: Registration ID
+    id_number: '96157'
+    id_country: Iran
+  - uid: '53267'
+    id_type: National ID No.
+    id_number: '10101402182'
+    id_country: Iran
+  - uid: '200978'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200841'
+    id_type: Website
+    id_number: www.karunair.ir
+  - uid: '200840'
+    id_type: Organization Established Date
+    id_number: 14 Mar 1993
+  - uid: '200839'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport

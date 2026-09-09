@@ -1,0 +1,42 @@
+---
+uid: '58520'
+last_name: SKY PHOENIX HAVA YOLLARI TASIMACILIGI TICARET LIMITED SIRKETI
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90554'
+    type: a.k.a.
+    category: strong
+    last_name: SKY PHOENIX AIRWAYS TRANSPORTATION TRADING COMPANY LIMITED
+address_list:
+  items:
+  - uid: '90057'
+    city: Izmir
+    state_or_province: Izmir
+    country: Turkey
+id_list:
+  items:
+  - uid: '53292'
+    id_type: Business Registration Number
+    id_number: '257494'
+    id_country: Turkey
+  - uid: '53293'
+    id_type: Tax ID No.
+    id_number: '7721674192'
+    id_country: Turkey
+  - uid: '53294'
+    id_type: Registration Number
+    id_number: '2307531'
+    id_country: Turkey
+  - uid: '200904'
+    id_type: Organization Established Date
+    id_number: 29 Jul 2024
+  - uid: '200908'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

@@ -17,12 +17,12 @@ id_list:
     id_type: Passport
     id_number: '654110043'
     id_country: Korea, North
-  - uid: '127221'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '134995'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '127221'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: ILSIM INTERNATIONAL BANK)"
 title: Ilsim International Bank representative

@@ -10,11 +10,11 @@ id_list:
   - uid: '11895'
     id_type: Vessel Registration Identification
     id_number: IMO 9041552
+  - uid: '127147'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135011'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127147'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: HOERYONG SHIPPING CO LTD)"

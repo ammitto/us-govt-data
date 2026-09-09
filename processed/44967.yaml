@@ -56,9 +56,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '2321003173'
     id_country: Russia
-  - uid: '175851'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '184316'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
@@ -66,3 +63,6 @@ id_list:
   - uid: '165301'
     id_type: Organization Established Date
     id_number: 12 Nov 1992
+  - uid: '175851'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

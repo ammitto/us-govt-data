@@ -15,12 +15,12 @@ address_list:
     country: Liechtenstein
 id_list:
   items:
-  - uid: '178074'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '177533'
     id_type: Gender
     id_number: Male
+  - uid: '178074'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '77531'

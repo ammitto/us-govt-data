@@ -50,6 +50,12 @@ id_list:
     id_type: Passport
     id_number: FG819665
     id_country: Ukraine
+  - uid: '198894'
+    id_type: Digital Currency Address - LTC
+    id_number: LcP1DumXkNJbBtSYD3XxAfsJ2nZR5hLdpM
+  - uid: '198899'
+    id_type: Digital Currency Address - LTC
+    id_number: LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1
   - uid: '198889'
     id_type: Gender
     id_number: Male
@@ -92,12 +98,6 @@ id_list:
   - uid: '198904'
     id_type: Digital Currency Address - SOL
     id_number: FuCC7GoYwt5TsNTjWL23Xx9UKCvC18chjMEFPL3vJDCC
-  - uid: '198894'
-    id_type: Digital Currency Address - LTC
-    id_number: LcP1DumXkNJbBtSYD3XxAfsJ2nZR5hLdpM
-  - uid: '198899'
-    id_type: Digital Currency Address - LTC
-    id_number: LbPAqHvemZBv3pvAqiAtDnZ3U1t6EziaL1
 date_of_birth_list:
   items:
   - uid: '98887'

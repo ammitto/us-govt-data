@@ -27,12 +27,12 @@ id_list:
   - uid: '184651'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '184654'
-    id_type: BIK (RU)
-    id_number: '136001'
   - uid: '184653'
     id_type: SWIFT/BIC
     id_number: RINBKG22
   - uid: '184652'
     id_type: Website
     id_number: https:/keremetbank.kg
+  - uid: '184654'
+    id_type: BIK (RU)
+    id_number: '136001'

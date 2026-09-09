@@ -49,14 +49,14 @@ id_list:
     id_type: Business Number
     id_number: BN-2097/2017
     id_country: Maldives
-  - uid: '164391'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '164303'
     id_type: Organization Established Date
     id_number: 28 Mar 2017
   - uid: '164304'
     id_type: 'Organization Type:'
     id_number: Non-specialized wholesale trade
+  - uid: '164391'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: RAUF, Mohamed Inthif)"

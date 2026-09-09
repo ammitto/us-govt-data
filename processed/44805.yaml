@@ -20,10 +20,10 @@ id_list:
   - uid: '165057'
     id_type: 'Organization Type:'
     id_number: Non-specialized wholesale trade
-  - uid: '173797'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '165055'
     id_type: Organization Established Date
     id_number: Oct 2020
+  - uid: '173797'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: LIMITED LIABILITY COMPANY BROKER EXPERT)"

@@ -19,10 +19,10 @@ id_list:
     id_type: Registration Number
     id_number: '429542'
     id_country: Cyprus
-  - uid: '172569'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '172843'
     id_type: Organization Established Date
     id_number: 29 Dec 2021
+  - uid: '172569'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: SENTIMARE ENTERPRISES LIMITED)"

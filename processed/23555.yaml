@@ -37,13 +37,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '780201346432'
     id_country: Russia
+  - uid: '125417'
+    id_type: Gender
+    id_number: Male
   - uid: '143971'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '125417'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '25415'

@@ -17,13 +17,13 @@ id_list:
     id_number: '652204544'
     id_country: Russia
     expiration_date: 27 Nov 2019
-  - uid: '123932'
-    id_type: Gender
-    id_number: Male
   - uid: '143832'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '123932'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '23857'

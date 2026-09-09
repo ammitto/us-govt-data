@@ -38,13 +38,13 @@ id_list:
   - uid: '175946'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '165471'
+    id_type: Organization Established Date
+    id_number: Mar 2019
   - uid: '170225'
     id_type: Organization Established Date
     id_number: '2021'
   - uid: '165481'
     id_type: 'Organization Type:'
     id_number: Logging
-  - uid: '165471'
-    id_type: Organization Established Date
-    id_number: Mar 2019
 remarks: "(Linked To: PRIVATE MILITARY COMPANY 'WAGNER')"

@@ -1,0 +1,23 @@
+---
+uid: '58530'
+last_name: FLY KISH AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90077'
+    country: Iran
+id_list:
+  items:
+  - uid: '200933'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200934'
+    id_type: Organization Established Date
+    id_number: '2024'
+  - uid: '200935'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport

@@ -28,16 +28,16 @@ id_list:
     id_country: Lebanon
     issue_date: 07 Jun 2013
     expiration_date: 07 Jun 2018
+  - uid: '122476'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '122452'
+    id_type: Gender
+    id_number: Male
   - uid: '186613'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '122452'
-    id_type: Gender
-    id_number: Male
-  - uid: '122476'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '22450'

@@ -13,13 +13,13 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '127030'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '187189'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '127030'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '127023'
     id_type: Gender
     id_number: Male

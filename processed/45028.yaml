@@ -38,9 +38,9 @@ id_list:
   - uid: '165365'
     id_type: Organization Established Date
     id_number: 17 Feb 2006
-  - uid: '165366'
-    id_type: 'Organization Type:'
-    id_number: Other information technology and computer service activities
   - uid: '165368'
     id_type: Website
     id_number: inforion.ru
+  - uid: '165366'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

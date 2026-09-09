@@ -25,12 +25,12 @@ id_list:
     id_number: '85338519'
     id_country: Sweden
     expiration_date: 30 Oct 2017
-  - uid: '176313'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '167622'
     id_type: Gender
     id_number: Male
+  - uid: '176313'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '67650'

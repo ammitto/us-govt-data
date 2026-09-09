@@ -34,15 +34,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '5321059365'
     id_country: Russia
-  - uid: '125602'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 4
-  - uid: '125431'
-    id_type: Email Address
-    id_number: office@nnp.surgutneftegas.ru
-  - uid: '183035'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '125433'
     id_type: Nationality of Registration
     id_number: Russia
@@ -50,5 +41,14 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '183035'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '125602'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 4
+  - uid: '125431'
+    id_type: Email Address
+    id_number: office@nnp.surgutneftegas.ru
 remarks: 'For more information, please reference the following link: http://www.treasury.gov/resource-center/sanctions/OFAC-Enforcement/Pages/OFAC-Recent-Actions.aspx;
   (Linked To: SURGUTNEFTEGAS)'

@@ -55,6 +55,13 @@ address_list:
     country: Belgium
 id_list:
   items:
+  - uid: '187126'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '126698'
+    id_type: D-U-N-S Number
+    id_number: 37-117-1419
   - uid: '126696'
     id_type: Website
     id_number: www.globaltradinggroup.com
@@ -62,11 +69,4 @@ id_list:
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
-  - uid: '126698'
-    id_type: D-U-N-S Number
-    id_number: 37-117-1419
-  - uid: '187126'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: BAZZI, Mohammad Ibrahim)"

@@ -29,9 +29,9 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 91310115MA1K40X926
     id_country: China
-  - uid: '179743'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '190688'
     id_type: Organization Established Date
     id_number: 31 Jan 2018
+  - uid: '179743'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

@@ -1,0 +1,45 @@
+---
+uid: '58519'
+last_name: SAHA AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IRAN-EO13902
+  - IFSR
+aka_list:
+  items:
+  - uid: '90550'
+    type: a.k.a.
+    category: strong
+    last_name: SAHA AIRLINES PJSC
+  - uid: '90551'
+    type: a.k.a.
+    category: strong
+    last_name: SERVICE ERTEBAATAAT-E HAVAAEE ARTESH
+  - uid: '90552'
+    type: a.k.a.
+    category: strong
+    last_name: ARMED FORCES AIR TRANSPORT SERVICE
+address_list:
+  items:
+  - uid: '90055'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53291'
+    id_type: Registration Number
+    id_number: '6327'
+    id_country: Iran
+  - uid: '200965'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200903'
+    id_type: Organization Established Date
+    id_number: 01 Jan 1989
+  - uid: '200901'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200902'
+    id_type: 'Organization Type:'
+    id_number: Freight air transport

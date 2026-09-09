@@ -64,11 +64,11 @@ id_list:
   - uid: '171814'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
-  - uid: '171843'
-    id_type: Organization Established Date
-    id_number: 14 Aug 2008
   - uid: '171815'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '171843'
+    id_type: Organization Established Date
+    id_number: 14 Aug 2008
 remarks: "(Linked To: BUDNEV, Aleksey)"

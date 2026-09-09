@@ -27,9 +27,6 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '121156'
-    id_type: SWIFT/BIC
-    id_number: KGCBKPPY
   - uid: '127195'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
@@ -37,4 +34,7 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '121156'
+    id_type: SWIFT/BIC
+    id_number: KGCBKPPY
 remarks: all offices worldwide

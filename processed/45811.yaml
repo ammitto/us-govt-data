@@ -40,16 +40,16 @@ id_list:
     id_type: Identification Number
     id_number: DN2Q9U.99999.SL.643
     id_country: Russia
-  - uid: '166414'
-    id_type: SWIFT/BIC
-    id_number: POSBRUMM
-  - uid: '176065'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '166764'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '176065'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '184261'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '166414'
+    id_type: SWIFT/BIC
+    id_number: POSBRUMM

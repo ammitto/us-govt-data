@@ -29,9 +29,9 @@ id_list:
     id_type: Business Registration Number
     id_number: '123614291'
     id_country: Burma
-  - uid: '166398'
-    id_type: Organization Established Date
-    id_number: 28 Nov 2019
   - uid: '166396'
     id_type: 'Organization Type:'
     id_number: Non-specialized wholesale trade
+  - uid: '166398'
+    id_type: Organization Established Date
+    id_number: 28 Nov 2019

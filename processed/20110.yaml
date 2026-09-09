@@ -25,13 +25,13 @@ id_list:
     id_type: C.U.R.P.
     id_number: CARJ761011HMNSDL06
     id_country: Mexico
+  - uid: '190353'
+    id_type: Gender
+    id_number: Male
   - uid: '190343'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '190353'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '20567'

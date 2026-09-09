@@ -45,9 +45,9 @@ id_list:
     id_type: Government Gazette Number
     id_number: '11482462'
     id_country: Russia
-  - uid: '163916'
-    id_type: Target Type
-    id_number: State-Owned Enterprise
   - uid: '175815'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '163916'
+    id_type: Target Type
+    id_number: State-Owned Enterprise

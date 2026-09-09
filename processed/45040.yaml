@@ -40,12 +40,12 @@ id_list:
   - uid: '175916'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
-  - uid: '165377'
-    id_type: 'Organization Type:'
-    id_number: Other information technology and computer service activities
-  - uid: '165376'
-    id_type: Organization Established Date
-    id_number: 20 Sep 2011
   - uid: '165375'
     id_type: Website
     id_number: signaltec.ru
+  - uid: '165376'
+    id_type: Organization Established Date
+    id_number: 20 Sep 2011
+  - uid: '165377'
+    id_type: 'Organization Type:'
+    id_number: Other information technology and computer service activities

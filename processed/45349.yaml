@@ -24,18 +24,18 @@ id_list:
   - uid: '165803'
     id_type: Phone Number
     id_number: '8613091279601'
-  - uid: '165806'
-    id_type: Digital Currency Address - TRX
-    id_number: TMStbg5fgb4uTV7fK1gEYF9hKAzP3siPsG
+  - uid: '165804'
+    id_type: Email Address
+    id_number: wang1126250742@163.com
   - uid: '165802'
     id_type: Gender
     id_number: Male
   - uid: '165805'
     id_type: Digital Currency Address - XBT
     id_number: 3NNcbBcMZokPB2JC2dxYuZrpgcetvyGeJn
-  - uid: '165804'
-    id_type: Email Address
-    id_number: wang1126250742@163.com
+  - uid: '165806'
+    id_type: Digital Currency Address - TRX
+    id_number: TMStbg5fgb4uTV7fK1gEYF9hKAzP3siPsG
 date_of_birth_list:
   items:
   - uid: '65799'

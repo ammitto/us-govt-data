@@ -25,12 +25,12 @@ id_list:
     id_number: '651218162'
     id_country: Russia
     expiration_date: 14 Oct 2019
-  - uid: '178121'
-    id_type: Gender
-    id_number: Male
   - uid: '178485'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '178121'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '78119'

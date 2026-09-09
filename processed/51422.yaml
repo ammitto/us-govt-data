@@ -18,14 +18,14 @@ id_list:
     id_type: R.F.C.
     id_number: TME180115UD6
     id_country: Mexico
+  - uid: '185525'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '185015'
     id_type: Organization Established Date
     id_number: 15 Jan 2018
   - uid: '185017'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
-  - uid: '185525'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: ESPARRAGOZA ROSAS, Enrique Dann)"

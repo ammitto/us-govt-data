@@ -47,20 +47,20 @@ id_list:
     id_number: BP38892022
     id_country: Maldives
     issue_date: 29 Sep 2022
+  - uid: '164350'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '164286'
     id_type: Organization Established Date
     id_number: 20 Nov 2017
+  - uid: '164287'
+    id_type: Website
+    id_number: fothigarage.business.site/
   - uid: '164284'
     id_type: 'Organization Type:'
     id_number: Wholesale of food, beverages and tobacco
   - uid: '164285'
     id_type: 'Organization Type:'
     id_number: Retail sale of textiles in specialized stores
-  - uid: '164287'
-    id_type: Website
-    id_number: fothigarage.business.site/
-  - uid: '164350'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: AGLEEL, Ahmed)"

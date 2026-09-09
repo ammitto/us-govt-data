@@ -19,10 +19,10 @@ id_list:
     id_type: Company Number
     id_number: '11887236'
     id_country: United Kingdom
-  - uid: '177234'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '177235'
     id_type: Organization Established Date
     id_number: 18 Mar 2019
+  - uid: '177234'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: ORLOFF, Alexandre)"

@@ -1,0 +1,48 @@
+---
+uid: '58531'
+last_name: FLY PERSIA AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90572'
+    type: a.k.a.
+    category: strong
+    last_name: FLY PERSIA PRIVATE JOINT STOCK COMPANY
+  - uid: '90574'
+    type: a.k.a.
+    category: strong
+    last_name: FLY PERSIA PRIVATE DANA AIRLINES
+  - uid: '90575'
+    type: a.k.a.
+    category: strong
+    last_name: FLY PERSIA
+address_list:
+  items:
+  - uid: '90079'
+    address1: Shahid Sattari Expressway
+    address2: Flypersia Building No. 2
+    address3: South Parvaneh Street, West Ferdows Boulevard
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53304'
+    id_type: Registration Number
+    id_number: '47349'
+    id_country: Iran
+  - uid: '200936'
+    id_type: Organization Established Date
+    id_number: '2018'
+  - uid: '200938'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200939'
+    id_type: Website
+    id_number: www.flypersia.aero
+  - uid: '200937'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

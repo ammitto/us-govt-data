@@ -204,25 +204,6 @@ id_list:
   - uid: '24641'
     id_type: Legal Entity Number
     id_number: 253400V1H6ART1UQ0N98
-  - uid: '115744'
-    id_type: SWIFT/BIC
-    id_number: VTBRRUMM
-  - uid: '115745'
-    id_type: Website
-    id_number: www.vtb.com
-  - uid: '146547'
-    id_type: Website
-    id_number: www.vtb.ru
-  - uid: '146669'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '151145'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
-  - uid: '172703'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '146548'
     id_type: BIK (RU)
     id_number: '044030707'
@@ -232,7 +213,26 @@ id_list:
   - uid: '116142'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 1
+  - uid: '146669'
+    id_type: Target Type
+    id_number: Financial Institution
+  - uid: '115744'
+    id_type: SWIFT/BIC
+    id_number: VTBRRUMM
+  - uid: '115745'
+    id_type: Website
+    id_number: www.vtb.com
+  - uid: '146547'
+    id_type: Website
+    id_number: www.vtb.ru
   - uid: '146553'
     id_type: Organization Established Date
     id_number: 17 Oct 1990
+  - uid: '151145'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
+  - uid: '172703'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives.'

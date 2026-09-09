@@ -23,9 +23,9 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: N-2016030167
     id_country: Mexico
-  - uid: '166899'
-    id_type: Organization Established Date
-    id_number: 15 Oct 2016
   - uid: '166900'
     id_type: 'Organization Type:'
     id_number: Real estate activities with own or leased property
+  - uid: '166899'
+    id_type: Organization Established Date
+    id_number: 15 Oct 2016

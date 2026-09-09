@@ -35,12 +35,12 @@ id_list:
     id_type: Central Registration System Number
     id_number: '0187-0681-9400-0015'
     id_country: Turkey
-  - uid: '179923'
-    id_type: Website
-    id_number: http://www.brklogistics.com
   - uid: '180467'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '179923'
+    id_type: Website
+    id_number: http://www.brklogistics.com
   - uid: '179922'
     id_type: Organization Established Date
     id_number: 19 Aug 2015

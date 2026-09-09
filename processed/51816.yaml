@@ -28,12 +28,12 @@ id_list:
   - uid: '182120'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '182119'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '182117'
     id_type: SWIFT/BIC
     id_number: TRCBRU2K
   - uid: '182118'
     id_type: Website
     id_number: www.energobank.ru
-  - uid: '182119'
-    id_type: Target Type
-    id_number: Financial Institution

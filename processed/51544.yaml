@@ -38,9 +38,9 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '183019'
-    id_type: Organization Established Date
-    id_number: 20 Aug 2015
   - uid: '183018'
     id_type: Website
     id_number: https://ooorngrp.rosneft.com/
+  - uid: '183019'
+    id_type: Organization Established Date
+    id_number: 20 Aug 2015

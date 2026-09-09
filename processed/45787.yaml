@@ -38,15 +38,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '6017000271'
     id_country: Russia
+  - uid: '166370'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '166369'
     id_type: SWIFT/BIC
     id_number: RRBKRU21
   - uid: '166371'
     id_type: Website
     id_number: www.rrbank.ru
-  - uid: '166370'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '176058'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

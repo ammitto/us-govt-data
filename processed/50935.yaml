@@ -16,9 +16,9 @@ id_list:
     id_type: Business Registration Number
     id_number: '60483090'
     id_country: Hong Kong
-  - uid: '179745'
-    id_type: Organization Established Date
-    id_number: 16 Oct 2012
   - uid: '179742'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '179745'
+    id_type: Organization Established Date
+    id_number: 16 Oct 2012

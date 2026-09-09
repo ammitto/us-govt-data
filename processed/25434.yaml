@@ -21,9 +21,9 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '129032'
-    id_type: Website
-    id_number: www.scsco.net
   - uid: '129031'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '129032'
+    id_type: Website
+    id_number: www.scsco.net

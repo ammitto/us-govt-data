@@ -1,0 +1,52 @@
+---
+uid: '58512'
+last_name: ERWAN AIRLINE COMPANY
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90531'
+    type: a.k.a.
+    category: strong
+    last_name: ARVAN AIRLINES
+  - uid: '90532'
+    type: a.k.a.
+    category: strong
+    last_name: ERWAN AIRLINES
+  - uid: '90533'
+    type: a.k.a.
+    category: weak
+    last_name: AIR1
+  - uid: '90534'
+    type: a.k.a.
+    category: strong
+    last_name: AIR1AIR COMPANY
+address_list:
+  items:
+  - uid: '90035'
+    address1: Shahid Lashkari Highway Bypass
+    address2: Meraj Building, Azadi Square, Special Road
+    address3: Shahid Filasfi
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '53283'
+    id_type: Registration Number
+    id_number: '48074'
+    id_country: Iran
+  - uid: '200869'
+    id_type: Organization Established Date
+    id_number: '2018'
+  - uid: '200871'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200870'
+    id_type: Website
+    id_number: www.air1air.com
+  - uid: '200868'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions

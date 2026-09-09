@@ -51,13 +51,13 @@ id_list:
   - uid: '177398'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '177394'
-    id_type: Organization Established Date
-    id_number: 20 Oct 2009
   - uid: '177395'
     id_type: Website
     id_number: https://buybestelectronic.com
   - uid: '177396'
     id_type: Website
     id_number: https://bbe.ir
+  - uid: '177394'
+    id_type: Organization Established Date
+    id_number: 20 Oct 2009
 remarks: "(Linked To: JAVAR, Saeed Hamidi)"

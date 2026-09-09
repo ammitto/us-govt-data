@@ -46,12 +46,12 @@ id_list:
     id_type: Registration Certificate Number (Dubai)
     id_number: DMCC193946
     id_country: United Arab Emirates
-  - uid: '170024'
-    id_type: Organization Established Date
-    id_number: '09 Aug 2023'
   - uid: '176595'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '170025'
     id_type: Website
     id_number: https://www.awex.pro
+  - uid: '170024'
+    id_type: Organization Established Date
+    id_number: '09 Aug 2023'

@@ -25,15 +25,15 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 91331000725858856D
     id_country: China
-  - uid: '172159'
-    id_type: Website
-    id_number: https://cn.zmat.com/
+  - uid: '172017'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '172016'
     id_type: Organization Established Date
     id_number: 22 Dec 2000
   - uid: '172169'
     id_type: 'Organization Type:'
     id_number: Manufacture of other special-purpose machinery
-  - uid: '172017'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172159'
+    id_type: Website
+    id_number: https://cn.zmat.com/

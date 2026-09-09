@@ -14,12 +14,12 @@ address_list:
     country: Jersey
 id_list:
   items:
-  - uid: '175096'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '167521'
     id_type: Organization Established Date
     id_number: 23 May 2002
   - uid: '167522'
     id_type: 'Organization Type:'
     id_number: Mining of other non-ferrous metal ores
+  - uid: '175096'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

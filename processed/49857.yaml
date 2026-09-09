@@ -41,10 +41,10 @@ id_list:
   - uid: '177329'
     id_type: Organization Established Date
     id_number: 26 Jan 2010
-  - uid: '177330'
-    id_type: Website
-    id_number: tas-tek.com
   - uid: '177447'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '177330'
+    id_type: Website
+    id_number: tas-tek.com
 remarks: "(Linked To: ELECTRO OPTIC SAIRAN INDUSTRIES CO.)"

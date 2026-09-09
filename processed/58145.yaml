@@ -18,10 +18,10 @@ id_list:
     id_type: Registration Number
     id_number: '9562580'
     id_country: Nigeria
-  - uid: '199600'
-    id_type: Organization Established Date
-    id_number: 20 May 2026
   - uid: '199648'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '199600'
+    id_type: Organization Established Date
+    id_number: 20 May 2026
 remarks: "(Linked To: NAMAZI, Behrouz)"

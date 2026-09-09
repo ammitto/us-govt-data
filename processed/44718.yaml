@@ -27,9 +27,6 @@ id_list:
     id_type: Passport
     id_number: '731969851'
     id_country: Russia
-  - uid: '164891'
-    id_type: Gender
-    id_number: Male
   - uid: '164899'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -46,6 +43,9 @@ id_list:
   - uid: '164896'
     id_type: Email Address
     id_number: poma@tornado.cash
+  - uid: '164891'
+    id_type: Gender
+    id_number: Male
   - uid: '164882'
     id_type: Digital Currency Address - ETH
     id_number: '0xdcbEfFBECcE100cCE9E4b153C4e15cB885643193'

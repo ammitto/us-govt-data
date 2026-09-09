@@ -18,14 +18,14 @@ address_list:
     country: Iran
 id_list:
   items:
+  - uid: '187219'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '128237'
     id_type: Website
     id_number: www.IZMDC.com
   - uid: '128236'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
-  - uid: '187219'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: TAKTAR INVESTMENT COMPANY)"

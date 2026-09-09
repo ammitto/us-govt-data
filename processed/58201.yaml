@@ -30,13 +30,13 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '199815'
-    id_type: Website
-    id_number: https://tujuhbulir.com
   - uid: '199816'
     id_type: Organization Established Date
     id_number: '2025'
   - uid: '199848'
     id_type: 'Organization Type:'
     id_number: Other human health activities
+  - uid: '199815'
+    id_type: Website
+    id_number: https://tujuhbulir.com
 remarks: "(Linked To: HAMAS)"

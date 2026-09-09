@@ -31,6 +31,9 @@ id_list:
   - uid: '16379'
     id_type: Chinese Commercial Code
     id_number: 7346 2556 0365
+  - uid: '128707'
+    id_type: Gender
+    id_number: Male
   - uid: '131723'
     id_type: Digital Currency Address - XBT
     id_number: 12QtD5BFwRsdNsAZY76UVE1xyCGNTojH9h
@@ -49,9 +52,6 @@ id_list:
   - uid: '131728'
     id_type: Digital Currency Address - XBT
     id_number: 1JREJdZupiFhE7ZzQPtASuMCvvpXC7wRsC
-  - uid: '128707'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '28709'

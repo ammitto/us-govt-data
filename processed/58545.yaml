@@ -26,13 +26,13 @@ id_list:
   - uid: '53320'
     id_type: Legal Entity Number
     id_number: 789000S50A0J8E8FKE55
-  - uid: '201021'
-    id_type: Website
-    id_number: https://goldenglobalvks.com.tr/
   - uid: '201016'
     id_type: Organization Established Date
     id_number: 01 Aug 2022
   - uid: '201029'
     id_type: 'Organization Type:'
     id_number: Financial and Insurance Activities
+  - uid: '201021'
+    id_type: Website
+    id_number: https://goldenglobalvks.com.tr/
 remarks: "(Linked To: GOLDEN GLOBAL YATIRIM BANKASI ANONIM SIRKETI)"

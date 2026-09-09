@@ -36,9 +36,9 @@ id_list:
     id_type: Government Gazette Number
     id_number: '80712625'
     id_country: Russia
-  - uid: '176067'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '166454'
     id_type: Organization Established Date
     id_number: 04 Apr 2007
+  - uid: '176067'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

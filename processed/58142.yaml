@@ -29,12 +29,12 @@ id_list:
     id_type: Passport
     id_number: T72756886
     id_country: Iran
-  - uid: '199644'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '199591'
     id_type: Gender
     id_number: Male
+  - uid: '199644'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '99593'

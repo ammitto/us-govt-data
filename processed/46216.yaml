@@ -31,12 +31,12 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: '68520'
     id_country: Mexico
-  - uid: '166910'
-    id_type: 'Organization Type:'
-    id_number: Management consultancy activities
   - uid: '166909'
     id_type: Organization Established Date
     id_number: 14 Aug 2013
+  - uid: '166910'
+    id_type: 'Organization Type:'
+    id_number: Management consultancy activities
   - uid: '166911'
     id_type: Website
     id_number: www.grupoepta.com

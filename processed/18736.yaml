@@ -32,21 +32,21 @@ id_list:
   - uid: '146796'
     id_type: Organization Established Date
     id_number: 04 Jul 1996
-  - uid: '146673'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '118230'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 1
+  - uid: '173893'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '118174'
     id_type: Website
     id_number: www.odk.ru
+  - uid: '146673'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '151132'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '173893'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
+  - uid: '118230'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 1
 remarks: 'For more information on directives, please visit the following link: http://www.treasury.gov/resource-center/sanctions/Programs/Pages/ukraine.aspx#directives;
   (Linked To: VTB BANK PUBLIC JOINT STOCK COMPANY)'

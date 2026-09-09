@@ -1,0 +1,31 @@
+---
+uid: '58505'
+last_name: ECT AVIATION SUPPORT LLC
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+address_list:
+  items:
+  - uid: '90047'
+    city: Sharjah
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '53286'
+    id_type: License
+    id_number: '1906247'
+    id_country: United Arab Emirates
+  - uid: '53287'
+    id_type: Registration Number
+    id_number: '11599882'
+    id_country: United Arab Emirates
+  - uid: '200889'
+    id_type: Organization Established Date
+    id_number: 30 May 2019
+  - uid: '200907'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+remarks: "(Linked To: MAHAN AIR)"

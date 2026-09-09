@@ -48,10 +48,10 @@ id_list:
   - uid: '9667'
     id_type: Registration ID
     id_number: '1025001202544'
-  - uid: '116113'
-    id_type: Email Address
-    id_number: dnpp@orc.ru
   - uid: '143668'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '116113'
+    id_type: Email Address
+    id_number: dnpp@orc.ru

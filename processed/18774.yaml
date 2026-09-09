@@ -49,13 +49,13 @@ id_list:
     id_type: Tax ID No.
     id_number: '7719265496'
     id_country: Russia
+  - uid: '118263'
+    id_type: Executive Order 13662 Directive Determination -
+    id_number: Subject to Directive 3
   - uid: '143544'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
-  - uid: '118263'
-    id_type: Executive Order 13662 Directive Determination -
-    id_number: Subject to Directive 3
   - uid: '173908'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.

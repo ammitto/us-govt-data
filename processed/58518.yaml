@@ -1,0 +1,27 @@
+---
+uid: '58518'
+last_name: TABAN AIRLINES
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+address_list:
+  items:
+  - uid: '90052'
+    city: Tehran
+    country: Iran
+id_list:
+  items:
+  - uid: '200896'
+    id_type: Organization Established Date
+    id_number: '2005'
+  - uid: '200898'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport
+  - uid: '200985'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200897'
+    id_type: Website
+    id_number: taban.aero

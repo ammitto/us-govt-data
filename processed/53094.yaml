@@ -28,12 +28,12 @@ id_list:
     id_type: Birth Certificate Number
     id_number: '762'
     id_country: Iran
-  - uid: '185407'
-    id_type: Gender
-    id_number: Male
   - uid: '185574'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '185407'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '85567'

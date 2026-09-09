@@ -27,10 +27,10 @@ id_list:
     id_type: Identification Number
     id_number: '4242110'
     id_country: Indonesia
-  - uid: '167897'
-    id_type: Website
-    id_number: https://www.surabayahobby.com/
   - uid: '167977'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '167897'
+    id_type: Website
+    id_number: https://www.surabayahobby.com/
 remarks: "(Linked To: PISHGAM ELECTRONIC SAFEH COMPANY)"

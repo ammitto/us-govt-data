@@ -30,9 +30,6 @@ aka_list:
     last_name: DADR, Behnam
 id_list:
   items:
-  - uid: '126994'
-    id_type: Gender
-    id_number: Male
   - uid: '187180'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -40,6 +37,9 @@ id_list:
   - uid: '126995'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '126994'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '26993'

@@ -44,12 +44,12 @@ address_list:
     country: Sudan
 id_list:
   items:
-  - uid: '168816'
-    id_type: Organization Established Date
-    id_number: '1997'
   - uid: '168821'
     id_type: 'Organization Type:'
     id_number: Activities of holding companies
+  - uid: '168816'
+    id_type: Organization Established Date
+    id_number: '1997'
   - uid: '168800'
     id_type: Website
     id_number: www.zadna-int.com

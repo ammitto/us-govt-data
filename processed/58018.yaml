@@ -30,14 +30,14 @@ id_list:
     id_type: Folio Mercantil No.
     id_number: '2020051100'
     id_country: Mexico
-  - uid: '199227'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '199225'
     id_type: Organization Established Date
     id_number: 29 Nov 2018
   - uid: '199226'
     id_type: 'Organization Type:'
     id_number: Private security activities
+  - uid: '199227'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: AYALA BOTELLO, Miguel Angel)"

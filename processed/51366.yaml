@@ -24,9 +24,9 @@ id_list:
     id_type: Economic Register Number (CBLS)
     id_number: '11363519'
     id_country: United Arab Emirates
-  - uid: '180773'
-    id_type: Organization Established Date
-    id_number: 23 Jun 2019
   - uid: '180913'
     id_type: Website
     id_number: www.galileosmarine.com
+  - uid: '180773'
+    id_type: Organization Established Date
+    id_number: 23 Jun 2019

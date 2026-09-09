@@ -17,10 +17,10 @@ id_list:
     id_type: Company Number
     id_number: '1035845'
     id_country: Hong Kong
-  - uid: '172702'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '172028'
     id_type: Organization Established Date
     id_number: 03 Apr 2006
+  - uid: '172702'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: CHICHENEV, Alexey)"

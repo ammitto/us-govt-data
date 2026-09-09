@@ -30,12 +30,12 @@ id_list:
     id_number: ED5502534
     id_country: China
     expiration_date: 18 Jun 2028
-  - uid: '200279'
-    id_type: Gender
-    id_number: Male
   - uid: '200281'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '200279'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '100277'

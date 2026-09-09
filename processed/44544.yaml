@@ -38,6 +38,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '9701170663'
     id_country: Russia
+  - uid: '164537'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '164538'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -45,7 +48,4 @@ id_list:
   - uid: '164569'
     id_type: Organization Established Date
     id_number: 10 Feb 2021
-  - uid: '164537'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: MKRTYCHEV, Ashot)"

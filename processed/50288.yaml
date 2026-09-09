@@ -26,12 +26,12 @@ id_list:
     id_type: National ID No.
     id_number: 3260556A001PB0
     id_country: Belarus
-  - uid: '178138'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '178137'
     id_type: Gender
     id_number: Male
+  - uid: '178138'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '78134'

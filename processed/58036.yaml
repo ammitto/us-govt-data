@@ -22,14 +22,14 @@ id_list:
     id_type: R.F.C.
     id_number: SEN170509R53
     id_country: Mexico
-  - uid: '199301'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '199299'
     id_type: Organization Established Date
     id_number: '09 May 2017'
   - uid: '199300'
     id_type: 'Organization Type:'
     id_number: Support activities for petroleum and natural gas extraction
+  - uid: '199301'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: MORA LEON, Jose; Linked To: MENA ALVARADO, Alma Laura)"

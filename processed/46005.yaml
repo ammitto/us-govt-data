@@ -30,13 +30,13 @@ id_list:
     id_type: Identification Number
     id_number: 4R1MXL.99999.SL.442
     id_country: Luxembourg
-  - uid: '166666'
-    id_type: SWIFT/BIC
-    id_number: EWUBLULL
-  - uid: '174879'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '166760'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '174879'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '166666'
+    id_type: SWIFT/BIC
+    id_number: EWUBLULL
 remarks: "(Linked To: SISTEMA PUBLIC JOINT STOCK FINANCIAL CORPORATION)"

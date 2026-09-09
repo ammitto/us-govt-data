@@ -26,9 +26,9 @@ id_list:
     id_type: Central Registration System Number
     id_number: '0381-1002-4110-0001'
     id_country: Turkey
-  - uid: '172428'
-    id_type: Organization Established Date
-    id_number: 25 Aug 2022
   - uid: '172427'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '172428'
+    id_type: Organization Established Date
+    id_number: 25 Aug 2022

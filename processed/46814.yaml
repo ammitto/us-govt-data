@@ -17,9 +17,9 @@ address_list:
     country: Sudan
 id_list:
   items:
-  - uid: '167639'
-    id_type: 'Organization Type:'
-    id_number: Wholesale of metals and metal ores
   - uid: '167628'
     id_type: Organization Established Date
     id_number: 01 Jan 2015
+  - uid: '167639'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of metals and metal ores

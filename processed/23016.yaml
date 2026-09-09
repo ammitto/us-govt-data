@@ -22,9 +22,6 @@ id_list:
   - uid: '14473'
     id_type: Passport
     id_number: '836210029'
-  - uid: '127281'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135249'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
@@ -32,6 +29,9 @@ id_list:
   - uid: '124559'
     id_type: Gender
     id_number: Male
+  - uid: '127281'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 date_of_birth_list:
   items:
   - uid: '24558'

@@ -20,12 +20,12 @@ id_list:
   - uid: '15403'
     id_type: National ID No.
     id_number: '093-343402-2'
-  - uid: '126176'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '126143'
     id_type: Gender
     id_number: Male
+  - uid: '126176'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '26138'

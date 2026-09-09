@@ -23,12 +23,12 @@ id_list:
     id_type: Registration ID
     id_number: 2008/0598
     id_country: Namibia
+  - uid: '127247'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '135138'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '127247'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: MANSUDAE OVERSEAS PROJECTS ARCHITECTURAL AND TECHNICAL SERVICES
   (PTY) LIMITED; Linked To: MANSUDAE OVERSEAS PROJECT GROUP OF COMPANIES)"

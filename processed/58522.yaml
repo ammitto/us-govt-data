@@ -1,0 +1,45 @@
+---
+uid: '58522'
+first_name: Ibrahim Ali Mohamed Mohamed
+last_name: MAHRAN
+sdn_type: Individual
+program_list:
+  programs:
+  - IFSR
+  - SDGT
+aka_list:
+  items:
+  - uid: '90559'
+    type: a.k.a.
+    category: strong
+    last_name: IBRAHIM
+    first_name: Mahran
+address_list:
+  items:
+  - uid: '90073'
+    country: United Arab Emirates
+id_list:
+  items:
+  - uid: '53302'
+    id_type: Passport
+    id_number: A28699752
+    id_country: Egypt
+    expiration_date: 15 Aug 2028
+  - uid: '200912'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '200925'
+    id_type: Gender
+    id_number: Male
+date_of_birth_list:
+  items:
+  - uid: '100923'
+    date_of_birth: 01 Mar 1986
+    main_entry: 'true'
+place_of_birth_list:
+  items:
+  - uid: '100924'
+    place_of_birth: Menia, Egypt
+    main_entry: 'true'
+remarks: "(Linked To: ECT AVIATION SUPPORT LLC)"

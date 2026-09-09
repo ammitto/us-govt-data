@@ -1,0 +1,52 @@
+---
+uid: '58517'
+last_name: QESHM AIR
+sdn_type: Entity
+program_list:
+  programs:
+  - IFSR
+  - IRAN-EO13902
+aka_list:
+  items:
+  - uid: '90544'
+    type: a.k.a.
+    category: weak
+    last_name: QESHM AVIATION COMPANY
+  - uid: '90545'
+    type: a.k.a.
+    category: strong
+    last_name: QESHM AIRLINES
+  - uid: '90546'
+    type: a.k.a.
+    category: strong
+    last_name: QESHM AIR AIRLINE
+address_list:
+  items:
+  - uid: '90048'
+    address1: No. 12 Riahi Avenue
+    address2: Shahid Lashkari Highway
+    city: Tehran
+    postal_code: '1245659878'
+    country: Iran
+id_list:
+  items:
+  - uid: '53288'
+    id_type: Registration Number
+    id_number: '494'
+    id_country: Iran
+  - uid: '53289'
+    id_type: National ID No.
+    id_number: '10800049144'
+    id_country: Iran
+  - uid: '200888'
+    id_type: Website
+    id_number: www.qeshm-air.com
+  - uid: '200984'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
+  - uid: '200890'
+    id_type: Organization Established Date
+    id_number: '1993'
+  - uid: '200891'
+    id_type: 'Organization Type:'
+    id_number: Passenger air transport

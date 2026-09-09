@@ -39,11 +39,11 @@ id_list:
     id_type: Registration Number
     id_number: '440101400149579'
     id_country: China
+  - uid: '172432'
+    id_type: Organization Established Date
+    id_number: 26 Feb 2014
   - uid: '172929'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '172432'
-    id_type: Organization Established Date
-    id_number: 26 Feb 2014
 remarks: "(Linked To: ANSARALLAH)"

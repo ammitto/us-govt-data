@@ -22,16 +22,16 @@ id_list:
     id_type: Registration Number
     id_number: CH-660.0.257.011-8
     id_country: Switzerland
-  - uid: '143735'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
   - uid: '117581'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 2
   - uid: '117641'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 4
+  - uid: '143735'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '117555'
     id_type: Website
     id_number: www.rosneft.com

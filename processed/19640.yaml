@@ -41,19 +41,19 @@ id_list:
     id_type: Tax ID No.
     id_number: '7810483334'
     id_country: Russia
-  - uid: '143849'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209
-  - uid: '172824'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '119924'
     id_type: Executive Order 13662 Directive Determination -
     id_number: Subject to Directive 4
   - uid: '119926'
     id_type: Website
     id_number: zapad-invest.gazprom.ru
+  - uid: '172824'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '143849'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '172825'
     id_type: Target Type
     id_number: State-Owned Enterprise
