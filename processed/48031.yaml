@@ -10,10 +10,10 @@ id_list:
   - uid: '38917'
     id_type: Vessel Registration Identification
     id_number: IMO 8406573
-  - uid: '169583'
-    id_type: Vessel Year of Build
-    id_number: '1986'
   - uid: '176585'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '169583'
+    id_type: Vessel Year of Build
+    id_number: '1986'
 remarks: "(Linked To: AMIGE AO)"

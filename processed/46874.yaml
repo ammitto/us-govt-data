@@ -22,9 +22,9 @@ id_list:
   - uid: '167792'
     id_type: Organization Established Date
     id_number: 12 Nov 2008
-  - uid: '176330'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '167832'
     id_type: Target Type
     id_number: Private Company
+  - uid: '176330'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

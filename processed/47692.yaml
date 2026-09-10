@@ -28,12 +28,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '7718726183'
     id_country: Russia
-  - uid: '169841'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '170051'
     id_type: Organization Established Date
     id_number: 17 Oct 2008
   - uid: '170060'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
+  - uid: '169841'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

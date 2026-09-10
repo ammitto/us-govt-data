@@ -29,11 +29,11 @@ id_list:
     id_type: Registration Number
     id_number: '440101400191266'
     id_country: China
+  - uid: '177583'
+    id_type: Organization Established Date
+    id_number: 01 Sep 2016
   - uid: '177605'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '177583'
-    id_type: Organization Established Date
-    id_number: 01 Sep 2016
 remarks: "(Linked To: AL-SHAHARI UNITED CORPORATION LTD)"

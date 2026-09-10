@@ -49,9 +49,6 @@ id_list:
     id_type: Identification Number
     id_number: '563141746'
     id_country: Palestinian
-  - uid: '168340'
-    id_type: 'Organization Type:'
-    id_number: Other monetary intermediation
   - uid: '168339'
     id_type: Organization Established Date
     id_number: 24 Apr 2006
@@ -59,4 +56,7 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '168340'
+    id_type: 'Organization Type:'
+    id_number: Other monetary intermediation
 remarks: "(Linked To: HAMAS)"

@@ -50,11 +50,11 @@ id_list:
     id_type: Tax ID No.
     id_number: '6234061793'
     id_country: Russia
+  - uid: '171812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '171813'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '171812'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
 remarks: "(Linked To: GAZARYAN, Rafael Anatolyevich)"

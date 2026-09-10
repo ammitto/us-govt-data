@@ -28,13 +28,13 @@ id_list:
     id_type: V.A.T. Number
     id_number: GB282512118
     id_country: United Kingdom
+  - uid: '182913'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '182911'
     id_type: Organization Established Date
     id_number: 06 Jan 2015
   - uid: '182912'
     id_type: 'Organization Type:'
     id_number: Other business support service activities n.e.c.
-  - uid: '182913'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: BRADENS, Andrejs)"

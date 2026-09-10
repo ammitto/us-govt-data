@@ -23,10 +23,10 @@ id_list:
     id_type: Company Number
     id_number: '3124719'
     id_country: Hong Kong
-  - uid: '177445'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '177332'
     id_type: Organization Established Date
     id_number: 26 Jan 2022
+  - uid: '177445'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: ELECTRO OPTIC SAIRAN INDUSTRIES CO.)"

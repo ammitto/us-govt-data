@@ -17,11 +17,11 @@ id_list:
     id_type: Business Registration Number
     id_number: '1450240'
     id_country: Oman
+  - uid: '184900'
+    id_type: Organization Established Date
+    id_number: 04 Oct 2022
   - uid: '185382'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '184900'
-    id_type: Organization Established Date
-    id_number: 04 Oct 2022
 remarks: "(Linked To: AL-JABRI, Abdulwali Abdoh Hasan)"

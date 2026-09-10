@@ -26,9 +26,9 @@ address_list:
     country: China
 id_list:
   items:
-  - uid: '177246'
-    id_type: 'Organization Type:'
-    id_number: Wholesale of electronic and telecommunications equipment and parts
   - uid: '177245'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '177246'
+    id_type: 'Organization Type:'
+    id_number: Wholesale of electronic and telecommunications equipment and parts

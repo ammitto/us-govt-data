@@ -22,11 +22,11 @@ id_list:
     id_type: Registration Number
     id_number: '792037'
     id_country: United Arab Emirates
+  - uid: '172982'
+    id_type: Organization Established Date
+    id_number: 11 Oct 2017
   - uid: '172981'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '172982'
-    id_type: Organization Established Date
-    id_number: 11 Oct 2017
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

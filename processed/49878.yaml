@@ -36,9 +36,9 @@ id_list:
     id_type: Government Gazette Number
     id_number: '45582270'
     id_country: Russia
-  - uid: '177358'
-    id_type: Organization Established Date
-    id_number: 16 Sep 2020
   - uid: '178715'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '177358'
+    id_type: Organization Established Date
+    id_number: 16 Sep 2020

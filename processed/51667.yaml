@@ -25,15 +25,15 @@ id_list:
     id_type: Tax ID No.
     id_number: '7750056688'
     id_country: Russia
-  - uid: '181626'
-    id_type: Target Type
-    id_number: Financial Institution
-  - uid: '181625'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '181627'
     id_type: SWIFT/BIC
     id_number: CBNNRUMM
   - uid: '181628'
     id_type: Website
     id_number: www.ns-bank.ru
+  - uid: '181625'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '181626'
+    id_type: Target Type
+    id_number: Financial Institution

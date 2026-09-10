@@ -27,10 +27,6 @@ address_list:
     country: Mexico
 id_list:
   items:
-  - uid: '199431'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '199430'
     id_type: Organization Established Date
     id_number: '2013'
@@ -40,3 +36,7 @@ id_list:
   - uid: '184046'
     id_type: Target Type
     id_number: Criminal Organization
+  - uid: '199431'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

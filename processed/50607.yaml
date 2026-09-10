@@ -40,16 +40,16 @@ id_list:
     id_type: Tax ID No.
     id_number: '9728108831'
     id_country: Russia
-  - uid: '178988'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '179273'
-    id_type: Organization Established Date
-    id_number: 17 Oct 2023
   - uid: '178989'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '179191'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '179273'
+    id_type: Organization Established Date
+    id_number: 17 Oct 2023
+  - uid: '178988'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214

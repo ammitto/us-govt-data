@@ -20,11 +20,11 @@ id_list:
     id_type: Commercial Registry Number
     id_number: '168940'
     id_country: Turkey
-  - uid: '168731'
-    id_type: Organization Established Date
-    id_number: '2018'
   - uid: '168735'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '168731'
+    id_type: Organization Established Date
+    id_number: '2018'
 remarks: "(Linked To: HIZBALLAH)"

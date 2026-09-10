@@ -25,12 +25,12 @@ id_list:
   - uid: '172079'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '172711'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '172084'
     id_type: SWIFT/BIC
     id_number: LCTCRUMM
   - uid: '172082'
     id_type: Website
     id_number: www.tochka.com
-  - uid: '172711'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

@@ -29,9 +29,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '03789270489'
     id_country: Italy
-  - uid: '178102'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '177376'
     id_type: Organization Established Date
     id_number: 11 Jul 1986
+  - uid: '178102'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

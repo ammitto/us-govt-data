@@ -17,16 +17,16 @@ id_list:
     id_type: Registration Number
     id_number: 2017-000774453
     id_country: United States
-  - uid: '183196'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '182915'
-    id_type: Website
-    id_number: www.pullman.solutions
   - uid: '183004'
     id_type: Organization Established Date
     id_number: 30 Oct 2017
   - uid: '182916'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
+  - uid: '182915'
+    id_type: Website
+    id_number: www.pullman.solutions
+  - uid: '183196'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: BRADENS, Andrejs)"

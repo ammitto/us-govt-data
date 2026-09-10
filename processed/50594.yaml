@@ -10,10 +10,10 @@ id_list:
   - uid: '42436'
     id_type: Vessel Registration Identification
     id_number: IMO 8926913
-  - uid: '178866'
-    id_type: Vessel Year of Build
-    id_number: '1980'
   - uid: '178885'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '178866'
+    id_type: Vessel Year of Build
+    id_number: '1980'
 remarks: "(Linked To: SEA RIVER SERVICE LIMITED LIABILITY COMPANY)"

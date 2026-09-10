@@ -28,12 +28,12 @@ id_list:
   - uid: '181553'
     id_type: Target Type
     id_number: Financial Institution
-  - uid: '180989'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '180986'
     id_type: SWIFT/BIC
     id_number: FOJSRUMM
   - uid: '180988'
     id_type: Website
     id_number: www.forabank.ru
+  - uid: '180989'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

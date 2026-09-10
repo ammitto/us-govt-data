@@ -30,12 +30,12 @@ id_list:
     id_number: F24341979
     id_country: Iran
     expiration_date: 27 May 2017
-  - uid: '177390'
-    id_type: Gender
-    id_number: Male
   - uid: '177392'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '177390'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '77389'

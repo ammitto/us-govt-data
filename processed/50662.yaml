@@ -24,13 +24,13 @@ id_list:
   - uid: '179099'
     id_type: Email Address
     id_number: info@phnompenhhotel.com
-  - uid: '179194'
-    id_type: Phone Number
-    id_number: 855 23 991 868
   - uid: '179098'
     id_type: Organization Established Date
     id_number: '2003'
   - uid: '179174'
     id_type: 'Organization Type:'
     id_number: Short term accommodation activities
+  - uid: '179194'
+    id_type: Phone Number
+    id_number: 855 23 991 868
 remarks: "(Linked To: LY, Yong Phat)"

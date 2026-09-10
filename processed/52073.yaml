@@ -42,12 +42,12 @@ id_list:
     id_type: Driver's License No.
     id_number: BXP262787
     id_country: Ukraine
-  - uid: '182894'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '182890'
     id_type: Gender
     id_number: Male
+  - uid: '182894'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '82889'

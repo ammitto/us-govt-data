@@ -26,9 +26,9 @@ id_list:
     id_type: Registration Number
     id_number: '11676406'
     id_country: United Arab Emirates
-  - uid: '178091'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '178090'
     id_type: Organization Established Date
     id_number: 29 Mar 2012
+  - uid: '178091'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

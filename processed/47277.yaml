@@ -41,10 +41,10 @@ id_list:
     id_type: Registration Number
     id_number: '107184368'
     id_country: Burma
-  - uid: '168622'
-    id_type: 'Organization Type:'
-    id_number: Sea and coastal freight water transport
   - uid: '168810'
     id_type: Organization Established Date
     id_number: 25 Jun 2010
+  - uid: '168622'
+    id_type: 'Organization Type:'
+    id_number: Sea and coastal freight water transport
 remarks: "(Linked To: MYANMA ECONOMIC HOLDINGS PUBLIC COMPANY LIMITED)"

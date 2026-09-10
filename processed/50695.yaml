@@ -39,12 +39,12 @@ id_list:
     id_number: T56344199
     id_country: Iran
     expiration_date: 30 Mar 2027
-  - uid: '179247'
-    id_type: Gender
-    id_number: Male
   - uid: '179288'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '179247'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '79301'

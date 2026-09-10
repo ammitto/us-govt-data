@@ -24,12 +24,12 @@ id_list:
     id_number: KH2926007
     id_country: Belarus
     expiration_date: 12 Sep 2029
-  - uid: '171664'
-    id_type: Gender
-    id_number: Female
   - uid: '176635'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '171664'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '71349'

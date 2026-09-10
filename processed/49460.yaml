@@ -22,9 +22,9 @@ id_list:
     id_type: Economic Register Number (CBLS)
     id_number: '12225406'
     id_country: United Arab Emirates
-  - uid: '172543'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '172841'
     id_type: 'Organization Type:'
     id_number: Freight air transport
+  - uid: '172543'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

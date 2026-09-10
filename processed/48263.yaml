@@ -40,13 +40,13 @@ id_list:
     id_type: Central Registration System Number
     id_number: '0396-1370-8340-0001'
     id_country: Turkey
+  - uid: '170343'
+    id_type: Organization Established Date
+    id_number: 05 Jul 2021
   - uid: '170345'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
   - uid: '170344'
     id_type: Website
     id_number: www.goklergroup.com
-  - uid: '170343'
-    id_type: Organization Established Date
-    id_number: 05 Jul 2021
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

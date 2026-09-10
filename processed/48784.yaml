@@ -30,12 +30,12 @@ id_list:
     id_number: V54707341
     id_country: Iran
     expiration_date: 01 Oct 2026
-  - uid: '171434'
-    id_type: Gender
-    id_number: Male
   - uid: '171431'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '171434'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '71432'

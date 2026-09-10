@@ -39,10 +39,10 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '167779'
-    id_type: Website
-    id_number: http://www.elitdiamond.net
   - uid: '167778'
     id_type: Organization Established Date
     id_number: 01 Dec 2005
+  - uid: '167779'
+    id_type: Website
+    id_number: http://www.elitdiamond.net
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

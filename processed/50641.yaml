@@ -25,24 +25,24 @@ id_list:
     id_type: Business Registration Number
     id_number: '1628'
     id_country: Saint Vincent and the Grenadines
-  - uid: '179172'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
-  - uid: '179077'
-    id_type: Website
-    id_number: cryptex.net
-  - uid: '179103'
-    id_type: Organization Established Date
-    id_number: 01 Dec 2021
-  - uid: '179079'
-    id_type: Digital Currency Address - TRX
-    id_number: TTUDyVhhpCC1xJoPmWzdjLAzeoPwbSABdr
-  - uid: '179081'
-    id_type: Digital Currency Address - LTC
-    id_number: M8yFL6SFC6TreATegTyuSYkDfDRbisdpT3
   - uid: '179078'
     id_type: Digital Currency Address - XBT
     id_number: 13JtX4h7G5ZuNK5mFudKGq9DHLvvMFuNuz
   - uid: '179080'
     id_type: Digital Currency Address - ETH
     id_number: '0x0931cA4D13BB4ba75D9B7132AB690265D749a5E7'
+  - uid: '179103'
+    id_type: Organization Established Date
+    id_number: 01 Dec 2021
+  - uid: '179079'
+    id_type: Digital Currency Address - TRX
+    id_number: TTUDyVhhpCC1xJoPmWzdjLAzeoPwbSABdr
+  - uid: '179172'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '179081'
+    id_type: Digital Currency Address - LTC
+    id_number: M8yFL6SFC6TreATegTyuSYkDfDRbisdpT3
+  - uid: '179077'
+    id_type: Website
+    id_number: cryptex.net

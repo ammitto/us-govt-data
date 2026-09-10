@@ -25,9 +25,6 @@ id_list:
     id_type: Tax ID No.
     id_number: '7703008207'
     id_country: Russia
-  - uid: '181554'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '180999'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -37,3 +34,6 @@ id_list:
   - uid: '181000'
     id_type: Website
     id_number: www.nmbank.ru
+  - uid: '181554'
+    id_type: Target Type
+    id_number: Financial Institution

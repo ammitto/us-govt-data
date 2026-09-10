@@ -22,9 +22,9 @@ id_list:
   - uid: '41601'
     id_type: Legal Entity Number
     id_number: 529900V5BDH8G1KWHI29
-  - uid: '177535'
-    id_type: Organization Established Date
-    id_number: 02 Nov 2009
   - uid: '178065'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '177535'
+    id_type: Organization Established Date
+    id_number: 02 Nov 2009

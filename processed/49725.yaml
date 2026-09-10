@@ -47,12 +47,12 @@ id_list:
     id_type: Business Registration Number
     id_number: '1197700016414'
     id_country: Russia
-  - uid: '173142'
-    id_type: Website
-    id_number: www.anodialog.ru
-  - uid: '178697'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '173143'
     id_type: Organization Established Date
     id_number: 13 Nov 2019
+  - uid: '178697'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '173142'
+    id_type: Website
+    id_number: www.anodialog.ru

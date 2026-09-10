@@ -22,12 +22,12 @@ id_list:
   - uid: '36943'
     id_type: Passport
     id_number: KE110109
-  - uid: '167670'
-    id_type: Gender
-    id_number: Male
   - uid: '176326'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '167670'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '67672'

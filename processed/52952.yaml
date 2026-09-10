@@ -29,12 +29,12 @@ id_list:
     id_number: '101133044'
     id_country: Iran
     expiration_date: 20 Aug 2029
-  - uid: '184962'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '184951'
     id_type: Gender
     id_number: Male
+  - uid: '184962'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 date_of_birth_list:
   items:
   - uid: '84948'

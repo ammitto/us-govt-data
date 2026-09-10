@@ -13,14 +13,14 @@ address_list:
     country: Yemen
 id_list:
   items:
+  - uid: '177604'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
   - uid: '177582'
     id_type: Organization Established Date
     id_number: '2016'
   - uid: '177623'
     id_type: 'Organization Type:'
     id_number: Other transportation support activities
-  - uid: '177604'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
 remarks: "(Linked To: ANSARALLAH)"

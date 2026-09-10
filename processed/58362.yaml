@@ -1,0 +1,31 @@
+---
+uid: '58362'
+last_name: ANWEN TECHNOLOGY CO., LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '89722'
+    address1: Prince International Plaza Building No. 616
+    address2: Russia Federation Boulevard, Phum Se Pe Se
+    city: Phnom Penh
+    country: Cambodia
+id_list:
+  items:
+  - uid: '53068'
+    id_type: Tax ID No.
+    id_number: K009-902502292
+    id_country: Cambodia
+  - uid: '53069'
+    id_type: Business Registration Number
+    id_number: '00078312'
+    id_country: Cambodia
+  - uid: '200414'
+    id_type: Organization Established Date
+    id_number: 05 May 2025
+  - uid: '200360'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities
+remarks: "(Linked To: XINBI GUARANTEE)"

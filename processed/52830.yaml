@@ -23,9 +23,6 @@ id_list:
   - uid: '184862'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
-  - uid: '184793'
-    id_type: Website
-    id_number: Zservers.ru
   - uid: '184791'
     id_type: Digital Currency Address - XBT
     id_number: 1M5N4sJ1NHb4fviLVZA5MZLKhLZqU4CPZz
@@ -35,3 +32,6 @@ id_list:
   - uid: '184871'
     id_type: Digital Currency Address - XBT
     id_number: bc1q4yzd2rjmshm8ucrwy6dzj5rna20j0zlf8hf8vz
+  - uid: '184793'
+    id_type: Website
+    id_number: Zservers.ru

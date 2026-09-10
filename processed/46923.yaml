@@ -39,10 +39,10 @@ id_list:
     id_type: Registration Number
     id_number: '201801044883'
     id_country: Malaysia
-  - uid: '167914'
-    id_type: Organization Established Date
-    id_number: 10 Dec 2018
   - uid: '167966'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '167914'
+    id_type: Organization Established Date
+    id_number: 10 Dec 2018
 remarks: "(Linked To: ARDAKANI, Hossein Hatefi)"

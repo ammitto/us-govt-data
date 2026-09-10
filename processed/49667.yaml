@@ -26,11 +26,11 @@ id_list:
     id_type: Registration Number
     id_number: '669600'
     id_country: United Arab Emirates
-  - uid: '172978'
-    id_type: Organization Established Date
-    id_number: 26 Apr 2012
   - uid: '172975'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '172978'
+    id_type: Organization Established Date
+    id_number: 26 Apr 2012
 remarks: "(Linked To: MINISTRY OF DEFENSE AND ARMED FORCES LOGISTICS)"

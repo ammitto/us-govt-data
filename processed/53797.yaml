@@ -39,12 +39,12 @@ id_list:
     id_number: D10004770
     id_country: Iran
     expiration_date: 17 Feb 2024
-  - uid: '188807'
-    id_type: Gender
-    id_number: Male
   - uid: '188809'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions
+  - uid: '188807'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '88805'

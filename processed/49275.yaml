@@ -40,6 +40,9 @@ id_list:
     id_type: Government Gazette Number
     id_number: '23281390'
     id_country: Russia
+  - uid: '172812'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '172280'
     id_type: Website
     id_number: amanuf.ru
@@ -49,6 +52,3 @@ id_list:
   - uid: '172278'
     id_type: 'Organization Type:'
     id_number: Non-specialized wholesale trade
-  - uid: '172812'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

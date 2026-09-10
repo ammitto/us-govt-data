@@ -10,7 +10,7 @@ address_list:
   - uid: '88092'
     address1: Level 18, V Heun Building, 138 Queen's Road
     city: Hong Kong
-    country: 'Region: China'
+    country: China
 id_list:
   items:
   - uid: '51821'

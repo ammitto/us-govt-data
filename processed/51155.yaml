@@ -34,12 +34,12 @@ id_list:
     id_number: EH4256001
     id_country: China
     expiration_date: 25 Sep 2029
-  - uid: '180237'
-    id_type: Gender
-    id_number: Female
   - uid: '180243'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '180237'
+    id_type: Gender
+    id_number: Female
 date_of_birth_list:
   items:
   - uid: '80234'

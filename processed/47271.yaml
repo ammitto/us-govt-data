@@ -21,6 +21,9 @@ id_list:
     id_type: Registration Number
     id_number: '1806771'
     id_country: Lebanon
+  - uid: '168601'
+    id_type: Organization Established Date
+    id_number: 15 May 2013
   - uid: '168602'
     id_type: 'Organization Type:'
     id_number: Other business support service activities n.e.c.
@@ -28,7 +31,4 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '168601'
-    id_type: Organization Established Date
-    id_number: 15 May 2013
 remarks: "(Linked To: AL AHMAR, Hamid Abdullah Hussein)"

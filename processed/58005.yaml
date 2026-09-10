@@ -1,0 +1,36 @@
+---
+uid: '58005'
+last_name: LOS TIGUERONES
+sdn_type: Entity
+program_list:
+  programs:
+  - FTO
+  - SDGT
+aka_list:
+  items:
+  - uid: '89710'
+    type: a.k.a.
+    category: weak
+    last_name: Los Fenix
+  - uid: '89711'
+    type: a.k.a.
+    category: weak
+    last_name: Los Igualitos
+address_list:
+  items:
+  - uid: '89015'
+    country: Ecuador
+  - uid: '89480'
+    country: Peru
+id_list:
+  items:
+  - uid: '198992'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '199446'
+    id_type: 'Organization Type:'
+    id_number: Transnational Terrorist Group
+  - uid: '199678'
+    id_type: Target Type
+    id_number: Criminal Organization

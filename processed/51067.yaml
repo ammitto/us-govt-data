@@ -17,10 +17,6 @@ id_list:
     id_type: Commercial Registry Number
     id_number: '2058236'
     id_country: Lebanon
-  - uid: '180022'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '180104'
     id_type: Organization Established Date
     id_number: '08 Nov 2019'
@@ -31,4 +27,8 @@ id_list:
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '180022'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: HIZBALLAH)"

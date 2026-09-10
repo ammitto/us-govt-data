@@ -47,6 +47,9 @@ id_list:
     id_type: Trade License No.
     id_number: '11670'
     id_country: Iran
+  - uid: '128962'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '128963'
     id_type: Website
     id_number: www.irisl.net
@@ -71,7 +74,4 @@ id_list:
   - uid: '139188'
     id_type: 'Executive Order 13846 information:'
     id_number: SANCTIONS ON PRINCIPAL EXECUTIVE OFFICERS. Sec. 5(a)(vii)
-  - uid: '128962'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: All Offices Worldwide

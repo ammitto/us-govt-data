@@ -15,9 +15,6 @@ id_list:
   - uid: '43980'
     id_type: MMSI
     id_number: '574005380'
-  - uid: '194831'
-    id_type: Vessel Year of Build
-    id_number: '2007'
   - uid: '181212'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
@@ -25,4 +22,7 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
       589.209
+  - uid: '194831'
+    id_type: Vessel Year of Build
+    id_number: '2007'
 remarks: "(Linked To: SAO VIET PETROL TRANSPORTATION COMPANY LIMITED)"

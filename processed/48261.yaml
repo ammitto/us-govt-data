@@ -12,14 +12,14 @@ address_list:
     country: United Arab Emirates
 id_list:
   items:
+  - uid: '170480'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '170479'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '170518'
     id_type: 'Organization Type:'
     id_number: Other information technology and computer service activities
-  - uid: '170480'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
 remarks: "(Linked To: CHINYONG INFORMATION TECHNOLOGY COOPERATION COMPANY)"

@@ -22,13 +22,13 @@ id_list:
     id_type: Passport
     id_number: '3722195'
     id_country: Lebanon
-  - uid: '188831'
-    id_type: Gender
-    id_number: Male
   - uid: '187799'
     id_type: Additional Sanctions Information -
     id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
       Sanctions Regulations
+  - uid: '188831'
+    id_type: Gender
+    id_number: Male
   - uid: '187815'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order

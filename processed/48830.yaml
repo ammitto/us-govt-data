@@ -18,12 +18,12 @@ id_list:
     id_type: C.U.R.P.
     id_number: ROPV990425MCSBVR02
     id_country: Mexico
-  - uid: '171501'
-    id_type: Phone Number
-    id_number: '526643422541'
   - uid: '171496'
     id_type: Gender
     id_number: Female
+  - uid: '171501'
+    id_type: Phone Number
+    id_number: '526643422541'
 date_of_birth_list:
   items:
   - uid: '71497'

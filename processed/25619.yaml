@@ -22,12 +22,12 @@ address_list:
     country: Iran
 id_list:
   items:
-  - uid: '129539'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '129538'
     id_type: SWIFT/BIC
     id_number: DAYBIRTH
+  - uid: '129539'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '186808'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order

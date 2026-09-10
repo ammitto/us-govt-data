@@ -25,12 +25,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '6608003052'
     id_country: Russia
-  - uid: '181004'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '181555'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '181004'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '181007'
     id_type: SWIFT/BIC
     id_number: SKBERU4E

@@ -14,6 +14,9 @@ address_list:
     country: United Kingdom
 id_list:
   items:
+  - uid: '129040'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '129043'
     id_type: SWIFT/BIC
     id_number: SEPBGB2L
@@ -23,7 +26,4 @@ id_list:
   - uid: '129042'
     id_type: Website
     id_number: www.banksepah.com
-  - uid: '129040'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: "(Linked To: BANK SEPAH)"

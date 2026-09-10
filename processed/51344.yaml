@@ -46,12 +46,12 @@ id_list:
   - uid: '43621'
     id_type: Identification Number
     id_number: IMO 5917661
+  - uid: '180734'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
   - uid: '180732'
     id_type: Organization Established Date
     id_number: 24 Jul 1997
   - uid: '180733'
     id_type: Organization Established Date
     id_number: 29 Oct 2002
-  - uid: '180734'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.

@@ -32,13 +32,13 @@ id_list:
     id_number: '04455119'
     id_country: Yemen
     expiration_date: 15 Aug 2017
-  - uid: '184890'
-    id_type: Gender
-    id_number: Male
   - uid: '185379'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '184890'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '84888'

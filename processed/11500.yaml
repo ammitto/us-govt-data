@@ -47,9 +47,6 @@ address_list:
     city: Maracaibo
     state_or_province: Zulia
     country: Venezuela
-  - uid: '17144'
-    city: Curacao
-    country: Netherlands Antilles
 id_list:
   items:
   - uid: '5887'
@@ -60,6 +57,9 @@ id_list:
     id_type: Passport
     id_number: '18489167'
     id_country: Venezuela
+  - uid: '199968'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '6922'

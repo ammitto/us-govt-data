@@ -18,9 +18,9 @@ id_list:
     id_type: Tax ID No.
     id_number: '1306384861'
     id_country: Azerbaijan
-  - uid: '171406'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '171405'
     id_type: Organization Established Date
     id_number: 29 Oct 2019
+  - uid: '171406'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.

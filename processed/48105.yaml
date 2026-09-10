@@ -33,12 +33,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '9703021466'
     id_country: Russia
+  - uid: '170043'
+    id_type: Organization Established Date
+    id_number: 12 Nov 2020
   - uid: '176602'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
   - uid: '170044'
     id_type: Website
     id_number: https://www.atomyze.ru
-  - uid: '170043'
-    id_type: Organization Established Date
-    id_number: 12 Nov 2020

@@ -7,9 +7,6 @@ program_list:
   - RUSSIA-EO14024
 id_list:
   items:
-  - uid: '176352'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '168473'
     id_type: Aircraft Manufacture Date
     id_number: 28 Jan 1982
@@ -25,4 +22,7 @@ id_list:
   - uid: '168421'
     id_type: Aircraft Tail Number
     id_number: RF-86898
+  - uid: '176352'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: COMMAND OF THE MILITARY TRANSPORT AVIATION)"

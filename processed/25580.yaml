@@ -49,9 +49,6 @@ id_list:
   - uid: '16522'
     id_type: Registration Number
     id_number: '4293'
-  - uid: '129495'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
   - uid: '129498'
     id_type: SWIFT/BIC
     id_number: SEPBIRTH
@@ -61,5 +58,8 @@ id_list:
   - uid: '129497'
     id_type: Website
     id_number: www.banksepah.de
+  - uid: '129495'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
 remarks: 'All Offices Worldwide; (Linked To: MINISTRY OF DEFENSE AND ARMED FORCES
   LOGISTICS)'

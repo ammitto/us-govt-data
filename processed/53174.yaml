@@ -45,9 +45,6 @@ id_list:
     id_type: Business Registration Number
     id_number: '102842286'
     id_country: Burma
-  - uid: '185491'
-    id_type: Organization Established Date
-    id_number: 24 Jun 2016
   - uid: '185508'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
@@ -55,3 +52,6 @@ id_list:
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '185491'
+    id_type: Organization Established Date
+    id_number: 24 Jun 2016

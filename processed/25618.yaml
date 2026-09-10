@@ -27,13 +27,13 @@ address_list:
     country: Iran
 id_list:
   items:
+  - uid: '129529'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions
   - uid: '129530'
     id_type: SWIFT/BIC
     id_number: PBIRIRTH
   - uid: '129531'
     id_type: Website
     id_number: www.postbank.ir
-  - uid: '129529'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions
 remarks: 'All Offices Worldwide; (Linked To: BANK SEPAH)'

@@ -34,10 +34,10 @@ id_list:
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
-  - uid: '168599'
-    id_type: Organization Established Date
-    id_number: 22 Oct 2014
   - uid: '168600'
     id_type: 'Organization Type:'
     id_number: Real estate activities with own or leased property
+  - uid: '168599'
+    id_type: Organization Established Date
+    id_number: 22 Oct 2014
 remarks: "(Linked To: AL AHMAR, Hamid Abdullah Hussein)"

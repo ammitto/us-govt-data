@@ -25,18 +25,18 @@ id_list:
     id_type: Business Registration Number
     id_number: '1008937'
     id_country: Lebanon
-  - uid: '170805'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
-  - uid: '170568'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '170566'
     id_type: Organization Established Date
     id_number: '2003'
   - uid: '170567'
     id_type: 'Organization Type:'
     id_number: Restaurants and mobile food service activities
+  - uid: '170568'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
+  - uid: '170805'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
 remarks: "(Linked To: AL-ZEIN, Mazen Hassan)"

@@ -16,13 +16,13 @@ id_list:
     id_type: Registration Number
     id_number: '9052'
     id_country: United Arab Emirates
-  - uid: '182910'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '182908'
     id_type: Organization Established Date
     id_number: 28 Apr 2019
   - uid: '182909'
     id_type: 'Organization Type:'
     id_number: Management consultancy activities
+  - uid: '182910'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: CHIRKINYAN, Elena)"

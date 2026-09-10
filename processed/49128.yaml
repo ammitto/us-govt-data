@@ -17,15 +17,15 @@ id_list:
     id_type: Company Number
     id_number: '2724415'
     id_country: Hong Kong
-  - uid: '172127'
-    id_type: Website
-    id_number: www.superchip-ltd.com
-  - uid: '172020'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '172019'
     id_type: Organization Established Date
     id_number: 20 Jul 2018
   - uid: '172128'
     id_type: 'Organization Type:'
     id_number: Wholesale of electronic and telecommunications equipment and parts
+  - uid: '172020'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
+  - uid: '172127'
+    id_type: Website
+    id_number: www.superchip-ltd.com

@@ -25,16 +25,16 @@ id_list:
     id_number: '109110001'
     id_country: Korea, North
     expiration_date: 05 Jan 2024
-  - uid: '170494'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
   - uid: '170362'
     id_type: Gender
     id_number: Male
   - uid: '170493'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
+  - uid: '170494'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
 date_of_birth_list:
   items:
   - uid: '70361'

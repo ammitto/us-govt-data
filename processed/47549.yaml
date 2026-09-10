@@ -35,13 +35,13 @@ id_list:
   - uid: '169058'
     id_type: Target Type
     id_number: Financial Institution
+  - uid: '184110'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
+      589.209
   - uid: '169060'
     id_type: SWIFT/BIC
     id_number: RTSBRUMM
   - uid: '169059'
     id_type: Website
     id_number: www.spbbank.com
-  - uid: '184110'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201 and/or
-      589.209

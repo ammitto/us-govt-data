@@ -16,6 +16,9 @@ id_list:
     id_type: National ID No.
     id_number: '441522199405202831'
     id_country: China
+  - uid: '179605'
+    id_type: Gender
+    id_number: Male
   - uid: '179606'
     id_type: Phone Number
     id_number: '8615697580537'
@@ -25,9 +28,6 @@ id_list:
   - uid: '179617'
     id_type: Phone Number
     id_number: '8618826483830'
-  - uid: '179605'
-    id_type: Gender
-    id_number: Male
 date_of_birth_list:
   items:
   - uid: '79603'

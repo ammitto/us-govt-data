@@ -17,6 +17,10 @@ id_list:
     id_type: Commercial Registry Number
     id_number: '1020711'
     id_country: Lebanon
+  - uid: '170804'
+    id_type: Additional Sanctions Information -
+    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
+      Sanctions Regulations
   - uid: '170569'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
@@ -27,9 +31,5 @@ id_list:
   - uid: '170563'
     id_type: 'Organization Type:'
     id_number: Non-specialized wholesale trade
-  - uid: '170804'
-    id_type: Additional Sanctions Information -
-    id_number: Subject to Secondary Sanctions Pursuant to the Hizballah Financial
-      Sanctions Regulations
 remarks: "(Linked To: MUSHANTAF, Andriyah Samir; Linked To: MOUKALLED, Firas Hasan;
   Linked To: MOUKALLED, Rayyan Hassan)"

@@ -27,13 +27,13 @@ address_list:
     country: Ecuador
 id_list:
   items:
-  - uid: '192089'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '192088'
     id_type: 'Organization Type:'
     id_number: Transnational Terrorist Group
   - uid: '168623'
     id_type: Target Type
     id_number: Criminal Organization
+  - uid: '192089'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886

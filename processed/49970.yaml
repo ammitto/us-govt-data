@@ -18,12 +18,12 @@ address_list:
     country: Korea, North
 id_list:
   items:
-  - uid: '177452'
-    id_type: Gender
-    id_number: Male
   - uid: '177451'
     id_type: Email Address
     id_number: wangge327@yahoo.com
+  - uid: '177452'
+    id_type: Gender
+    id_number: Male
 date_of_birth_list:
   items:
   - uid: '77450'

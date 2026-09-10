@@ -19,13 +19,13 @@ id_list:
     id_type: Unified Social Credit Code (USCC)
     id_number: 91110115MA01ME3G6W
     id_country: China
+  - uid: '177340'
+    id_type: 'Secondary sanctions risk:'
+    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '177339'
     id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
       Institutions:'
     id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '177340'
-    id_type: 'Secondary sanctions risk:'
-    id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
   - uid: '177058'
     id_type: Organization Established Date
     id_number: 03 Sep 2019

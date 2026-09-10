@@ -28,12 +28,12 @@ id_list:
     id_type: Tax ID No.
     id_number: '504322957620'
     id_country: Russia
-  - uid: '179236'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '179227'
     id_type: Gender
     id_number: Female
+  - uid: '179236'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '79226'

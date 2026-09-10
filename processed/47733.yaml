@@ -16,12 +16,12 @@ id_list:
     id_type: Passport
     id_number: C4YL28X5C
     id_country: Germany
-  - uid: '176426'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '169257'
     id_type: Gender
     id_number: Male
+  - uid: '176426'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 date_of_birth_list:
   items:
   - uid: '69548'

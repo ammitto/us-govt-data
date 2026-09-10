@@ -21,12 +21,12 @@ address_list:
     country: Yemen
 id_list:
   items:
-  - uid: '183920'
-    id_type: 'Secondary sanctions risk:'
-    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
-      13886
   - uid: '183919'
     id_type: 'Organization Type:'
     id_number: Other financial service activities, except insurance and pension funding
       activities, n.e.c.
+  - uid: '183920'
+    id_type: 'Secondary sanctions risk:'
+    id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
+      13886
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"

@@ -63,6 +63,16 @@ id_list:
   - uid: '42467'
     id_type: Legal Entity Number
     id_number: 2534006KGFLPAAXC1X76
+  - uid: '178992'
+    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
+      Institutions:'
+    id_number: North Korea Sanctions Regulations section 510.214
+  - uid: '178956'
+    id_type: Organization Established Date
+    id_number: 03 Oct 1991
+  - uid: '178955'
+    id_type: Target Type
+    id_number: Financial Institution
   - uid: '178993'
     id_type: 'Secondary sanctions risk:'
     id_number: North Korea Sanctions Regulations, sections 510.201 and 510.210
@@ -75,14 +85,4 @@ id_list:
   - uid: '178953'
     id_type: Website
     id_number: timerbank.ru
-  - uid: '178992'
-    id_type: 'Transactions Prohibited For Persons Owned or Controlled By U.S. Financial
-      Institutions:'
-    id_number: North Korea Sanctions Regulations section 510.214
-  - uid: '178956'
-    id_type: Organization Established Date
-    id_number: 03 Oct 1991
-  - uid: '178955'
-    id_type: Target Type
-    id_number: Financial Institution
 remarks: "(Linked To: RUSSIAN FINANCIAL CORPORATION)"

@@ -27,12 +27,12 @@ address_list:
     country: Sudan
 id_list:
   items:
-  - uid: '168815'
-    id_type: Target Type
-    id_number: Financial Institution
   - uid: '168798'
     id_type: SWIFT/BIC
     id_number: KHJBSDKH
   - uid: '168799'
     id_type: Website
     id_number: www.al-khaleejbank.com
+  - uid: '168815'
+    id_type: Target Type
+    id_number: Financial Institution

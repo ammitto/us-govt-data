@@ -29,9 +29,9 @@ id_list:
     id_type: License
     id_number: DMCC-476388
     id_country: United Arab Emirates
-  - uid: '168179'
-    id_type: Organization Established Date
-    id_number: 22 May 2018
   - uid: '176343'
     id_type: 'Secondary sanctions risk:'
     id_number: See Section 11 of Executive Order 14024.
+  - uid: '168179'
+    id_type: Organization Established Date
+    id_number: 22 May 2018

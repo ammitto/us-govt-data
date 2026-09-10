@@ -1,0 +1,26 @@
+---
+uid: '58365'
+last_name: SAFEW TECHNOLOGY CO., LTD.
+sdn_type: Entity
+program_list:
+  programs:
+  - TCO
+address_list:
+  items:
+  - uid: '89727'
+    country: Singapore
+id_list:
+  items:
+  - uid: '200371'
+    id_type: Website
+    id_number: https://www.safew-app.org
+  - uid: '200408'
+    id_type: Website
+    id_number: https://safew.org
+  - uid: '200370'
+    id_type: Organization Established Date
+    id_number: '2018'
+  - uid: '200369'
+    id_type: 'Organization Type:'
+    id_number: Computer programming activities
+remarks: "(Linked To: XINBI GUARANTEE)"

@@ -14,13 +14,13 @@ id_list:
   - uid: '192416'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
-  - uid: '185374'
-    id_type: Website
-    id_number: exved.com
   - uid: '191560'
     id_type: Organization Established Date
     id_number: 07 Dec 2023
   - uid: '185373'
     id_type: 'Organization Type:'
     id_number: Financial and Insurance Activities
+  - uid: '185374'
+    id_type: Website
+    id_number: exved.com
 remarks: "(Linked To: MENDELEEV, Sergey)"

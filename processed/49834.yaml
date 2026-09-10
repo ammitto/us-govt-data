@@ -33,10 +33,10 @@ id_list:
     id_type: Economic Register Number (CBLS)
     id_number: '12119212'
     id_country: United Arab Emirates
-  - uid: '177244'
-    id_type: 'Secondary sanctions risk:'
-    id_number: See Section 11 of Executive Order 14024.
   - uid: '177243'
     id_type: Organization Established Date
     id_number: 10 Jul 2023
+  - uid: '177244'
+    id_type: 'Secondary sanctions risk:'
+    id_number: See Section 11 of Executive Order 14024.
 remarks: "(Linked To: ORLOFF, Alexandre)"

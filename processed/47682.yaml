@@ -73,6 +73,9 @@ id_list:
     id_type: Passport
     id_number: '7019934211'
     id_country: Russia
+  - uid: '169165'
+    id_type: Email Address
+    id_number: sinner4iter@gmail.com
   - uid: '169156'
     id_type: Gender
     id_number: Male
@@ -106,9 +109,6 @@ id_list:
   - uid: '169392'
     id_type: 'Secondary sanctions risk:'
     id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
-  - uid: '169165'
-    id_type: Email Address
-    id_number: sinner4iter@gmail.com
 date_of_birth_list:
   items:
   - uid: '69158'

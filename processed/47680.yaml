@@ -22,15 +22,6 @@ id_list:
     id_type: Passport
     id_number: '9209857353'
     id_country: Russia
-  - uid: '169146'
-    id_type: Gender
-    id_number: Male
-  - uid: '169149'
-    id_type: Digital Currency Address - XBT
-    id_number: 18gaXypKj9M23S2zT9qZfL9iPbLFM372Q5
-  - uid: '169423'
-    id_type: 'Secondary sanctions risk:'
-    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
   - uid: '169150'
     id_type: Email Address
     id_number: imailo@ya.ru
@@ -43,6 +34,15 @@ id_list:
   - uid: '169153'
     id_type: Email Address
     id_number: morozofkent@gmail.com
+  - uid: '169146'
+    id_type: Gender
+    id_number: Male
+  - uid: '169149'
+    id_type: Digital Currency Address - XBT
+    id_number: 18gaXypKj9M23S2zT9qZfL9iPbLFM372Q5
+  - uid: '169423'
+    id_type: 'Secondary sanctions risk:'
+    id_number: Ukraine-/Russia-Related Sanctions Regulations, 31 CFR 589.201
 date_of_birth_list:
   items:
   - uid: '69147'

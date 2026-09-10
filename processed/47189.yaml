@@ -26,11 +26,11 @@ id_list:
     id_type: Business Registration Number
     id_number: '107145'
     id_country: Marshall Islands
-  - uid: '168480'
-    id_type: Organization Established Date
-    id_number: 15 Dec 2020
   - uid: '168497'
     id_type: 'Secondary sanctions risk:'
     id_number: section 1(b) of Executive Order 13224, as amended by Executive Order
       13886
+  - uid: '168480'
+    id_type: Organization Established Date
+    id_number: 15 Dec 2020
 remarks: "(Linked To: AL-JAMAL, Sa'id Ahmad Muhammad)"
